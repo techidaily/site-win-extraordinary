@@ -1,7 +1,7 @@
 ---
 title: 在線自由轉換 PNG 成 BMP 文件 - 使用 Movavi 照片工具
-date: 2024-09-10T18:55:37.695Z
-updated: 2024-09-14T20:25:25.913Z
+date: 2024-09-11T18:40:13.413Z
+updated: 2024-09-18T17:31:05.435Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/bf1aa2624ef83ca4793045372b8a4d65e582b534521041d47a00805c4d5db19c.jpg
@@ -228,6 +228,13 @@ Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
 Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** \+ **I**, tapez "mode jeu" dans la boîte de recherche et cliquez sur **Contrôler le mode jeu pour optimiser votre PC pour les jeux**.
@@ -239,13 +246,6 @@ Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows C
 ### Gérez vos heures actives
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Oui, Windows 10 peut installer des mises à jour et redémarrer votre ordinateur en plein milieu de votre session de jeu sans même un simple "excusez-moi". Ouch. Cela peut être décevant, c'est le moins que l'on puisse dire, surtout si vous êtes un joueur compétitif et que votre sortie non planifiée peut affecter vos coéquipiers ou votre classement.
 
@@ -313,13 +313,6 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
@@ -366,6 +359,13 @@ De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver l'algorithme de Nagle
 
 En gros, l'algorithme de Nagle améliore l'efficacité des réseaux TCP/IP en créant des paquets de données, ce qui réduit le nombre de paquets à envoyer sur le réseau. Ce processus affecte votre connexion Internet, la rendant moins stable. La désactivation de cet algorithme sur votre PC peut contribuer à des problèmes de latence lorsque vous jouez à des jeux en ligne.
@@ -409,11 +409,25 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
@@ -492,13 +506,6 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 4. Vous utilisez DirectX 11 et devez effectuer une mise à jour.
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Comment faire fonctionner un ordinateur plus rapidement ?
 
 Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, voici quelques conseils rapides :
@@ -524,10 +531,10 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 5. Installez les derniers pilotes pour votre carte graphique
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
@@ -537,13 +544,6 @@ La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoi
 Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est équipé du dernier cri. Le matériel est plus important que les autres caractéristiques de conception ou de logiciel. En outre, les jeux vidéo modernes placent toujours la barre plus haut en matière de capacité de performance, ce qui est donc relatif d'un jeu à l'autre.
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
 
@@ -577,3 +577,23 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-custom-soundtracks-simplified-converting-from-spotify-playlists-to-youtube-music/"><u>[New] In 2024, Custom Soundtracks Simplified Converting From Spotify Playlists to YouTube Music</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-simple-steps-to-stream-facebooks-video-library-on-your-apple-device/"><u>[New] Simple Steps to Stream Facebook's Video Library on Your Apple Device</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-parody-pointers-from-script-to-screenplay/"><u>2024 Approved Parody Pointers From Script to Screenplay</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-unleash-your-creativity-the-leading-phone-apps-for-image-stickers/"><u>2024 Approved Unleash Your Creativity The Leading Phone Apps for Image Stickers</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/en-ligne-et-gratuit-convertissez-vos-fichiers-mkv-vers-le-format-ogg-parfaitement-solution-facile-a-utiliser-chez-movavi/"><u>En Ligne Et Gratuit : Convertissez Vos Fichiers MKV Vers Le Format OGG Parfaitement, Solution Facile À Utiliser Chez Movavi</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/expert-advice-on-screen-recorders-for-zoom-meetings/"><u>Expert Advice on Screen Recorders for Zoom Meetings</u></a></li>
+<li><a href="https://games-able.techidaily.com/explore-the-unseen-hazards-in-linkedins-new-gaming-section/"><u>Explore the Unseen Hazards in LinkedIn’s New Gaming Section</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/free-online-image-converter-transforming-jpgs-instantly-with-no-cost/"><u>Free Online Image Converter: Transforming JPGs Instantly with No Cost</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/guida-passo-passo-trasforma-i-tuoi-file-mpeg-in-formato-wma-usando-il-servizio-online-di-movavi-nessun-costo/"><u>Guida Passo Passo: Trasforma I Tuoi File MPEG in Formato WMA Usando Il Servizio OnLine Di Movavi – Nessun Costo!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/highly-recommended-auto-cameras-for-vehicle-tracking/"><u>Highly Recommended Auto Cameras for Vehicle Tracking</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/jestmastery-create-share-and-sign-up-with-ease/"><u>JestMastery Create, Share & Sign Up with Ease</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/movavis-ultimate-guide-to-convert-your-flac-tracks-to-mp4-videos-at-no-cost-do-it-online-today/"><u>Movavi's Ultimate Guide to Convert Your FLAC Tracks to MP4 Videos at No Cost - Do It Online Today!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-insiders-guide-to-youtube-success-for-2024/"><u>The Insider's Guide to YouTube Success for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-16-applicazioni-di-controllo-della-webcam-gratuite-compatibili-con-windows-11-una-guida-completa/"><u>Top 16 Applicazioni Di Controllo Della Webcam Gratuite Compatibili Con Windows 11: Una Guida Completa</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-6-free-tools-for-burning-dvds-on-windows-11-8-and-7-best-and-easy/"><u>Top 6 Free Tools for Burning DVDs on Windows 11, 8 & 7 - Best and Easy</u></a></li>
+</ul></div>
+
