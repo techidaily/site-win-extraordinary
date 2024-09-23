@@ -1,7 +1,7 @@
 ---
 title: "Why the Future of Computing Demands an iPad-Style Screen on MacBook: Insights From Microsoft's Surface Laptop Studio"
-date: 2024-09-19 11:51:54
-updated: 2024-09-20 12:42:40
+date: 2024-09-17T16:09:07.684Z
+updated: 2024-09-23T16:27:59.356Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -124,6 +145,19 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +193,29 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-motorola-moto-g-stylus-5g-2023-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Motorola Moto G Stylus 5G (2023)</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/convertissez-gratuitement-votre-fichier-m4v-en-un-gif-sur-le-web-services-de-movavi/"><u>Convertissez Gratuitement Votre Fichier M4V en Un GIF Sur Le Web - Services De Movavi</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/convertissez-vos-images-png-en-ligne-pour-free-avec-movavi-guide-complet/"><u>Convertissez Vos Images PNG en Ligne Pour Free Avec Movavi - Guide Complet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/download-the-latest-free-mov-codec-for-windows-10-installation-guide/"><u>Download the Latest Free Mov Codec for Windows 10 - Installation Guide</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/fa-dig-i-kraftiga-12-nyanserade-3d-animeringarsprogramvaror-gratis-pa-2024-larja-och-leka/"><u>Få Dig I Kraftiga 12 Nyanserade 3D-Animeringarsprogramvaror Gratis På 2024 - Lärja Och Leka!</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 Plus without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro Passcode without Computer?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-streamline-playlist-dissemination-on-youtube/"><u>In 2024, Streamline Playlist Dissemination on Youtube</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/les-principaux-outils-doptimisation-des-films-et-videos-guide-expert/"><u>Les Principaux Outils D'Optimisation Des Films Et Vidéos - Guide Expert</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/modifying-your-iphones-country-or-region-seamlessly/"><u>Modifying Your iPhone's Country or Region Seamlessly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fixes-for-maplestory-failed-load-problems/"><u>Resolved: Fixes for MapleStory Failed Load Problems</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/sonuclarin-guvenli-yeniden-yayilmasindaki-tahminat-edinelmedigi-ozellikleri-anlatiyor-bedeli-uzerinde-degil/"><u>Sonuçların Güvenli Yeniden Yayılmasındaki Tahminat Edinelmediği Özellikleri Anlatıyor | Bedeli Üzerinde Değil</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/titres-optimises-pour-le-moteur-de-recherche/"><u>Titres Optimisés Pour Le Moteur De Recherche :</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/top-10-video-fixing-programs-compatible-with-windows-and-macos/"><u>Top 10 Video Fixing Programs Compatible with Windows & macOS</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-9-ferramentas-mais-eficientes-para-download-de-videos-do-youtube-em-formato-mp4/"><u>Top 9 Ferramentas Mais Eficientes Para Download De Vídeos Do YouTube Em Formato MP4</u></a></li>
+</ul></div>
+

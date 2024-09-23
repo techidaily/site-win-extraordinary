@@ -1,7 +1,7 @@
 ---
 title: Microsoft Discontinues Copilot Pro GPT Developer Tool & Purges Client Data | Tech News by ZDNet
-date: 2024-09-17 16:58:47
-updated: 2024-09-20 10:59:17
+date: 2024-09-20T17:12:23.245Z
+updated: 2024-09-23T16:20:16.617Z
 tags:
   - microsoft
 categories:
@@ -105,11 +105,38 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-inside-stardust-a-complete-exploration-of-stardew-and-its-hidden-gem-ginger-isle-for-2024/"><u>[New] Inside Stardust A Complete Exploration of Stardew and Its Hidden Gem, Ginger Isle for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/convertissez-gratuitement-votre-fichier-m4v-en-un-gif-sur-le-web-services-de-movavi/"><u>Convertissez Gratuitement Votre Fichier M4V en Un GIF Sur Le Web - Services De Movavi</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/convertissez-vos-images-png-en-ligne-pour-free-avec-movavi-guide-complet/"><u>Convertissez Vos Images PNG en Ligne Pour Free Avec Movavi - Guide Complet</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/customizing-your-flipmenus-appearance-shift-the-hue-of-its-base-section/"><u>Customizing Your FlipMenu's Appearance – Shift The Hue Of Its Base Section</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/fa-dig-i-kraftiga-12-nyanserade-3d-animeringarsprogramvaror-gratis-pa-2024-larja-och-leka/"><u>Få Dig I Kraftiga 12 Nyanserade 3D-Animeringarsprogramvaror Gratis På 2024 - Lärja Och Leka!</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-tecno-spark-10c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/free-conversion-transform-mov-files-into-m4r-format-with-movavis-online-service/"><u>Free Conversion: Transform MOV Files Into M4R Format with Movavi's Online Service</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-xiaomi-redmi-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-toshiba-printercopier-drivers-for-windows-systems/"><u>Get the Latest Toshiba Printer/Copier Drivers for Windows Systems</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/guia-rapida-transforma-tus-audiolibros-y-canciones-wma-en-calidad-mp3-utilizando-la-herramienta-perfecta-de-movavi-para-conversion/"><u>Guía Rápida: Transforma Tus Audiolibros Y Canciones WMA en Calidad MP3 Utilizando La Herramienta Perfecta De Movavi Para Conversión</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-adjust-lockout-frequency-after-incorrect-user-credentials-for-windows-11/"><u>How to Adjust Lockout Frequency After Incorrect User Credentials for Windows 11</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-effortlessly-extract-written-content-from-images-using-your-phone-or-desktop/"><u>How to Effortlessly Extract Written Content From Images Using Your Phone or Desktop</u></a></li>
+<li><a href="https://article-posts.techidaily.com/instagram-and-soundtracks-demystifying-legalities/"><u>Instagram & Soundtracks Demystifying Legalities</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/les-principaux-outils-doptimisation-des-films-et-videos-guide-expert/"><u>Les Principaux Outils D'Optimisation Des Films Et Vidéos - Guide Expert</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/sonuclarin-guvenli-yeniden-yayilmasindaki-tahminat-edinelmedigi-ozellikleri-anlatiyor-bedeli-uzerinde-degil/"><u>Sonuçların Güvenli Yeniden Yayılmasındaki Tahminat Edinelmediği Özellikleri Anlatıyor | Bedeli Üzerinde Değil</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-9-ferramentas-mais-eficientes-para-download-de-videos-do-youtube-em-formato-mp4/"><u>Top 9 Ferramentas Mais Eficientes Para Download De Vídeos Do YouTube Em Formato MP4</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-guide-to-top-8-gold-text-in-3d-realms/"><u>Ultimate Guide to Top 8 Gold Text in 3D Realms</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Comprehensive Analysis of the Keychron Q5 Mechanical Keyboard: Is Its Enhanced Performance Worth the Premium Cost?"
-date: 2024-09-17 15:33:11
-updated: 2024-09-20 11:37:21
+date: 2024-09-22T16:05:54.882Z
+updated: 2024-09-23T16:37:26.398Z
 tags:
   - office-furniture
 categories:
@@ -52,6 +52,19 @@ South-facing (towards the typist), RGB LED lights are provided on the keyboard. 
 
 **Also: [Keychron Q1 QMK custom mechanical keyboard review](https://www.zdnet.com/product/keychron-q1-qmk-custom-mechanical-keyboard/)**
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **ZDNET** recommends
 
 [The best mechanical keyboards: From mini to macros Mechanical keyboards have become one of the fastest-growing areas of gaming and PC peripherals.  Read now](https://www.zdnet.com/article/best-mechanical-keyboard/)
@@ -60,11 +73,25 @@ The keyboard has several layers, including the bottom aluminum case, silicone ga
 
 The keys are set at a 5.3-degree angle, and the bottom case is not adjustable. I use a [Keychron wooden palm rest](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWalnut-Keychron-Bluetooth-Mechanical-Keyboard%2Fdp%2FB07Y84SP8G%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1ad522f2-4907-43aa-8c40-35319972b902%7Cdtp&dtb=1) since the keyboard is quite tall at the front, 30.9 mm with keycaps installed. The back height is 42.8 mm with the keycaps. The keyboard is 390.5 mm in length and 145 mm in width.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Keyboard software
 
 The model I tested includes the knob, and by default, the knob works to control volume with a press-in of the knob toggling mute on and off. You can reprogram the knob to perform other actions, such as zoom in and out, adjust the screen brightness, and more. In addition to downloading and installing the free VIA software, you also need to download the appropriate keymap JSON file from the Keychron website. Once this is set up, then you can set the macro for the knob in addition to mapping other keys as you desire.
 
 Four layers of key settings are provided with layers 0/1 assigned to MacOS and layers 2/3 assigned to Windows. You can customize shortcuts, backlight effects, and a lot more with the software, so spend some time setting the keyboard up, so it works best for your needs.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Switch options
 
@@ -87,6 +114,13 @@ The retail package includes the keyboard, keycap puller, switch puller, screwdri
 The Keychron Q5 keyboard is available in a barebones model for $175 up to a fully assembled model with a knob for $205\. ISO models are available too, with three color and three switch options to choose from.
 
 Keychron also has a new double gasket design in the Q5 that adds gaskets and silicone pads to reduce the sound resonance between the metals and reduce other sounds while supporting the overall typing sound. It's tough to find anything wrong with the keyboard, and spending $200 for a high-quality keyboard that helps you enter text quickly and efficiently is worth it to me.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Alternatives to consider
 
@@ -119,11 +153,31 @@ The Keychron Q5 keyboard is a near-perfect keyboard for many people, but if you 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-extraordinary.techidaily.com/como-elegir-el-mejor-editor-de-videos-para-instagram-las-mejores-opciones-del-mercado-resenadas/"><u>¿Cómo Elegir El Mejor Editor De Vídeos Para Instagram? - Las Mejores Opciones Del Mercado Reseñadas</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-examining-video-sharing-platforms-the-vimeo-and-youtube-divide/"><u>[New] In 2024, Examining Video Sharing Platforms The Vimeo & YouTube Divide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-canvas-mastery-top-10-editing-strategies-unveiled/"><u>2024 Approved Canvas Mastery Top 10 Editing Strategies Unveiled</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-harnessing-your-youtube-content-for-financial-rewards/"><u>2024 Approved Harnessing Your YouTube Content for Financial Rewards</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-the-science-of-captivating-youtube-thumbnails/"><u>2024 Approved The Science of Captivating YouTube Thumbnails</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/gif-wmv-movavi/"><u>網路直接自由改編 GIF成 WMV - 使用 Movavi 解決方案進行無料變更</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/comprehensive-kinetics-study-2023/"><u>Comprehensive Kinetics Study 2023</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/mastering-the-art-of-watermarking-on-facebook-for-2024/"><u>Mastering the Art of Watermarking on Facebook for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/online-mov-naar-mp3-konvertor-vrijetijd-vertalen-kostenloos-and-eenvoudig/"><u>Online MOV Naar MP3 Konvertor Vrijetijd Vertalen - Kostenloos & Eenvoudig</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-nokia-105-classic-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Nokia 105 Classic Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/sadece-paraleluyle-movavi-kapak-yaratma-sistemi-maddedi-bastalmis-ekran-kayden-egitim-aracisi/"><u>Sadece Paralelüyle Movavi Kapak Yaratma Sistemi | Maddedi Baştalmış Ekran Kaydən Eğitim Aracısı</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/soluciones-expertas-guia-paso-a-paso-para-empezar-a-ver-videos-mp4-en-windows-10-8-y-7/"><u>Soluciones Expertas: Guía Paso a Paso Para Empezar a Ver Videos .MP4 en Windows 10, 8 Y 7</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/telecharger-des-films-de-lortf-gratuitement-sur-movavi/"><u>Télécharger Des Films De L'ORTF Gratuitement Sur Movavi</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/transform-your-files-seamlessly-convert-aac-format-to-wmv-online-at-no-cost-with-movavi/"><u>Transform Your Files Seamlessly: Convert AAC Format to WMV Online at No Cost with Movavi</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-protect-identities-the-best-face-blur-video-editing-tools/"><u>Updated Protect Identities The Best Face Blur Video Editing Tools</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/winodws-10-cii/"><u>최고의 Winodws 10 스크린샷 옵ции 게시</u></a></li>
+</ul></div>
+

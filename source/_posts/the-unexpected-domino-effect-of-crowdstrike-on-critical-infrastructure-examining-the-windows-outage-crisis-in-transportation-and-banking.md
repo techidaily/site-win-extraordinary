@@ -1,7 +1,7 @@
 ---
 title: "The Unexpected Domino Effect of CrowdStrike on Critical Infrastructure: Examining the Windows Outage Crisis in Transportation and Banking"
-date: 2024-09-19 12:37:28
-updated: 2024-09-20 11:57:24
+date: 2024-09-16T16:12:46.172Z
+updated: 2024-09-23T17:11:35.396Z
 tags:
   - microsoft
 categories:
@@ -105,11 +105,34 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-first-timer-finds-low-cost-high-return-monetized-youtube-sites/"><u>[New] 2024 Approved First-Timer Finds Low-Cost, High-Return Monetized YouTube Sites</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-vimeo-decoded-an-in-depth-look-at-video-hosting/"><u>[New] 2024 Approved Vimeo Decoded An In-Depth Look at Video Hosting</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-dismantling-the-shadowy-video-barrier-on-youtube/"><u>[New] In 2024, Dismantling the Shadowy Video Barrier on YouTube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-techniques-to-brighten-up-your-content-creation-spaces/"><u>[New] In 2024, Techniques to Brighten Up Your Content Creation Spaces</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-learn-more-top-education-streams-online/"><u>[Updated] 2024 Approved Learn More Top Education Streams Online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-videography-101-editing-essentials-taught/"><u>[Updated] YouTube Videography 101 Editing Essentials Taught</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/convertissez-vos-images-png-en-ligne-pour-free-avec-movavi-guide-complet/"><u>Convertissez Vos Images PNG en Ligne Pour Free Avec Movavi - Guide Complet</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/les-principaux-outils-doptimisation-des-films-et-videos-guide-expert/"><u>Les Principaux Outils D'Optimisation Des Films Et Vidéos - Guide Expert</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/sonuclarin-guvenli-yeniden-yayilmasindaki-tahminat-edinelmedigi-ozellikleri-anlatiyor-bedeli-uzerinde-degil/"><u>Sonuçların Güvenli Yeniden Yayılmasındaki Tahminat Edinelmediği Özellikleri Anlatıyor | Bedeli Üzerinde Değil</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-most-popular-6-free-and-quick-youtube-video-repositories/"><u>The Most Popular 6 Free & Quick YouTube Video Repositories</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/top-10-iphone-voice-capture-apps-the-ultimate-list/"><u>Top 10 iPhone Voice Capture Apps The Ultimate List</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/top-7-video-enhancement-cameras-to-skyrocket-your-blogging-for-2024/"><u>Top 7 Video Enhancement Cameras To Skyrocket Your Blogging for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-9-ferramentas-mais-eficientes-para-download-de-videos-do-youtube-em-formato-mp4/"><u>Top 9 Ferramentas Mais Eficientes Para Download De Vídeos Do YouTube Em Formato MP4</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
