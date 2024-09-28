@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Comprehensive Analysis of the Keychron Q5 Mechanical Keyboard: Is Its Enhanced Performance Worth the Premium Cost?"
-date: 2024-09-22T16:05:54.882Z
-updated: 2024-09-23T16:37:26.398Z
+date: 2024-09-22T03:45:44.358Z
+updated: 2024-09-28T06:18:08.562Z
 tags:
   - office-furniture
 categories:
@@ -53,16 +53,10 @@ South-facing (towards the typist), RGB LED lights are provided on the keyboard. 
 **Also: [Keychron Q1 QMK custom mechanical keyboard review](https://www.zdnet.com/product/keychron-q1-qmk-custom-mechanical-keyboard/)**
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** recommends
@@ -74,10 +68,10 @@ The keyboard has several layers, including the bottom aluminum case, silicone ga
 The keys are set at a 5.3-degree angle, and the bottom case is not adjustable. I use a [Keychron wooden palm rest](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWalnut-Keychron-Bluetooth-Mechanical-Keyboard%2Fdp%2FB07Y84SP8G%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1ad522f2-4907-43aa-8c40-35319972b902%7Cdtp&dtb=1) since the keyboard is quite tall at the front, 30.9 mm with keycaps installed. The back height is 42.8 mm with the keycaps. The keyboard is 390.5 mm in length and 145 mm in width.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Keyboard software
@@ -85,13 +79,6 @@ The keys are set at a 5.3-degree angle, and the bottom case is not adjustable. I
 The model I tested includes the knob, and by default, the knob works to control volume with a press-in of the knob toggling mute on and off. You can reprogram the knob to perform other actions, such as zoom in and out, adjust the screen brightness, and more. In addition to downloading and installing the free VIA software, you also need to download the appropriate keymap JSON file from the Keychron website. Once this is set up, then you can set the macro for the knob in addition to mapping other keys as you desire.
 
 Four layers of key settings are provided with layers 0/1 assigned to MacOS and layers 2/3 assigned to Windows. You can customize shortcuts, backlight effects, and a lot more with the software, so spend some time setting the keyboard up, so it works best for your needs.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Switch options
 
@@ -109,6 +96,13 @@ The retail package includes the keyboard, keycap puller, switch puller, screwdri
 
 [Keychron Q5 Keyboard $205 at Keychron](https://www.keychron.com/products/keychron-q5-qmk-custom-mechanical-keyboard?variant=40010452271193)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Daily usage experiences and conclusion
 
 The Keychron Q5 keyboard is available in a barebones model for $175 up to a fully assembled model with a knob for $205\. ISO models are available too, with three color and three switch options to choose from.
@@ -116,10 +110,10 @@ The Keychron Q5 keyboard is available in a barebones model for $175 up to a full
 Keychron also has a new double gasket design in the Q5 that adds gaskets and silicone pads to reduce the sound resonance between the metals and reduce other sounds while supporting the overall typing sound. It's tough to find anything wrong with the keyboard, and spending $200 for a high-quality keyboard that helps you enter text quickly and efficiently is worth it to me.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Alternatives to consider
@@ -160,5 +154,22 @@ The Keychron Q5 keyboard is a near-perfect keyboard for many people, but if you 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-simplifying-streaming-key-tactics-for-youtube-and-twitch-via-obs/"><u>[New] In 2024, Simplifying Streaming Key Tactics for YouTube & Twitch via OBS</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-poptoons-ultimate-insight-24-annual/"><u>[Updated] In 2024, PopToons Ultimate Insight '24 Annual</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1-how-to-set-up-your-windows-recovery-drive-effortlessly-a-step-by-step-guide-for-peace-of-mind/"><u>1. How to Set Up Your Windows Recovery Drive Effortlessly: A Step-by-Step Guide for Peace of Mind</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-capturing-the-moment-methods-for-online-audio-recording/"><u>2024 Approved Capturing the Moment Methods for Online Audio Recording</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/accidentally-downgraded-to-home-ed-restore-your-windows-pro-features-with-this-quick-fix-tech-tips-for-professionals/"><u>Accidentally Downgraded to Home Ed: Restore Your Windows Pro Features with This Quick Fix | Tech Tips for Professionals</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/anticipating-the-sunset-date-when-does-microsoft-plan-to-drop-support-for-specific-windows-and-office-versions/"><u>Anticipating the Sunset Date: When Does Microsoft Plan to Drop Support for Specific Windows and Office Versions?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721402550569-earn-extra-cash-by-hunting-software-glitches-with-openai/"><u>Earn Extra Cash by Hunting Software Glitches with OpenAI!</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/end-of-life-deadline-approaching-for-win-11s-21h2-and-22h2-editions-protect-your-system-by-updating-now-zdnet/"><u>End-of-Life Deadline Approaching for Win 11'S 21H2 and 22H2 Editions: Protect Your System by Updating Now | ZDNet</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/essential-2023-guide-to-microsoft-and-apple-productivity-tools-expert-picks-by-zdnet/"><u>Essential 2023 Guide to Microsoft and Apple Productivity Tools: Expert Picks by ZDNet</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/exploring-the-effects-of-drive-encryption-on-system-speed-a-detailed-review/"><u>Exploring the Effects of Drive Encryption on System Speed - A Detailed Review</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/zero-to-hero-a-step-by-step-approach-to-youtube-backlinks/"><u>From Zero to Hero A Step-by-Step Approach to YouTube Backlinks</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/global-it-collapse-prevention-discussed-at-microsofts-security-summit-expert-opinions-and-effective-solutions/"><u>Global IT Collapse Prevention Discussed at Microsoft's Security Summit - Expert Opinions & Effective Solutions</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-vivo-x-fold-2-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo X Fold 2 Without Password | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-vivo-v27-pro-easily-by-drfone-android/"><u>In 2024, How To Unlock a Vivo V27 Pro Easily?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-gt-3-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme GT 3 Device</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Stream Your Games with Ease: A Step-by-Step Facebook Broadcasting Workshop"
-date: 2024-09-22T16:26:44.251Z
-updated: 2024-09-23T16:19:21.008Z
+date: 2024-09-24T02:16:42.981Z
+updated: 2024-09-27T23:08:00.862Z
 tags:
   - product
 categories:
@@ -52,31 +52,31 @@ Action Tutorials
 
  Follow this tutorial to learn, step by step, how to live stream to Facebook.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Action! LIVE Streaming
 
  Run Action! application and open **"LIVE Streaming" tab**.
 
 ![Mirillis Action! - LIVE Streaming](https://mirillis.com/res/old/gfx/tutorials/live/mirillis_action_live_streaming_tab.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Select Facebook service
 
  From "Streaming service" dropdown select **Facebook** and click **Account manager** to log in to your account. 
 
 ![Mirillis Action! - Facebook](https://mirillis.com/res/old/gfx/tutorials/live/mirillis_action_live_streaming_login_facebook.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Login to your Facebook account
 
@@ -92,6 +92,13 @@ Action Tutorials
 
 ![Mirillis Action! - Logged in with Google](https://mirillis.com/res/old/gfx/tutorials/live/mirillis_action_live_streaming_broadcast_settings_facebook_logged_in.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## LIVE Streaming settings
 
  Use video settings (size, framerate and bitrate) to setup your Facebook broadcast. 
@@ -103,10 +110,10 @@ Action Tutorials
  Please remember that you must adjust live streaming settings to your internet upload speed. If you experience any performance or quality problems with live streaming, please use lower video size and/or lower framerate/bitrate and try again. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Set your preferred recording mode
@@ -114,13 +121,6 @@ Action Tutorials
  Switch Action! recording mode to "Games and Applications", "Active screen" or "Active desktop region". Games and Application recording mode is dedicated to capture and live stream all DirectX and OpenGL games or applications both in fullscreen and windowed mode. Active screen mode is perfect to live stream games, fullscreen videos or any other activity on your PC. Select Active desktop region mode if you plan to live stream only selected area of your screen. 
 
 ![Mirillis Action! - Games&Applications recording mode](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_games_applications_recording_mode.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Start LIVE Streaming to Facebook with Action!
 
@@ -130,22 +130,22 @@ Action Tutorials
 
 ![Mirillis Action! - Streaming gameplay to Facebook](https://mirillis.com/res/old/gfx/tutorials/live/mirillis_action_live_streaming_hud_viewers.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Press Ctrl+F9 hotkey again to stop your Facebook live stream. 
 
 ![Mirillis Action! - Streaming finished](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_normal_status_game.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Streaming to selected Facebook page or channel using Stream Key
@@ -158,18 +158,18 @@ Action Tutorials
 
 ![Mirillis Action! - Custom Streaming Service selected](https://mirillis.com/res/old/gfx/tutorials/live/mirillis_action_live_streaming_broadcast_settings_custom_service.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2\. Open Facebook page with web browser, log in to your Facebook Page, and select Publishing Tools in the top navigation bar. 
 
  3\. On the left menu, click on the Video Library option under the Videos section and click on the + Live button to setup your Live post. 
 
 ![Mirillis Action! - RTMP URL for Twitch.tv](https://mirillis.com/res/old/gfx/tutorials/live/mirillis_action_live_streaming_broadcast_settings_custom_service_facebook_live.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4\. Check the **Separate Fields** group for Server URL and Stream Key. 
 
@@ -193,5 +193,22 @@ You are ready to live stream to your Facebook Page.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-selecting-the-best-mac-sniping-solutions/"><u>[New] 2024 Approved Selecting the Best Mac Sniping Solutions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-diving-deep-into-game-details-with-roblox-zooming/"><u>[Updated] 2024 Approved Diving Deep Into Game Details with Roblox Zooming</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-elevating-viewers-prime-video-ideas-for-channels-for-2024/"><u>[Updated] Elevating Viewers Prime Video Ideas for Channels for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1-innovative-imaging-solutions-with-mirilliss-picture2-tech/"><u>1. Innovative Imaging Solutions with Mirillis's Picture2 Tech</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/convert-and-download-your-favorite-chilloutzone-videos-in-multiple-formats/"><u>Convert and Download Your Favorite ChilloutZone Videos in Multiple Formats</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-realtek-drivers-compatible-with-windows-10-systems/"><u>Download and Install Realtek Drivers: Compatible with Windows 10 Systems</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/get-your-favorite-nhl-games-and-clips-as-video-files-mp4-wmv-mov-or-avi-download-options/"><u>Get Your Favorite NHL Games and Clips as Video Files: MP4, WMV, MOV, or AVI Download Options</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-8-plus-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 8 Plus to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/navigating-the-rules-of-engagement-with-mirillis-services-terms-and-conditions-explained/"><u>Navigating the Rules of Engagement with Mirillis Services: Terms and Conditions Explained</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/smart-home-savings-alert-exploring-under-100-video-doorbells-and-the-remobell-evaluation/"><u>Smart Home Savings Alert: Exploring Under-$100 Video Doorbells and The RemoBell Evaluation</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/step-into-the-future-of-interaction-high-tech-actions-featuring-intel-realsense-sensors/"><u>Step Into the Future of Interaction: High-Tech Actions Featuring Intel RealSense Sensors</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-honor-90-pro-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Honor 90 Pro Phone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-parental-control-software-for-mac-and-windows-pcs-by-allavsoft-your-ideal-solution/"><u>Top Parental Control Software for Mac & Windows PCs by Allavsoft – Your Ideal Solution!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-beyond-free-photos-understanding-pexelscoms-role-in-creative-projects-for-2024/"><u>Updated Beyond Free Photos Understanding Pexels.coms Role in Creative Projects for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/zdnets-comprehensive-tutorial-on-organizing-windows-user-profiles-within-families/"><u>ZDnet's Comprehensive Tutorial on Organizing Windows User Profiles Within Families</u></a></li>
+</ul></div>
 

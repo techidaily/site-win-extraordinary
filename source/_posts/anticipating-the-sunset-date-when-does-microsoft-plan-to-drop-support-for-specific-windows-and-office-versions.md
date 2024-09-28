@@ -1,7 +1,7 @@
 ---
 title: "Anticipating the Sunset Date: When Does Microsoft Plan to Drop Support for Specific Windows and Office Versions?"
-date: 2024-09-17T16:15:54.594Z
-updated: 2024-09-23T16:28:49.773Z
+date: 2024-09-20T23:27:59.187Z
+updated: 2024-09-28T02:36:56.745Z
 tags:
   - windows
 categories:
@@ -40,10 +40,10 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
@@ -54,6 +54,13 @@ Right-click on the new folder and rename it to the following string:
 When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Launch the icon
 
@@ -67,6 +74,13 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
@@ -74,16 +88,10 @@ When you see the setting or command you want, simply double-click it to launch i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
@@ -97,25 +105,11 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Change the icon
 
@@ -160,5 +154,24 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-capture-without-capsule-the-no-limit-story-saving-app/"><u>[New] 2024 Approved Capture Without Capsule The No-Limit Story Saving App</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-explore-and-compare-apps-via-az-recorder-for-2024/"><u>[New] Explore & Compare Apps via AZ Recorder for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-prime-audio-alteration-tech-for-influencer-marketers/"><u>[Updated] 2024 Approved Prime Audio Alteration Tech for Influencer Marketers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-essential-guide-to-shopping-for-a-gopro-camera/"><u>[Updated] The Essential Guide to Shopping for a Gopro Camera</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-online-onyx-the-monetary-meaningfulness-of-pewdiepies-earnings/"><u>2024 Approved Online Onyx The Monetary Meaningfulness of Pewdiepie's Earnings</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/convertissez-gratuitement-votre-fichier-m4v-en-un-gif-sur-le-web-services-de-movavi/"><u>Convertissez Gratuitement Votre Fichier M4V en Un GIF Sur Le Web - Services De Movavi</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/convertissez-vos-images-png-en-ligne-pour-free-avec-movavi-guide-complet/"><u>Convertissez Vos Images PNG en Ligne Pour Free Avec Movavi - Guide Complet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-authentic-user-experiences-through-chatgpt-generated-persons/"><u>Crafting Authentic User Experiences Through ChatGPT-Generated Persons</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/fa-dig-i-kraftiga-12-nyanserade-3d-animeringarsprogramvaror-gratis-pa-2024-larja-och-leka/"><u>Få Dig I Kraftiga 12 Nyanserade 3D-Animeringarsprogramvaror Gratis På 2024 - Lärja Och Leka!</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/free-conversion-transform-mov-files-into-m4r-format-with-movavis-online-service/"><u>Free Conversion: Transform MOV Files Into M4R Format with Movavi's Online Service</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-oneplus-nord-ce-3-lite-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From OnePlus Nord CE 3 Lite 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-reno-11-pro-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Oppo Reno 11 Pro 5G FRP</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/les-principaux-outils-doptimisation-des-films-et-videos-guide-expert/"><u>Les Principaux Outils D'Optimisation Des Films Et Vidéos - Guide Expert</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-photo-editing-in-minutes-pixlr-quick-hacks/"><u>Mastering Photo Editing in Minutes Pixlr Quick Hacks</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/sonuclarin-guvenli-yeniden-yayilmasindaki-tahminat-edinelmedigi-ozellikleri-anlatiyor-bedeli-uzerinde-degil/"><u>Sonuçların Güvenli Yeniden Yayılmasındaki Tahminat Edinelmediği Özellikleri Anlatıyor | Bedeli Üzerinde Değil</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/titres-optimises-pour-le-moteur-de-recherche/"><u>Titres Optimisés Pour Le Moteur De Recherche :</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-9-ferramentas-mais-eficientes-para-download-de-videos-do-youtube-em-formato-mp4/"><u>Top 9 Ferramentas Mais Eficientes Para Download De Vídeos Do YouTube Em Formato MP4</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Microsoft & IBM Unveil Open Source Version of MS-DOS
-date: 2024-09-18T16:43:57.761Z
-updated: 2024-09-23T17:04:42.257Z
+date: 2024-09-20T22:06:00.526Z
+updated: 2024-09-28T00:30:14.070Z
 tags:
   - microsoft
 categories:
@@ -112,12 +112,37 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/updated-activate-windows-xp-movie-creation-toolkit/"><u>[Updated] Activate Windows XP Movie Creation Toolkit</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1-innovative-imaging-solutions-with-mirilliss-picture2-tech/"><u>1. Innovative Imaging Solutions with Mirillis's Picture2 Tech</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-fps-titans-ranking-gamings-elite-shooters/"><u>2024 Approved FPS Titans Ranking Gaming's Elite Shooters</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/ai-revolution-in-software-development-empowering-gen-a-programmers-to-increase-productivity/"><u>AI Revolution in Software Development: Empowering Gen A Programmers to Increase Productivity</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conquering-new-world-effective-solutions-to-the-frustrating-easy-anti-cheat-launch-error/"><u>Conquering New World: Effective Solutions to the Frustrating Easy Anti-Cheat Launch Error</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/convert-and-download-your-favorite-chilloutzone-videos-in-multiple-formats/"><u>Convert and Download Your Favorite ChilloutZone Videos in Multiple Formats</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/decoding-facebooks-automatic-video-advancements-for-2024/"><u>Decoding Facebook's Automatic Video Advancements for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/eliminate-your-game-setup-errors-with-proven-solutions-from-origin-games-support/"><u>Eliminate Your Game Setup Errors with Proven Solutions From Origin Games Support</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/get-your-favorite-nhl-games-and-clips-as-video-files-mp4-wmv-mov-or-avi-download-options/"><u>Get Your Favorite NHL Games and Clips as Video Files: MP4, WMV, MOV, or AVI Download Options</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-realme-c67-4g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Realme C67 4G</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/inspire-your-sweat-session-with-the-most-motivating-melodies-for-2024/"><u>Inspire Your Sweat Session with the Most Motivating Melodies for 2024</u></a></li>
+<li><a href="https://techidaily.com/is-your-realme-11-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme 11 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/navigating-the-rules-of-engagement-with-mirillis-services-terms-and-conditions-explained/"><u>Navigating the Rules of Engagement with Mirillis Services: Terms and Conditions Explained</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/step-into-the-future-of-interaction-high-tech-actions-featuring-intel-realsense-sensors/"><u>Step Into the Future of Interaction: High-Tech Actions Featuring Intel RealSense Sensors</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/stream-your-games-with-ease-a-step-by-step-facebook-broadcasting-workshop/"><u>Stream Your Games with Ease: A Step-by-Step Facebook Broadcasting Workshop</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/transformar-video-h2-65hevc-en-h2-64-gratis-y-sin-comprometer-la-calidad/"><u>Transformar Vídeo H.2 65/HEVC en H.2 64 Gratis Y Sin Comprometer La Calidad</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/zdnets-comprehensive-tutorial-on-organizing-windows-user-profiles-within-families/"><u>ZDnet's Comprehensive Tutorial on Organizing Windows User Profiles Within Families</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

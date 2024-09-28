@@ -1,7 +1,7 @@
 ---
 title: Microsoft Discontinues Copilot Pro GPT Developer Tool & Purges Client Data | Tech News by ZDNet
-date: 2024-09-20T17:12:23.245Z
-updated: 2024-09-23T16:20:16.617Z
+date: 2024-09-26T20:59:29.552Z
+updated: 2024-09-27T22:03:20.935Z
 tags:
   - microsoft
 categories:
@@ -112,12 +112,24 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-uniting-fans-anime-opening-songs-showcase-for-2024/"><u>[New] Uniting Fans Anime Opening Songs Showcase for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-shared-printer-issues-on-windows-11/"><u>Addressing Shared Printer Issues on Windows 11</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/en-ligne-et-gratuit-convertissez-vos-fichiers-mkv-vers-le-format-ogg-parfaitement-solution-facile-a-utiliser-chez-movavi/"><u>En Ligne Et Gratuit : Convertissez Vos Fichiers MKV Vers Le Format OGG Parfaitement, Solution Facile À Utiliser Chez Movavi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/funnyframefactory-imggigglesworkshop/"><u>FunnyFrameFactory ImgGigglesWorkshop</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-a-step-further-the-revolutionary-lg-360-vr-headset-reviewed/"><u>In 2024, A Step Further The Revolutionary LG 360 VR Headset Reviewed</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/les-principaux-outils-doptimisation-des-films-et-videos-guide-expert/"><u>Les Principaux Outils D'Optimisation Des Films Et Vidéos - Guide Expert</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/movavis-ultimate-guide-to-convert-your-flac-tracks-to-mp4-videos-at-no-cost-do-it-online-today/"><u>Movavi's Ultimate Guide to Convert Your FLAC Tracks to MP4 Videos at No Cost - Do It Online Today!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-samsung-galaxy-s24-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Samsung Galaxy S24 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/titres-optimises-pour-le-moteur-de-recherche/"><u>Titres Optimisés Pour Le Moteur De Recherche :</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-snimp3-problems-a-comprehensive-guide-to-restoring-functionality-and-how-to-download-mp3-from-youtube/"><u>Troubleshooting SniMp3 Problems: A Comprehensive Guide to Restoring Functionality & How to Download MP3 From YouTube</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

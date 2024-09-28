@@ -1,7 +1,7 @@
 ---
 title: "The Unexpected Domino Effect of CrowdStrike on Critical Infrastructure: Examining the Windows Outage Crisis in Transportation and Banking"
-date: 2024-09-16T16:12:46.172Z
-updated: 2024-09-23T17:11:35.396Z
+date: 2024-09-26T03:06:18.296Z
+updated: 2024-09-28T01:56:26.537Z
 tags:
   - microsoft
 categories:
@@ -112,12 +112,27 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/outube-subscriber-chart-5-most-subscribed-youtuber-for-2024/"><u>[New] YouTube Subscriber Chart - 5 Most Subscribed YouTuber for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-xbox-game-memories-save-them-with-screenshots/"><u>[Updated] 2024 Approved Xbox Game Memories, Save Them with Screenshots</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-cultivate-a-thriving-igtv-community-5-key-increase-strategies/"><u>[Updated] In 2024, Cultivate a Thriving IGTV Community 5 Key Increase Strategies</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-creating-cost-effective-youtube-closure-elements/"><u>2024 Approved Creating Cost-Effective YouTube Closure Elements</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1726224374588-dtsmp3-movavi/"><u>免費在線 DTS/MP3音質轉換服務 - 以Movavi為選擇的使用者指南</u></a></li>
+<li><a href="https://windows11.techidaily.com/arcade-mode-for-window-users-key-fixes-ahead/"><u>Arcade Mode for Window Users: Key Fixes Ahead!</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/como-transformar-facilmente-archivos-aifc-en-mp3-sin-costo-con-la-herramienta-en-linea-de-movavi/"><u>Cómo Transformar Fácilmente Archivos AIFC en MP3 Sin Costo Con La Herramienta en Línea De Movavi</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/gratis-online-f4v-naar-mp3-vervangen-professioneel-door-movavi/"><u>Gratis Online F4V Naar MP3 Vervangen - Professioneel Door Movavi</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/gratis-online-flv-to-aac-converter-professioneel-en-breed-zoekend/"><u>Gratis Online FLV-to-AAC Converter - Professioneel en Breed Zoekend</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-unlocking-facebooks-full-potential-4-sharing-techniques/"><u>In 2024, Unlocking Facebook's Full Potential 4 Sharing Techniques</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/karakter-oldukuyla-mxf-formatinizi-windows-mac-panela-sokarak-mp4-yonelimine-donusturmeme-guven-kalabilirsiniz/"><u>Karakter Oldukuyla MXF Formatınızı Windows / Mac Panela Sokarak MP4 Yönelimine Dönüştürmeme Güven Kalabilirsiniz!</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-rated-battery-options-for-your-google-nest-video-doorbell-in-depth-review/"><u>Top Rated Battery Options for Your Google Nest Video Doorbell - In-Depth Review</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/trasformare-i-file-asf-in-mp3-gratuitamente-sul-web-guida-di-movavi/"><u>Trasformare I File ASF in MP3 Gratuitamente Sul Web - Guida Di Movavi</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

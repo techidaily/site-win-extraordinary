@@ -1,7 +1,7 @@
 ---
 title: Microsoft Reshapes User Experience - Positive Alternatives Over Frustrating Features | ZDNet Insights
-date: 2024-09-19T16:40:28.027Z
-updated: 2024-09-23T17:06:27.751Z
+date: 2024-09-21T18:12:15.219Z
+updated: 2024-09-28T04:16:57.960Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -194,5 +194,26 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/eading-least-expensive-stock-images-online-for-2024/"><u>[New] Leading Least Expensive Stock Images Online for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-ultimate-checklist-for-mastering-bandicam-in-the-new-year/"><u>[Updated] In 2024, The Ultimate Checklist for Mastering Bandicam in the New Year</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unveiling-tricky-feed-functions-more-vids-please/"><u>2024 Approved Unveiling Tricky Feed Functions More Vids Please</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/exploring-the-apple-m1-pro-powered-macbook-pro-a-marvelous-choice-over-windows-11-laptops/"><u>Exploring the Apple M1 Pro-Powered MacBook Pro: A Marvelous Choice Over Windows 11 Laptops</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/fitbit-versa-2-user-guide-a-detailed-review-on-how-this-wearable-device-revolutionizes-fitness-tracking-with-extra-smartwatch-functionality/"><u>Fitbit Versa 2 User Guide: A Detailed Review on How This Wearable Device Revolutionizes Fitness Tracking with Extra Smartwatch Functionality</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/hands-on-review-surface-duo-2s-new-pen-cover-enhances-durability-and-supports-wireless-charging/"><u>Hands-On Review: Surface Duo 2'S New Pen Cover Enhances Durability & Supports Wireless Charging</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-on-your-iphone-15-plus-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock on your iPhone 15 Plus and iPad?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-achieve-crystal-clear-slack-discussions-with-these-10-tools/"><u>In 2024, Achieve Crystal Clear Slack Discussions with These 10 Tools</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-is-your-apple-iphone-14-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 14 in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-ultimate-guide-best-7-color-grades-in-editing/"><u>In 2024, The Ultimate Guide Best 7 Color Grades in Editing</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/mastering-voice-control-a-step-by-step-guide-to-navigating-windows-11-with-your-voice-insights-from-zdnet/"><u>Mastering Voice Control: A Step-by-Step Guide to Navigating Windows 11 with Your Voice - Insights From ZDNet</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/microsoft-365-outage-understanding-the-cause-behind-major-user-disruption-techinsights/"><u>Microsoft 365 Outage: Understanding the Cause Behind Major User Disruption | TechInsights</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/purchase-microsoft-project-pro-and-visio-pro-licenses-at-an-unbeatable-price-just-20-exclusive-offer-on-zdnet/"><u>Purchase Microsoft Project Pro & Visio Pro Licenses at an Unbeatable Price - Just $20! Exclusive Offer on ZDNet</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/surface-desktop-showdown-of-2023-expert-opinions-and-detailed-comparisons-zdnets-guide-to-choosing-the-right-one/"><u>Surface Desktop Showdown of 2023: Expert Opinions and Detailed Comparisons | ZDNet's Guide to Choosing the Right One</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-elder-scrolls-online-blackwood-lag-problem-solved-gameplay-enhanced/"><u>The Elder Scrolls Online Blackwood Lag Problem Solved – Gameplay Enhanced</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-rise-of-facebooks-quick-vids/"><u>The Rise of Facebook's Quick Vids</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/the-unexpected-domino-effect-of-crowdstrike-on-critical-infrastructure-examining-the-windows-outage-crisis-in-transportation-and-banking/"><u>The Unexpected Domino Effect of CrowdStrike on Critical Infrastructure: Examining the Windows Outage Crisis in Transportation and Banking</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/transform-your-pc-experience-with-a-free-windows-update-elevate-from-home-to-pro-edition/"><u>Transform Your PC Experience with a Free Windows Update - Elevate From Home to Pro Edition</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/unforeseen-backlash-microsofts-latest-update-sparks-user-outcry-an-insider-look/"><u>Unforeseen Backlash: Microsoft's Latest Update Sparks User Outcry – An Insider Look</u></a></li>
+</ul></div>
 
