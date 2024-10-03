@@ -1,7 +1,7 @@
 ---
 title: "Microsoft 365 Outage: Understanding the Cause Behind Major User Disruption | TechInsights"
-date: 2024-09-24T19:49:33.607Z
-updated: 2024-09-27T19:52:50.638Z
+date: 2024-09-29T17:50:50.722Z
+updated: 2024-10-03T10:17:41.742Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -91,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,29 +136,22 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +196,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-controlling-video-flow-on-your-screens-window-netflix/"><u>[New] Controlling Video Flow on Your Screen's Window (Netflix)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-picture-perfectionism-top-tools-and-sites-for-superior-photo-frames/"><u>[New] Picture Perfectionism Top Tools & Sites for Superior Photo Frames</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-deciphering-the-world-of-youtube-media-conglomerates-for-2024/"><u>[Updated] Deciphering the World of YouTube Media Conglomerates for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-comparison-top-screen-recorders-focusing-on-recmeister/"><u>[Updated] The Ultimate Comparison Top Screen Recorders, Focusing on Recmeister</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/1726026440383-youtube/"><u>「YouTube動画をクリアな画質でセーブする専門的な方法ガイド」</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/building-a-professional-e-catalog-a-step-by-step-guide-using-flipbuilder/"><u>Building a Professional E-Catalog: A Step-by-Step Guide Using FlipBuilder</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/choisir-le-convertisseur-video-numero-un-gratuite-en-ligne-mp4-et-plus-comparatif-2024/"><u>Choisir Le Convertisseur Vidéo Numéro Un Gratuite en Ligne, MP4 Et Plus - Comparatif 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/complete-guide-to-running-exe-flipbooks-at-full-resolution-on-flipbuilder-no-more-windowed-limitations/"><u>Complete Guide to Running EXE Flipbooks at Full Resolution on FlipBuilder - No More Windowed Limitations!</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/conversione-da-dvd-a-mkv-o-viceversa-con-movavi-download-gratuito/"><u>Conversione Da DVD a MKV O Viceversa Con Movavi - Download Gratuito</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/creating-your-own-turn-the-page-digital-reads-for-mac-with-flipbuilder-step-by-step-guide/"><u>Creating Your Own Turn-The-Page Digital Reads for Mac with FlipBuilder - Step By Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-artificial-imagination-pros-and-cons-of-using-chatgpt-for-writing/"><u>Exploring Artificial Imagination - Pros and Cons of Using ChatGPT for Writing</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/online-mov-naar-mp3-konvertor-vrijetijd-vertalen-kostenloos-and-eenvoudig/"><u>Online MOV Naar MP3 Konvertor Vrijetijd Vertalen - Kostenloos & Eenvoudig</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/online-vrijetijdelijk-wmv-in-mkv-veranderen-met-movavi-efficient-en-gemakkelijk/"><u>Online Vrijetijdelijk Wmv in Mkv Veranderen Met Movavi: Efficiënt en Gemakkelijk</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/soluciones-expertas-guia-paso-a-paso-para-empezar-a-ver-videos-mp4-en-windows-10-8-y-7/"><u>Soluciones Expertas: Guía Paso a Paso Para Empezar a Ver Videos .MP4 en Windows 10, 8 Y 7</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-removing-nvidia-graphics-driver-from-your-windows-11-pc/"><u>Step-by-Step Guide: Removing NVIDIA Graphics Driver From Your Windows 11 PC</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/mlined-processes-for-swift-comment-removal-on-youtube/"><u>Streamlined Processes for Swift Comment Removal on YouTube</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/transformer-des-fichiers-mov-en-fichiers-mp3-gratuits-en-ligne-moovavi/"><u>Transformer Des Fichiers MOV en Fichiers MP3 Gratuits en Ligne - Moovavi</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-common-issues-why-doesnt-your-dvd-video-converter-successfully-convert-vob-files/"><u>Troubleshooting Common Issues: Why Doesn't Your DVD Video Converter Successfully Convert VOB Files?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-craft-a-richer-user-experience-in-windows-photos-with-music-and-aesthetic-filters/"><u>[New] 2024 Approved Craft a Richer User Experience in Windows Photos with Music and Aesthetic Filters</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/reative-video-ends-top-6-budget-friendly-options-in-2024/"><u>[New] Creative Video Ends Top 6 Budget-Friendly Options, In 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-honor-90-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/evaluating-the-value-of-chatgpt-plus-an-in-depth-analysis/"><u>Evaluating the Value of ChatGPT Plus: An In-Depth Analysis</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/innovative-and-fun-raspberry-pi-ventures-for-enthusiasts-latest-trends-of-september-2024/"><u>Innovative & Fun Raspberry Pi Ventures for Enthusiasts - Latest Trends of September 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/step-by-step-guide-to-downloading-mit-opencourseware-video-lectures-on-macos-and-windows/"><u>Step-by-Step Guide to Downloading MIT OpenCourseWare Video Lectures on macOS & Windows</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/stream-to-save-securely-transferring-femcom-content-to-macoswindows/"><u>Stream-to-Save: Securely Transferring Fem.com Content to macOS/Windows</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/subtitle-tactics-for-instagrams-video-feed-for-2024/"><u>Subtitle Tactics for Instagram's Video Feed for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/synchronizing-your-soundtracks-a-step-by-step-guide-to-embedding-spotify-playlists-on-instagram/"><u>Synchronizing Your Soundtracks: A Step-by-Step Guide to Embedding Spotify Playlists on Instagram</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/ten-download-app-access-free-episodes-from-channel-ten-online/"><u>Ten Download App: Access Free Episodes From Channel Ten Online!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-power-of-forecasting-with-predictive-ai-systems/"><u>Unveiling the Power of Forecasting with Predictive AI Systems</u></a></li>
 </ul></div>
 

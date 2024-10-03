@@ -1,7 +1,7 @@
 ---
 title: "Anticipating the Sunset Date: When Does Microsoft Plan to Drop Support for Specific Windows and Office Versions?"
-date: 2024-09-20T23:27:59.187Z
-updated: 2024-09-28T02:36:56.745Z
+date: 2024-10-02T00:20:02.577Z
+updated: 2024-10-02T16:26:23.158Z
 tags:
   - windows
 categories:
@@ -27,6 +27,13 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
@@ -39,13 +46,6 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Rename the new folder
 
 Right-click on the new folder and rename it to the following string:  
@@ -56,10 +56,16 @@ When done, press Enter.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Launch the icon
@@ -68,6 +74,13 @@ Double-click the icon, and a window opens with all the available settings. The c
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Search for a command
 
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
@@ -75,10 +88,10 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
@@ -86,13 +99,6 @@ Screenshot by Lance Whitney/ZDNET
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -156,22 +162,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-capture-without-capsule-the-no-limit-story-saving-app/"><u>[New] 2024 Approved Capture Without Capsule The No-Limit Story Saving App</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-explore-and-compare-apps-via-az-recorder-for-2024/"><u>[New] Explore & Compare Apps via AZ Recorder for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-prime-audio-alteration-tech-for-influencer-marketers/"><u>[Updated] 2024 Approved Prime Audio Alteration Tech for Influencer Marketers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-essential-guide-to-shopping-for-a-gopro-camera/"><u>[Updated] The Essential Guide to Shopping for a Gopro Camera</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-online-onyx-the-monetary-meaningfulness-of-pewdiepies-earnings/"><u>2024 Approved Online Onyx The Monetary Meaningfulness of Pewdiepie's Earnings</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/convertissez-gratuitement-votre-fichier-m4v-en-un-gif-sur-le-web-services-de-movavi/"><u>Convertissez Gratuitement Votre Fichier M4V en Un GIF Sur Le Web - Services De Movavi</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/convertissez-vos-images-png-en-ligne-pour-free-avec-movavi-guide-complet/"><u>Convertissez Vos Images PNG en Ligne Pour Free Avec Movavi - Guide Complet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/crafting-authentic-user-experiences-through-chatgpt-generated-persons/"><u>Crafting Authentic User Experiences Through ChatGPT-Generated Persons</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/fa-dig-i-kraftiga-12-nyanserade-3d-animeringarsprogramvaror-gratis-pa-2024-larja-och-leka/"><u>Få Dig I Kraftiga 12 Nyanserade 3D-Animeringarsprogramvaror Gratis På 2024 - Lärja Och Leka!</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/free-conversion-transform-mov-files-into-m4r-format-with-movavis-online-service/"><u>Free Conversion: Transform MOV Files Into M4R Format with Movavi's Online Service</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-oneplus-nord-ce-3-lite-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From OnePlus Nord CE 3 Lite 5G to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-reno-11-pro-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Oppo Reno 11 Pro 5G FRP</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/les-principaux-outils-doptimisation-des-films-et-videos-guide-expert/"><u>Les Principaux Outils D'Optimisation Des Films Et Vidéos - Guide Expert</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-photo-editing-in-minutes-pixlr-quick-hacks/"><u>Mastering Photo Editing in Minutes Pixlr Quick Hacks</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/sonuclarin-guvenli-yeniden-yayilmasindaki-tahminat-edinelmedigi-ozellikleri-anlatiyor-bedeli-uzerinde-degil/"><u>Sonuçların Güvenli Yeniden Yayılmasındaki Tahminat Edinelmediği Özellikleri Anlatıyor | Bedeli Üzerinde Değil</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/titres-optimises-pour-le-moteur-de-recherche/"><u>Titres Optimisés Pour Le Moteur De Recherche :</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-9-ferramentas-mais-eficientes-para-download-de-videos-do-youtube-em-formato-mp4/"><u>Top 9 Ferramentas Mais Eficientes Para Download De Vídeos Do YouTube Em Formato MP4</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-game-on-pioneer-top-choices-in-windows-10s-new-games-and-apps/"><u>[New] Game On, Pioneer Top Choices in Windows 10’S New Games and Apps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-top-10-software-to-create-and-edit-vector-images-that-you-should-know/"><u>[New] Top 10 Software to Create and Edit Vector Images That You Should Know</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-two-pocket-strategies-for-effective-google-meet-documentation/"><u>[Updated] Two Pocket Strategies for Effective Google Meet Documentation</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-building-your-brand-as-a-reviewer-of-cars-and-automotive-gear/"><u>2024 Approved Building Your Brand as a Reviewer of Cars and Automotive Gear</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/cutting-through-the-clutter-empowering-staff-with-microsoft-copilot-for-more-effective-meeting-experiences/"><u>Cutting Through the Clutter: Empowering Staff with Microsoft Copilot for More Effective Meeting Experiences</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/installing-linux-on-your-microsoft-surface-go-quick-guide-and-tutorial/"><u>Installing Linux on Your Microsoft Surface Go: Quick Guide and Tutorial</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/massive-outage-affecting-microsoft-365-services-detailed-breakdown-and-impact-analysis/"><u>Massive Outage Affecting Microsoft 365 Services: Detailed Breakdown & Impact Analysis</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/microsoft-and-ibm-unveil-open-source-version-of-ms-dos/"><u>Microsoft & IBM Unveil Open Source Version of MS-DOS</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/revolutionizing-team-collaboration-how-a-firm-harnesses-microsoft-copilot-to-enhance-productivity-in-meetings/"><u>Revolutionizing Team Collaboration: How a Firm Harnesses Microsoft Copilot to Enhance Productivity in Meetings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-pitfalls-of-outsourcing-privacy-to-technology-the-case-against-using-chatgpt-for-confidential-information/"><u>Understanding the Pitfalls of Outsourcing Privacy to Technology - The Case Against Using ChatGPT for Confidential Information</u></a></li>
 </ul></div>
 

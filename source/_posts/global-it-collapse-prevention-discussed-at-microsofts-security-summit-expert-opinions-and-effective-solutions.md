@@ -1,7 +1,7 @@
 ---
 title: Global IT Collapse Prevention Discussed at Microsoft's Security Summit - Expert Opinions & Effective Solutions
-date: 2024-09-20T20:42:31.854Z
-updated: 2024-09-28T04:53:01.582Z
+date: 2024-09-29T04:52:47.465Z
+updated: 2024-10-03T07:00:21.778Z
 tags:
   - windows
 categories:
@@ -27,18 +27,24 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Create a new folder
 
@@ -61,24 +67,31 @@ Double-click the icon, and a window opens with all the available settings. The c
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Search for a command
 
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -91,13 +104,6 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
@@ -105,10 +111,10 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Change the icon
@@ -156,22 +162,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-kinemasters-gs-complete-guide/"><u>[New] Mastering KineMaster's GS Complete Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-guide-to-video-opposite-on-snapchat-for-2024/"><u>[New] The Guide to Video Opposite on Snapchat for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-swift-moments-visual-and-auditory-sniped/"><u>[Updated] In 2024, Swift Moments Visual & Auditory Sniped</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-c51-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-samsung-galaxy-a34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/custom-flipbooks-made-easy-learn-how-to-tailor-your-own-with-flipbuilders-user-friendly-tools/"><u>Custom Flipbooks Made Easy: Learn How to Tailor Your Own with FlipBuilder's User-Friendly Tools</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/enhancing-ebooks-with-multimedia-adding-youtube-content-through-flipbuilder-for-engaging-readers/"><u>Enhancing eBooks with Multimedia: Adding YouTube Content Through FlipBuilder for Engaging Readers</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/explore-the-ins-and-outs-of-securing-refunds-with-flipbuilder-a-builders-guide-to-assurance/"><u>Explore the Ins and Outs of Securing Refunds with FlipBuilder: A Builder’s Guide to Assurance</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/global-gratitude-a-polyglots-toolkit-for-thank-you-phrases-157-trimmed-to-fit/"><u>Global Gratitude: A Polyglot's Toolkit for Thank You Phrases (157) [Trimmed to Fit]</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/how-to-add-mp3-audio-files-in-your-flipbooks-made-easy-discover-the-basics-at-flipbuildercom/"><u>How to Add MP3 Audio Files in Your Flipbooks Made Easy - Discover the Basics at FlipBuilder.com</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-y100t-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/is-it-possible-to-tailor-the-assistance-icon-for-flipbuilder-sites/"><u>Is It Possible to Tailor the Assistance Icon for FlipBuilder Sites?</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/live-sound-perfection-our-selections-of-the-top-6-stream-friendly-mics-for-2024/"><u>Live Sound Perfection Our Selections of the Top 6 Stream-Friendly Mics for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/maximizing-your-publishing-potential-how-many-ebooks-can-you-create-with-flipbuilder/"><u>Maximizing Your Publishing Potential: How Many eBooks Can You Create with FlipBuilder?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/movavis-quick-guide-change-wma-audiovideo-into-m4a-without-spending-a-penny/"><u>Movavi's Quick Guide: Change WMA Audio/Video Into M4A Without Spending a Penny!</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/saving-books-as-local-pdfs-with-flipbuilder-a-step-by-step-guide/"><u>Saving Books as Local PDFs with FlipBuilder - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/step-by-step-guide-adding-personalized-watermarks-to-flipbook-page-impressions-using-flipbuilder/"><u>Step-by-Step Guide: Adding Personalized Watermarks to FlipBook Page Impressions Using FlipBuilder</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-curated-selection-of-top-6-nft-maker-applications/"><u>[New] A Curated Selection of Top 6 NFT Maker Applications</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-plain-screenshot-software-for-windows-10/"><u>[New] In 2024, Plain Screenshot Software for Windows 10</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-competition-unveiled-twitchs-clash-with-youtube-for-2024/"><u>[Updated] The Competition Unveiled Twitch's Clash with YouTube for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-ideal-history-streams-the-10-premier-channels-for-students-study/"><u>2024 Approved Ideal History Streams The 10 Premier Channels for Students' Study</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/boost-your-pcs-efficiency-using-windows-11s-stealth-app-killer-method-detailed-guide-at-zdnet/"><u>Boost Your PC's Efficiency Using Windows 11'S Stealth App Killer Method | Detailed Guide at ZDNET</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-14-proipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 14 Pro/iPad | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-oppo-a18-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Oppo A18 Device SIM</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/master-the-art-of-transferring-files-across-oses-utilizing-google-quick-share-for-windows-and-android-integration-tips-by-zdnet/"><u>Master the Art of Transferring Files Across OSes: Utilizing Google Quick Share for Windows and Android Integration | Tips by ZDNET</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/master-your-pc-with-ease-enable-god-mode-in-windows-11-and-learn-why-its-a-game-changer-zdnet-insights/"><u>Master Your PC with Ease: Enable God Mode in Windows 11 and Learn Why It's a Game Changer | ZDNET Insights</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/microsoft-silently-ends-hopes-for-windows-10-lifeline-insights-from-zdnet/"><u>Microsoft Silently Ends Hopes for Windows 10 Lifeline - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/open-your-imagination-mastering-the-use-of-free-dall-e-3-via-bing/"><u>Open Your Imagination: Mastering the Use of Free DALL-E 3 via Bing</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/recover-lost-data-from-windows-11-expert-tips-and-tools/"><u>Recover Lost Data From Windows 11: Expert Tips and Tools</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/resolving-post-april-windows-update-a-comprehensive-guide-to-fixing-vpn-issues/"><u>Resolving Post-April Windows Update: A Comprehensive Guide to Fixing VPN Issues</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/securely-store-and-auto-fill-passwords-using-the-microsoft-authenticator-app-insights-from-zdnet/"><u>Securely Store and Auto-Fill Passwords Using the Microsoft Authenticator App | Insights From ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/taking-aerial-photography-further-with-the-innovative-dji-mavic-3-unboxed/"><u>Taking Aerial Photography Further with the Innovative DJI Mavic 3 Unboxed!</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-rated-laptops-of-2024-in-depth-reviews-by-tech-experts-zdnet/"><u>Top-Rated Laptops of 2024: In-Depth Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unraveling-sonys-nw-ws623-aesthetic-dilemmas/"><u>Unraveling Sony's NW-WS623 Aesthetic Dilemmas</u></a></li>
 </ul></div>
 

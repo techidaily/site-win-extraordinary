@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Comprehensive Analysis of the Keychron Q5 Mechanical Keyboard: Is Its Enhanced Performance Worth the Premium Cost?"
-date: 2024-09-22T03:45:44.358Z
-updated: 2024-09-28T06:18:08.562Z
+date: 2024-09-27T22:17:05.330Z
+updated: 2024-10-02T22:11:03.329Z
 tags:
   - office-furniture
 categories:
@@ -53,10 +53,10 @@ South-facing (towards the typist), RGB LED lights are provided on the keyboard. 
 **Also: [Keychron Q1 QMK custom mechanical keyboard review](https://www.zdnet.com/product/keychron-q1-qmk-custom-mechanical-keyboard/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** recommends
@@ -67,18 +67,18 @@ The keyboard has several layers, including the bottom aluminum case, silicone ga
 
 The keys are set at a 5.3-degree angle, and the bottom case is not adjustable. I use a [Keychron wooden palm rest](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWalnut-Keychron-Bluetooth-Mechanical-Keyboard%2Fdp%2FB07Y84SP8G%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1ad522f2-4907-43aa-8c40-35319972b902%7Cdtp&dtb=1) since the keyboard is quite tall at the front, 30.9 mm with keycaps installed. The back height is 42.8 mm with the keycaps. The keyboard is 390.5 mm in length and 145 mm in width.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Keyboard software
 
 The model I tested includes the knob, and by default, the knob works to control volume with a press-in of the knob toggling mute on and off. You can reprogram the knob to perform other actions, such as zoom in and out, adjust the screen brightness, and more. In addition to downloading and installing the free VIA software, you also need to download the appropriate keymap JSON file from the Keychron website. Once this is set up, then you can set the macro for the knob in addition to mapping other keys as you desire.
 
 Four layers of key settings are provided with layers 0/1 assigned to MacOS and layers 2/3 assigned to Windows. You can customize shortcuts, backlight effects, and a lot more with the software, so spend some time setting the keyboard up, so it works best for your needs.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Switch options
 
@@ -97,10 +97,10 @@ The retail package includes the keyboard, keycap puller, switch puller, screwdri
 [Keychron Q5 Keyboard $205 at Keychron](https://www.keychron.com/products/keychron-q5-qmk-custom-mechanical-keyboard?variant=40010452271193)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Daily usage experiences and conclusion
@@ -110,10 +110,10 @@ The Keychron Q5 keyboard is available in a barebones model for $175 up to a full
 Keychron also has a new double gasket design in the Q5 that adds gaskets and silicone pads to reduce the sound resonance between the metals and reduce other sounds while supporting the overall typing sound. It's tough to find anything wrong with the keyboard, and spending $200 for a high-quality keyboard that helps you enter text quickly and efficiently is worth it to me.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Alternatives to consider
@@ -156,20 +156,18 @@ The Keychron Q5 keyboard is a near-perfect keyboard for many people, but if you 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-simplifying-streaming-key-tactics-for-youtube-and-twitch-via-obs/"><u>[New] In 2024, Simplifying Streaming Key Tactics for YouTube & Twitch via OBS</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-poptoons-ultimate-insight-24-annual/"><u>[Updated] In 2024, PopToons Ultimate Insight '24 Annual</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1-how-to-set-up-your-windows-recovery-drive-effortlessly-a-step-by-step-guide-for-peace-of-mind/"><u>1. How to Set Up Your Windows Recovery Drive Effortlessly: A Step-by-Step Guide for Peace of Mind</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-capturing-the-moment-methods-for-online-audio-recording/"><u>2024 Approved Capturing the Moment Methods for Online Audio Recording</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/accidentally-downgraded-to-home-ed-restore-your-windows-pro-features-with-this-quick-fix-tech-tips-for-professionals/"><u>Accidentally Downgraded to Home Ed: Restore Your Windows Pro Features with This Quick Fix | Tech Tips for Professionals</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/anticipating-the-sunset-date-when-does-microsoft-plan-to-drop-support-for-specific-windows-and-office-versions/"><u>Anticipating the Sunset Date: When Does Microsoft Plan to Drop Support for Specific Windows and Office Versions?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721402550569-earn-extra-cash-by-hunting-software-glitches-with-openai/"><u>Earn Extra Cash by Hunting Software Glitches with OpenAI!</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/end-of-life-deadline-approaching-for-win-11s-21h2-and-22h2-editions-protect-your-system-by-updating-now-zdnet/"><u>End-of-Life Deadline Approaching for Win 11'S 21H2 and 22H2 Editions: Protect Your System by Updating Now | ZDNet</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/essential-2023-guide-to-microsoft-and-apple-productivity-tools-expert-picks-by-zdnet/"><u>Essential 2023 Guide to Microsoft and Apple Productivity Tools: Expert Picks by ZDNet</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/exploring-the-effects-of-drive-encryption-on-system-speed-a-detailed-review/"><u>Exploring the Effects of Drive Encryption on System Speed - A Detailed Review</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/zero-to-hero-a-step-by-step-approach-to-youtube-backlinks/"><u>From Zero to Hero A Step-by-Step Approach to YouTube Backlinks</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/global-it-collapse-prevention-discussed-at-microsofts-security-summit-expert-opinions-and-effective-solutions/"><u>Global IT Collapse Prevention Discussed at Microsoft's Security Summit - Expert Opinions & Effective Solutions</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-vivo-x-fold-2-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo X Fold 2 Without Password | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-vivo-v27-pro-easily-by-drfone-android/"><u>In 2024, How To Unlock a Vivo V27 Pro Easily?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-gt-3-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme GT 3 Device</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-unmatched-youtube-success-10-unique-tips-for-your-shorts/"><u>[New] 2024 Approved Unmatched YouTube Success 10 Unique Tips for Your Shorts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-chortle-chamber-ideas-for-7-amusing-online-sessions/"><u>[New] In 2024, Chortle Chamber Ideas for 7 Amusing Online Sessions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-insights-ultimate-guide-to-understand-ig-data/"><u>[New] In 2024, Instagram Insights Ultimate Guide to Understand IG Data</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-a-step-by-step-guide-to-using-polarr-for-stunning-images/"><u>[Updated] In 2024, A Step-by-Step Guide to Using Polarr for Stunning Images</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1-mp3aacwma-converter-streamline-your-music-collection-with-hypem-downloader-from-hypemachine/"><u>1. 'MP3/AAC/WMA Converter: Streamline Your Music Collection with Hypem Downloader From HypeMachine'</u></a></li>
+<li><a href="https://os-tips.techidaily.com/2023s-most-popular-iphone-1-pro-max-sleeves-choosing-the-perfect-case-for-your-device/"><u>2023'S Most Popular iPhone 1# Pro Max Sleeves: Choosing the Perfect Case for Your Device</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-meizu-21-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Meizu 21</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/access-a-curated-library-of-ophthalmology-videography-root-atlas-and-slit-lamp-examinations-resembling-pathological-cases/"><u>Access a Curated Library of Ophthalmology Videography: Root Atlas & Slit Lamp Examinations Resembling Pathological Cases</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/drive-upgrade-streamline-mf4770n-in-windows/"><u>Drive Upgrade: Streamline MF4770n in WIndows</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/easy-methods-for-transferring-breakdance-movies-from-the-internet-to-your-pc-or-mac/"><u>Easy Methods for Transferring Breakdance Movies From the Internet to Your PC or Mac</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/mastering-snap-shots-in-google-meet-a-quick-guide-for-2024/"><u>Mastering Snap Shots in Google Meet A Quick Guide for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/step-by-step-guide-to-using-flipbuilder-for-embedding-a-background-image-of-your-logo-in-flipbooks/"><u>Step-by-Step Guide to Using FlipBuilder for Embedding a Background Image of Your Logo in Flipbooks</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/step-by-step-tutorial-crafting-your-unique-flipbook-at-flipbuildercom/"><u>Step-by-Step Tutorial: Crafting Your Unique Flipbook at FlipBuilder.com</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "AI Revolution in Software Development: Empowering Gen A Programmers to Increase Productivity"
-date: 2024-09-22T00:35:24.980Z
-updated: 2024-09-28T06:40:29.152Z
+date: 2024-10-02T06:49:01.446Z
+updated: 2024-10-02T17:15:43.982Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -129,6 +128,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +159,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,17 +208,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-top-tones-where-to-access-google-pixel-music-in-2024/"><u>[New] Top Tones Where to Access Google Pixel Music, In 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-expert-stock-videos-top-channels-for-analysis/"><u>[Updated] Expert Stock Videos Top Channels for Analysis</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-ultimate-list-12-great-sources-for-no-cost-image-shots/"><u>[Updated] In 2024, Ultimate List 12 Great Sources for No-Cost Image Shots</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1-mp3aacwma-converter-streamline-your-music-collection-with-hypem-downloader-from-hypemachine/"><u>1. 'MP3/AAC/WMA Converter: Streamline Your Music Collection with Hypem Downloader From HypeMachine'</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725290622635-aiai/"><u>AIを活用したブラックアンドホワイト映像の高度な色彩変換手法：プロフェッショナルにカラー化できる最新AIツールリスト</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/break-away-from-grouped-icons-in-win-11/"><u>Break Away From Grouped Icons in Win 11</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/easy-methods-for-transferring-breakdance-movies-from-the-internet-to-your-pc-or-mac/"><u>Easy Methods for Transferring Breakdance Movies From the Internet to Your PC or Mac</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/exploring-winxvideos-advanced-artificial-intelligence-key-qanda-insights/"><u>Exploring WinXVideo's Advanced Artificial Intelligence: Key Q&A Insights</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-google-duet-integration-with-gmail-a-step-by-step-guide/"><u>Mastering Google Duet Integration with Gmail: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/step-by-step-guide-to-using-flipbuilder-for-embedding-a-background-image-of-your-logo-in-flipbooks/"><u>Step-by-Step Guide to Using FlipBuilder for Embedding a Background Image of Your Logo in Flipbooks</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/step-by-step-tutorial-crafting-your-unique-flipbook-at-flipbuildercom/"><u>Step-by-Step Tutorial: Crafting Your Unique Flipbook at FlipBuilder.com</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-your-car-audio-setup-discover-how-to-retrieve-the-radio-password/"><u>Unlocking Your Car Audio Setup: Discover How to Retrieve the Radio Password</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-explore-best-asmr-apps-both-sides-of-the-os/"><u>[New] 2024 Approved Explore Best ASMR Apps, Both Sides of the OS</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-cost-analysis-strategy-for-music-video-creation/"><u>[New] Cost Analysis Strategy for Music Video Creation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-free-film-resource-highlights-where-to-start-your-search-for-2024/"><u>[Updated] Free Film Resource Highlights Where to Start Your Search for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-whatsapp-transfers-broadcasting-twitter-videos-with-ease/"><u>[Updated] In 2024, WhatsApp Transfers Broadcasting Twitter Videos with Ease</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/exploring-the-apple-m1-pro-powered-macbook-pro-a-marvelous-choice-over-windows-11-laptops/"><u>Exploring the Apple M1 Pro-Powered MacBook Pro: A Marvelous Choice Over Windows 11 Laptops</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/fusing-fun-and-functionality-top-6-engaging-video-formats/"><u>Fusing Fun and Functionality Top 6 Engaging Video Formats</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/hands-on-review-surface-duo-2s-new-pen-cover-enhances-durability-and-supports-wireless-charging/"><u>Hands-On Review: Surface Duo 2'S New Pen Cover Enhances Durability & Supports Wireless Charging</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-oneplus-ace-2v-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your OnePlus Ace 2V Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-nokia-c110-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Nokia C110 FRP Bypass</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/mastering-voice-control-a-step-by-step-guide-to-navigating-windows-11-with-your-voice-insights-from-zdnet/"><u>Mastering Voice Control: A Step-by-Step Guide to Navigating Windows 11 with Your Voice - Insights From ZDNet</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/microsoft-365-outage-understanding-the-cause-behind-major-user-disruption-techinsights/"><u>Microsoft 365 Outage: Understanding the Cause Behind Major User Disruption | TechInsights</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/purchase-microsoft-project-pro-and-visio-pro-licenses-at-an-unbeatable-price-just-20-exclusive-offer-on-zdnet/"><u>Purchase Microsoft Project Pro & Visio Pro Licenses at an Unbeatable Price - Just $20! Exclusive Offer on ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-problems-with-mount-and-blade-ii-bannerlord-crashing-gameplay/"><u>Resolved Problems with Mount & Blade II: Bannerlord Crashing Gameplay</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-of-bouncie-driving-connect-the-user-friendly-cost-effective-way-to-stay-connected-while-on-the-move/"><u>Review of Bouncie Driving Connect: The User-Friendly, Cost-Effective Way to Stay Connected While On the Move</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/step-into-the-future-of-interaction-high-tech-actions-featuring-intel-realsense-sensors/"><u>Step Into the Future of Interaction: High-Tech Actions Featuring Intel RealSense Sensors</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/stream-your-games-with-ease-a-step-by-step-facebook-broadcasting-workshop/"><u>Stream Your Games with Ease: A Step-by-Step Facebook Broadcasting Workshop</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/surface-desktop-showdown-of-2023-expert-opinions-and-detailed-comparisons-zdnets-guide-to-choosing-the-right-one/"><u>Surface Desktop Showdown of 2023: Expert Opinions and Detailed Comparisons | ZDNet's Guide to Choosing the Right One</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/top-notch-photo-recovery-program/"><u>Top-Notch Photo Recovery Program</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/zdnets-comprehensive-tutorial-on-organizing-windows-user-profiles-within-families/"><u>ZDnet's Comprehensive Tutorial on Organizing Windows User Profiles Within Families</u></a></li>
 </ul></div>
 

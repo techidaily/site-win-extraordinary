@@ -1,7 +1,7 @@
 ---
 title: "The Unexpected Domino Effect of CrowdStrike on Critical Infrastructure: Examining the Windows Outage Crisis in Transportation and Banking"
-date: 2024-09-26T03:06:18.296Z
-updated: 2024-09-28T01:56:26.537Z
+date: 2024-09-27T23:32:00.891Z
+updated: 2024-10-03T03:01:28.559Z
 tags:
   - microsoft
 categories:
@@ -114,25 +114,24 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/outube-subscriber-chart-5-most-subscribed-youtuber-for-2024/"><u>[New] YouTube Subscriber Chart - 5 Most Subscribed YouTuber for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-xbox-game-memories-save-them-with-screenshots/"><u>[Updated] 2024 Approved Xbox Game Memories, Save Them with Screenshots</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-cultivate-a-thriving-igtv-community-5-key-increase-strategies/"><u>[Updated] In 2024, Cultivate a Thriving IGTV Community 5 Key Increase Strategies</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-creating-cost-effective-youtube-closure-elements/"><u>2024 Approved Creating Cost-Effective YouTube Closure Elements</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1726224374588-dtsmp3-movavi/"><u>免費在線 DTS/MP3音質轉換服務 - 以Movavi為選擇的使用者指南</u></a></li>
-<li><a href="https://windows11.techidaily.com/arcade-mode-for-window-users-key-fixes-ahead/"><u>Arcade Mode for Window Users: Key Fixes Ahead!</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/como-transformar-facilmente-archivos-aifc-en-mp3-sin-costo-con-la-herramienta-en-linea-de-movavi/"><u>Cómo Transformar Fácilmente Archivos AIFC en MP3 Sin Costo Con La Herramienta en Línea De Movavi</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/gratis-online-f4v-naar-mp3-vervangen-professioneel-door-movavi/"><u>Gratis Online F4V Naar MP3 Vervangen - Professioneel Door Movavi</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/gratis-online-flv-to-aac-converter-professioneel-en-breed-zoekend/"><u>Gratis Online FLV-to-AAC Converter - Professioneel en Breed Zoekend</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-unlocking-facebooks-full-potential-4-sharing-techniques/"><u>In 2024, Unlocking Facebook's Full Potential 4 Sharing Techniques</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/karakter-oldukuyla-mxf-formatinizi-windows-mac-panela-sokarak-mp4-yonelimine-donusturmeme-guven-kalabilirsiniz/"><u>Karakter Oldukuyla MXF Formatınızı Windows / Mac Panela Sokarak MP4 Yönelimine Dönüştürmeme Güven Kalabilirsiniz!</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-rated-battery-options-for-your-google-nest-video-doorbell-in-depth-review/"><u>Top Rated Battery Options for Your Google Nest Video Doorbell - In-Depth Review</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/trasformare-i-file-asf-in-mp3-gratuitamente-sul-web-guida-di-movavi/"><u>Trasformare I File ASF in MP3 Gratuitamente Sul Web - Guida Di Movavi</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-step-up-your-iphones-selfie-game-with-these-best-free-app-tools-for-2024/"><u>[Updated] Step-Up Your iPhone's Selfie Game with These Best Free App Tools for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-contacts-from-apple-iphone-14-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Contacts from Apple iPhone 14 to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-solutions-to-rectify-missing-openal32dll-filesystem-errors/"><u>Comprehensive Solutions to Rectify Missing OpenAL32.dll Filesystem Errors</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/free-customizable-design-templates-craft-stunning-fashion-flipbooks-with-flipbuildercom/"><u>Free Customizable Design Templates: Craft Stunning Fashion Flipbooks with FlipBuilder.com</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/how-can-you-design-original-graphics-using-flipbuildercoms-tools/"><u>How Can You Design Original Graphics Using FlipBuilder.com's Tools?</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/how-to-allow-local-downloads-of-your-created-flipbooks-on-flipbuildercom/"><u>How To Allow Local Downloads of Your Created Flipbooks on FlipBuilder.com</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-transform-spotify-playlist-data-into-downloadable-text-files/"><u>How to Transform Spotify Playlist Data Into Downloadable Text Files</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-restart-the-dolby-sound-driver-in-windows-11/"><u>How to Troubleshoot and Restart the Dolby Sound Driver in Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-chatgpt-a-credible-source-exploring-ai-integrity-and-accuracy/"><u>Is ChatGPT a Credible Source? Exploring AI Integrity and Accuracy</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-troubleshooting-guide-fixing-starfield-game-stability-problems/"><u>PC Troubleshooting Guide: Fixing Starfield Game Stability Problems</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/step-by-step-guide-to-using-flipbuilder-for-embedding-a-background-image-of-your-logo-in-flipbooks/"><u>Step-by-Step Guide to Using FlipBuilder for Embedding a Background Image of Your Logo in Flipbooks</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/step-by-step-tutorial-crafting-your-unique-flipbook-at-flipbuildercom/"><u>Step-by-Step Tutorial: Crafting Your Unique Flipbook at FlipBuilder.com</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

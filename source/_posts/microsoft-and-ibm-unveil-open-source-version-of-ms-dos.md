@@ -1,7 +1,7 @@
 ---
 title: Microsoft & IBM Unveil Open Source Version of MS-DOS
-date: 2024-09-20T22:06:00.526Z
-updated: 2024-09-28T00:30:14.070Z
+date: 2024-09-30T03:25:12.624Z
+updated: 2024-10-03T02:43:33.580Z
 tags:
   - microsoft
 categories:
@@ -114,35 +114,25 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/updated-activate-windows-xp-movie-creation-toolkit/"><u>[Updated] Activate Windows XP Movie Creation Toolkit</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1-innovative-imaging-solutions-with-mirilliss-picture2-tech/"><u>1. Innovative Imaging Solutions with Mirillis's Picture2 Tech</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-fps-titans-ranking-gamings-elite-shooters/"><u>2024 Approved FPS Titans Ranking Gaming's Elite Shooters</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/ai-revolution-in-software-development-empowering-gen-a-programmers-to-increase-productivity/"><u>AI Revolution in Software Development: Empowering Gen A Programmers to Increase Productivity</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conquering-new-world-effective-solutions-to-the-frustrating-easy-anti-cheat-launch-error/"><u>Conquering New World: Effective Solutions to the Frustrating Easy Anti-Cheat Launch Error</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/convert-and-download-your-favorite-chilloutzone-videos-in-multiple-formats/"><u>Convert and Download Your Favorite ChilloutZone Videos in Multiple Formats</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/decoding-facebooks-automatic-video-advancements-for-2024/"><u>Decoding Facebook's Automatic Video Advancements for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/eliminate-your-game-setup-errors-with-proven-solutions-from-origin-games-support/"><u>Eliminate Your Game Setup Errors with Proven Solutions From Origin Games Support</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/get-your-favorite-nhl-games-and-clips-as-video-files-mp4-wmv-mov-or-avi-download-options/"><u>Get Your Favorite NHL Games and Clips as Video Files: MP4, WMV, MOV, or AVI Download Options</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-realme-c67-4g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Realme C67 4G</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/inspire-your-sweat-session-with-the-most-motivating-melodies-for-2024/"><u>Inspire Your Sweat Session with the Most Motivating Melodies for 2024</u></a></li>
-<li><a href="https://techidaily.com/is-your-realme-11-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme 11 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/navigating-the-rules-of-engagement-with-mirillis-services-terms-and-conditions-explained/"><u>Navigating the Rules of Engagement with Mirillis Services: Terms and Conditions Explained</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/step-into-the-future-of-interaction-high-tech-actions-featuring-intel-realsense-sensors/"><u>Step Into the Future of Interaction: High-Tech Actions Featuring Intel RealSense Sensors</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/stream-your-games-with-ease-a-step-by-step-facebook-broadcasting-workshop/"><u>Stream Your Games with Ease: A Step-by-Step Facebook Broadcasting Workshop</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/transformar-video-h2-65hevc-en-h2-64-gratis-y-sin-comprometer-la-calidad/"><u>Transformar Vídeo H.2 65/HEVC en H.2 64 Gratis Y Sin Comprometer La Calidad</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/zdnets-comprehensive-tutorial-on-organizing-windows-user-profiles-within-families/"><u>ZDnet's Comprehensive Tutorial on Organizing Windows User Profiles Within Families</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-action-sequence-showdown-new-era-gopro-hero5-black-vs-old-guard-hero4-silver/"><u>[New] Action Sequence Showdown New Era GoPro Hero5 Black Vs Old Guard Hero4 Silver</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-beginners-blueprint-for-yourwebcamrecord-for-2024/"><u>[New] Beginner's Blueprint for YourWebcamRecord for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-illuminating-the-future-luminances-influence-on-hdr/"><u>[Updated] Illuminating the Future Luminance’s Influence on HDR</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-seamless-change-of-screen-capture-types-on-macos/"><u>[Updated] In 2024, Seamless Change of Screen Capture Types on MacOS</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/diy-tips-enhancing-snapchat-photos-with-custom-audio-tracks/"><u>DIY Tips: Enhancing Snapchat Photos with Custom Audio Tracks</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/enhance-productivity-in-microsoft-word-with-these-top-7-powerful-add-ons/"><u>Enhance Productivity in Microsoft Word with These Top 7 Powerful Add-Ons</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-lava-blaze-2-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Lava Blaze 2 Pro Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/quick-and-effortless-guide-transferring-your-entire-iphone-library-to-your-personal-computer/"><u>Quick and Effortless Guide: Transferring Your Entire iPhone Library to Your Personal Computer</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-9-free-email-clients-the-best-pick-for-your-android-device/"><u>Top 9 Free Email Clients: The Best Pick for Your Android Device</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-blu-ray-disc-players-compatible-with-windows-8-enjoy-high-definition-movies/"><u>Top Blu-Ray Disc Players Compatible with Windows 8: Enjoy High-Definition Movies</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-strategies-for-effortlessly-changing-mts-files-into-high-quality-avi-video-clips/"><u>Top Strategies for Effortlessly Changing MTS Files Into High-Quality AVI Video Clips</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Oppo F25 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

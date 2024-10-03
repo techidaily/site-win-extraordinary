@@ -1,7 +1,7 @@
 ---
 title: "Essential 2023 Guide to Microsoft and Apple Productivity Tools: Expert Picks by ZDNet"
-date: 2024-09-26T03:59:29.857Z
-updated: 2024-09-27T21:41:42.591Z
+date: 2024-09-27T22:29:50.097Z
+updated: 2024-10-02T17:32:58.204Z
 tags:
   - windows
 categories:
@@ -34,10 +34,10 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Create a new folder
@@ -45,13 +45,6 @@ Screenshot by Lance Whitney/ZDNET
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -61,6 +54,13 @@ Right-click on the new folder and rename it to the following string:
 When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Launch the icon
 
@@ -74,18 +74,18 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Double-click the command to launch it
 
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -98,6 +98,13 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
@@ -109,13 +116,6 @@ Screenshot by Lance Whitney/ZDNET
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -156,20 +156,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-techniques-for-text-overlays-in-igtv-content/"><u>[New] Techniques for Text Overlays in IGTV Content</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-going-against-gravity-innovative-ways-to-rewind-youtube-content-for-2024/"><u>[Updated] Going Against Gravity Innovative Ways to Rewind YouTube Content for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-swift-and-steady-follower-filtering-the-leading-twitter-tools-list/"><u>2024 Approved Swift and Steady Follower Filtering The Leading Twitter Tools List</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/choisir-le-convertisseur-video-numero-un-gratuite-en-ligne-mp4-et-plus-comparatif-2024/"><u>Choisir Le Convertisseur Vidéo Numéro Un Gratuite en Ligne, MP4 Et Plus - Comparatif 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/conversione-da-dvd-a-mkv-o-viceversa-con-movavi-download-gratuito/"><u>Conversione Da DVD a MKV O Viceversa Con Movavi - Download Gratuito</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/gaming-memories-made-easy-with-fraps-for-2024/"><u>Gaming Memories Made Easy with Fraps for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/online-mov-naar-mp3-konvertor-vrijetijd-vertalen-kostenloos-and-eenvoudig/"><u>Online MOV Naar MP3 Konvertor Vrijetijd Vertalen - Kostenloos & Eenvoudig</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/online-vrijetijdelijk-wmv-in-mkv-veranderen-met-movavi-efficient-en-gemakkelijk/"><u>Online Vrijetijdelijk Wmv in Mkv Veranderen Met Movavi: Efficiënt en Gemakkelijk</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/sadece-paraleluyle-movavi-kapak-yaratma-sistemi-maddedi-bastalmis-ekran-kayden-egitim-aracisi/"><u>Sadece Paralelüyle Movavi Kapak Yaratma Sistemi | Maddedi Baştalmış Ekran Kaydən Eğitim Aracısı</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/soluciones-expertas-guia-paso-a-paso-para-empezar-a-ver-videos-mp4-en-windows-10-8-y-7/"><u>Soluciones Expertas: Guía Paso a Paso Para Empezar a Ver Videos .MP4 en Windows 10, 8 Y 7</u></a></li>
-<li><a href="https://network-issues.techidaily.com/solve-the-shadowy-surface-of-lenovo-portable/"><u>Solve the Shadowy Surface of Lenovo Portable</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-review-ultimate-guide-to-the-latest-gadgets/"><u>Tom's Tech Review: Ultimate Guide to the Latest Gadgets</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/transform-your-files-seamlessly-convert-aac-format-to-wmv-online-at-no-cost-with-movavi/"><u>Transform Your Files Seamlessly: Convert AAC Format to WMV Online at No Cost with Movavi</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-huawei-nova-y91-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Huawei Nova Y91 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/winxvideo-artificial-intelligence-masterclass-the-ultimate-step-by-step-guide-to-advanced-video-processing-techniques/"><u>Winxvideo Artificial Intelligence Masterclass: The Ultimate Step-by-Step Guide to Advanced Video Processing Techniques</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-pro-tips-that-make-every-iphone-landscape-stand-out/"><u>[New] 2024 Approved Pro Tips That Make Every iPhone Landscape Stand Out</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-amplify-and-illuminate-online-videos-with-these-5-aids/"><u>2024 Approved Amplify and Illuminate Online Videos with These 5 Aids</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-mastering-overloaded-tiktok-saves-a-guide-to-editing-and-streamlining/"><u>2024 Approved Mastering Overloaded TikTok Saves A Guide to Editing and Streamlining</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/efficient-strategies-for-setting-up-and-overseeing-home-windows-user-profiles-a-comprehensive-guide/"><u>Efficient Strategies for Setting Up & Overseeing Home Windows User Profiles: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/evaluating-copilot-pro-and-chatgpt-plus-determining-the-top-value-for-money-ai-chatbot/"><u>Evaluating Copilot Pro and ChatGPT Plus: Determining the Top Value-for-Money AI Chatbot</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/explore-the-power-of-durability-and-high-quality-hd-sunbritetvs-55-4k-hdr-veranda-tv-for-outdoor-enthusiasts/"><u>Explore the Power of Durability and High-Quality HD: SunBriteTV's 55 4K HDR Veranda TV for Outdoor Enthusiasts</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-itel-a60s-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Itel A60s to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-empowering-your-brand-top-20-strategies-for-high-impact-fb-video-campaigns/"><u>In 2024, Empowering Your Brand Top 20 Strategies for High-Impact FB Video Campaigns</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-samsung-galaxy-s23-ultra-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Samsung Galaxy S23 Ultra Screen | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-starting-with-hauls-a-step-by-step-editing-manual/"><u>In 2024, Starting with Hauls A Step-by-Step Editing Manual</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-microsoft-black-friday-savings-save-400-on-surface-pro-7-and-get-200-off-surface-laptop-go-exclusive-deals-from-zdnet/"><u>Top Microsoft Black Friday Savings: Save $400 on Surface Pro 7 & Get $200 Off Surface Laptop Go - Exclusive Deals From ZDNet</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/transform-your-team-with-top-tier-tech-talent-discover-microsofts-elite-developers/"><u>Transform Your Team with Top-Tier Tech Talent: Discover Microsoft’s Elite Developers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-how-to-monitor-iphone-user-position-with-consent/"><u>Understanding How to Monitor iPhone User Position with Consent</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/understanding-the-latest-change-in-windows-11-unwanted-onedrive-folders-backup-insights-from-zdnet/"><u>Understanding the Latest Change in Windows 11: Unwanted OneDrive Folders Backup - Insights From ZDNet.</u></a></li>
 </ul></div>
 
