@@ -1,7 +1,7 @@
 ---
 title: Microsoft & IBM Unveil Open Source Version of MS-DOS
-date: 2024-09-30T03:25:12.624Z
-updated: 2024-10-03T02:43:33.580Z
+date: 2024-10-06T16:46:47.978Z
+updated: 2024-10-08T16:56:55.325Z
 tags:
   - microsoft
 categories:
@@ -114,25 +114,25 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-action-sequence-showdown-new-era-gopro-hero5-black-vs-old-guard-hero4-silver/"><u>[New] Action Sequence Showdown New Era GoPro Hero5 Black Vs Old Guard Hero4 Silver</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-beginners-blueprint-for-yourwebcamrecord-for-2024/"><u>[New] Beginner's Blueprint for YourWebcamRecord for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-illuminating-the-future-luminances-influence-on-hdr/"><u>[Updated] Illuminating the Future Luminance’s Influence on HDR</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-seamless-change-of-screen-capture-types-on-macos/"><u>[Updated] In 2024, Seamless Change of Screen Capture Types on MacOS</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/diy-tips-enhancing-snapchat-photos-with-custom-audio-tracks/"><u>DIY Tips: Enhancing Snapchat Photos with Custom Audio Tracks</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/enhance-productivity-in-microsoft-word-with-these-top-7-powerful-add-ons/"><u>Enhance Productivity in Microsoft Word with These Top 7 Powerful Add-Ons</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-lava-blaze-2-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Lava Blaze 2 Pro Devices</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/quick-and-effortless-guide-transferring-your-entire-iphone-library-to-your-personal-computer/"><u>Quick and Effortless Guide: Transferring Your Entire iPhone Library to Your Personal Computer</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-9-free-email-clients-the-best-pick-for-your-android-device/"><u>Top 9 Free Email Clients: The Best Pick for Your Android Device</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-blu-ray-disc-players-compatible-with-windows-8-enjoy-high-definition-movies/"><u>Top Blu-Ray Disc Players Compatible with Windows 8: Enjoy High-Definition Movies</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-strategies-for-effortlessly-changing-mts-files-into-high-quality-avi-video-clips/"><u>Top Strategies for Effortlessly Changing MTS Files Into High-Quality AVI Video Clips</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guidance-to-youtube-music-mix/"><u>[New] 2024 Approved Guidance to YouTube Music Mix</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-simplify-your-meetings-using-zoom-to-upgrade-skype/"><u>[Updated] Simplify Your Meetings Using Zoom to Upgrade Skype</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1-innovative-imaging-solutions-with-mirilliss-picture2-tech/"><u>1. Innovative Imaging Solutions with Mirillis's Picture2 Tech</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/convert-and-download-your-favorite-chilloutzone-videos-in-multiple-formats/"><u>Convert and Download Your Favorite ChilloutZone Videos in Multiple Formats</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/diagnosing-and-fixing-poor-video-quality-on-netflix-a-comprehensive-guide/"><u>Diagnosing & Fixing Poor Video Quality on Netflix: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/get-your-favorite-nhl-games-and-clips-as-video-files-mp4-wmv-mov-or-avi-download-options/"><u>Get Your Favorite NHL Games and Clips as Video Files: MP4, WMV, MOV, or AVI Download Options</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/infobox/"><u>Infobox</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722964524089-logitech-keyboard-setup-and-drivers-compatible-with-windows-10-download-here/"><u>Logitech Keyboard Setup & Drivers Compatible with Windows 10 – Download Here</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/lost-your-ipad-passcode-follow-these-simple-steps-to-regain-access/"><u>Lost Your iPad Passcode? Follow These Simple Steps to Regain Access!</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/navigating-the-rules-of-engagement-with-mirillis-services-terms-and-conditions-explained/"><u>Navigating the Rules of Engagement with Mirillis Services: Terms and Conditions Explained</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/steps-for-securely-retrieving-media-files-from-periscopetv-on-both-macintosh-and-pc-platforms/"><u>Steps for Securely Retrieving Media Files From periscope.tv on Both Macintosh and PC Platforms</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/tesla-faces-restrictions-not-all-autonomous-driving-features-approved-in-specific-us-region/"><u>Tesla Faces Restrictions: Not All Autonomous Driving Features Approved in Specific U.S. Region</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-parental-control-software-for-mac-and-windows-pcs-by-allavsoft-your-ideal-solution/"><u>Top Parental Control Software for Mac & Windows PCs by Allavsoft – Your Ideal Solution!</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Gratis Online FLV-to-AAC Converter - Professioneel en Breed Zoekend
-date: 2024-09-26T09:38:08.561Z
-updated: 2024-10-02T22:22:35.051Z
+date: 2024-10-02T16:03:30.390Z
+updated: 2024-10-08T16:27:34.924Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/dfb4c0e71cb8efa8120cba373cc9f3c0f06b706583b025c9eef2cc3814d45b39.jpg
@@ -211,10 +211,10 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Installer DirectX 12
@@ -242,13 +242,6 @@ Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** 
 Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour activer le Game Mode. Si votre PC prend en charge le Mode Jeu, le système optimisera les performances de votre PC pour les jeux.
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Gérez vos heures actives
 
@@ -285,10 +278,10 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Le problème ici est le même qu'avec Windows Mises à jour. Steam met automatiquement à jour tous vos jeux, même ceux auxquels vous n'avez pas joué depuis longtemps. Les mises à jour en arrière-plan consomment la mémoire de votre PC et peuvent ralentir les processus de jeu.
@@ -299,13 +292,6 @@ Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive sou
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Désactiver les notifications
 
 Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent nuire à votre champ de vision pendant le jeu. Suivez les étapes suivantes pour désactiver toutes les notifications avant de jouer :
@@ -314,6 +300,13 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 2. Tapez "Notifications" dans la barre de recherche et sélectionnez **Notifications et paramètres d'actions** dans les résultats.
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Régler le panneau de contrôle NVIDIA
 
@@ -338,6 +331,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver l'accélération de la souris
 
 Celui-ci n'a rien à voir avec l'amélioration des performances de votre PC en matière de jeu, mais il s'agit plutôt d'un conseil pour vous permettre d'améliorer vos performances personnelles en matière de jeu. L'accélération de la souris est un paramètre qui fait bouger votre souris en se basant non seulement sur la détection des mouvements physiques mais aussi sur la vitesse. Cette option rend en fait les mouvements de votre souris moins précis, car elle ajoute un paramètre supplémentaire au mouvement que vous transmettez à la souris. Étant donné que la précision est cruciale pour la précision de la visée dans les jeux de tir à la première personne, si vous êtes un fan de Call of Duty, Counter-Strike ou Overwatch, vous devriez absolument désactiver cette option.
@@ -358,6 +358,13 @@ Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ?
 
 ![](https://cdn.staticont.net/pages/0012/47/f8270db0638748de336b7f11de9f898510486d54.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
@@ -371,13 +378,6 @@ Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tou
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mettez votre RAM à niveau
 
@@ -439,15 +439,28 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Utiliser un plan d'alimentation performant
 
@@ -497,26 +510,6 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Foire aux questions 
@@ -553,6 +546,13 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 ### Windows 10 est-il meilleur pour les jeux ?
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Comment obtenir 60 fps dans un jeu ?
 
@@ -607,18 +607,22 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/2024-approved-top-ios-slideshow-programming-for-series-789/"><u>2024 Approved Top iOS Slideshow Programming for Series 7/8/9</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1726224374588-dtsmp3-movavi/"><u>免費在線 DTS/MP3音質轉換服務 - 以Movavi為選擇的使用者指南</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/como-transformar-facilmente-archivos-aifc-en-mp3-sin-costo-con-la-herramienta-en-linea-de-movavi/"><u>Cómo Transformar Fácilmente Archivos AIFC en MP3 Sin Costo Con La Herramienta en Línea De Movavi</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/du-kommer-hit-ditt-ultimativt-guida-till-anvandning-av-virtuell-kameras-i-obs-2024/"><u>Du Kommer Hit: Ditt Ultimativt Guida Till Användning Av Virtuell Kameras I OBS - 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-monitor-not-displaying-full-screen-windows-11/"><u>Fixed: Monitor Not Displaying Full Screen Windows 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-amateurs-to-pros-step-by-step-guide-on-mastering-background-erasing-in-adobe-photoshop/"><u>In 2024, From Amateurs to Pros Step-by-Step Guide on Mastering Background Erasing in Adobe Photoshop</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-motorola-edge-40-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Motorola Edge 40 To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-from-your-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID From your Apple iPhone 14 Plus?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-samsung-galaxy-xcover-6-pro-tactical-edition-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Samsung Galaxy XCover 6 Pro Tactical Edition? Fixed | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-6s-plus-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 6s Plus With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/trasformare-i-file-asf-in-mp3-gratuitamente-sul-web-guida-di-movavi/"><u>Trasformare I File ASF in MP3 Gratuitamente Sul Web - Guida Di Movavi</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/tune-and-trends-a-guide-to-sound-in-social-media-snapshots/"><u>Tune & Trends A Guide to Sound in Social Media Snapshots</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/virtualvicar-video-vetting/"><u>VirtualVicar Video Vetting</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-pinnacle-software-choices-for-tweeting-vids/"><u>[New] 2024 Approved Pinnacle Software Choices for Tweeting Vids</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-tunekeeper-trackdown-downloads-and-discussion-for-2024/"><u>[New] TuneKeeper Trackdown Downloads & Discussion for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-seamlessly-streaming-social-media-vids-via-television/"><u>2024 Approved Seamlessly Streaming Social Media Vids via Television</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-vivo-y100i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-misconceptions-debunked-6-reasons-to-think-twice-before-blind-belief-in-machine-learning/"><u>AI Misconceptions Debunked: 6 Reasons to Think Twice Before Blind Belief in Machine Learning</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/boost-your-pcs-efficiency-using-windows-11s-stealth-app-killer-method-detailed-guide-at-zdnet/"><u>Boost Your PC's Efficiency Using Windows 11'S Stealth App Killer Method | Detailed Guide at ZDNET</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-vivo-t2-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Vivo T2 5G</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-evaluating-the-financial-returns-for-makers-on-youtube-shorts/"><u>In 2024, Evaluating the Financial Returns for Maker's on YouTube Shorts</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/master-the-art-of-transferring-files-across-oses-utilizing-google-quick-share-for-windows-and-android-integration-tips-by-zdnet/"><u>Master the Art of Transferring Files Across OSes: Utilizing Google Quick Share for Windows and Android Integration | Tips by ZDNET</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/master-your-pc-with-ease-enable-god-mode-in-windows-11-and-learn-why-its-a-game-changer-zdnet-insights/"><u>Master Your PC with Ease: Enable God Mode in Windows 11 and Learn Why It's a Game Changer | ZDNET Insights</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/microsoft-silently-ends-hopes-for-windows-10-lifeline-insights-from-zdnet/"><u>Microsoft Silently Ends Hopes for Windows 10 Lifeline - Insights From ZDNet</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/recover-lost-data-from-windows-11-expert-tips-and-tools/"><u>Recover Lost Data From Windows 11: Expert Tips and Tools</u></a></li>
+<li><a href="https://win-dash.techidaily.com/resolved-battery-drivers-errors-in-microsofts-acpi-compliance-protocol/"><u>Resolved: Battery Drivers Errors in Microsoft's ACPI Compliance Protocol</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/resolving-post-april-windows-update-a-comprehensive-guide-to-fixing-vpn-issues/"><u>Resolving Post-April Windows Update: A Comprehensive Guide to Fixing VPN Issues</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/securely-store-and-auto-fill-passwords-using-the-microsoft-authenticator-app-insights-from-zdnet/"><u>Securely Store and Auto-Fill Passwords Using the Microsoft Authenticator App | Insights From ZDNet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-quintessential-collection-of-anime-intros-for-2024/"><u>The Quintessential Collection of Anime Intros for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-7-standing-desk-options-of-2023-reviews-by-zdnet/"><u>Top 7 Standing Desk Options of 2023 - Reviews by ZDNet</u></a></li>
 </ul></div>
 

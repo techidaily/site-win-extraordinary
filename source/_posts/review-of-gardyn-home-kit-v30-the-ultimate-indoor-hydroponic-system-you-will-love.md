@@ -1,7 +1,7 @@
 ---
 title: Review of Gardyn Home Kit v3.0 - The Ultimate Indoor Hydroponic System You Will Love
-date: 2024-09-28T01:34:51.311Z
-updated: 2024-10-03T10:13:17.011Z
+date: 2024-10-05T17:28:35.191Z
+updated: 2024-10-08T17:27:26.979Z
 tags:
   - office-furniture
 categories:
@@ -50,13 +50,6 @@ We've had the Gardyn for about two months and our first harvest is upon us. How 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Setting up the Gardyn
 
 Okay, this was a little trickier than I bargained for. The Gardyn 3.0, which adds durability and evolving AI capabilities since the 2.0 release, takes up a relatively small footprint but, dimensionally, is quite large, standing 64" and encompassing three different growing towers. 
@@ -72,6 +65,13 @@ The setup itself isn't complicated but it is involved. You're basically assembli
 **Also: [Best smart indoor gardens (and what you can grow)](https://www.zdnet.com/home-and-office/kitchen-household/best-indoor-garden/)**
 
 Pro tip: Set this thing up in the location where it'll end up. I thought I was doing that, but once I had the Gardyn standing in front of me in its full glory, I realized it wasn't going to work in our boat's upstairs common area. Instead, it would be relegated to the engine room downstairs, where it would freshen the air even as our big Caterpillar diesel churned away.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How its technology works
 
@@ -90,10 +90,10 @@ Greg Nichols/ZDNET
 The coolest feature is also the one that's easiest to miss. The built-in cameras monitor plant growth and optimize the schedule based on your garden. The system can tell how fast your plants are growing and customize the light and watering cycle to suit your specific garden. This is vastly more powerful than simple timer-based devices.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## App experience 
@@ -117,10 +117,16 @@ One cool feature is that you can view your plants in real-time in your app throu
 The app's plant book allows for some great discoverability. I wasn't familiar with borage, for example, but look forward to growing the edible flower. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A quibble
@@ -133,6 +139,13 @@ Lining up the tower as it's lifted back onto the base after cleaning has consist
 
 [Gardyn Home Kit 3.0 $695 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJS4YMNQ%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce618b943-7f6b-4f1a-8346-7ebf247df64d%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line 
 
 At the end of the day, I'm very impressed with the [Gardyn Home Kit 3.0](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGeneration-Hydroponics-Vertical-Vegetables-Gardening%2Fdp%2FB0BJS4YMNQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce618b943-7f6b-4f1a-8346-7ebf247df64d%7Cdtp&dtb=1) and I'm happy to have it as a centerpiece feature of our home, which happens to be a boat. 
@@ -140,13 +153,6 @@ At the end of the day, I'm very impressed with the [Gardyn Home Kit 3.0](https:/
 Despite my quibbles above, this ranks as an impressive and [powerful home-growing system](https://www.zdnet.com/home-and-office/kitchen-household/best-indoor-garden/) for a wide variety of vegetables. The company's technology is first-rate, and while setup is a chore and water changes can be cumbersome, the proof is in the pudding. I'm getting garden fresh greens and veggies in the belly of our old boat. It's so cool being anchored off the Channel Islands here in Southern California with fresh greens for dinner waiting to be harvested below. 
 
 If you don't have outdoor space but want to grow a large quantity and variety of plants and herbs, this system should definitely be on your radar.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternatives to consider 
 
@@ -192,21 +198,19 @@ A single growing stand that's expandable to 36 plants for a legit indoor farm.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-a-beginners-guide-to-youtube-shorts-nuances/"><u>[Updated] A Beginner's Guide to YouTube Shorts Nuances</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-top-10-desktop-and-phone-zoom-replacements-for-2024/"><u>[Updated] Top 10 Desktop & Phone Zoom Replacements for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-vivo-v27e-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Vivo V27e to iPhone | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-oppo-find-n3-flip-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Oppo Find N3 Flip System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/custom-flipbooks-made-easy-learn-how-to-tailor-your-own-with-flipbuilders-user-friendly-tools/"><u>Custom Flipbooks Made Easy: Learn How to Tailor Your Own with FlipBuilder's User-Friendly Tools</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-to-resolve-ftd2xxdll-missing-error-messages/"><u>Effective Strategies to Resolve ftd2xx.dll Missing Error Messages</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/efficiency-meets-entertainment-discover-top-10-fb-video-extractors-for-android-devices-for-2024/"><u>Efficiency Meets Entertainment Discover Top 10 FB Video Extractors for Android Devices for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/enhancing-ebooks-with-multimedia-adding-youtube-content-through-flipbuilder-for-engaging-readers/"><u>Enhancing eBooks with Multimedia: Adding YouTube Content Through FlipBuilder for Engaging Readers</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/explore-the-ins-and-outs-of-securing-refunds-with-flipbuilder-a-builders-guide-to-assurance/"><u>Explore the Ins and Outs of Securing Refunds with FlipBuilder: A Builder’s Guide to Assurance</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-ready-the-action-packed-god-of-war-fps-is-officially-out-for-pc-gaming-enthusiasts/"><u>Get Ready! The Action-Packed God of War FPS Is Officially Out for PC Gaming Enthusiasts</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/how-to-add-mp3-audio-files-in-your-flipbooks-made-easy-discover-the-basics-at-flipbuildercom/"><u>How to Add MP3 Audio Files in Your Flipbooks Made Easy - Discover the Basics at FlipBuilder.com</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Itel A60? | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-transform-your-footage-tips-for-youtube-studios-video-editing/"><u>In 2024, Transform Your Footage Tips for YouTube Studio's Video Editing</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/is-it-possible-to-tailor-the-assistance-icon-for-flipbuilder-sites/"><u>Is It Possible to Tailor the Assistance Icon for FlipBuilder Sites?</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/maximizing-your-publishing-potential-how-many-ebooks-can-you-create-with-flipbuilder/"><u>Maximizing Your Publishing Potential: How Many eBooks Can You Create with FlipBuilder?</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/saving-books-as-local-pdfs-with-flipbuilder-a-step-by-step-guide/"><u>Saving Books as Local PDFs with FlipBuilder - A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-cameras-for-vlogging/"><u>[New] In 2024, Best Cameras for Vlogging</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-lunapic-like-an-ace-photographer/"><u>[New] Navigating LunaPic Like an Ace Photographer</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-updated-inquiry-collection-for-podcast-appeal-for-2024/"><u>[New] Updated Inquiry Collection for Podcast Appeal for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-rw2-file-to-png-converter-use-movavis-web-service/"><u>Free Online RW2 File to PNG Converter - Use Movavi's Web Service</u></a></li>
+<li><a href="https://article-helps.techidaily.com/glowing-mastery-step-by-step-to-brighten-android-videos-for-2024/"><u>Glowing Mastery Step-by-Step to Brighten Android Videos for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Lava Agni 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-and-easy-the-top-ten-for-youtube-mpeg-transformation/"><u>In 2024, Quick and Easy The Top Ten for YouTube MPEG Transformation</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/master-the-art-of-transferring-files-across-oses-utilizing-google-quick-share-for-windows-and-android-integration-tips-by-zdnet/"><u>Master the Art of Transferring Files Across OSes: Utilizing Google Quick Share for Windows and Android Integration | Tips by ZDNET</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/master-your-pc-with-ease-enable-god-mode-in-windows-11-and-learn-why-its-a-game-changer-zdnet-insights/"><u>Master Your PC with Ease: Enable God Mode in Windows 11 and Learn Why It's a Game Changer | ZDNET Insights</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-innovation-comprehensive-review-of-apple-mac-mini-m1-2020-a-leap-forward-in-arm-computing-supremacy/"><u>Mastering Innovation: Comprehensive Review of Apple Mac Mini (M1, 2020) - A Leap Forward in ARM Computing Supremacy</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/microsoft-silently-ends-hopes-for-windows-10-lifeline-insights-from-zdnet/"><u>Microsoft Silently Ends Hopes for Windows 10 Lifeline - Insights From ZDNet</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/recover-lost-data-from-windows-11-expert-tips-and-tools/"><u>Recover Lost Data From Windows 11: Expert Tips and Tools</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/resolving-post-april-windows-update-a-comprehensive-guide-to-fixing-vpn-issues/"><u>Resolving Post-April Windows Update: A Comprehensive Guide to Fixing VPN Issues</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-8-best-daw-for-hip-hop-music-production/"><u>Updated 2024 Approved 8 Best DAW for Hip-Hop Music Production</u></a></li>
 </ul></div>
 

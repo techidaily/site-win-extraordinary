@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Comprehensive Analysis of the Keychron Q5 Mechanical Keyboard: Is Its Enhanced Performance Worth the Premium Cost?"
-date: 2024-09-27T22:17:05.330Z
-updated: 2024-10-02T22:11:03.329Z
+date: 2024-10-04T17:37:57.281Z
+updated: 2024-10-08T16:02:50.834Z
 tags:
   - office-furniture
 categories:
@@ -52,13 +52,6 @@ South-facing (towards the typist), RGB LED lights are provided on the keyboard. 
 
 **Also: [Keychron Q1 QMK custom mechanical keyboard review](https://www.zdnet.com/product/keychron-q1-qmk-custom-mechanical-keyboard/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **ZDNET** recommends
 
 [The best mechanical keyboards: From mini to macros Mechanical keyboards have become one of the fastest-growing areas of gaming and PC peripherals.  Read now](https://www.zdnet.com/article/best-mechanical-keyboard/)
@@ -67,6 +60,13 @@ The keyboard has several layers, including the bottom aluminum case, silicone ga
 
 The keys are set at a 5.3-degree angle, and the bottom case is not adjustable. I use a [Keychron wooden palm rest](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWalnut-Keychron-Bluetooth-Mechanical-Keyboard%2Fdp%2FB07Y84SP8G%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1ad522f2-4907-43aa-8c40-35319972b902%7Cdtp&dtb=1) since the keyboard is quite tall at the front, 30.9 mm with keycaps installed. The back height is 42.8 mm with the keycaps. The keyboard is 390.5 mm in length and 145 mm in width.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Keyboard software
 
 The model I tested includes the knob, and by default, the knob works to control volume with a press-in of the knob toggling mute on and off. You can reprogram the knob to perform other actions, such as zoom in and out, adjust the screen brightness, and more. In addition to downloading and installing the free VIA software, you also need to download the appropriate keymap JSON file from the Keychron website. Once this is set up, then you can set the macro for the knob in addition to mapping other keys as you desire.
@@ -74,10 +74,10 @@ The model I tested includes the knob, and by default, the knob works to control 
 Four layers of key settings are provided with layers 0/1 assigned to MacOS and layers 2/3 assigned to Windows. You can customize shortcuts, backlight effects, and a lot more with the software, so spend some time setting the keyboard up, so it works best for your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Switch options
@@ -97,10 +97,10 @@ The retail package includes the keyboard, keycap puller, switch puller, screwdri
 [Keychron Q5 Keyboard $205 at Keychron](https://www.keychron.com/products/keychron-q5-qmk-custom-mechanical-keyboard?variant=40010452271193)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Daily usage experiences and conclusion
@@ -110,10 +110,10 @@ The Keychron Q5 keyboard is available in a barebones model for $175 up to a full
 Keychron also has a new double gasket design in the Q5 that adds gaskets and silicone pads to reduce the sound resonance between the metals and reduce other sounds while supporting the overall typing sound. It's tough to find anything wrong with the keyboard, and spending $200 for a high-quality keyboard that helps you enter text quickly and efficiently is worth it to me.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Alternatives to consider
@@ -156,18 +156,24 @@ The Keychron Q5 keyboard is a near-perfect keyboard for many people, but if you 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-unmatched-youtube-success-10-unique-tips-for-your-shorts/"><u>[New] 2024 Approved Unmatched YouTube Success 10 Unique Tips for Your Shorts</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-chortle-chamber-ideas-for-7-amusing-online-sessions/"><u>[New] In 2024, Chortle Chamber Ideas for 7 Amusing Online Sessions</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-insights-ultimate-guide-to-understand-ig-data/"><u>[New] In 2024, Instagram Insights Ultimate Guide to Understand IG Data</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-a-step-by-step-guide-to-using-polarr-for-stunning-images/"><u>[Updated] In 2024, A Step-by-Step Guide to Using Polarr for Stunning Images</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1-mp3aacwma-converter-streamline-your-music-collection-with-hypem-downloader-from-hypemachine/"><u>1. 'MP3/AAC/WMA Converter: Streamline Your Music Collection with Hypem Downloader From HypeMachine'</u></a></li>
-<li><a href="https://os-tips.techidaily.com/2023s-most-popular-iphone-1-pro-max-sleeves-choosing-the-perfect-case-for-your-device/"><u>2023'S Most Popular iPhone 1# Pro Max Sleeves: Choosing the Perfect Case for Your Device</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-meizu-21-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Meizu 21</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/access-a-curated-library-of-ophthalmology-videography-root-atlas-and-slit-lamp-examinations-resembling-pathological-cases/"><u>Access a Curated Library of Ophthalmology Videography: Root Atlas & Slit Lamp Examinations Resembling Pathological Cases</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/drive-upgrade-streamline-mf4770n-in-windows/"><u>Drive Upgrade: Streamline MF4770n in WIndows</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/easy-methods-for-transferring-breakdance-movies-from-the-internet-to-your-pc-or-mac/"><u>Easy Methods for Transferring Breakdance Movies From the Internet to Your PC or Mac</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/mastering-snap-shots-in-google-meet-a-quick-guide-for-2024/"><u>Mastering Snap Shots in Google Meet A Quick Guide for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/step-by-step-guide-to-using-flipbuilder-for-embedding-a-background-image-of-your-logo-in-flipbooks/"><u>Step-by-Step Guide to Using FlipBuilder for Embedding a Background Image of Your Logo in Flipbooks</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/step-by-step-tutorial-crafting-your-unique-flipbook-at-flipbuildercom/"><u>Step-by-Step Tutorial: Crafting Your Unique Flipbook at FlipBuilder.com</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-now-lenovo-thinkpad-x220-drives-fast-simple-setup/"><u>[Download Now!] Lenovo ThinkPad X220 Drives: Fast, Simple Setup</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-soundtrack-of-successful-snapchat-stories-for-2024/"><u>[New] The Soundtrack of Successful Snapchat Stories for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-steps-to-restore-obs-fullscreen/"><u>2024 Approved Steps to Restore OBS Fullscreen</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-premier-rankings-best-general-knowledge-shows/"><u>2024 Approved The Premier Rankings Best General Knowledge Shows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/compatible-microsoft-bluetooth-driver-downloads-update-support-for-windows-versions-101187/"><u>Compatible Microsoft Bluetooth Driver Downloads: Update Support for Windows Versions 10/11/8/7</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/end-the-multiversus-game-freeze-learn-the-best-fixes-in-8-steps/"><u>End the Multiversus Game Freeze: Learn the Best Fixes in 8 Steps</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/exploring-the-effects-of-drive-encryption-on-system-speed-a-detailed-review/"><u>Exploring the Effects of Drive Encryption on System Speed - A Detailed Review</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/global-it-collapse-prevention-discussed-at-microsofts-security-summit-expert-opinions-and-effective-solutions/"><u>Global IT Collapse Prevention Discussed at Microsoft's Security Summit - Expert Opinions & Effective Solutions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-a38-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo A38 Safely | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-motorola-edge-40-neo-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Motorola Edge 40 Neo Through Google Earth?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/master-windows-11-efficiency-a-less-known-trick-for-instantaneously-stopping-laggy-applications-revealed-by-zdnet/"><u>Master Windows 11 Efficiency: A Less-Known Trick for Instantaneously Stopping Laggy Applications Revealed by ZDNet</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/mastering-screen-recording-on-ios-devices-a-comprehensive-guide-with-insider-tips/"><u>Mastering Screen Recording on iOS Devices: A Comprehensive Guide with Insider Tips</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/maximizing-engagement-by-integrating-youtube-videos-into-your-instagram-saga-a-step-by-step-tutorial/"><u>Maximizing Engagement by Integrating YouTube Videos Into Your Instagram Saga - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/online-video-subtitle-integration-breaking-down-linguistic-obstacles/"><u>Online Video Subtitle Integration: Breaking Down Linguistic Obstacles</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/optimal-tactics-for-saving-android-interactions/"><u>Optimal Tactics for Saving Android Interactions</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/quick-guide-how-to-seamlessly-change-dat-videotapes-to-editable-mp4-format-at-no-cost/"><u>Quick Guide: How to Seamlessly Change DAT Videotapes to Editable MP4 Format at No Cost</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/uncover-the-trick-transitioning-from-windows-11-to-windows-10-seamlessly-techradar/"><u>Uncover the Trick: Transitioning From Windows 11 to Windows 10 Seamlessly | TechRadar</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/unlocking-ultimate-control-a-step-by-step-guide-to-enabling-god-mode-on-windows-11-insights-and-benefits/"><u>Unlocking Ultimate Control: A Step-by-Step Guide to Enabling God Mode on Windows 11 | Insights and Benefits</u></a></li>
 </ul></div>
 

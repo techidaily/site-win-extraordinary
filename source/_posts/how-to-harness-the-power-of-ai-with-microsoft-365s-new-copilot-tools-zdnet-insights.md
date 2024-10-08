@@ -1,7 +1,7 @@
 ---
 title: How To Harness The Power Of AI With Microsoft 365'S New Copilot Tools | ZDNET Insights
-date: 2024-09-29T17:14:56.416Z
-updated: 2024-10-02T16:35:47.638Z
+date: 2024-10-01T16:18:54.105Z
+updated: 2024-10-08T17:23:06.511Z
 tags:
   - microsoft
 categories:
@@ -114,31 +114,25 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-avoid-common-mistakes-mastering-youtube-tags-wisely/"><u>[New] Avoid Common Mistakes - Mastering YouTube Tags Wisely</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-immediate-streams-from-obs-to-insta-for-2024/"><u>[New] Immediate Streams From OBS to Insta for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-leveraging-visuals-for-profile-dominance/"><u>[New] Leveraging Visuals for Profile Dominance</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-vlc-recordings-tips-and-tricks/"><u>[Updated] VLC Recordings Tips and Tricks</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/apc-be600m1-backup-ups-review-optimal-battery-efficiency-and-convenient-usb-charger-feature-for-smartphones-and-tablets/"><u>APC BE600M1 Backup UPS Review: Optimal Battery Efficiency & Convenient USB Charger Feature for Smartphones and Tablets</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/charming-chit-chat-mastering-the-art-of-conversation/"><u>Charming Chit-Chat: Mastering the Art of Conversation</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/cutting-through-the-clutter-empowering-staff-with-microsoft-copilot-for-more-effective-meeting-experiences/"><u>Cutting Through the Clutter: Empowering Staff with Microsoft Copilot for More Effective Meeting Experiences</u></a></li>
-<li><a href="https://games-able.techidaily.com/effectively-using-a-controller-on-ryujinxs-emulators-for-ps4switch/"><u>Effectively Using a Controller on Ryujinx's Emulators for PS4/Switch</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-breezy-video-capture-testimony/"><u>In 2024, Breezy Video Capture Testimony</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/installing-linux-on-your-microsoft-surface-go-quick-guide-and-tutorial/"><u>Installing Linux on Your Microsoft Surface Go: Quick Guide and Tutorial</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/making-every-game-a-masterpiece-proven-methods-to-record-and-relish-your-sims-experiences-for-2024/"><u>Making Every Game a Masterpiece Proven Methods to Record and Relish Your Sims’ Experiences for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/massive-outage-affecting-microsoft-365-services-detailed-breakdown-and-impact-analysis/"><u>Massive Outage Affecting Microsoft 365 Services: Detailed Breakdown & Impact Analysis</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/microsoft-and-ibm-unveil-open-source-version-of-ms-dos/"><u>Microsoft & IBM Unveil Open Source Version of MS-DOS</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/microsoft-reshapes-user-experience-positive-alternatives-over-frustrating-features-zdnet-insights/"><u>Microsoft Reshapes User Experience - Positive Alternatives Over Frustrating Features | ZDNet Insights</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/revolutionizing-team-collaboration-how-a-firm-harnesses-microsoft-copilot-to-enhance-productivity-in-meetings/"><u>Revolutionizing Team Collaboration: How a Firm Harnesses Microsoft Copilot to Enhance Productivity in Meetings</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/transferring-wmv-formats-into-final-cut-pro-a-step-by-step-guide/"><u>Transferring WMV Formats Into Final Cut Pro: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/transform-your-pc-experience-with-a-free-windows-update-elevate-from-home-to-pro-edition/"><u>Transform Your PC Experience with a Free Windows Update - Elevate From Home to Pro Edition</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/unforeseen-backlash-microsofts-latest-update-sparks-user-outcry-an-insider-look/"><u>Unforeseen Backlash: Microsoft's Latest Update Sparks User Outcry – An Insider Look</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-most-reliable-skype-recorders-ranked/"><u>[New] 2024 Approved The Most Reliable Skype Recorders Ranked</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/building-a-professional-e-catalog-a-step-by-step-guide-using-flipbuilder/"><u>Building a Professional E-Catalog: A Step-by-Step Guide Using FlipBuilder</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/choisir-le-convertisseur-video-numero-un-gratuite-en-ligne-mp4-et-plus-comparatif-2024/"><u>Choisir Le Convertisseur Vidéo Numéro Un Gratuite en Ligne, MP4 Et Plus - Comparatif 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/concurrent-display-registration-for-2024/"><u>Concurrent Display Registration for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/conversione-da-dvd-a-mkv-o-viceversa-con-movavi-download-gratuito/"><u>Conversione Da DVD a MKV O Viceversa Con Movavi - Download Gratuito</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/filters-through-windows-10-photos-extracting-picture-moments-for-2024/"><u>Filters Through Windows 10 Photos Extracting Picture Moments for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-red-screen-error-ultimate-troubleshooting-guide/"><u>Fixing the Red Screen Error: Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-exclusive-list-the-most-reliable-10-vimeo-downloader-apps/"><u>In 2024, Exclusive List The Most Reliable 10 Vimeo Downloader Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pay-attention-focus-fully-on-the-speaker-avoid-distractions-and-show-interest-in-what-theyre-saying/"><u>Pay Attention Focus Fully on the Speaker, Avoid Distractions, and Show Interest in What They're Saying</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolve-photo-capture-failures-in-windows-os/"><u>Resolve Photo Capture Failures in Windows OS</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-ultimate-guide-to-unlocking-your-apple-iphone-13-pro-max-on-metropcs-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Your Apple iPhone 13 Pro Max on MetroPCS</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/transformer-des-fichiers-mov-en-fichiers-mp3-gratuits-en-ligne-moovavi/"><u>Transformer Des Fichiers MOV en Fichiers MP3 Gratuits en Ligne - Moovavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/unmissable-classic-and-modern-family-films-your-complete-dvd-movie-guide/"><u>Unmissable Classic and Modern Family Films: Your Complete DVD Movie Guide</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

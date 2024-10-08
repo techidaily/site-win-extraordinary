@@ -1,7 +1,7 @@
 ---
 title: "Anticipating the Sunset Date: When Does Microsoft Plan to Drop Support for Specific Windows and Office Versions?"
-date: 2024-10-02T00:20:02.577Z
-updated: 2024-10-02T16:26:23.158Z
+date: 2024-10-05T17:22:12.965Z
+updated: 2024-10-08T17:25:19.055Z
 tags:
   - windows
 categories:
@@ -28,10 +28,10 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 ## How to set up God Mode in Windows 11 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Check your account
@@ -40,11 +40,25 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -55,44 +69,17 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Search for a command
 
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
 
@@ -116,6 +103,13 @@ Screenshot by Lance Whitney/ZDNET
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Change the icon
 
@@ -162,16 +156,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-game-on-pioneer-top-choices-in-windows-10s-new-games-and-apps/"><u>[New] Game On, Pioneer Top Choices in Windows 10’S New Games and Apps</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-top-10-software-to-create-and-edit-vector-images-that-you-should-know/"><u>[New] Top 10 Software to Create and Edit Vector Images That You Should Know</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-two-pocket-strategies-for-effective-google-meet-documentation/"><u>[Updated] Two Pocket Strategies for Effective Google Meet Documentation</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-building-your-brand-as-a-reviewer-of-cars-and-automotive-gear/"><u>2024 Approved Building Your Brand as a Reviewer of Cars and Automotive Gear</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/cutting-through-the-clutter-empowering-staff-with-microsoft-copilot-for-more-effective-meeting-experiences/"><u>Cutting Through the Clutter: Empowering Staff with Microsoft Copilot for More Effective Meeting Experiences</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/installing-linux-on-your-microsoft-surface-go-quick-guide-and-tutorial/"><u>Installing Linux on Your Microsoft Surface Go: Quick Guide and Tutorial</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/massive-outage-affecting-microsoft-365-services-detailed-breakdown-and-impact-analysis/"><u>Massive Outage Affecting Microsoft 365 Services: Detailed Breakdown & Impact Analysis</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/microsoft-and-ibm-unveil-open-source-version-of-ms-dos/"><u>Microsoft & IBM Unveil Open Source Version of MS-DOS</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/revolutionizing-team-collaboration-how-a-firm-harnesses-microsoft-copilot-to-enhance-productivity-in-meetings/"><u>Revolutionizing Team Collaboration: How a Firm Harnesses Microsoft Copilot to Enhance Productivity in Meetings</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-pitfalls-of-outsourcing-privacy-to-technology-the-case-against-using-chatgpt-for-confidential-information/"><u>Understanding the Pitfalls of Outsourcing Privacy to Technology - The Case Against Using ChatGPT for Confidential Information</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-10-basic-blocks-house-concepts-for-mc-players/"><u>[New] In 2024, 10 Basic Blocks House Concepts for MC Players</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-deep-dive-into-the-capabilities-of-yis-4k-hero/"><u>[New] In 2024, Deep Dive Into the Capabilities of YI's 4K Hero</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-frozen-pleasure-recording-review-deep-dive/"><u>[Updated] 2024 Approved Frozen Pleasure Recording Review Deep Dive</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-trending-topics-the-best-10-music-videos-on-fb/"><u>[Updated] Trending Topics The Best 10 Music Videos on FB</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/gif-wmv-movavi/"><u>網路直接自由改編 GIF成 WMV - 使用 Movavi 解決方案進行無料變更</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-methods-for-addressing-and-correcting-network-connection-failures-rpc-on-windows-devices/"><u>Effective Methods for Addressing and Correcting Network Connection Failures (RPC) on Windows Devices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-7-plus-official-method-to-unlock-your-apple-iphone-7-plus-by-drfone-ios/"><u>How To Unlock Apple iPhone 7 Plus Official Method to Unlock Your Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-vivo-v29-pro-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Vivo V29 Pro Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/live-streaming-showdown-obs-vs-wirecast-faceoff-for-2024/"><u>Live Streaming Showdown OBS vs Wirecast Faceoff for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/online-mov-naar-mp3-konvertor-vrijetijd-vertalen-kostenloos-and-eenvoudig/"><u>Online MOV Naar MP3 Konvertor Vrijetijd Vertalen - Kostenloos & Eenvoudig</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/online-vrijetijdelijk-wmv-in-mkv-veranderen-met-movavi-efficient-en-gemakkelijk/"><u>Online Vrijetijdelijk Wmv in Mkv Veranderen Met Movavi: Efficiënt en Gemakkelijk</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/sadece-paraleluyle-movavi-kapak-yaratma-sistemi-maddedi-bastalmis-ekran-kayden-egitim-aracisi/"><u>Sadece Paralelüyle Movavi Kapak Yaratma Sistemi | Maddedi Baştalmış Ekran Kaydən Eğitim Aracısı</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/soluciones-expertas-guia-paso-a-paso-para-empezar-a-ver-videos-mp4-en-windows-10-8-y-7/"><u>Soluciones Expertas: Guía Paso a Paso Para Empezar a Ver Videos .MP4 en Windows 10, 8 Y 7</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/telecharger-des-films-de-lortf-gratuitement-sur-movavi/"><u>Télécharger Des Films De L'ORTF Gratuitement Sur Movavi</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/transform-your-files-seamlessly-convert-aac-format-to-wmv-online-at-no-cost-with-movavi/"><u>Transform Your Files Seamlessly: Convert AAC Format to WMV Online at No Cost with Movavi</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/winodws-10-cii/"><u>최고의 Winodws 10 스크린샷 옵ции 게시</u></a></li>
 </ul></div>
 

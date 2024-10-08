@@ -1,7 +1,7 @@
 ---
 title: "Complete Overview: Key Reveals From Microsoft's October Surface Launch - ZDNet Insights"
-date: 2024-10-01T16:11:29.029Z
-updated: 2024-10-03T00:43:38.777Z
+date: 2024-10-07T16:38:35.640Z
+updated: 2024-10-08T16:17:45.521Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,15 +135,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,19 +196,14 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-professional-drone-review-best-5-to-consider/"><u>[New] 2024 Approved Professional Drone Review Best 5 to Consider</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-navigating-spotifys-ad-landscape-a-beginners-guide-for-2024/"><u>[New] Navigating Spotify's Ad Landscape A Beginner's Guide for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ptimizing-video-content-with-powerful-hashtags-on-youtube-for-2024/"><u>[New] Optimizing Video Content with Powerful Hashtags on YouTube for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-microscope-mode-in-roblox-games/"><u>[Updated] Mastering Microscope Mode in Roblox Games</u></a></li>
-<li><a href="https://driver-install.techidaily.com/breeze-through-m-audio-track-troubles/"><u>Breeze Through M-Audio Track Troubles</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-oppo-find-x7-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/hands-on-review-surface-duo-2s-new-pen-cover-enhances-durability-and-supports-wireless-charging/"><u>Hands-On Review: Surface Duo 2'S New Pen Cover Enhances Durability & Supports Wireless Charging</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-xiaomi-mix-fold-3-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Xiaomi Mix Fold 3 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/mastering-voice-control-a-step-by-step-guide-to-navigating-windows-11-with-your-voice-insights-from-zdnet/"><u>Mastering Voice Control: A Step-by-Step Guide to Navigating Windows 11 with Your Voice - Insights From ZDNet</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/purchase-microsoft-project-pro-and-visio-pro-licenses-at-an-unbeatable-price-just-20-exclusive-offer-on-zdnet/"><u>Purchase Microsoft Project Pro & Visio Pro Licenses at an Unbeatable Price - Just $20! Exclusive Offer on ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-mac-error-developer-not-verified-blocks-file/"><u>Resolving Mac Error: 'Developer Not Verified' Blocks File</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/surface-desktop-showdown-of-2023-expert-opinions-and-detailed-comparisons-zdnets-guide-to-choosing-the-right-one/"><u>Surface Desktop Showdown of 2023: Expert Opinions and Detailed Comparisons | ZDNet's Guide to Choosing the Right One</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/the-unexpected-domino-effect-of-crowdstrike-on-critical-infrastructure-examining-the-windows-outage-crisis-in-transportation-and-banking/"><u>The Unexpected Domino Effect of CrowdStrike on Critical Infrastructure: Examining the Windows Outage Crisis in Transportation and Banking</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/your-ultimate-guide-to-polarr-image-editing-software/"><u>Your Ultimate Guide to Polarr Image Editing Software</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-enhancing-engagement-essential-video-formats-for-youtube-viewers/"><u>[Updated] Enhancing Engagement Essential Video Formats for YouTube Viewers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-guide-dealing-with-undetected-events-in-iphones-schedule/"><u>Fix Guide: Dealing with Undetected Events in iPhone's Schedule</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-final-cut-pro-tutorial-adding-emotional-depth-with-ken-burns-effect/"><u>New In 2024, Final Cut Pro Tutorial Adding Emotional Depth with Ken Burns Effect</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/online-mov-naar-mp3-konvertor-vrijetijd-vertalen-kostenloos-and-eenvoudig/"><u>Online MOV Naar MP3 Konvertor Vrijetijd Vertalen - Kostenloos & Eenvoudig</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/online-vrijetijdelijk-wmv-in-mkv-veranderen-met-movavi-efficient-en-gemakkelijk/"><u>Online Vrijetijdelijk Wmv in Mkv Veranderen Met Movavi: Efficiënt en Gemakkelijk</u></a></li>
+<li><a href="https://review-topics.techidaily.com/realme-data-retrieval-tool-restore-lost-data-from-realme-11-5g-by-fonelab-android-recover-data/"><u>Realme Data Retrieval tool – restore lost data from Realme 11 5G</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/sadece-paraleluyle-movavi-kapak-yaratma-sistemi-maddedi-bastalmis-ekran-kayden-egitim-aracisi/"><u>Sadece Paralelüyle Movavi Kapak Yaratma Sistemi | Maddedi Baştalmış Ekran Kaydən Eğitim Aracısı</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/soluciones-expertas-guia-paso-a-paso-para-empezar-a-ver-videos-mp4-en-windows-10-8-y-7/"><u>Soluciones Expertas: Guía Paso a Paso Para Empezar a Ver Videos .MP4 en Windows 10, 8 Y 7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transforming-windows-11-password-strategy/"><u>Transforming Windows 11 Password Strategy</u></a></li>
 </ul></div>
 

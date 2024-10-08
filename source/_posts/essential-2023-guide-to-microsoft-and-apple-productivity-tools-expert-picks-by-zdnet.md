@@ -1,7 +1,7 @@
 ---
 title: "Essential 2023 Guide to Microsoft and Apple Productivity Tools: Expert Picks by ZDNet"
-date: 2024-09-27T22:29:50.097Z
-updated: 2024-10-02T17:32:58.204Z
+date: 2024-10-03T16:14:46.208Z
+updated: 2024-10-08T16:10:29.488Z
 tags:
   - windows
 categories:
@@ -33,13 +33,6 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
@@ -56,10 +49,10 @@ When done, press Enter.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Launch the icon
@@ -68,18 +61,18 @@ Double-click the icon, and a window opens with all the available settings. The c
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Search for a command
 
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
 
@@ -98,24 +91,31 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -156,19 +156,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-pro-tips-that-make-every-iphone-landscape-stand-out/"><u>[New] 2024 Approved Pro Tips That Make Every iPhone Landscape Stand Out</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-amplify-and-illuminate-online-videos-with-these-5-aids/"><u>2024 Approved Amplify and Illuminate Online Videos with These 5 Aids</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-mastering-overloaded-tiktok-saves-a-guide-to-editing-and-streamlining/"><u>2024 Approved Mastering Overloaded TikTok Saves A Guide to Editing and Streamlining</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/efficient-strategies-for-setting-up-and-overseeing-home-windows-user-profiles-a-comprehensive-guide/"><u>Efficient Strategies for Setting Up & Overseeing Home Windows User Profiles: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/evaluating-copilot-pro-and-chatgpt-plus-determining-the-top-value-for-money-ai-chatbot/"><u>Evaluating Copilot Pro and ChatGPT Plus: Determining the Top Value-for-Money AI Chatbot</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/explore-the-power-of-durability-and-high-quality-hd-sunbritetvs-55-4k-hdr-veranda-tv-for-outdoor-enthusiasts/"><u>Explore the Power of Durability and High-Quality HD: SunBriteTV's 55 4K HDR Veranda TV for Outdoor Enthusiasts</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-itel-a60s-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Itel A60s to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-empowering-your-brand-top-20-strategies-for-high-impact-fb-video-campaigns/"><u>In 2024, Empowering Your Brand Top 20 Strategies for High-Impact FB Video Campaigns</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-samsung-galaxy-s23-ultra-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Samsung Galaxy S23 Ultra Screen | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-starting-with-hauls-a-step-by-step-editing-manual/"><u>In 2024, Starting with Hauls A Step-by-Step Editing Manual</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-microsoft-black-friday-savings-save-400-on-surface-pro-7-and-get-200-off-surface-laptop-go-exclusive-deals-from-zdnet/"><u>Top Microsoft Black Friday Savings: Save $400 on Surface Pro 7 & Get $200 Off Surface Laptop Go - Exclusive Deals From ZDNet</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/transform-your-team-with-top-tier-tech-talent-discover-microsofts-elite-developers/"><u>Transform Your Team with Top-Tier Tech Talent: Discover Microsoft’s Elite Developers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-how-to-monitor-iphone-user-position-with-consent/"><u>Understanding How to Monitor iPhone User Position with Consent</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/understanding-the-latest-change-in-windows-11-unwanted-onedrive-folders-backup-insights-from-zdnet/"><u>Understanding the Latest Change in Windows 11: Unwanted OneDrive Folders Backup - Insights From ZDNet.</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-9-key-platforms-for-high-quality-livestreaming/"><u>[New] 9 Key Platforms for High-Quality Livestreaming</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-constructing-inquiry-curtain-closers/"><u>[Updated] 2024 Approved Constructing Inquiry Curtain Closers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-unlocking-youtube-potential-expert-tips-for-wirecast-streaming/"><u>[Updated] 2024 Approved Unlocking YouTube Potential Expert Tips for WireCast Streaming</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-sparkling-vibrancy-the-android-video-brightening-guide/"><u>[Updated] Sparkling Vibrancy The Android Video Brightening Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-key-to-a-successful-tweet-including-aspect-ratio-details-for-2024/"><u>[Updated] The Key to a Successful Tweet Including Aspect Ratio Details for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/complete-guide-to-running-exe-flipbooks-at-full-resolution-on-flipbuilder-no-more-windowed-limitations/"><u>Complete Guide to Running EXE Flipbooks at Full Resolution on FlipBuilder - No More Windowed Limitations!</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/creating-your-own-turn-the-page-digital-reads-for-mac-with-flipbuilder-step-by-step-guide/"><u>Creating Your Own Turn-The-Page Digital Reads for Mac with FlipBuilder - Step By Step Guide</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/custom-flipbooks-made-easy-learn-how-to-tailor-your-own-with-flipbuilders-user-friendly-tools/"><u>Custom Flipbooks Made Easy: Learn How to Tailor Your Own with FlipBuilder's User-Friendly Tools</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/enhancing-ebooks-with-multimedia-adding-youtube-content-through-flipbuilder-for-engaging-readers/"><u>Enhancing eBooks with Multimedia: Adding YouTube Content Through FlipBuilder for Engaging Readers</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/explore-the-ins-and-outs-of-securing-refunds-with-flipbuilder-a-builders-guide-to-assurance/"><u>Explore the Ins and Outs of Securing Refunds with FlipBuilder: A Builder’s Guide to Assurance</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/high-level-behavior-tips-for-youtube-users-for-2024/"><u>High-Level Behavior Tips for YouTube Users for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/how-to-add-mp3-audio-files-in-your-flipbooks-made-easy-discover-the-basics-at-flipbuildercom/"><u>How to Add MP3 Audio Files in Your Flipbooks Made Easy - Discover the Basics at FlipBuilder.com</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-apple-iphone-6s-plus-by-drfone-ios/"><u>How to Unlock Verizon Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-what-is-ai-marketing/"><u>In 2024, What Is AI Marketing?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-hostgators-vps-vs-shared-hosting-services/"><u>In-Depth Analysis: HostGator's VPS Vs. Shared Hosting Services</u></a></li>
 </ul></div>
 

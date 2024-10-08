@@ -1,7 +1,7 @@
 ---
 title: "The Unexpected Domino Effect of CrowdStrike on Critical Infrastructure: Examining the Windows Outage Crisis in Transportation and Banking"
-date: 2024-09-27T23:32:00.891Z
-updated: 2024-10-03T03:01:28.559Z
+date: 2024-10-07T17:38:45.681Z
+updated: 2024-10-08T17:11:05.428Z
 tags:
   - microsoft
 categories:
@@ -114,24 +114,29 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-step-up-your-iphones-selfie-game-with-these-best-free-app-tools-for-2024/"><u>[Updated] Step-Up Your iPhone's Selfie Game with These Best Free App Tools for 2024</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-contacts-from-apple-iphone-14-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Contacts from Apple iPhone 14 to iPhone Quickly | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-solutions-to-rectify-missing-openal32dll-filesystem-errors/"><u>Comprehensive Solutions to Rectify Missing OpenAL32.dll Filesystem Errors</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/free-customizable-design-templates-craft-stunning-fashion-flipbooks-with-flipbuildercom/"><u>Free Customizable Design Templates: Craft Stunning Fashion Flipbooks with FlipBuilder.com</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/how-can-you-design-original-graphics-using-flipbuildercoms-tools/"><u>How Can You Design Original Graphics Using FlipBuilder.com's Tools?</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/how-to-allow-local-downloads-of-your-created-flipbooks-on-flipbuildercom/"><u>How To Allow Local Downloads of Your Created Flipbooks on FlipBuilder.com</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-transform-spotify-playlist-data-into-downloadable-text-files/"><u>How to Transform Spotify Playlist Data Into Downloadable Text Files</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-restart-the-dolby-sound-driver-in-windows-11/"><u>How to Troubleshoot and Restart the Dolby Sound Driver in Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-chatgpt-a-credible-source-exploring-ai-integrity-and-accuracy/"><u>Is ChatGPT a Credible Source? Exploring AI Integrity and Accuracy</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-troubleshooting-guide-fixing-starfield-game-stability-problems/"><u>PC Troubleshooting Guide: Fixing Starfield Game Stability Problems</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/step-by-step-guide-to-using-flipbuilder-for-embedding-a-background-image-of-your-logo-in-flipbooks/"><u>Step-by-Step Guide to Using FlipBuilder for Embedding a Background Image of Your Logo in Flipbooks</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/step-by-step-tutorial-crafting-your-unique-flipbook-at-flipbuildercom/"><u>Step-by-Step Tutorial: Crafting Your Unique Flipbook at FlipBuilder.com</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-simplifying-visual-transformations-utilizing-luts-for-obs-videos/"><u>[New] 2024 Approved Simplifying Visual Transformations Utilizing LUTs for OBS Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-pedagogical-picks-the-most-effective-video-recording-tools-for-instructors/"><u>[New] Pedagogical Picks The Most Effective Video Recording Tools for Instructors</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-tech-savvy-summit-unveiling-our-top-5-video-capture-tools/"><u>[Updated] In 2024, Tech-Savvy Summit Unveiling Our Top 5 Video Capture Tools</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/creating-user-friendly-youtube-subscribe-icons/"><u>Creating User-Friendly YouTube Subscribe Icons</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/diy-tips-enhancing-snapchat-photos-with-custom-audio-tracks/"><u>DIY Tips: Enhancing Snapchat Photos with Custom Audio Tracks</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engage-with-major-social-platforms-discover-facebook-twitter-instagram-and-youtube/"><u>Engage with Major Social Platforms: Discover Facebook, Twitter, Instagram, and Youtube</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/enhance-productivity-in-microsoft-word-with-these-top-7-powerful-add-ons/"><u>Enhance Productivity in Microsoft Word with These Top 7 Powerful Add-Ons</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-quality-android-photoshoppers-for-2024/"><u>High-Quality Android Photoshoppers for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Life360 Learn How Everything Works On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/scrutinizing-vidmas-latest-screen-recording-tech/"><u>Scrutinizing Vidma’s Latest Screen Recording Tech</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/step-by-step-tutorial-on-reverting-to-itunes-backup-for-iphone-restoration/"><u>Step-by-Step Tutorial on Reverting to iTunes Backup for iPhone Restoration</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-perfect-wakeup-call-exploring-the-features-of-the-inexpensive-philips-hf352ebitclock/"><u>The Perfect Wakeup Call? Exploring the Features of the Inexpensive Philips HF352ebitclock</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/the-ultimate-guide-to-perfecting-square-video-format-for-insta-success/"><u>The Ultimate Guide to Perfecting Square Video Format for Insta Success</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/the-ultimate-guide-to-picking-the-best-see-through-mobile-wallpapers-on-smartphones-android-and-ios-solutions/"><u>The Ultimate Guide to Picking the Best See-Through Mobile Wallpapers on Smartphones: Android & iOS Solutions</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-9-free-email-clients-the-best-pick-for-your-android-device/"><u>Top 9 Free Email Clients: The Best Pick for Your Android Device</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-blu-ray-disc-players-compatible-with-windows-8-enjoy-high-definition-movies/"><u>Top Blu-Ray Disc Players Compatible with Windows 8: Enjoy High-Definition Movies</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-strategies-for-effortlessly-changing-mts-files-into-high-quality-avi-video-clips/"><u>Top Strategies for Effortlessly Changing MTS Files Into High-Quality AVI Video Clips</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

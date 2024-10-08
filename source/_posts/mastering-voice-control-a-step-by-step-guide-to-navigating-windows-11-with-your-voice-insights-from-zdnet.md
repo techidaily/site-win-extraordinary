@@ -1,7 +1,7 @@
 ---
 title: "Mastering Voice Control: A Step-by-Step Guide to Navigating Windows 11 with Your Voice - Insights From ZDNet"
-date: 2024-09-26T18:25:53.320Z
-updated: 2024-10-02T17:38:08.048Z
+date: 2024-10-02T17:24:25.775Z
+updated: 2024-10-08T16:00:29.078Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,24 +136,24 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -202,20 +202,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-master-list-of-vimeo-video-capturers/"><u>[New] In 2024, Master List of Vimeo Video Capturers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-detailed-breakdown-of-camstudio-screencapture-pro/"><u>2024 Approved Detailed Breakdown of CamStudio ScreenCapture Pro</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/artificial-love-the-modern-hackers-playbook/"><u>Artificial Love: The Modern Hacker's Playbook</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/capturing-mov-files-effortlessly-in-windows-10/"><u>Capturing MOV Files Effortlessly in Windows 10</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/t-synthetic-followers-for-true-popularity-peak-for-2024/"><u>Defeat Synthetic Followers for True Popularity Peak for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/discovering-your-publishing-possibilities-the-variety-of-formats-available-with-flipoffice-at-flipbuildercom/"><u>Discovering Your Publishing Possibilities: The Variety of Formats Available with FlipOffice at FlipBuilder.com</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-a38-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on A38</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-samsung-galaxy-s24-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Samsung Galaxy S24? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/inside-look-the-power-of-recmeister-capturing-features/"><u>Inside Look The Power of Recmeister Capturing Features</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/maximizing-your-publishing-potential-how-many-ebooks-can-you-create-with-flipbuilder/"><u>Maximizing Your Publishing Potential: How Many eBooks Can You Create with FlipBuilder?</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/saving-books-as-local-pdfs-with-flipbuilder-a-step-by-step-guide/"><u>Saving Books as Local PDFs with FlipBuilder - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/step-by-step-guide-adding-personalized-watermarks-to-flipbook-page-impressions-using-flipbuilder/"><u>Step-by-Step Guide: Adding Personalized Watermarks to FlipBook Page Impressions Using FlipBuilder</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/streamlining-ereader-accessibility-implementing-secure-downloads-from-your-site-with-flipbuilder-tools/"><u>Streamlining eReader Accessibility: Implementing Secure Downloads From Your Site with FlipBuilder Tools</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/transform-your-pdf-files-into-web-friendly-html-for-free-using-flipbuilders-tools/"><u>Transform Your PDF Files Into Web-Friendly HTML for Free Using FlipBuilder's Tools</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-tailoring-your-iphone-photographs-size-alteration-for-2024/"><u>[Updated] Tailoring Your iPhone Photographs Size Alteration for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-vloggers-guide-to-going-viral-with-hilarious-reactions-3-must-know-strategies/"><u>2024 Approved Vlogger’s Guide to Going Viral with Hilarious Reactions – 3 Must-Know Strategies</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/convert-your-youtube-playlist-downloads-into-high-quality-audio-and-video-files-windows-and-macos/"><u>Convert Your YouTube Playlist Downloads Into High-Quality Audio and Video Files - Windows & macOS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/employment-mastery-made-possible-by-smart-ai-tech/"><u>Employment Mastery Made Possible by Smart AI Tech</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/how-to-shrink-png-files-efficiently-using-free-software-boost-your-site-speed/"><u>How To Shrink PNG Files Efficiently Using Free Software - Boost Your Site Speed</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/innovative-techniques-for-iphone-data-backup-a-comprehensive-guide/"><u>Innovative Techniques for iPhone Data Backup: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/leading-iphone-watermark-software-choose-the-optimal-app-for-your-needs/"><u>Leading iPhone Watermark Software: Choose the Optimal App for Your Needs</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/mastering-screen-recording-on-ios-devices-a-comprehensive-guide-with-insider-tips/"><u>Mastering Screen Recording on iOS Devices: A Comprehensive Guide with Insider Tips</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/online-video-subtitle-integration-breaking-down-linguistic-obstacles/"><u>Online Video Subtitle Integration: Breaking Down Linguistic Obstacles</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/step-by-step-guide-how-to-record-your-computer-screen-video-effortlessly/"><u>Step-by-Step Guide: How To Record Your Computer Screen Video Effortlessly</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitters-videography-policy-including-aspect-ratios-is-crucial-for-2024/"><u>Twitter's Videography Policy Including Aspect Ratios Is Crucial for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-free-and-affordable-video-editing-software-for-2024/"><u>Updated Free and Affordable Video Editing Software for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/visionary-film-titles-that-inspire-and-invigorate/"><u>Visionary Film Titles That Inspire and Invigorate</u></a></li>
 </ul></div>
 
