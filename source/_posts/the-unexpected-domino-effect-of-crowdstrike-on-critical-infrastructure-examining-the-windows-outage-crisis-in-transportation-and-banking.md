@@ -1,7 +1,7 @@
 ---
 title: "The Unexpected Domino Effect of CrowdStrike on Critical Infrastructure: Examining the Windows Outage Crisis in Transportation and Banking"
-date: 2024-10-07T17:38:45.681Z
-updated: 2024-10-08T17:11:05.428Z
+date: 2024-10-09T17:37:48.554Z
+updated: 2024-10-14T01:03:48.752Z
 tags:
   - microsoft
 categories:
@@ -114,29 +114,37 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-simplifying-visual-transformations-utilizing-luts-for-obs-videos/"><u>[New] 2024 Approved Simplifying Visual Transformations Utilizing LUTs for OBS Videos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-pedagogical-picks-the-most-effective-video-recording-tools-for-instructors/"><u>[New] Pedagogical Picks The Most Effective Video Recording Tools for Instructors</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-tech-savvy-summit-unveiling-our-top-5-video-capture-tools/"><u>[Updated] In 2024, Tech-Savvy Summit Unveiling Our Top 5 Video Capture Tools</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/creating-user-friendly-youtube-subscribe-icons/"><u>Creating User-Friendly YouTube Subscribe Icons</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/diy-tips-enhancing-snapchat-photos-with-custom-audio-tracks/"><u>DIY Tips: Enhancing Snapchat Photos with Custom Audio Tracks</u></a></li>
-<li><a href="https://win-forum.techidaily.com/engage-with-major-social-platforms-discover-facebook-twitter-instagram-and-youtube/"><u>Engage with Major Social Platforms: Discover Facebook, Twitter, Instagram, and Youtube</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/enhance-productivity-in-microsoft-word-with-these-top-7-powerful-add-ons/"><u>Enhance Productivity in Microsoft Word with These Top 7 Powerful Add-Ons</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/high-quality-android-photoshoppers-for-2024/"><u>High-Quality Android Photoshoppers for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Life360 Learn How Everything Works On Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/scrutinizing-vidmas-latest-screen-recording-tech/"><u>Scrutinizing Vidma’s Latest Screen Recording Tech</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/step-by-step-tutorial-on-reverting-to-itunes-backup-for-iphone-restoration/"><u>Step-by-Step Tutorial on Reverting to iTunes Backup for iPhone Restoration</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-perfect-wakeup-call-exploring-the-features-of-the-inexpensive-philips-hf352ebitclock/"><u>The Perfect Wakeup Call? Exploring the Features of the Inexpensive Philips HF352ebitclock</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/the-ultimate-guide-to-perfecting-square-video-format-for-insta-success/"><u>The Ultimate Guide to Perfecting Square Video Format for Insta Success</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/the-ultimate-guide-to-picking-the-best-see-through-mobile-wallpapers-on-smartphones-android-and-ios-solutions/"><u>The Ultimate Guide to Picking the Best See-Through Mobile Wallpapers on Smartphones: Android & iOS Solutions</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-9-free-email-clients-the-best-pick-for-your-android-device/"><u>Top 9 Free Email Clients: The Best Pick for Your Android Device</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-blu-ray-disc-players-compatible-with-windows-8-enjoy-high-definition-movies/"><u>Top Blu-Ray Disc Players Compatible with Windows 8: Enjoy High-Definition Movies</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-strategies-for-effortlessly-changing-mts-files-into-high-quality-avi-video-clips/"><u>Top Strategies for Effortlessly Changing MTS Files Into High-Quality AVI Video Clips</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-differentiate-yourself-with-these-critical-yt-shorts-hacks/"><u>[New] Differentiate Yourself with These Critical YT Shorts Hacks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-fix-facebook-story-not-uploading-problem/"><u>[Updated] In 2024, Fix Facebook Story Not Uploading Problem</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-realme-12plus-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Realme 12+ 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-software-choices-download-youtube-music-as-mp3-for-iphone-users-for-2024/"><u>6+ Software Choices Download YouTube Music as MP3 for iPhone Users for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/adjust-pre-and-post-line-filters-in-emeditor-to-refine-text-editing-experience/"><u>Adjust Pre- and Post-Line Filters in EmEditor to Refine Text Editing Experience</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/discover-a-wealth-of-editing-solutions-with-emeditor-the-ultimate-text-handling-software-experience/"><u>Discover a Wealth of Editing Solutions with EmEditor: The Ultimate Text Handling Software Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fast-track-to-using-microsoft-copilot-with-your-macos-devices/"><u>Fast Track to Using Microsoft Copilot with Your macOS Devices</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/get-a-competitive-edge-with-the-latest-emeditor-professional-v1117-beta-premium-text-editing-software/"><u>Get a Competitive Edge with the Latest EmEditor Professional v11.1.7 Beta - Premium Text Editing Software</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/key-install-settings-understanding-your-systems-setup-variables/"><u>Key Install Settings: Understanding Your System's Setup Variables</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-ai-art-with-paint-tool-sai-in-windows-11/"><u>Mastering AI Art with Paint Tool SAI in Windows 11</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/navigating-text-seamlessly-preserve-cursor-location-while-transitioning-lines-on-emeditor-platform/"><u>Navigating Text Seamlessly: Preserve Cursor Location While Transitioning Lines on EmEditor Platform</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/recupere-sus-archivos-perdidos-despues-de-una-limpieza-completa-en-windows-1011/"><u>Recupere Sus Archivos Perdidos Después De Una Limpieza Completa en Windows 10/11</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/save-file-location-directly-to-clipboard-with-emeditors-right-click-functionality-explained/"><u>Save File Location Directly to Clipboard with EmEditor's Right-Click Functionality Explained</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-to-update-your-brother-mfc-j480dw-printer-driver-for-windows-devices/"><u>Step-by-Step Tutorial to Update Your Brother MFC J480DW Printer Driver for Windows Devices</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/troubleshooting-emeditor-msi-setup-issues-expert-assistance-required/"><u>Troubleshooting EmEditor MSI Setup Issues: Expert Assistance Required</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/ultimate-text-editing-software-emeditors-powerful-features-unveiled/"><u>Ultimate Text Editing Software: EmEditor's Powerful Features Unveiled</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/understanding-emeditor-issues-unraveling-regex-and-function-quirks/"><u>Understanding EmEditor Issues: Unraveling Regex and Function Quirks</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/understanding-emeditor-a-comprehensive-response-to-user-inquiries/"><u>Understanding EmEditor: A Comprehensive Response to User Inquiries</u></a></li>
+<li><a href="https://discover-great.techidaily.com/unwrap-the-gift-of-happiness-seamless-xmas-avi-to-various-formats-with-no-cost-wonderfox-pro-video-converter/"><u>Unwrap the Gift of Happiness: Seamless Xmas AVI to Various Formats with No-Cost WonderFox Pro Video Converter!</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

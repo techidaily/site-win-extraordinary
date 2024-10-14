@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Rules of Engagement with Mirillis Services: Terms and Conditions Explained"
-date: 2024-10-05T17:35:10.716Z
-updated: 2024-10-08T16:44:42.776Z
+date: 2024-10-07T02:00:40.862Z
+updated: 2024-10-14T05:42:30.981Z
 tags:
   - product
 categories:
@@ -24,10 +24,10 @@ Terms - this terms and conditions of sale
 Mirillis - Mirillis Ltd., ul. Fabryczna 14b/1, 65-410 Zielona Góra, Poland. NIP: 973-097-55-52, REGON: 080432823, Captial: 30000pln, KRS: 0000356397 - Sąd Rejonowy w Zielonej Górze, XIII Wydział Gospodarczy Krajowego Rejestru Sądowego
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### General conditions
@@ -41,10 +41,10 @@ Mirillis - Mirillis Ltd., ul. Fabryczna 14b/1, 65-410 Zielona Góra, Poland. NIP
 1.4 You acknowledge that you have read specified Mirillis product End User License Agreement and you accept terms and conditions of this agreement. If you do not agree with the terms of this End User License Agreement you must remove specified Mirillis product files from your storage devices, cease to use the product, discontinue purchase and discountinue creating Mirillis account.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Security
@@ -56,16 +56,10 @@ Mirillis - Mirillis Ltd., ul. Fabryczna 14b/1, 65-410 Zielona Góra, Poland. NIP
 4.3 Your account password is stored in encrypted form and we do not have any access or knowlegde about your password. We cannot remind you your password, the only option if you lost the password is to reset a password to a new one. 
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Privacy Policy
@@ -81,10 +75,10 @@ Mirillis - Mirillis Ltd., ul. Fabryczna 14b/1, 65-410 Zielona Góra, Poland. NIP
  5.5 Your e-mail address information may be used by Mirillis Ltd. for contact purposes on important matters. We do not sell any information about our customers or website users to any third parties.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### General information
@@ -106,20 +100,15 @@ Mirillis - Mirillis Ltd., ul. Fabryczna 14b/1, 65-410 Zielona Góra, Poland. NIP
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/rippy-techniques-secrets-to-excellent-tripod-use-in-vlogging-for-2024/"><u>[New] Trippy Techniques Secrets to Excellent Tripod Use in Vlogging for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-economics-of-entertainment-pewdiepies-profit/"><u>[Updated] The Economics of Entertainment PewDiePie's Profit</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/dells-direct-methods-easy-screenshot-solutions/"><u>Dell's Direct Methods Easy Screenshot Solutions</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-updated-drivers-for-tp-link-usb-400-bluetooth-adapter-compatibility-guide/"><u>Download Updated Drivers for TP-Link USB 400 Bluetooth Adapter – Compatibility Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/error-by-nvidia-windows-halted-problem-solved/"><u>Error by NVidia: Windows Halted, Problem Solved</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/explore-the-ins-and-outs-of-securing-refunds-with-flipbuilder-a-builders-guide-to-assurance/"><u>Explore the Ins and Outs of Securing Refunds with FlipBuilder: A Builder’s Guide to Assurance</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/how-to-add-mp3-audio-files-in-your-flipbooks-made-easy-discover-the-basics-at-flipbuildercom/"><u>How to Add MP3 Audio Files in Your Flipbooks Made Easy - Discover the Basics at FlipBuilder.com</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-honor-play-40c-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Honor Play 40C? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-thorough-appraisal-gopro-silver-hero4-version-analysis/"><u>In 2024, Thorough Appraisal GoPro Silver HERO4 Version Analysis</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/is-it-possible-to-tailor-the-assistance-icon-for-flipbuilder-sites/"><u>Is It Possible to Tailor the Assistance Icon for FlipBuilder Sites?</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/maximizing-your-publishing-potential-how-many-ebooks-can-you-create-with-flipbuilder/"><u>Maximizing Your Publishing Potential: How Many eBooks Can You Create with FlipBuilder?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/reign-as-a-tycoon-champion-with-our-12-must-play-games/"><u>Reign as a Tycoon Champion with Our #12 Must-Play Games</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/saving-books-as-local-pdfs-with-flipbuilder-a-step-by-step-guide/"><u>Saving Books as Local PDFs with FlipBuilder - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/step-by-step-guide-adding-personalized-watermarks-to-flipbook-page-impressions-using-flipbuilder/"><u>Step-by-Step Guide: Adding Personalized Watermarks to FlipBook Page Impressions Using FlipBuilder</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/streamlining-ereader-accessibility-implementing-secure-downloads-from-your-site-with-flipbuilder-tools/"><u>Streamlining eReader Accessibility: Implementing Secure Downloads From Your Site with FlipBuilder Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-decoding-youtubes-revenue-model-for-video-clips/"><u>[New] In 2024, Decoding YouTube's Revenue Model for Video Clips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premier-virtual-marketplaces-the-10-cutest-wrapped-delights/"><u>[New] Premier Virtual Marketplaces The 10 Cutest Wrapped Delights</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-your-essential-guide-to-unblocking-on-instagram/"><u>[Updated] 2024 Approved Your Essential Guide to Unblocking on Instagram</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-steamvr-error-308-effective-strategies-to-get-back-in-gear/"><u>Beat SteamVR Error 308: Effective Strategies to Get Back in Gear</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-nokia-c300-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/download-and-convert-tidal-tracks-top-free-flac-transposer-apps-for-pc-and-mac/"><u>Download & Convert TIDAL Tracks: Top Free FLAC Transposer Apps for PC & Mac</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/download-and-convert-kannada-tracks-into-mp3-format-for-both-macos-and-windows-systems/"><u>Download and Convert Kannada Tracks Into MP3 Format for Both macOS and Windows Systems</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/download-episodes-and-subs-from-arte-channel-online-streaming-platform/"><u>Download Episodes & Subs From Arte Channel Online Streaming Platform</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/download-videos-in-high-quality-formats-with-nowvideo-compatible-with-macos-and-windows/"><u>Download Videos in High-Quality Formats with NowVideo: Compatible with macOS & Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-plus-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Plus To Other iPhone 13 devices? | Dr.fone</u></a></li>
 </ul></div>
 

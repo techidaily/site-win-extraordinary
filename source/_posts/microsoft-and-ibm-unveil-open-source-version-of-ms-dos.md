@@ -1,7 +1,7 @@
 ---
 title: Microsoft & IBM Unveil Open Source Version of MS-DOS
-date: 2024-10-06T16:46:47.978Z
-updated: 2024-10-08T16:56:55.325Z
+date: 2024-10-08T22:51:20.123Z
+updated: 2024-10-13T16:15:27.906Z
 tags:
   - microsoft
 categories:
@@ -114,25 +114,31 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guidance-to-youtube-music-mix/"><u>[New] 2024 Approved Guidance to YouTube Music Mix</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-simplify-your-meetings-using-zoom-to-upgrade-skype/"><u>[Updated] Simplify Your Meetings Using Zoom to Upgrade Skype</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1-innovative-imaging-solutions-with-mirilliss-picture2-tech/"><u>1. Innovative Imaging Solutions with Mirillis's Picture2 Tech</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/convert-and-download-your-favorite-chilloutzone-videos-in-multiple-formats/"><u>Convert and Download Your Favorite ChilloutZone Videos in Multiple Formats</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/diagnosing-and-fixing-poor-video-quality-on-netflix-a-comprehensive-guide/"><u>Diagnosing & Fixing Poor Video Quality on Netflix: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/get-your-favorite-nhl-games-and-clips-as-video-files-mp4-wmv-mov-or-avi-download-options/"><u>Get Your Favorite NHL Games and Clips as Video Files: MP4, WMV, MOV, or AVI Download Options</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/infobox/"><u>Infobox</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722964524089-logitech-keyboard-setup-and-drivers-compatible-with-windows-10-download-here/"><u>Logitech Keyboard Setup & Drivers Compatible with Windows 10 – Download Here</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/lost-your-ipad-passcode-follow-these-simple-steps-to-regain-access/"><u>Lost Your iPad Passcode? Follow These Simple Steps to Regain Access!</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/navigating-the-rules-of-engagement-with-mirillis-services-terms-and-conditions-explained/"><u>Navigating the Rules of Engagement with Mirillis Services: Terms and Conditions Explained</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/steps-for-securely-retrieving-media-files-from-periscopetv-on-both-macintosh-and-pc-platforms/"><u>Steps for Securely Retrieving Media Files From periscope.tv on Both Macintosh and PC Platforms</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/tesla-faces-restrictions-not-all-autonomous-driving-features-approved-in-specific-us-region/"><u>Tesla Faces Restrictions: Not All Autonomous Driving Features Approved in Specific U.S. Region</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-parental-control-software-for-mac-and-windows-pcs-by-allavsoft-your-ideal-solution/"><u>Top Parental Control Software for Mac & Windows PCs by Allavsoft – Your Ideal Solution!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-enhancing-speech-clarity-on-skype-for-2024/"><u>[New] Enhancing Speech Clarity on Skype for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/complete-overview-key-reveals-from-microsofts-october-surface-launch-zdnet-insights/"><u>Complete Overview: Key Reveals From Microsoft's October Surface Launch - ZDNet Insights</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/efficient-strategies-for-setting-up-and-overseeing-home-windows-user-profiles-a-comprehensive-guide/"><u>Efficient Strategies for Setting Up & Overseeing Home Windows User Profiles: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/how-to-harness-the-power-of-ai-with-microsoft-365s-new-copilot-tools-zdnet-insights/"><u>How To Harness The Power Of AI With Microsoft 365'S New Copilot Tools | ZDNET Insights</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-s23plus-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy S23+</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-navigating-tiktok-lives-as-a-virtual-attendee/"><u>In 2024, Navigating TikTok Lives as a Virtual Attendee</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-a54-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy A54 5G</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/mastering-the-art-of-windows-11-vms-expert-tips-and-tricks-for-optimal-setup-sourced-from-zdnet/"><u>Mastering the Art of Windows 11 VMs: Expert Tips and Tricks for Optimal Setup - Sourced From ZDNet</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-rated-free-security-camera-systems-expert-reviews/"><u>New 2024 Approved Top-Rated Free Security Camera Systems Expert Reviews</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/step-by-step-guide-eliminating-unwanted-programs-from-your-windows-11-pc-howtogeek/"><u>Step-by-Step Guide: Eliminating Unwanted Programs From Your Windows 11 PC | HowToGeek</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-choosing-a-nook-glowlight-4-for-reading-enthusiasts/"><u>The Ultimate Guide to Choosing a Nook GlowLight 4 for Reading Enthusiasts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-four-ai-enhancements-required-for-iphones-to-match-androids-capabilities-insights-from-zdnet/"><u>Top Four AI Enhancements Required for iPhones to Match Android's Capabilities - Insights From ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-tecno-pova-6-pro-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Tecno Pova 6 Pro 5G Phone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-microsoft-black-friday-savings-save-400-on-surface-pro-7-and-get-200-off-surface-laptop-go-exclusive-deals-from-zdnet/"><u>Top Microsoft Black Friday Savings: Save $400 on Surface Pro 7 & Get $200 Off Surface Laptop Go - Exclusive Deals From ZDNet</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/transform-your-team-with-top-tier-tech-talent-discover-microsofts-elite-developers/"><u>Transform Your Team with Top-Tier Tech Talent: Discover Microsoft’s Elite Developers</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/understanding-the-latest-change-in-windows-11-unwanted-onedrive-folders-backup-insights-from-zdnet/"><u>Understanding the Latest Change in Windows 11: Unwanted OneDrive Folders Backup - Insights From ZDNet.</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-itel-s23-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Itel S23 Users</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/why-the-future-of-computing-demands-an-ipad-style-screen-on-macbook-insights-from-microsofts-surface-laptop-studio/"><u>Why the Future of Computing Demands an iPad-Style Screen on MacBook: Insights From Microsoft's Surface Laptop Studio</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

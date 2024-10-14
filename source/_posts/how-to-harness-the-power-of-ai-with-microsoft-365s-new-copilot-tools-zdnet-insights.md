@@ -1,7 +1,7 @@
 ---
 title: How To Harness The Power Of AI With Microsoft 365'S New Copilot Tools | ZDNET Insights
-date: 2024-10-01T16:18:54.105Z
-updated: 2024-10-08T17:23:06.511Z
+date: 2024-10-11T08:15:36.000Z
+updated: 2024-10-14T12:41:11.546Z
 tags:
   - microsoft
 categories:
@@ -114,25 +114,31 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-the-most-reliable-skype-recorders-ranked/"><u>[New] 2024 Approved The Most Reliable Skype Recorders Ranked</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/building-a-professional-e-catalog-a-step-by-step-guide-using-flipbuilder/"><u>Building a Professional E-Catalog: A Step-by-Step Guide Using FlipBuilder</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/choisir-le-convertisseur-video-numero-un-gratuite-en-ligne-mp4-et-plus-comparatif-2024/"><u>Choisir Le Convertisseur Vidéo Numéro Un Gratuite en Ligne, MP4 Et Plus - Comparatif 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/concurrent-display-registration-for-2024/"><u>Concurrent Display Registration for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/conversione-da-dvd-a-mkv-o-viceversa-con-movavi-download-gratuito/"><u>Conversione Da DVD a MKV O Viceversa Con Movavi - Download Gratuito</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/filters-through-windows-10-photos-extracting-picture-moments-for-2024/"><u>Filters Through Windows 10 Photos Extracting Picture Moments for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-the-red-screen-error-ultimate-troubleshooting-guide/"><u>Fixing the Red Screen Error: Ultimate Troubleshooting Guide</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-exclusive-list-the-most-reliable-10-vimeo-downloader-apps/"><u>In 2024, Exclusive List The Most Reliable 10 Vimeo Downloader Apps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pay-attention-focus-fully-on-the-speaker-avoid-distractions-and-show-interest-in-what-theyre-saying/"><u>Pay Attention Focus Fully on the Speaker, Avoid Distractions, and Show Interest in What They're Saying</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolve-photo-capture-failures-in-windows-os/"><u>Resolve Photo Capture Failures in Windows OS</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-ultimate-guide-to-unlocking-your-apple-iphone-13-pro-max-on-metropcs-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Your Apple iPhone 13 Pro Max on MetroPCS</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/transformer-des-fichiers-mov-en-fichiers-mp3-gratuits-en-ligne-moovavi/"><u>Transformer Des Fichiers MOV en Fichiers MP3 Gratuits en Ligne - Moovavi</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/unmissable-classic-and-modern-family-films-your-complete-dvd-movie-guide/"><u>Unmissable Classic and Modern Family Films: Your Complete DVD Movie Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-condense-cinematography-to-instagrams-max-on-macos/"><u>[New] 2024 Approved Condense Cinematography to Instagram's Max on macOS</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-quick-start-guide-to-recording-remote-meetings-with-ease-windows-mac/"><u>[New] Quick-Start Guide to Recording Remote Meetings with Ease (Windows, Mac)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-storystitcher-compelling-collage-for-instagram-users/"><u>[New] StoryStitcher Compelling Collage for Instagram Users</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-boost-creativity-with-free-audio-effects-online/"><u>[Updated] Boost Creativity with Free Audio Effects Online</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-get-free-views-on-youtube-2-easy-ways/"><u>[Updated] How to Get Free Views on YouTube [2 Easy Ways]</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-display-functionality-windows-edition/"><u>Boost Display Functionality Windows Edition</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-access-problems-with-windows-smartscreen-technology/"><u>Diagnosing and Fixing Access Problems with Windows SmartScreen Technology</u></a></li>
+<li><a href="https://facebook.techidaily.com/facial-ids-downfall-meta-writes-the-new-chapter-for-fb/"><u>Facial ID's Downfall? Meta’ Writes the New Chapter for FB</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/how-to-extract-online-clips-from-breakcom-for-desktop-viewing/"><u>How to Extract Online Clips From Break.com for Desktop Viewing</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/iqiyi-video-downloader-guide-step-by-step-instructions-for-easy-iqiyi-content-retrieval/"><u>IQIYI Video Downloader Guide: Step-by-Step Instructions for Easy iQIYI Content Retrieval</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/mp3-downloader-for-purevolume-tracks-effortless-conversion-guide/"><u>MP3 Downloader For PureVolume Tracks: Effortless Conversion Guide</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/quick-guide-how-to-download-songs-and-videos-from-weibo-efficient-media-retrieval-tools/"><u>Quick Guide: How to Download Songs & Videos From Weibo - Efficient Media Retrieval Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/samsungs-guide-to-crafting-captivating-time-lapses-with-smartphones/"><u>Samsung's Guide to Crafting Captivating Time-Lapses with Smartphones</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/smileslice-studio-memomaestrospace-for-2024/"><u>SmileSlice Studio MemoMaestroSpace for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/step-by-step-guide-to-downloading-mit-opencourseware-video-lectures-on-macos-and-windows/"><u>Step-by-Step Guide to Downloading MIT OpenCourseWare Video Lectures on macOS & Windows</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/stream-to-save-securely-transferring-femcom-content-to-macoswindows/"><u>Stream-to-Save: Securely Transferring Fem.com Content to macOS/Windows</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/synchronizing-your-soundtracks-a-step-by-step-guide-to-embedding-spotify-playlists-on-instagram/"><u>Synchronizing Your Soundtracks: A Step-by-Step Guide to Embedding Spotify Playlists on Instagram</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/ten-download-app-access-free-episodes-from-channel-ten-online/"><u>Ten Download App: Access Free Episodes From Channel Ten Online!</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-rated-dentex-alternative-download-any-video-from-youtube-for-pc-and-mac/"><u>Top-Rated Dentex Alternative: Download Any Video From YouTube for PC & MAC</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
