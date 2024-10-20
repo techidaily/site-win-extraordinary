@@ -1,7 +1,7 @@
 ---
 title: ZDnet's Comprehensive Tutorial on Organizing Windows User Profiles Within Families
-date: 2024-10-08T01:08:20.749Z
-updated: 2024-10-14T06:16:51.473Z
+date: 2024-10-18T17:30:26.898Z
+updated: 2024-10-20T07:18:23.586Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,16 +77,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -129,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,22 +149,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,20 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-de-following-immediate-awareness/"><u>[New] Instagram De-Following Immediate Awareness</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-customizing-facebook-memories-with-look-back-edits/"><u>[Updated] In 2024, Customizing Facebook Memories with Look Back Edits</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-step-into-a-world-of-magic-expert-led-guide-to-snapchat-edits-for-2024/"><u>[Updated] Step Into a World of Magic Expert-Led Guide to Snapchat Edits for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/discovering-your-publishing-possibilities-the-variety-of-formats-available-with-flipoffice-at-flipbuildercom/"><u>Discovering Your Publishing Possibilities: The Variety of Formats Available with FlipOffice at FlipBuilder.com</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/erweiterte-tipps-fur-die-anzeige-von-nicht-sichtbaren-dokumenten-in-ordnern-unter-windows-10-8-und-7-ein-umfassender-leitfaden/"><u>Erweiterte Tipps Für Die Anzeige Von Nicht Sichtbaren Dokumenten in Ordnern Unter Windows 10, 8 Und 7: Ein Umfassender Leitfaden</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-purpose-behind-labeling-people-or-items-what-is-tagging/"><u>Exploring the Purpose Behind Labeling People or Items: What Is Tagging?</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/free-customizable-design-templates-craft-stunning-fashion-flipbooks-with-flipbuildercom/"><u>Free Customizable Design Templates: Craft Stunning Fashion Flipbooks with FlipBuilder.com</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/how-can-you-design-original-graphics-using-flipbuildercoms-tools/"><u>How Can You Design Original Graphics Using FlipBuilder.com's Tools?</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/how-to-allow-local-downloads-of-your-created-flipbooks-on-flipbuildercom/"><u>How To Allow Local Downloads of Your Created Flipbooks on FlipBuilder.com</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-your-xiaomi-redmi-note-13-pro-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Xiaomi Redmi Note 13 Pro 5G Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/premier-asian-dialects-reverse-and-secure-listings/"><u>Premier Asian Dialects: Reverse & Secure Listings</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-process-of-printing-directly-to-your-computer-screen/"><u>Step-by-Step Process of Printing Directly to Your Computer Screen</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/streamlining-ereader-accessibility-implementing-secure-downloads-from-your-site-with-flipbuilder-tools/"><u>Streamlining eReader Accessibility: Implementing Secure Downloads From Your Site with FlipBuilder Tools</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-apple-iphone-x-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on Apple iPhone X</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/transform-your-pdf-files-into-web-friendly-html-for-free-using-flipbuilders-tools/"><u>Transform Your PDF Files Into Web-Friendly HTML for Free Using FlipBuilder's Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-cut-to-the-chase-basic-film-shots-every-novice-should-learn/"><u>[New] 2024 Approved Cut to the Chase Basic Film Shots Every Novice Should Learn</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unlock-your-phones-full-potential-with-these-ios-vr-titles-for-2024/"><u>[New] Unlock Your Phone's Full Potential with These iOS VR Titles for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1-schritt-fur-schritt-anleitung-zum-erstellungsvorgang-von-ipod-touch-backups-auf-dem-pc-oder-im-icloud/"><u>1. Schritt-Für-Schritt Anleitung Zum Erstellungsvorgang Von IPod Touch Backups Auf Dem PC Oder Im iCloud</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-15-pro-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 15 Pro without Passcode or Face ID</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/all-revealed-delving-into-every-detail-of-apples-artificial-intelligence-at-the-2024-worldwide-developers-conference/"><u>All Revealed: Delving Into Every Detail of Apple's Artificial Intelligence at the 2024 Worldwide Developers Conference</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/botnet-basics-unveiled-how-these-networks-operate-demystified-for-the-everyday-user/"><u>Botnet Basics Unveiled: How These Networks Operate Demystified for the Everyday User</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/eine-effiziente-losung-zum-abrufen-und-wiederherstellen-von-ausfuhrlich-geloschten-nachrichten-in-deinem-microsoft-outlook-postfach/"><u>Eine Effiziente Lösung Zum Abrufen Und Wiederherstellen Von Ausführlich Gelöschten Nachrichten in Deinem Microsoft Outlook-Postfach</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/facebook-vids-to-mp4-download-made-easy-for-2024/"><u>Facebook Vids to MP4 - Download Made Easy for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-honor-80-pro-straight-screen-edition-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Honor 80 Pro Straight Screen Edition Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-reno-8t-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 8T Phone without PIN</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-the-secret-language-of-success-top-20-market-phrases/"><u>In 2024, The Secret Language of Success - Top 20 Market Phrases</u></a></li>
+<li><a href="https://games-able.techidaily.com/office-environmentals-vs-playstation-specifications/"><u>Office Environmentals Vs. PlayStation Specifications</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/os-melhores-softwares-de-resgate-do-servidor-windows-descubra-a-solucao-eficiente-do-aomee-backupper/"><u>Os Melhores Softwares De Resgate Do Servidor Windows - Descubra a Solução Eficiente Do AoMee Backupper</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/retrieve-accidentally-erased-data-top-4-solutions-for-windows-and-macos-users/"><u>Retrieve Accidentally Erased Data: Top 4 Solutions for Windows & macOS Users</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/ssd-windows-115/"><u>SSD認識不可: Windows 11におけるトップ5修復手順</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728483520782-windows/"><u>Windows 系統下載錯亂！怎麼找到正確位置？</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728495172764-aomei-backupper/"><u>ダイナミックボリューム対象にAOMEI Backupperを使用した効果的なバックアップ方法</u></a></li>
 </ul></div>
 

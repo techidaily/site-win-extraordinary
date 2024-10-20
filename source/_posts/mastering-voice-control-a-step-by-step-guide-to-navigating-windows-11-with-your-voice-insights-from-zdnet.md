@@ -1,7 +1,7 @@
 ---
 title: "Mastering Voice Control: A Step-by-Step Guide to Navigating Windows 11 with Your Voice - Insights From ZDNet"
-date: 2024-10-09T04:38:05.779Z
-updated: 2024-10-13T19:46:09.000Z
+date: 2024-10-16T00:34:45.829Z
+updated: 2024-10-19T22:17:20.361Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,22 +129,35 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,18 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-eco-friendly-recorder-ads-absolved-in-2024/"><u>[New] Eco-Friendly Recorder - Ads Absolved, In 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-screen-recording-google-meets-on-mobile-devices/"><u>[New] Screen Recording Google Meets on Mobile Devices</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-social-scoop-twitters-trending-talks/"><u>[Updated] 2024 Approved Social Scoop Twitter’s Trending Talks</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/best-equipment-for-stunning-seaside-portraits-a-guide/"><u>Best Equipment for Stunning Seaside Portraits: A Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/budding-filmmakers-check-out-these-gopro-upgrades-for-2024/"><u>Budding Filmmakers, Check Out These GoPro Upgrades for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/comprehensive-tutorial-on-syncing-an-iphone-with-your-unmanned-aerial-vehicle-uav/"><u>Comprehensive Tutorial on Syncing an iPhone with Your Unmanned Aerial Vehicle (UAV)</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/discover-enhanced-productivity-with-emeditors-pro-edition-version-7-beta-release/"><u>Discover Enhanced Productivity with EmEditor's Pro Edition, Version 7 Beta Release</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/discover-the-unexpected-feature-of-copying-entire-lines-in-emeditor-when-no-characters-are-chosen/"><u>Discover the Unexpected Feature of Copying Entire Lines in EmEditor When No Characters Are Chosen</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/1722969550857-experience-comfort-and-quality-with-the-fellowes-microban-wireless-keyboard-budget-friendly/"><u>Experience Comfort and Quality with the Fellowes Microban Wireless Keyboard – Budget Friendly!</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/guide-transforming-your-audiobook-collection-into-high-quality-mp3-files/"><u>Guide: Transforming Your Audiobook Collection Into High-Quality MP3 Files</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-honor-100-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Honor 100? | Dr.fone</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/how-to-efficiently-shrink-your-zoom-recording-files-with-a-pc-or-web-based-tools/"><u>How to Efficiently Shrink Your Zoom Recording Files with a PC or Web-Based Tools</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/streamline-your-tunes-mastering-the-art-of-mp3-compression-techniques/"><u>Streamline Your Tunes: Mastering the Art of MP3 Compression Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-search-patterns-to-screenplay-crafting-videos-from-google-data-for-2024/"><u>[New] From Search Patterns to Screenplay Crafting Videos From Google Data for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-infinix-note-30i-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Infinix Note 30i to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/cloning-your-pc-setup-on-windows-11-no-need-to-reinstall/"><u>Cloning Your PC Setup on Windows 11 - No Need to Reinstall!</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/comment-connecter-votre-amazon-cloud-drive-sur-un-mac-guide-facile-et-detaille/"><u>Comment Connecter Votre Amazon Cloud Drive Sur Un Mac - Guide Facile Et Détaillé</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/conexion-sin-esfuerzo-entre-tu-unidad-externa-y-la-nube-para-el-almacenamiento-de-archivos/"><u>Conexión Sin Esfuerzo Entre Tu Unidad Externa Y La Nube Para El Almacenamiento De Archivos</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/conseils-rapides-comment-remettre-en-place-votre-partition-ou-volume-sur-votre-pc/"><u>Conseils Rapides: Comment Remettre en Place Votre Partition Ou Volume Sur Votre PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/conversion-libre-de-mov-a-mp4-para-macos-y-windows-11-guia-online/"><u>Conversión Libre De MOV a MP4 Para macOS Y Windows 11 - Guía Online</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/crafting-artistry-your-ultimate-companion-for-boomerangs-for-2024/"><u>Crafting Artistry Your Ultimate Companion for Boomerangs for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/cross-platform-file-management-system-efficient-and-reliable/"><u>Cross-Platform File Management System - Efficient and Reliable</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discovering-the-best-4k-monitors-1-10/"><u>Discovering the Best 4K Monitors #1-10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/github-copilot-vs-chatgpt-the-ultimate-battle-in-ai-powered-code-generation/"><u>GitHub Copilot vs ChatGPT: The Ultimate Battle in AI-Powered Code Generation</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-exploring-mobile-youtube-usage-on-different-oses/"><u>In 2024, Exploring Mobile YouTube Usage on Different OSes</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/methoden-zum-wiederherstellen-von-umgebildeten-ordnern-tipps-und-tricks/"><u>Methoden Zum Wiederherstellen Von Umgebildeten Ordnern - Tipps Und Tricks</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/rescuing-lost-documents-techniques-for-finding-unsaved-work/"><u>Rescuing Lost Documents: Techniques for Finding Unsaved Work</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/simple-guide-effortless-restoration-of-images-on-external-storage-devices/"><u>Simple Guide: Effortless Restoration of Images on External Storage Devices</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-windows-11-experience-resetting-the-search-engine/"><u>Streamline Your Windows 11 Experience: Resetting the Search Engine</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/trustworthy-anti-spyware-software-malwarefoxs-proven-defense-strategy-against-unwanted-tracking/"><u>Trustworthy Anti-Spyware Software: MalwareFox's Proven Defense Strategy Against Unwanted Tracking</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-or-install-wifi-card-drivers-realtek-rtl81cu-compatible-with-windows-711/"><u>Update or Install WiFi Card Drivers: Realtek RTL81#CU Compatible with Windows 7/11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Nokia XR21? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Unexpected Domino Effect of CrowdStrike on Critical Infrastructure: Examining the Windows Outage Crisis in Transportation and Banking"
-date: 2024-10-09T17:37:48.554Z
-updated: 2024-10-14T01:03:48.752Z
+date: 2024-10-17T00:35:26.001Z
+updated: 2024-10-20T01:14:48.594Z
 tags:
   - microsoft
 categories:
@@ -114,37 +114,22 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-differentiate-yourself-with-these-critical-yt-shorts-hacks/"><u>[New] Differentiate Yourself with These Critical YT Shorts Hacks</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-fix-facebook-story-not-uploading-problem/"><u>[Updated] In 2024, Fix Facebook Story Not Uploading Problem</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-realme-12plus-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Realme 12+ 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-software-choices-download-youtube-music-as-mp3-for-iphone-users-for-2024/"><u>6+ Software Choices Download YouTube Music as MP3 for iPhone Users for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/adjust-pre-and-post-line-filters-in-emeditor-to-refine-text-editing-experience/"><u>Adjust Pre- and Post-Line Filters in EmEditor to Refine Text Editing Experience</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/discover-a-wealth-of-editing-solutions-with-emeditor-the-ultimate-text-handling-software-experience/"><u>Discover a Wealth of Editing Solutions with EmEditor: The Ultimate Text Handling Software Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fast-track-to-using-microsoft-copilot-with-your-macos-devices/"><u>Fast Track to Using Microsoft Copilot with Your macOS Devices</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/get-a-competitive-edge-with-the-latest-emeditor-professional-v1117-beta-premium-text-editing-software/"><u>Get a Competitive Edge with the Latest EmEditor Professional v11.1.7 Beta - Premium Text Editing Software</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/key-install-settings-understanding-your-systems-setup-variables/"><u>Key Install Settings: Understanding Your System's Setup Variables</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-ai-art-with-paint-tool-sai-in-windows-11/"><u>Mastering AI Art with Paint Tool SAI in Windows 11</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/navigating-text-seamlessly-preserve-cursor-location-while-transitioning-lines-on-emeditor-platform/"><u>Navigating Text Seamlessly: Preserve Cursor Location While Transitioning Lines on EmEditor Platform</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/recupere-sus-archivos-perdidos-despues-de-una-limpieza-completa-en-windows-1011/"><u>Recupere Sus Archivos Perdidos Después De Una Limpieza Completa en Windows 10/11</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/save-file-location-directly-to-clipboard-with-emeditors-right-click-functionality-explained/"><u>Save File Location Directly to Clipboard with EmEditor's Right-Click Functionality Explained</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-to-update-your-brother-mfc-j480dw-printer-driver-for-windows-devices/"><u>Step-by-Step Tutorial to Update Your Brother MFC J480DW Printer Driver for Windows Devices</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/troubleshooting-emeditor-msi-setup-issues-expert-assistance-required/"><u>Troubleshooting EmEditor MSI Setup Issues: Expert Assistance Required</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/ultimate-text-editing-software-emeditors-powerful-features-unveiled/"><u>Ultimate Text Editing Software: EmEditor's Powerful Features Unveiled</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/understanding-emeditor-issues-unraveling-regex-and-function-quirks/"><u>Understanding EmEditor Issues: Unraveling Regex and Function Quirks</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/understanding-emeditor-a-comprehensive-response-to-user-inquiries/"><u>Understanding EmEditor: A Comprehensive Response to User Inquiries</u></a></li>
-<li><a href="https://discover-great.techidaily.com/unwrap-the-gift-of-happiness-seamless-xmas-avi-to-various-formats-with-no-cost-wonderfox-pro-video-converter/"><u>Unwrap the Gift of Happiness: Seamless Xmas AVI to Various Formats with No-Cost WonderFox Pro Video Converter!</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-efficiency-and-speed/"><u>[Updated] 2024 Approved Efficiency and Speed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-protocols-and-performance-macos-meets-mixer/"><u>[Updated] Protocols and Performance MacOS Meets Mixer</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728484859642-windows-11/"><u>安全に初期設定を行い、データ保護を最優先: Windows 11の新しいセットアップへの挑戦方法</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728503105651-windows-11/"><u>使用Windows 11兼容性檢查器選擇最適合的工具和設置</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728504072042-windows-11/"><u>移動Windows 11中的附件到本地計算機 - 最佳方法</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-world-through-your-lenses-how-ray-bans-latest-upgrade-by-meta-offers-instant-landmark-info-detailed-analysis-on-zdnet/"><u>Discover the World Through Your Lenses: How Ray-Ban's Latest Upgrade by Meta Offers Instant Landmark Info | Detailed Analysis on ZDNET</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/guia-paso-a-paso-clonar-el-entorno-de-inicio-en-windows-ninja-para-evitar-la-perdida-de-informacion/"><u>Guía Paso a Paso: Clonar El Entorno De Inicio en Windows Ninja Para Evitar La Pérdida De Información</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-15-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone 15</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/sound-capture-gadget-testing/"><u>Sound Capture Gadget Testing</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

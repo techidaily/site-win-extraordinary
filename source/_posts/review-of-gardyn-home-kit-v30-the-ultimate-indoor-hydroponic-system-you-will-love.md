@@ -1,7 +1,7 @@
 ---
 title: Review of Gardyn Home Kit v3.0 - The Ultimate Indoor Hydroponic System You Will Love
-date: 2024-10-09T06:01:18.387Z
-updated: 2024-10-14T09:10:16.429Z
+date: 2024-10-12T17:33:26.385Z
+updated: 2024-10-19T21:37:42.036Z
 tags:
   - office-furniture
 categories:
@@ -50,13 +50,6 @@ We've had the Gardyn for about two months and our first harvest is upon us. How 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Setting up the Gardyn
 
 Okay, this was a little trickier than I bargained for. The Gardyn 3.0, which adds durability and evolving AI capabilities since the 2.0 release, takes up a relatively small footprint but, dimensionally, is quite large, standing 64" and encompassing three different growing towers. 
@@ -72,6 +65,13 @@ The setup itself isn't complicated but it is involved. You're basically assembli
 **Also: [Best smart indoor gardens (and what you can grow)](https://www.zdnet.com/home-and-office/kitchen-household/best-indoor-garden/)**
 
 Pro tip: Set this thing up in the location where it'll end up. I thought I was doing that, but once I had the Gardyn standing in front of me in its full glory, I realized it wasn't going to work in our boat's upstairs common area. Instead, it would be relegated to the engine room downstairs, where it would freshen the air even as our big Caterpillar diesel churned away.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How its technology works
 
@@ -90,16 +90,10 @@ Greg Nichols/ZDNET
 The coolest feature is also the one that's easiest to miss. The built-in cameras monitor plant growth and optimize the schedule based on your garden. The system can tell how fast your plants are growing and customize the light and watering cycle to suit your specific garden. This is vastly more powerful than simple timer-based devices.
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## App experience 
@@ -123,10 +117,16 @@ One cool feature is that you can view your plants in real-time in your app throu
 The app's plant book allows for some great discoverability. I wasn't familiar with borage, for example, but look forward to growing the edible flower. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A quibble
@@ -139,6 +139,13 @@ Lining up the tower as it's lifted back onto the base after cleaning has consist
 
 [Gardyn Home Kit 3.0 $695 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJS4YMNQ%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce618b943-7f6b-4f1a-8346-7ebf247df64d%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bottom line 
 
 At the end of the day, I'm very impressed with the [Gardyn Home Kit 3.0](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FGeneration-Hydroponics-Vertical-Vegetables-Gardening%2Fdp%2FB0BJS4YMNQ%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce618b943-7f6b-4f1a-8346-7ebf247df64d%7Cdtp&dtb=1) and I'm happy to have it as a centerpiece feature of our home, which happens to be a boat. 
@@ -146,13 +153,6 @@ At the end of the day, I'm very impressed with the [Gardyn Home Kit 3.0](https:/
 Despite my quibbles above, this ranks as an impressive and [powerful home-growing system](https://www.zdnet.com/home-and-office/kitchen-household/best-indoor-garden/) for a wide variety of vegetables. The company's technology is first-rate, and while setup is a chore and water changes can be cumbersome, the proof is in the pudding. I'm getting garden fresh greens and veggies in the belly of our old boat. It's so cool being anchored off the Channel Islands here in Southern California with fresh greens for dinner waiting to be harvested below. 
 
 If you don't have outdoor space but want to grow a large quantity and variety of plants and herbs, this system should definitely be on your radar.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternatives to consider 
 
@@ -198,22 +198,20 @@ A single growing stand that's expandable to 36 plants for a legit indoor farm.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-enhance-live-stream-performance-with-these-5-pro-tips/"><u>[New] 2024 Approved Enhance Live Stream Performance with These 5 Pro Tips</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-depth-guide-to-archiving-online-conversations-with-fb-for-2024/"><u>[New] In-Depth Guide to Archiving Online Conversations with FB for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-avoiding-pitfalls-in-angled-and-merged-video-manipulation-android/"><u>[Updated] Avoiding Pitfalls in Angled & Merged Video Manipulation (Android)</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1726224374588-dtsmp3-movavi/"><u>免費在線 DTS/MP3音質轉換服務 - 以Movavi為選擇的使用者指南</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/png-bmp-movavi/"><u>在線自由轉換 PNG 成 BMP 文件 - 使用 Movavi 照片工具</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/du-kommer-hit-ditt-ultimativt-guida-till-anvandning-av-virtuell-kameras-i-obs-2024/"><u>Du Kommer Hit: Ditt Ultimativt Guida Till Användning Av Virtuell Kameras I OBS - 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/free-online-image-converter-transforming-jpgs-instantly-with-no-cost/"><u>Free Online Image Converter: Transforming JPGs Instantly with No Cost</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/guida-passo-passo-trasforma-i-tuoi-file-mpeg-in-formato-wma-usando-il-servizio-online-di-movavi-nessun-costo/"><u>Guida Passo Passo: Trasforma I Tuoi File MPEG in Formato WMA Usando Il Servizio OnLine Di Movavi – Nessun Costo!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Motorola Moto E13? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-iphone-se-drfone-by-drfone-ios/"><u>How To Unlock A Found iPhone SE? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-use-audio-file-convertors-a-comprehensive-guide-with-movavi-tool/"><u>How To Use Audio File Convertors: A Comprehensive Guide with Movavi Tool</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reconnect-print-no-hassle-method/"><u>Reconnect Print: No Hassle Method</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ing-out-in-a-crowd-the-finest-thumbnail-font-options/"><u>Standing Out in a Crowd The Finest Thumbnail Font Options</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-10-free-photo-editing-apps-on-android-in-may-2024-a-comprehensive-guide/"><u>Top 10 Free Photo Editing Apps on Android in May 2024: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-16-applicazioni-di-controllo-della-webcam-gratuite-compatibili-con-windows-11-una-guida-completa/"><u>Top 16 Applicazioni Di Controllo Della Webcam Gratuite Compatibili Con Windows 11: Una Guida Completa</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-6-free-tools-for-burning-dvds-on-windows-11-8-and-7-best-and-easy/"><u>Top 6 Free Tools for Burning DVDs on Windows 11, 8 & 7 - Best and Easy</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-the-potential-of-enhanced-communication-crucial-new-features-added-to-chatgpt/"><u>Unlock the Potential of Enhanced Communication: Crucial New Features Added to ChatGPT</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-punpictures-pro-jestjokes-network/"><u>[New] In 2024, PunPictures Pro JestJokes Network</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-windows-filters-enable-or-disable-safeguard/"><u>Adjusting Windows Filters: Enable or Disable SafeGuard</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/captivating-cold-ideal-snowy-scenes-to-brighten-videos-for-2024/"><u>Captivating Cold Ideal Snowy Scenes to Brighten Videos for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/einfach-und-effektiv-festplatten-klonieren-mit-hilfe-von-hirens-boot-cd/"><u>Einfach Und Effektiv: Festplatten Klonieren Mit Hilfe Von Hirens Boot CD</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-lava-yuva-3-pro-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Lava Yuva 3 Pro Phone | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/how-to-seamlessly-resize-and-clone-ssds-in-windows-1011-for-expansion/"><u>How to Seamlessly Resize and Clone SSDs in Windows 10/11 for Expansion</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-brief-cinematic-chronicle/"><u>In 2024, Brief Cinematic Chronicle</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-non-gamebar-recorders-best-tools-for-game-capture/"><u>In 2024, Non-GameBar Recorders Best Tools for Game Capture</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/jalan-lurus-untuk-restorasi-catat-aplikasi-note-apple-yang-hapus-di-iphone-tanpa-membutuhkan-pertolongan/"><u>Jalan Lurus Untuk Restorasi Catat Aplikasi Note Apple Yang Hapus Di iPhone, Tanpa Membutuhkan Pertolongan!</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/lade-deine-icloud-aufnahmen-schnell-und-sicher-auf-das-handy-entdecke-hier-die-besten-methoden-fur-das-iphone/"><u>Lade Deine iCloud-Aufnahmen Schnell Und Sicher Auf Das Handy - Entdecke Hier Die Besten Methoden Für Das iPhone!</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/penghubungan-samsung-data-dengan-windows-10-lupa-tidak-bisa/"><u>Penghubungan Samsung Data Dengan Windows 10: Lupa Tidak Bisa!</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/seamless-file-sharing-understanding-how-pc-content-moves-to-the-cloud-with-onedrives-auto-sync-feature/"><u>Seamless File Sharing: Understanding How PC Content Moves to the Cloud with OneDrive's Auto-Sync Feature</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/simple-guide-effortless-music-transfer-to-your-iphone/"><u>Simple Guide: Effortless Music Transfer to Your iPhone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-best-of-both-worlds-free-and-paid-3d-animation-software-for-artists/"><u>Updated 2024 Approved The Best of Both Worlds Free and Paid 3D Animation Software for Artists</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Transferring Files Across OSes: Utilizing Google Quick Share for Windows and Android Integration | Tips by ZDNET"
-date: 2024-10-08T05:00:08.315Z
-updated: 2024-10-13T18:24:49.250Z
+date: 2024-10-17T04:42:14.243Z
+updated: 2024-10-19T19:50:49.978Z
 tags:
   - windows
 categories:
@@ -28,16 +28,10 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 ## How to set up God Mode in Windows 11 
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Check your account
@@ -46,18 +40,18 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -68,37 +62,24 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Search for a command
 
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
 
@@ -122,6 +103,13 @@ Screenshot by Lance Whitney/ZDNET
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Change the icon
 
@@ -168,21 +156,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-formula-for-fast-tracking-to-a-thousand-subscribers/"><u>[Updated] The Formula for Fast-Tracking to a Thousand Subscribers</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-nokia-c12-plus-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Nokia C12 Plus? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/global-it-collapse-prevention-discussed-at-microsofts-security-summit-expert-opinions-and-effective-solutions/"><u>Global IT Collapse Prevention Discussed at Microsoft's Security Summit - Expert Opinions & Effective Solutions</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-surpass-your-competition-effective-youtube-seo-tips/"><u>In 2024, Surpass Your Competition Effective YouTube SEO Tips</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-the-art-of-designing-smaller-images-thumbnails-explained/"><u>In 2024, The Art of Designing Smaller Images Thumbnails Explained</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/master-windows-11-efficiency-a-less-known-trick-for-instantaneously-stopping-laggy-applications-revealed-by-zdnet/"><u>Master Windows 11 Efficiency: A Less-Known Trick for Instantaneously Stopping Laggy Applications Revealed by ZDNet</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/maximizing-engagement-by-integrating-youtube-videos-into-your-instagram-saga-a-step-by-step-tutorial/"><u>Maximizing Engagement by Integrating YouTube Videos Into Your Instagram Saga - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-how-to-remove-audio-from-video-in-magix-movie-edit-pro-for-2024/"><u>New How to Remove Audio From Video in Magix Movie Edit Pro for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/online-video-subtitle-integration-breaking-down-linguistic-obstacles/"><u>Online Video Subtitle Integration: Breaking Down Linguistic Obstacles</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/perfectly-sized-videos-for-maximum-engagement-on-instagram/"><u>Perfectly Sized Videos for Maximum Engagement on Instagram</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/quick-guide-how-to-seamlessly-change-dat-videotapes-to-editable-mp4-format-at-no-cost/"><u>Quick Guide: How to Seamlessly Change DAT Videotapes to Editable MP4 Format at No Cost</u></a></li>
-<li><a href="https://common-error.techidaily.com/top-strategies-to-overcome-wow-performance-drops-and-enjoy-uninterrupted-gaming/"><u>Top Strategies to Overcome Wow Performance Drops & Enjoy Uninterrupted Gaming</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/uncover-the-trick-transitioning-from-windows-11-to-windows-10-seamlessly-techradar/"><u>Uncover the Trick: Transitioning From Windows 11 to Windows 10 Seamlessly | TechRadar</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-video-quality-distinguishing-1080i-vs-108/"><u>Understanding Video Quality: Distinguishing 1080I Vs. 108</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/unlocking-ultimate-control-a-step-by-step-guide-to-enabling-god-mode-on-windows-11-insights-and-benefits/"><u>Unlocking Ultimate Control: A Step-by-Step Guide to Enabling God Mode on Windows 11 | Insights and Benefits</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/zoom-breakout-rooms-for-newcomers-explored-for-2024/"><u>Zoom Breakout Rooms for Newcomers Explored for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-break-free-from-youtube-top-5-innovative-video-editing-tools/"><u>[Updated] 2024 Approved Break Free From Youtube Top 5 Innovative Video Editing Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/deciding-on-itop-recorder-an-indispensable-tool/"><u>Deciding on ITop Recorder - An Indispensable Tool?</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/eine-effiziente-losung-zum-abrufen-und-wiederherstellen-von-ausfuhrlich-geloschten-nachrichten-in-deinem-microsoft-outlook-postfach/"><u>Eine Effiziente Lösung Zum Abrufen Und Wiederherstellen Von Ausführlich Gelöschten Nachrichten in Deinem Microsoft Outlook-Postfach</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/on-the-road-with-tech-a-comprehensive-look-at-the-asus-rt-ax57-go-for-travel-enthusiasts-wireless-needs/"><u>On the Road with Tech: A Comprehensive Look at the Asus RT-AX57 Go for Travel Enthusiasts' Wireless Needs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-cwindowssystem32configsystemprofiledesktop-error-message/"><u>Overcoming The C: Windows system32 config systemprofile Desktop Error Message</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-fixes-for-sluggish-ubisoft-connect-game-downloads/"><u>Quick Fixes for Sluggish Ubisoft Connect Game Downloads</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/retrieve-accidentally-erased-data-top-4-solutions-for-windows-and-macos-users/"><u>Retrieve Accidentally Erased Data: Top 4 Solutions for Windows & macOS Users</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/ssd-windows-115/"><u>SSD認識不可: Windows 11におけるトップ5修復手順</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/transicion-sencilla-de-disco-duro-a-ssd-en-windows-11-sin-reinstalar-el-sistema-operativo/"><u>Transición Sencilla De Disco Duro a SSD en Windows 11 Sin Reinstalar El Sistema Operativo</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-crafting-silent-elegance-the-art-of-audio-ducking-in-video-editing-with-adobe-premiere-pro-on-mac/"><u>Updated In 2024, Crafting Silent Elegance The Art of Audio Ducking in Video Editing with Adobe Premiere Pro on Mac</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/wie-man-eine-sichere-ipod-touch-sicherung-sowohl-lokal-auf-seinem-computer-als-auch-in-der-icloud-erstellt/"><u>Wie Man Eine Sichere IPod Touch Sicherung Sowohl Lokal Auf Seinem Computer Als Auch in Der iCloud Erstellt</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win11-rev-fixes-resurrected-non-printing-printer/"><u>Win11 Rev Fixes: Resurrected Non-Printing Printer</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728483520782-windows/"><u>Windows 系統下載錯亂！怎麼找到正確位置？</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728495172764-aomei-backupper/"><u>ダイナミックボリューム対象にAOMEI Backupperを使用した効果的なバックアップ方法</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Master the Art of a Clean Browsing Experience with These 4 Techniques to Block & Remove Pop-Ups From Firefox
-date: 2024-10-08T12:44:46.284Z
-updated: 2024-10-13T23:06:03.311Z
+date: 2024-10-17T03:39:11.266Z
+updated: 2024-10-20T01:42:37.354Z
 tags:
   - product
   - antivirus
@@ -60,6 +60,13 @@ Choose your content blocking settings from the below one
 2. **Strict –** This mode blocks all the trackers that Firefox finds including known and third-party trackers.
 3. **Custom –** Choose what to block from Trackers, Cookies, Cryptominers, Fingerprinters.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Check Exceptions for Blocker
 
 Sometimes the sites that you trust and are added in the exceptions can also cause pop-ups which you wouldn’t even know about.
@@ -70,14 +77,14 @@ When Firefox is blocking content on a website, a Shield icon will appear in your
 
 ![Block Pop-ups in Firefox 1-3](https://www.malwarefox.com/wp-content/uploads/2019/05/Block-Pop-ups-in-Firefox-1-3.jpg)
 
-Click on the Shield icon located between the security padlock icon and site information icon. It provides more information about the content Firefox is blocking, such as trackers or third-party tracking cookies.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Click on the Shield icon located between the security padlock icon and site information icon. It provides more information about the content Firefox is blocking, such as trackers or third-party tracking cookies.
 
 ##  Method 2  – Uninstall Suspicious Add-ons
 
@@ -95,6 +102,13 @@ Click on the **Disable** button of the add-on that you want to disable.
 
 ![Block Pop-ups in Firefox 2-2](https://www.malwarefox.com/wp-content/uploads/2019/05/Block-Pop-ups-in-Firefox-2-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Click **Restart** now if it pops up. Your tabs will be saved and restored after the restart.
 
 **Note:** To re-enable the add-on, find it in the list of Add-ons and click Enable, then restart Firefox if required.
@@ -106,13 +120,6 @@ Click **Restart** now if it pops up. Your tabs will be saved and restored after 
 Click the **Menu** button, click Add-ons.
 
 ![Block Pop-ups in Firefox 2-1](https://www.malwarefox.com/wp-content/uploads/2019/05/Block-Pop-ups-in-Firefox-2-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Click on the **Remove** button of the add-on that you want to remove.
 
@@ -132,13 +139,6 @@ Open [**AdBlock Plus**](https://addons.mozilla.org/en-US/firefox/addon/adblock-p
 
 ![Adblock Plus Addon](https://www.malwarefox.com/wp-content/uploads/2019/05/Adblock-Plus-Addon.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Then again click on **Add** button. Now the AdBlock Plus add-on will install.
 
 ![Adblock Plus Addon 2](https://www.malwarefox.com/wp-content/uploads/2019/05/Adblock-Plus-Addon-2.jpg)
@@ -149,6 +149,13 @@ Click on the Adblock Plus add-on and then click on the **Settings** icon.
 
 ![Adblock Plus Addon 3](https://www.malwarefox.com/wp-content/uploads/2019/05/Adblock-Plus-Addon-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Click on the **Whitelisted websites** in the left sidebar, then enter the URL in the text box and click on **ADD WEBSITE** button.
 
 ![Adblock Plus Addon 4](https://www.malwarefox.com/wp-content/uploads/2019/05/Adblock-Plus-Addon-4.jpg)
@@ -156,13 +163,6 @@ Click on the **Whitelisted websites** in the left sidebar, then enter the URL in
 Alternatively, you can enable the ads on a particular website you are currently browsing. To do that click on the Adblock Plus add-on then use the **toggle** button to stop blocking the ads on the current website.
 
 ![Adblock Plus Addon 5](https://www.malwarefox.com/wp-content/uploads/2019/05/Adblock-Plus-Addon-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Method 4  – Scan Computer using MalwareFox
 
@@ -179,10 +179,10 @@ MalwareFox can scan, detects, and removes malware from your machine as well as f
 [![](https://www.malwarefox.com/wp-content/uploads/2017/10/Updating-MalwareFox.jpg)](https://www.malwarefox.com/wp-content/uploads/2017/10/Updating-MalwareFox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The process is simple, all you have to do is press the scan button, wait for the scan to finish, and choose what to do with the malware that is detected if any is found.
@@ -190,10 +190,10 @@ The process is simple, all you have to do is press the scan button, wait for the
 [Download MalwareFox](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -221,20 +221,19 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-a-guide-to-30-compelling-video-presentation-ideas/"><u>[New] A Guide to 30 Compelling Video Presentation Ideas</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-crafting-your-vocal-image-for-instagrams-dynamic-features/"><u>[New] Crafting Your Vocal Image for Instagram’s Dynamic Features</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-perilous-pathways-decades-10-adventures/"><u>[New] Perilous Pathways Decade’s #10 Adventures</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-revolutionary-tips-to-upgrade-your-webinar-recordings-for-2024/"><u>[Updated] Revolutionary Tips to Upgrade Your Webinar Recordings for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-investigating-magix-audio-mixer-mastery/"><u>2024 Approved Investigating MAGIX Audio Mixer Mastery</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/complete-tutorial-accessing-and-saving-rogers-cpa-course-content-for-both-windows-and-macos-users/"><u>Complete Tutorial: Accessing and Saving Roger's CPA Course Content for Both Windows and macOS Users</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/download-and-store-your-favorite-ultastream-broadcasts-on-macos-and-windows-systems/"><u>Download and Store Your Favorite Ultastream Broadcasts on macOS & Windows Systems</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/easy-methods-to-secure-your-copy-of-equine-training-footage-on-both-desktop-and-laptops/"><u>Easy Methods to Secure Your Copy of Equine Training Footage on Both Desktop & Laptops</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Apple iPhone 12? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-dota-2s-critical-gameplay-error-2024-update-your-rendering-settings-now/"><u>Resolve Dota 2'S Critical Gameplay Error 2024 - Update Your Rendering Settings Now</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-x3daudiodll-file-absent-issues-a-step-by-step-guide/"><u>Resolving 'X3DAudio.dll' File Absent Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/ten-download-app-access-free-episodes-from-channel-ten-online/"><u>Ten Download App: Access Free Episodes From Channel Ten Online!</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-rated-dentex-alternative-download-any-video-from-youtube-for-pc-and-mac/"><u>Top-Rated Dentex Alternative: Download Any Video From YouTube for PC & MAC</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/ultimate-guide-to-free-drama-episodes-high-quality-subtitled-vids-with-dramanice/"><u>Ultimate Guide to Free Drama Episodes: High-Quality Subtitled Vids with Dramanice</u></a></li>
-<li><a href="https://article-helps.techidaily.com/yuneec-typhoon-h-deep-dive-aerial-expert-review-for-2024/"><u>Yuneec Typhoon H Deep Dive Aerial Expert Review for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-explore-tools-that-beat-sharex-performance/"><u>[New] In 2024, Explore Tools That Beat ShareX Performance</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-tv-off-switch-guide/"><u>[New] Instagram TV Off Switch Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-screenflow-uncovered-mastering-video-editing-on-a-mac-for-2024/"><u>[New] ScreenFlow Uncovered Mastering Video Editing on a Mac for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-premium-vfx-setup-options/"><u>2024 Approved Premium VFX Setup Options</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728463080578-windows-10/"><u>解決辦法集：輕鬆修正Windows 10電腦中'自動印上便筘不出現'的斑馬</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-youtube-premium-what-makes-it-worth-the-price/"><u>Choosing YouTube Premium What Makes It Worth the Price?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/influencer-insight-essential-hashtags-for-maximum-impact-for-2024/"><u>Influencer Insight Essential Hashtags for Maximum Impact for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/lensdirect-blue-light-glasses-review-block-blue-light-with-prescription-lenses/"><u>LensDirect Blue Light Glasses Review: Block Blue Light With Prescription Lenses</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/resuelva-problemas-de-discrepancia-de-tamano-al-clonar-discos-duros-con-estas-estrategias-efectivas/"><u>Resuelva Problemas De Discrepancia De Tamaño Al Clonar Discos Duros Con Estas Estrategias Efectivas</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/retrieve-accidentally-erased-data-top-4-solutions-for-windows-and-macos-users/"><u>Retrieve Accidentally Erased Data: Top 4 Solutions for Windows & macOS Users</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/transicion-sencilla-de-disco-duro-a-ssd-en-windows-11-sin-reinstalar-el-sistema-operativo/"><u>Transición Sencilla De Disco Duro a SSD en Windows 11 Sin Reinstalar El Sistema Operativo</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unparalleled-asmr-channel-selection-for-2024/"><u>Unparalleled ASMR Channel Selection for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/wie-man-eine-sichere-ipod-touch-sicherung-sowohl-lokal-auf-seinem-computer-als-auch-in-der-icloud-erstellt/"><u>Wie Man Eine Sichere IPod Touch Sicherung Sowohl Lokal Auf Seinem Computer Als Auch in Der iCloud Erstellt</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728495172764-aomei-backupper/"><u>ダイナミックボリューム対象にAOMEI Backupperを使用した効果的なバックアップ方法</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Stream Your Games with Ease: A Step-by-Step Facebook Broadcasting Workshop"
-date: 2024-10-07T13:02:45.083Z
-updated: 2024-10-14T09:18:44.206Z
+date: 2024-10-15T04:30:56.364Z
+updated: 2024-10-20T12:16:45.521Z
 tags:
   - product
 categories:
@@ -58,6 +58,13 @@ Action Tutorials
 
 ![Mirillis Action! - LIVE Streaming](https://mirillis.com/res/old/gfx/tutorials/live/mirillis_action_live_streaming_tab.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Select Facebook service
 
  From "Streaming service" dropdown select **Facebook** and click **Account manager** to log in to your account. 
@@ -65,17 +72,17 @@ Action Tutorials
 ![Mirillis Action! - Facebook](https://mirillis.com/res/old/gfx/tutorials/live/mirillis_action_live_streaming_login_facebook.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Login to your Facebook account
@@ -88,22 +95,15 @@ Action Tutorials
 
 ![Mirillis Action! - Login with Facebook](https://mirillis.com/res/old/gfx/tutorials/live/mirillis_action_live_streaming_login_with_facebook_window.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You are logged in. Now, you can change your **Privacy** settings: 
 
 ![Mirillis Action! - Logged in with Google](https://mirillis.com/res/old/gfx/tutorials/live/mirillis_action_live_streaming_broadcast_settings_facebook_logged_in.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## LIVE Streaming settings
@@ -113,10 +113,10 @@ Action Tutorials
 ![Mirillis Action! - Streaming settings](https://mirillis.com/res/old/gfx/tutorials/live/mirillis_action_live_streaming_video_settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To live stream to Facebook in smooth HD video quality we recommend to use PCs with AMD APP, Intel Quick Sync Video or NVIDIA NVENC video encoding hardware acceleration.
@@ -130,10 +130,10 @@ Action Tutorials
 ![Mirillis Action! - Games&Applications recording mode](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_games_applications_recording_mode.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Start LIVE Streaming to Facebook with Action!
@@ -158,13 +158,6 @@ Action Tutorials
 
 ![Mirillis Action! - Custom Streaming Service selected](https://mirillis.com/res/old/gfx/tutorials/live/mirillis_action_live_streaming_broadcast_settings_custom_service.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2\. Open Facebook page with web browser, log in to your Facebook Page, and select Publishing Tools in the top navigation bar. 
 
  3\. On the left menu, click on the Video Library option under the Videos section and click on the + Live button to setup your Live post. 
@@ -174,6 +167,13 @@ Action Tutorials
  4\. Check the **Separate Fields** group for Server URL and Stream Key. 
 
 ![Mirillis Action! - RTMP URL for Twitch.tv](https://mirillis.com/res/old/gfx/tutorials/live/mirillis_action_live_streaming_broadcast_settings_custom_service_facebook_streamkey_show.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5\. Copy and paste both Server URL and Stream Key to Action!   
 You are ready to live stream to your Facebook Page.
@@ -195,15 +195,24 @@ You are ready to live stream to your Facebook Page.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-best-6-video-translators-to-translate-video/"><u>[New] In 2024, Best 6 Video Translators to Translate Video</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-art-of-cozy-cinematography-top-5-winter-scenes-for-2024/"><u>[New] The Art of Cozy Cinematography Top 5 Winter Scenes for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-t2x-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Vivo T2x 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/quick-guide-how-to-download-songs-and-videos-from-weibo-efficient-media-retrieval-tools/"><u>Quick Guide: How to Download Songs & Videos From Weibo - Efficient Media Retrieval Tools</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/step-by-step-guide-to-downloading-mit-opencourseware-video-lectures-on-macos-and-windows/"><u>Step-by-Step Guide to Downloading MIT OpenCourseWare Video Lectures on macOS & Windows</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/stream-to-save-securely-transferring-femcom-content-to-macoswindows/"><u>Stream-to-Save: Securely Transferring Fem.com Content to macOS/Windows</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/synchronizing-your-soundtracks-a-step-by-step-guide-to-embedding-spotify-playlists-on-instagram/"><u>Synchronizing Your Soundtracks: A Step-by-Step Guide to Embedding Spotify Playlists on Instagram</u></a></li>
-<li><a href="https://fox-within.techidaily.com/trovata-la-chiave-per-riavere-indietro-le-tue-file-perduti-in-windows-11-segui-questi-passaggi/"><u>Trovata La Chiave per Riavere Indietro Le Tue File Perduti in Windows 11 - Segui Questi Passaggi!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-cutting-edge-strategies-to-skyrocket-your-snapchat-impact/"><u>[New] 2024 Approved Cutting-Edge Strategies to Skyrocket Your Snapchat Impact</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hone-your-sight-the-top-5-ways-to-zoom-in-minecraft/"><u>2024 Approved Hone Your Sight The Top 5 Ways to Zoom in Minecraft</u></a></li>
+<li><a href="https://extra-information.techidaily.com/allocating-budget-for-youtube-video-success-for-2024/"><u>Allocating Budget for YouTube Video Success for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/comment-est-ce-que-lon-peut-telecharger-des-messages-de-licloud-sur-un-iphone-ou-pc/"><u>Comment Est-Ce Que L'on Peut Télécharger Des Messages De L'iCloud Sur Un iPhone Ou PC ?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/console-capturer-pro-report/"><u>Console Capturer Pro Report</u></a></li>
+<li><a href="https://win-blog.techidaily.com/decoding-wsappx-tips-for-managing-surge-in-storage-and-processor-utilization-on-your-device/"><u>Decoding WSAPPX: Tips for Managing Surge in Storage and Processor Utilization on Your Device</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/discovering-hidden-tactics-a-step-by-step-guide-on-accessing-your-microsoft-outlook-corporate-account/"><u>Discovering Hidden Tactics: A Step-by-Step Guide on Accessing Your Microsoft Outlook Corporate Account</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/easy-methods-for-uploading-and-saving-images-on-icloud-using-your-iphone-or-computer/"><u>Easy Methods for Uploading and Saving Images on iCloud Using Your iPhone or Computer</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/essential-guide-software-free-techniques-for-vimeo-downloads-for-2024/"><u>Essential Guide Software-Free Techniques for Vimeo Downloads for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/hdd/"><u>HDDが壊れた時に必要なデータ回復とクローン作成ガイド</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/impostare-il-backup-automatico-con-pianificazione-su-windows-server-2008/"><u>Impostare Il Backup Automatico Con Pianificazione Su Windows Server 2008</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-13-pro-max-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone 13 Pro Max and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovative-approaches-for-unwavering-viewership-within-limit/"><u>Innovative Approaches for Unwavering Viewership (Within Limit)</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/jelajah-cepat-dan-efisien-metode-resetting-data-dari-drives-nas-bufalawangi/"><u>Jelajah Cepat Dan Efisien: Metode Resetting Data Dari Drives NAS Bufalawangi</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728497011916-page-unavailable-http-error-404/"><u>Page Unavailable (HTTP Error #404)</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-starfield-from-freezingcrashing-on-your-computer-solutions-inside/"><u>Stop Starfield From Freezing/Crashing On Your Computer [Solutions Inside]</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/strategie-per-identificare-e-rimuovere-duplicati-non-autorizzati-del-sistema-operativo-windows/"><u>Strategie per Identificare E Rimuovere Duplicati Non Autorizzati Del Sistema Operativo Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-windows-error-0x887a0006-for-gpu-hangs/"><u>Tackling Windows Error 0X887A0006 for GPU Hangs</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/trouble-with-windows-11-recovery-process-discover-6-successful-fix-strategies/"><u>Trouble with Windows 11 Recovery Process? Discover 6 Successful Fix Strategies!</u></a></li>
 </ul></div>
 

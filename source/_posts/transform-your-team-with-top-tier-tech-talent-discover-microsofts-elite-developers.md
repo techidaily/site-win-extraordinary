@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Team with Top-Tier Tech Talent: Discover Microsoft’s Elite Developers"
-date: 2024-10-07T08:00:43.508Z
-updated: 2024-10-14T02:35:04.292Z
+date: 2024-10-15T18:56:52.310Z
+updated: 2024-10-20T08:33:32.951Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,13 +136,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,18 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-enhancing-twitters-visual-capacity-to-fhd-level/"><u>[New] 2024 Approved Enhancing Twitter's Visual Capacity to FHD Level</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-maximizing-engagement-with-effective-endorsement-footage/"><u>2024 Approved Maximizing Engagement with Effective Endorsement Footage</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/ai-revolution-in-software-development-empowering-gen-a-programmers-to-increase-productivity/"><u>AI Revolution in Software Development: Empowering Gen A Programmers to Increase Productivity</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/building-powerful-relationships-through-strategic-social-media-engagement-for-2024/"><u>Building Powerful Relationships Through Strategic Social Media Engagement for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/demystifying-virtual-meetings-essential-tips-for-using-zoom-win10/"><u>Demystifying Virtual Meetings Essential Tips for Using Zoom (Win10)</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/exploring-the-apple-m1-pro-powered-macbook-pro-a-marvelous-choice-over-windows-11-laptops/"><u>Exploring the Apple M1 Pro-Powered MacBook Pro: A Marvelous Choice Over Windows 11 Laptops</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-reno-11-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo Reno 11 5G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/microsoft-365-outage-understanding-the-cause-behind-major-user-disruption-techinsights/"><u>Microsoft 365 Outage: Understanding the Cause Behind Major User Disruption | TechInsights</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/purchase-microsoft-project-pro-and-visio-pro-licenses-at-an-unbeatable-price-just-20-exclusive-offer-on-zdnet/"><u>Purchase Microsoft Project Pro & Visio Pro Licenses at an Unbeatable Price - Just $20! Exclusive Offer on ZDNet</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/seamlessly-upgrade-your-pc-transfer-windows-881-across-new-devices-with-ease/"><u>Seamlessly Upgrade Your PC - Transfer Windows 8/8.1 Across New Devices with Ease</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/surface-desktop-showdown-of-2023-expert-opinions-and-detailed-comparisons-zdnets-guide-to-choosing-the-right-one/"><u>Surface Desktop Showdown of 2023: Expert Opinions and Detailed Comparisons | ZDNet's Guide to Choosing the Right One</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-asmrists-aiding-the-nighttime-ritual-for-2024/"><u>Top ASMRists Aiding the Nighttime Ritual for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/zdnets-comprehensive-tutorial-on-organizing-windows-user-profiles-within-families/"><u>ZDnet's Comprehensive Tutorial on Organizing Windows User Profiles Within Families</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-insiders-guide-recording-high-octane-play/"><u>[New] 2024 Approved Insider's Guide Recording High-Octane Play</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-good-to-great-transformative-tactics-with-studio/"><u>[New] In 2024, From Good to Great Transformative Tactics with Studio</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/astering-the-makeup-artistry-leading-youtubers-of-2024/"><u>[New] Mastering the Makeup Artistry Leading YouTubers of 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/44cm5yid5pyf5yyw5rii44g44gn44gv44gq44ge44cn44go6kgo56s644gv44km44gf44oh44kj44k544kv44kk44oh44o844k444ks5lplusu5q2j44gz44kl44og44kv44ol44od44kv/"><u>「初期化済みではない」と表示されたディスクイメージを修正するテクニック</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-notebook-driver-software-free-download-and-upgrade-options/"><u>ASUS Notebook Driver Software: Free Download & Upgrade Options</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/best-free-disk-partition-software-for-windows-11-10-8-and/"><u>Best Free Disk Partition Software for Windows 11, 10, 8 &</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/fototransfer-vom-iphone-14-zu-pc-unter-windows-schnell-und-einfach-erklart-fur-windows-1011-nutzer/"><u>Fototransfer Vom iPhone 14 Zu PC Unter Windows: Schnell Und Einfach Erklärt Für Windows 10/11 Nutzer</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/from-lockout-to-logon-tips-for-resolving-inaccessible-boot-issues-after-a-system-reset/"><u>From Lockout to Logon: Tips for Resolving Inaccessible Boot Issues After a System Reset</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmonizing-hues-audio-fade-techniques-in-logic-pro/"><u>In 2024, Harmonizing Hues Audio Fade Techniques in Logic Pro</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-find-n3-flip-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Find N3 Flip to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722956098059-resolving-issues-the-newest-fix-for-the-acpi-drivers-in-dells-smo8-cuisine/"><u>Resolving Issues: The Newest Fix for the ACPI Drivers in Dell's SMO8 Cuisine</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/synchronisation-lokaler-dokumente-auf-nas-erfolgreich-mit-frei-verfugbaren-tools-und-schritten/"><u>Synchronisation Lokaler Dokumente Auf NAS - Erfolgreich Mit Frei Verfügbaren Tools Und Schritten</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/trouble-removing-mcafee-antivirus-software-learn-the-full-and-effective-way-to-disable-it/"><u>Trouble Removing McAfee Antivirus Software? Learn the Full and Effective Way to Disable It</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728480910872-windows-10-64/"><u>Windows 10 64ビット磁気ディスクのコピーに役立つ無料クローンツール使用法</u></a></li>
 </ul></div>
 

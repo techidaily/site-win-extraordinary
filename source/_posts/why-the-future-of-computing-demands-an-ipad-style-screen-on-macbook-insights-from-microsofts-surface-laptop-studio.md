@@ -1,7 +1,7 @@
 ---
 title: "Why the Future of Computing Demands an iPad-Style Screen on MacBook: Insights From Microsoft's Surface Laptop Studio"
-date: 2024-10-12T17:03:53.033Z
-updated: 2024-10-13T19:07:22.719Z
+date: 2024-10-17T20:25:34.376Z
+updated: 2024-10-19T20:05:42.860Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -122,47 +136,21 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -208,21 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-are-earnings-linked-to-assessing-merchandise/"><u>[New] Are Earnings Linked to Assessing Merchandise?</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-how-to-kick-start-your-digital-broadcast-today/"><u>[Updated] How to Kick-Start Your Digital Broadcast Today</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-creative-freedom-on-a-budget-essential-green-screen-effects-from-top-4-tutorial-sources/"><u>[Updated] In 2024, Creative Freedom on a Budget Essential Green Screen Effects From Top 4 Tutorial Sources</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/best-celebratory-films-top-10-happy-new-year-movie-downloads-2023-edition/"><u>Best Celebratory Films: Top 10 Happy New Year Movie Downloads - 2023 Edition</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/exploring-the-effects-of-drive-encryption-on-system-speed-a-detailed-review/"><u>Exploring the Effects of Drive Encryption on System Speed - A Detailed Review</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/global-it-collapse-prevention-discussed-at-microsofts-security-summit-expert-opinions-and-effective-solutions/"><u>Global IT Collapse Prevention Discussed at Microsoft's Security Summit - Expert Opinions & Effective Solutions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-tecno-pova-6-pro-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Tecno Pova 6 Pro 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/master-windows-11-efficiency-a-less-known-trick-for-instantaneously-stopping-laggy-applications-revealed-by-zdnet/"><u>Master Windows 11 Efficiency: A Less-Known Trick for Instantaneously Stopping Laggy Applications Revealed by ZDNet</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/maximizing-engagement-by-integrating-youtube-videos-into-your-instagram-saga-a-step-by-step-tutorial/"><u>Maximizing Engagement by Integrating YouTube Videos Into Your Instagram Saga - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-trim-cut-and-edit-avi-videos-with-ease-16-top-rated-tools-windows-mac-android/"><u>New 2024 Approved Trim, Cut, and Edit AVI Videos with Ease 16 Top-Rated Tools Windows, MAC, Android</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/quick-guide-how-to-seamlessly-change-dat-videotapes-to-editable-mp4-format-at-no-cost/"><u>Quick Guide: How to Seamlessly Change DAT Videotapes to Editable MP4 Format at No Cost</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/triple-tactic-for-tracking-youtube-income-a-step-by-step-approach/"><u>Triple Tactic for Tracking YouTube Income A Step-by-Step Approach</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/uncover-the-trick-transitioning-from-windows-11-to-windows-10-seamlessly-techradar/"><u>Uncover the Trick: Transitioning From Windows 11 to Windows 10 Seamlessly | TechRadar</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlock-the-full-potential-of-your-gopro-4k-recordings-for-2024/"><u>Unlock the Full Potential of Your GoPro 4K Recordings for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/unlocking-ultimate-control-a-step-by-step-guide-to-enabling-god-mode-on-windows-11-insights-and-benefits/"><u>Unlocking Ultimate Control: A Step-by-Step Guide to Enabling God Mode on Windows 11 | Insights and Benefits</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/astery-in-motion-transform-youtube-videos-into-expressive-gifs/"><u>[New] Mastery in Motion Transform YouTube Videos Into Expressive GIFs</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-oneplus-open-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-top-secret-tactics-for-elevating-your-instagram-presence/"><u>2024 Approved Top-Secret Tactics for Elevating Your Instagram Presence</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728497055908-chrome/"><u>Chromeのブラウジングヒストリーを復元する手順について</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/comment-initier-une-operation-de-sauvegarde-synchrone-avec-aomei-backupper-sur-macos/"><u>Comment Initier Une Opération De Sauvegarde Synchrone Avec AOMEI Backupper Sur macOS</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/durchbruch-mit-sql-wichtige-abfragebefehle-und-anweisungen-fur-datenbankprofis/"><u>Durchbruch Mit SQL: Wichtige Abfragebefehle Und Anweisungen Für Datenbankprofis</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-smooth-performance-free-sas-drivers-for-windows-users-compatible-with-windows-10-8-and-7/"><u>Ensure Smooth Performance: Free SAS Drivers for Windows Users - Compatible with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/farsis-enthralling-past-why-learn-it/"><u>Farsi's Enthralling Past: Why Learn It?</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 To Others devices? | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/resolution-dun-probleme-absence-du-fichier-recent-dans-lacceleration-rapide-de-lexplorer/"><u>Résolution D'un Problème : Absence Du Fichier Récent Dans L'accélération Rapide De L'explorer</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/resolved-fixing-windows-cannot-be-installed-on-this-media-issue-with-mbr-drives-during-windows-11-setup/"><u>Resolved: Fixing 'Windows Cannot Be Installed on This Media' Issue with MBR Drives During Windows 11 Setup</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/resolved-fixing-the-issue-of-not-being-able-to-back-up-your-iphone-on-itunesicloud/"><u>Resolved: Fixing the Issue of Not Being Able to Back Up Your iPhone on iTunes/iCloud</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sneak-peek-at-the-next-big-thing-the-samsung-galaxy-super-ultra-2023-editions-release-date-pricing-rumors-and-full-feature-list-revealed/"><u>Sneak Peek at the Next Big Thing - The Samsung Galaxy Super Ultra 2023 Edition's Release Date, Pricing Rumors & Full Feature List Revealed</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/step-by-step-tutorial-perform-a-flawless-windows/"><u>Step-by-Step Tutorial: Perform a Flawless Windows</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/tecnicas-prueba-y-confirmadas-superando-los-errores-de-clonacion-en-macrium-reflect/"><u>Técnicas Prueba Y Confirmadas: Superando Los Errores De Clonación en Macrium Reflect</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-destinations-for-purchasing-mobile-devices-a-comprehensive-guide/"><u>Top Destinations for Purchasing Mobile Devices: A Comprehensive Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/unleash-your-creativity-how-to-edit-videos-in-windows-movie-maker-for-2024/"><u>Unleash Your Creativity How to Edit Videos in Windows Movie Maker for 2024</u></a></li>
 </ul></div>
 

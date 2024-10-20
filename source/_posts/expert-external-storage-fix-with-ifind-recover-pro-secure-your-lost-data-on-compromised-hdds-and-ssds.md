@@ -1,7 +1,7 @@
 ---
 title: "Expert External Storage Fix with iFinD Recover Pro: Secure Your Lost Data on Compromised HDDs and SSDs"
-date: 2024-10-08T01:15:11.876Z
-updated: 2024-10-13T16:25:26.195Z
+date: 2024-10-13T20:24:54.234Z
+updated: 2024-10-19T19:28:33.480Z
 tags:
   - product
 categories:
@@ -41,6 +41,13 @@ Next, we will discuss these two problems and discuss how to deal with them.
 
 [How to use data recovery software to recover SSD data in 3 Steps](https://www.ifind-recovery.com/how-to/external-hard-drive-data-recovery/#part3)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1, Damaged External Hard Drive
 
 We often encounter this situation when we use the external hard disk: the external hard disk is connected properly, the operating system can correctly display the drive letter and icons of the external hard disk, but when you double-click the icon, you can’t open the hard drive, and the window below will pop up.
@@ -53,29 +60,9 @@ This means the external hard drive is damaged, There are many reasons for this f
 2. Enter “chkdsk drive letter:/f” in the terminal program, press the enter key, then run the Windows disk repair tool.
 3. After the disk repair tool running ends, reconnect the external hard disk. If the problem is not solved, we recommend using [iFinD Data Recovery](https://www.ifind-recovery.com/) to recover the data in the damaged disk.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2: USB Device not Recognized
 
 ![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2018/11/external2.png?resize=408%2C141&ssl=1 "USB Device not Recognized")
-
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **USB Device not Recognized** is probably the most common problem. If you are just a normal user, but not a computer expert. When you have seen this error, you may be at a loss. But don’t worry, let’s talk about why we have this problem. and then, what to do next!
 
@@ -87,13 +74,6 @@ The main reason for the failure:
 * The computer suddenly broke down, or the operating system crashed, or the hard disk connection broke down.
 
 **So what we should do NEXT?**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### _How to fix “the USB Device not Recognized”._
 
@@ -118,13 +98,6 @@ If all of the above methods have been tried and the drive is still unrecognizabl
 
 ## 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3: How to recover the lost data from an external hard drive with iFinD Data Recovery?
 
 **Step1:** Formatting the device, You will get a normal partition when you finish it, but there are no data in it, temporary.
@@ -141,9 +114,29 @@ Don’t open the partition if you formatted it. Most important, don’t copy any
 
 ![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2018/10/scan-your-sd-card.jpg?resize=640%2C486&ssl=1 "scan your flash drive")
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step4:** Select the file you need to restore, and then click “save” to save it on the local device.
 
 ![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2018/11/Recover.png?resize=640%2C486&ssl=1 "Recover your flash drive")
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Notice: Do not save files on an external hard drive that is being restored. The wrong operation will cause permanent damage to the data, and then, cannot be recovered.
 
@@ -153,16 +146,16 @@ Through the above article, we basically learned what is the external hard disk, 
 
 ![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2024/03/R-C.png?resize=100%2C100&ssl=1)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [andy woo](https://www.ifind-recovery.com/author/andywoo/)
 
 Andy is an editor of the iFinD Team. She worked in this big family since her graduation. Her articles mainly focus on data backup and recovery, disk cloning, and file syncing, committed to resolving the data loss issues users may encounter on their PCs. Besides, more related computer articles are shared here.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Show Us some Love:
 
@@ -183,6 +176,13 @@ October 31, 2018
 In "Knowledge Base"
 
 [![](https://i0.wp.com/www.ifind-recovery.com/wp-content/uploads/2018/12/Windows_10.png?fit=1025%2C576&ssl=1&resize=350%2C200)](https://www.ifind-recovery.com/how-to/recover-deleted-files-windows-10-7-8/ "How To Recover Permanently Deleted Files in Windows PC &#038; Prevent Data Loss Forever | 2024?")
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### [How To Recover Permanently Deleted Files in Windows PC & Prevent Data Loss Forever | 2024?](https://www.ifind-recovery.com/how-to/recover-deleted-files-windows-10-7-8/ "How To Recover Permanently Deleted Files in Windows PC &#038; Prevent Data Loss Forever | 2024?")
 
@@ -215,24 +215,16 @@ By [andy woo](https://www.ifind-recovery.com/author/andywoo/ "Posts by andy woo"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-earning-potential-in-beauty-blogging/"><u>[New] In 2024, Earning Potential in Beauty Blogging</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-achieving-high-quality-videos-with-your-cellphone-webcam/"><u>[Updated] In 2024, Achieving High-Quality Videos with Your Cellphone Webcam</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-pro-grade-streaming-tools-best-software-and-hardware-reviewed/"><u>2024 Approved Pro-Grade Streaming Tools Best Software & Hardware Reviewed</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/complete-tutorial-accessing-and-saving-rogers-cpa-course-content-for-both-windows-and-macos-users/"><u>Complete Tutorial: Accessing and Saving Roger's CPA Course Content for Both Windows and macOS Users</u></a></li>
-<li><a href="https://facebook.techidaily.com/concealed-contacts-on-facebook-platform/"><u>Concealed Contacts on Facebook Platform</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/convert-and-download-your-favorite-chilloutzone-videos-in-multiple-formats/"><u>Convert and Download Your Favorite ChilloutZone Videos in Multiple Formats</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/download-and-store-your-favorite-ultastream-broadcasts-on-macos-and-windows-systems/"><u>Download and Store Your Favorite Ultastream Broadcasts on macOS & Windows Systems</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/easy-methods-to-secure-your-copy-of-equine-training-footage-on-both-desktop-and-laptops/"><u>Easy Methods to Secure Your Copy of Equine Training Footage on Both Desktop & Laptops</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/guide-converting-videos-from-various-formats-urls-to-popular-file-types-like-mp4-mov-and-avi-on-macos-and-windows-systems/"><u>Guide: Converting Videos From Various Formats (URLs) to Popular File Types Like MP4, MOV, and AVI on macOS & Windows Systems</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/hgtv-downloads-full-episodes-and-show-highlights-in-mp4avi-formats-for-pc-and-mac-users/"><u>HGTV Downloads - Full Episodes & Show Highlights in MP4/AVI Formats for PC & Mac Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-bsod-outputs-aid-in-system-recovery-planning/"><u>How BSoD Outputs Aid in System Recovery Planning</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-the-ultimate-tiktok-video-locker-free-and-clear/"><u>In 2024, The Ultimate TikTok Video Locker - FREE & Clear</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-top-7-icloud-activation-bypass-tools-for-your-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Top 7 iCloud Activation Bypass Tools For your iPhone 11 Pro Max</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/mastery-through-snips-unveiling-macs-top-5-tools/"><u>Mastery Through Snips Unveiling Mac's Top 5 Tools</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/resolving-the-mac-tube-issue-step-by-step-guide/"><u>Resolving the Mac Tube Issue: Step-by-Step Guide</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/steps-for-securely-retrieving-media-files-from-periscopetv-on-both-macintosh-and-pc-platforms/"><u>Steps for Securely Retrieving Media Files From periscope.tv on Both Macintosh and PC Platforms</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-nubia-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Nubia Device</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-pinnacle-of-zooid-creations-guide/"><u>The Pinnacle of Zooid Creations Guide</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-parental-control-software-for-mac-and-windows-pcs-by-allavsoft-your-ideal-solution/"><u>Top Parental Control Software for Mac & Windows PCs by Allavsoft – Your Ideal Solution!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-journey-through-japan-best-video-games-akin-to-ghost-of-tsushima/"><u>[New] 2024 Approved Journey Through Japan Best Video Games Akin to Ghost of Tsushima</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-boost-views-through-effective-youtube-thumbnail-selection-for-2024/"><u>[New] Boost Views Through Effective YouTube Thumbnail Selection for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-essential-actions-while-absorbing-audio-tales/"><u>[New] Essential Actions While Absorbing Audio Tales</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/21plus-puzzling-pictures-assemble-a-joyous-vision-for-2024/"><u>21+ Puzzling Pictures Assemble a Joyous Vision for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/convertir-votre-profil-user-account-de-windows-10-en-windows-11-decouvrez-ces-3-moyens-rapides-et-simples/"><u>Convertir Votre Profil User Account De Windows 10 en Windows 11 - Découvrez Ces 3 Moyens Rapides Et Simples !</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-blackout-on-windows-11-post-fall/"><u>Correcting Blackout on Windows 11 Post-Fall</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-newest-graphics-drivers-for-nvidias-rtx-2080-supports-win10-win78-systems/"><u>Download the Newest Graphics Drivers for NVIDIA's RTX 2080 – Supports Win10, Win7/8 Systems</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-free-game-downloads-the-top-10plus-sites-you-need-for-2024/"><u>New Free Game Downloads The Top 10+ Sites You Need for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/ps4-system-storage-access-issue-solutions/"><u>PS4 System Storage Access Issue Solutions</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/recupera-con-successo-i-tuoi-file-svaniti-su-windows/"><u>Recupera Con Successo I Tuoi File Svaniti Su Windows</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728476131667-windows-11-pc/"><u>Windows 11に最適化されたファイル転送ツール: PC間移動ガイド</u></a></li>
 </ul></div>
 

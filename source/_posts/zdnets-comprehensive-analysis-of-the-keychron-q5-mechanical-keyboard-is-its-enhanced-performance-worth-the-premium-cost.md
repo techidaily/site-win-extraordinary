@@ -1,7 +1,7 @@
 ---
 title: "ZDNet's Comprehensive Analysis of the Keychron Q5 Mechanical Keyboard: Is Its Enhanced Performance Worth the Premium Cost?"
-date: 2024-10-13T05:26:35.765Z
-updated: 2024-10-14T05:12:46.388Z
+date: 2024-10-15T00:39:44.134Z
+updated: 2024-10-20T07:01:14.923Z
 tags:
   - office-furniture
 categories:
@@ -53,16 +53,10 @@ South-facing (towards the typist), RGB LED lights are provided on the keyboard. 
 **Also: [Keychron Q1 QMK custom mechanical keyboard review](https://www.zdnet.com/product/keychron-q1-qmk-custom-mechanical-keyboard/)**
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **ZDNET** recommends
@@ -74,16 +68,16 @@ The keyboard has several layers, including the bottom aluminum case, silicone ga
 The keys are set at a 5.3-degree angle, and the bottom case is not adjustable. I use a [Keychron wooden palm rest](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWalnut-Keychron-Bluetooth-Mechanical-Keyboard%2Fdp%2FB07Y84SP8G%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1ad522f2-4907-43aa-8c40-35319972b902%7Cdtp&dtb=1) since the keyboard is quite tall at the front, 30.9 mm with keycaps installed. The back height is 42.8 mm with the keycaps. The keyboard is 390.5 mm in length and 145 mm in width.
 
 <!-- affiliate ads begin -->
-<span id="1983446">
+<span id="1983575">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Keyboard software
@@ -93,10 +87,10 @@ The model I tested includes the knob, and by default, the knob works to control 
 Four layers of key settings are provided with layers 0/1 assigned to MacOS and layers 2/3 assigned to Windows. You can customize shortcuts, backlight effects, and a lot more with the software, so spend some time setting the keyboard up, so it works best for your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Switch options
@@ -115,18 +109,18 @@ The retail package includes the keyboard, keycap puller, switch puller, screwdri
 
 [Keychron Q5 Keyboard $205 at Keychron](https://www.keychron.com/products/keychron-q5-qmk-custom-mechanical-keyboard?variant=40010452271193)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Daily usage experiences and conclusion
 
 The Keychron Q5 keyboard is available in a barebones model for $175 up to a fully assembled model with a knob for $205\. ISO models are available too, with three color and three switch options to choose from.
 
 Keychron also has a new double gasket design in the Q5 that adds gaskets and silicone pads to reduce the sound resonance between the metals and reduce other sounds while supporting the overall typing sound. It's tough to find anything wrong with the keyboard, and spending $200 for a high-quality keyboard that helps you enter text quickly and efficiently is worth it to me.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Alternatives to consider
 
@@ -168,15 +162,20 @@ The Keychron Q5 keyboard is a near-perfect keyboard for many people, but if you 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-integrate-sound-and-sight-web-studio-for-2024/"><u>[Updated] Integrate Sound & Sight Web Studio for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-valheim-agronomy-explained-choosing-superior-saplings/"><u>[Updated] Valheim Agronomy Explained Choosing Superior Saplings</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/convertissez-vos-images-png-en-ligne-pour-free-avec-movavi-guide-complet/"><u>Convertissez Vos Images PNG en Ligne Pour Free Avec Movavi - Guide Complet</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/effective-solutions-for-getting-your-unresponsive-bose-speakers-back-in-action/"><u>Effective Solutions for Getting Your Unresponsive Bose Speakers Back in Action</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/fa-dig-i-kraftiga-12-nyanserade-3d-animeringarsprogramvaror-gratis-pa-2024-larja-och-leka/"><u>Få Dig I Kraftiga 12 Nyanserade 3D-Animeringarsprogramvaror Gratis På 2024 - Lärja Och Leka!</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-on-your-apple-iphone-13-pro-max-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID On your Apple iPhone 13 Pro Max without Security Questions?</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-a-lost-apple-iphone-8-for-free-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track a Lost Apple iPhone 8 for Free? | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/sonuclarin-guvenli-yeniden-yayilmasindaki-tahminat-edinelmedigi-ozellikleri-anlatiyor-bedeli-uzerinde-degil/"><u>Sonuçların Güvenli Yeniden Yayılmasındaki Tahminat Edinelmediği Özellikleri Anlatıyor | Bedeli Üzerinde Değil</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-9-ferramentas-mais-eficientes-para-download-de-videos-do-youtube-em-formato-mp4/"><u>Top 9 Ferramentas Mais Eficientes Para Download De Vídeos Do YouTube Em Formato MP4</u></a></li>
-<li><a href="https://win-blog.techidaily.com/trasforma-immagini-orf-a-jpeg-online-e-liberamente-con-imageease-by-vivivox/"><u>Trasforma Immagini ORF a JPEG Online E Liberamente Con ImageEase by ViviVox</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-high-definition-horizons-with-sony-unraveling-xperia-xz/"><u>[New] High-Definition Horizons with Sony - Unraveling Xperia XZ</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-producing-effective-corporate-webinar-videos/"><u>[New] In 2024, Producing Effective Corporate Webinar Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-strategic-utilization-of-azure-voice-to-text-capabilities/"><u>[New] Strategic Utilization of Azure Voice-to-Text Capabilities</u></a></li>
+<li><a href="https://extra-information.techidaily.com/convert-spoken-words-into-written-content-using-ms-words-in-built-tools/"><u>Convert Spoken Words Into Written Content Using MS Word's In-Built Tools</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevating-educational-content-by-adding-youtube-music-to-vids/"><u>Elevating Educational Content by Adding YouTube Music to Vids</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-a-frozen-chromebook-effective-methods-you-should-try/"><u>Fixing a Frozen Chromebook: Effective Methods You Should Try</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/guia-expertos-para-rescatar-archivos-de-sistema-danados-y-prevenir-la-perdida-de-datos-en-windows-7/"><u>Guía Expertos Para Rescatar Archivos De Sistema Dañados Y Prevenir La Pérdida De Datos en Windows 7</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/how-to-perform-a-total-acer-reset-factories-setup-restoration-guide/"><u>How to Perform a Total Acer Reset: Factories Setup Restoration Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Nokia C12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-help.techidaily.com/probleme-mit-ihrem-laufwerk-c-gelost-eine-umfassende-uberprufung-und-reparatur-die-sie-schnell-zuruck-ins-geschaft-bringt/"><u>Probleme Mit Ihrem Laufwerk C Gelöst: Eine Umfassende Überprüfung Und Reparatur, Die Sie Schnell Zurück Ins Geschäft Bringt</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/simple-steps-transferring-your-data-windows-server-2012-and-2restoring-backups-on-new-systems/"><u>Simple Steps: Transferring Your Data - Windows Server 2012 & 2^[Restoring Backups on New Systems]</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/solutions-to-mitigate-vibrational-jello-in-uav-recordings-for-2024/"><u>Solutions to Mitigate Vibrational Jello in UAV Recordings for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/ultimate-guide-to-selecting-premier-inland-ssd-imaging-apps-for-safe-os-migration/"><u>Ultimate Guide to Selecting Premier Inland SSD Imaging Apps for Safe OS Migration</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/ultimate-step-by-step-instructions-for-screenshots-on-iphone-se-latest-versions-ios-141312-compatible/"><u>Ultimate Step-by-Step Instructions for Screenshots on iPhone SE (Latest Versions) - iOS 14/13/12 Compatible</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728504140674-pc-and/"><u>デジタルカメラの画像を修復・再構築するプロセス：PC & スマホでどうやって?</u></a></li>
 </ul></div>
 

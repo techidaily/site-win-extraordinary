@@ -1,7 +1,7 @@
 ---
 title: Microsoft Reshapes User Experience - Positive Alternatives Over Frustrating Features | ZDNet Insights
-date: 2024-10-10T19:37:42.555Z
-updated: 2024-10-13T18:11:10.058Z
+date: 2024-10-13T05:14:20.343Z
+updated: 2024-10-20T00:43:18.082Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,15 +135,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,20 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-crafting-excellence-in-instagram-grids-with-these-elite-tools-for-2024/"><u>[New] Crafting Excellence in Instagram Grids with These Elite Tools for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-streamlining-google-meet-recording-with-simple-methods-for-2024/"><u>[New] Streamlining Google Meet Recording with Simple Methods for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/evaluating-copilot-pro-and-chatgpt-plus-determining-the-top-value-for-money-ai-chatbot/"><u>Evaluating Copilot Pro and ChatGPT Plus: Determining the Top Value-for-Money AI Chatbot</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/exclusive-microsoft-black-friday-offers-buy-surface-pro-section-1-the-concept-of-currency-pegs-and-international-finance/"><u>Exclusive Microsoft Black Friday Offers! Buy Surface Pro # Section 1: The Concept of Currency Pegs and International Finance</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-elite-an-evaluation-of-microsofts-surface-studio-2-masterpiece/"><u>Exploring the Elite: An Evaluation of Microsoft's Surface Studio 2 Masterpiece</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/guia-integrala-pentru-exploarea-canalei-camerei-obs-virtuale-in-anul-2024/"><u>Guia Integrală Pentru Exploarea Canalei Camerei OBS Virtuale În Anul 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-canon-mx490-driver-version-for-your-windows-computer/"><u>How to Get the Newest Canon MX490 Driver Version for Your Windows Computer</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-secrets-to-effective-vr-game-playback/"><u>In 2024, Secrets to Effective VR Game Playback</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/metaverse-laughs-crafting-funny-virtual-memes-for-2024/"><u>Metaverse Laughs Crafting Funny Virtual Memes for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/microsoft-discontinues-copilot-pro-gpt-developer-tool-and-purges-client-data-tech-news-by-zdnet/"><u>Microsoft Discontinues Copilot Pro GPT Developer Tool & Purges Client Data | Tech News by ZDNet</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/microsofts-all-in-one-platform-integration-of-teamwork-personal-interaction-and-learning-now-live-at-zdnet/"><u>Microsoft's All-in-One Platform Integration of Teamwork, Personal Interaction, and Learning – Now Live at ZDNET</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/restoring-folder-layouts-windows-11s-standard-setting/"><u>Restoring Folder Layouts: Windows 11'S Standard Setting</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/the-chaotic-digital-transformation-how-google-is-reshaping-personal-computing/"><u>The Chaotic Digital Transformation: How Google Is Reshaping Personal Computing</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/the-thievery-t5-unboxing-your-ultimate-guide-to-action-capture/"><u>The Thievery T5 Unboxing - Your Ultimate Guide to Action Capture</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/the-ultimate-guide-to-key-it-certifications-at-any-career-stage-expert-advice-from-zdnet/"><u>The Ultimate Guide to Key IT Certifications at Any Career Stage: Expert Advice From ZDNet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-tips-for-maximizing-iphone-xs-cinematic-shots/"><u>[New] Top Tips for Maximizing iPhone X's Cinematic Shots</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-understanding-the-importance-of-professional-images-as-thumbnails-for-2024/"><u>[New] Understanding the Importance of Professional Images as Thumbnails for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instagrams-copyright-and-sharing-guide/"><u>[Updated] 2024 Approved Instagram's Copyright & Sharing Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-precision-in-visuals-how-to-blur-backgrounds-on-teamblend/"><u>2024 Approved Precision in Visuals How to Blur Backgrounds on Teamblend</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-top-8-srt-conversion-websites-without-a-cost/"><u>2024 Approved Top 8 SRT Conversion Websites Without a Cost</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/come-ripristinare-una-partizione-di-disco-cancellata-per-errore-su-windows-11/"><u>Come Ripristinare Una Partizione Di Disco Cancellata per Errore Su Windows 11</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/comprehensive-step-by-step-tutorial-transferring-data-from-a-sata-ssd-to-an-m2-nvme-drive/"><u>Comprehensive Step-by-Step Tutorial: Transferring Data From a SATA SSD to an M.2 NVMe Drive</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/copie-todas-as-partes-com-o-centralizado-do-aomei-opcoes-de-compra-simplificadas/"><u>Copie Todas as Partes Com O Centralizado Do AOMEI - Opções De Compra Simplificadas</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/guide-de-lutilisation-de-la-carte-memoire-durgence-lenovo-onekey-pour-le-recuperer-facilement/"><u>Guide De L'Utilisation De La Carte Mémoire D'Urgence Lenovo OneKey Pour Le Récupérer Facilement</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-apple-m1-pro-vs-m1-max-the-difference-between-them/"><u>In 2024, Apple M1 Pro Vs. M1 Max The Difference Between Them</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-engineering-peak-canon-sequential-films/"><u>In 2024, Engineering Peak Canon Sequential Films</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/metodos-eficaces-para-eliminar-copias-de-seguridad-del-historial-de-archivos-en-tu-pc-con-windows-ebx/"><u>Métodos Eficaces Para Eliminar Copias De Seguridad Del Historial De Archivos en Tu PC Con Windows Ebx</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/navigate-discords-streaming-landscape-a-comprehensive-tutorial-for-2024/"><u>Navigate Discord's Streaming Landscape A Comprehensive Tutorial for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/professionelle-festplattenklonierung-unter-windows-topfreie-und-startbar-programme-zum-schutz-ihrer-daten/"><u>Professionelle Festplattenklonierung Unter Windows: Topfreie Und Startbar-Programme Zum Schutz Ihrer Daten</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/resolucion-al-problema-de-acceso-a-la-carpeta-programdata-en-windows-11/"><u>Resolución Al Problema De Acceso a La Carpeta 'ProgramData' En Windows 11</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/resoudre-les-dysfonctionnements-du-glisseur-et-deposeur-de-fenetre-par-defaut-en-mode-bureau-sur-windows-11/"><u>Résoudre Les Dysfonctionnements Du Glisseur Et Déposeur De Fenêtre Par Défaut en Mode Bureau Sur Windows 11</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/restore-your-security-successfully-resolving-email-hacks-in-3-simple-steps/"><u>Restore Your Security: Successfully Resolving Email Hacks in 3 Simple Steps</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-social-media-powerhouses-an-insightful-guide-to-facebook-twitter-instagram-and-youtube/"><u>Understanding Social Media Powerhouses: An Insightful Guide to Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/your-step-by-step-kinemaster-meme-creation/"><u>Your Step-by-Step KineMaster Meme Creation</u></a></li>
 </ul></div>
 

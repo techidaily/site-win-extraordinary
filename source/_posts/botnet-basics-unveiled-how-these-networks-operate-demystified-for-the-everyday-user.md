@@ -1,7 +1,7 @@
 ---
 title: "Botnet Basics Unveiled: How These Networks Operate Demystified for the Everyday User"
-date: 2024-10-08T02:59:47.696Z
-updated: 2024-10-13T20:56:45.258Z
+date: 2024-10-17T11:21:31.107Z
+updated: 2024-10-20T12:27:53.553Z
 tags:
   - product
   - antivirus
@@ -85,10 +85,10 @@ Distributed Denial of Service (DDoS) attacks is the most common executable attac
 If thousands of users visit a website, it will show an access denied error message. Thus, the user won’t be able to complete the desired task.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Email Spamming**
@@ -96,10 +96,10 @@ If thousands of users visit a website, it will show an access denied error messa
 By using the thousands of devices connected through a botnet, bot herders send emails to millions of people to spam their inboxes with unnecessary ads and offers.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Cryptocurrency Mining**
@@ -107,10 +107,10 @@ By using the thousands of devices connected through a botnet, bot herders send e
 The processing power of thousands of computers can collectively [mine cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency#Mining) like Bitcoins. Users would not be able to detect that their system’s RAM and other resources are in control of a botnet.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Ad Fraud**
@@ -121,6 +121,13 @@ Cybercriminals can use the botnet to run fraud ad clicks by utilizing the proces
 
 Like the fraud ad clicks, a botnet can also generate fake traffic on a third-party website. It is generally used to get unethical financial gains from website visits.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Steal Information**
 
 A botnet can steal personal information from the infected devices and transfer those pieces of information to cybercriminals. Further, cybercriminals use this information for carrying out extortion and other illegal activities.
@@ -128,19 +135,6 @@ A botnet can steal personal information from the infected devices and transfer t
 ### **Banner and Pop-Up Ads**
 
 Botnet bombards the infected device with intrusive banners and pop-up ads. Pop-up ads are intriguing to trick the user so that they click on them, and malicious programs can enter the system. 
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Botnet Selling and Renting**
 
@@ -166,16 +160,22 @@ Peer-to-peer architecture is more advanced and secure than the client-server mod
 
 Since there is no centralized server, it is difficult for a security team to locate the source’s position and destroy it. Like the Marvel villain group Hydra in Captain America: The First Avenger, killing a bot won’t kill the organization, since many are working to keep it alive.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Prevent Botnet Attack?
 
 Till now, you might have known how dangerous the botnet can be. It is not a normal antimalware, so preventing it requires some healthy practices that should be followed by you regularly. We now know its working and architecture. Let us see how we can avoid it.
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Update Operating System**
 
@@ -191,16 +191,16 @@ Emails are one of the primary carriers of malware. When you receive an email con
 
 [What is a Man-in-the-Middle Attack and How to Prevent?](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Avoid Download from Unreliable Sources**
 
 For launching their malware, cybercriminals choose the platform with a maximum user base. What better than a freeware download site? We highly suggest not to download freeware from unknown or insecure websites. There is a sure possibility that one or more of those freeware contains malware that can add your system to a botnet.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Do not Click on Suspicious Links and Pop-Ups**
 
@@ -211,16 +211,16 @@ Like emails and freeware, infected links and pop-up ads are also popular carrier
 Apart from following healthy browsing practices, the best way to ensure a total safeguard of your system is by getting a [robust antimalware program](https://tools.techidaily.com/malwarefox/products/) for it. Choosing antimalware should not be difficult for you. It must be available for all of your devices, and apart from being sturdy enough to detect and kill malicious threats, it should also be light to the system so that your workflow is not disturbed.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
+<span id="1983549">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Final Words
@@ -246,10 +246,10 @@ A botnet is created by creating a network of internet devices by infecting those
 A botnet can do many harmful activities like DDoS attacks, cryptocurrency mining, generating fake traffic, stealing personal information of the infected devices, and much more.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -277,22 +277,19 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-bridging-the-gap-enhancing-skype-with-zooms-features/"><u>[New] Bridging the Gap Enhancing Skype with Zoom's Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-copy-and-paste-not-working-on-windows-11/"><u>[SOLVED] Copy and Paste Not Working on Windows 11</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-top-tips-to-flawlessly-integrate-timely-text-in-your-fb-videos-for-2024/"><u>[Updated] Top Tips to Flawlessly Integrate Timely Text in Your FB Videos for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/boost-your-pcs-efficiency-using-windows-11s-stealth-app-killer-method-detailed-guide-at-zdnet/"><u>Boost Your PC's Efficiency Using Windows 11'S Stealth App Killer Method | Detailed Guide at ZDNET</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-s24-lock-screen-password-by-drfone-android/"><u>How To Change Samsung Galaxy S24 Lock Screen Password?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-iphones-a-compreenas-guide-to-storing-and-sharing-gifs/"><u>In 2024, IPhones A Compreenas Guide to Storing & Sharing GIFs</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-oneplus-nord-ce-3-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on OnePlus Nord CE 3 5G and Browser | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/master-the-art-of-transferring-files-across-oses-utilizing-google-quick-share-for-windows-and-android-integration-tips-by-zdnet/"><u>Master the Art of Transferring Files Across OSes: Utilizing Google Quick Share for Windows and Android Integration | Tips by ZDNET</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/master-your-pc-with-ease-enable-god-mode-in-windows-11-and-learn-why-its-a-game-changer-zdnet-insights/"><u>Master Your PC with Ease: Enable God Mode in Windows 11 and Learn Why It's a Game Changer | ZDNET Insights</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/review-of-gardyn-home-kit-v30-the-ultimate-indoor-hydroponic-system-you-will-love/"><u>Review of Gardyn Home Kit v3.0 - The Ultimate Indoor Hydroponic System You Will Love</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-oneplus-12r-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your OnePlus 12R Phone Hassle-Free</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/the-chaotic-digital-transformation-how-google-is-reshaping-personal-computing/"><u>The Chaotic Digital Transformation: How Google Is Reshaping Personal Computing</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/the-ultimate-guide-to-key-it-certifications-at-any-career-stage-expert-advice-from-zdnet/"><u>The Ultimate Guide to Key IT Certifications at Any Career Stage: Expert Advice From ZDNet</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-7-standing-desk-options-of-2023-reviews-by-zdnet/"><u>Top 7 Standing Desk Options of 2023 - Reviews by ZDNet</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/zdnets-comprehensive-analysis-of-the-keychron-q5-mechanical-keyboard-is-its-enhanced-performance-worth-the-premium-cost/"><u>ZDNet's Comprehensive Analysis of the Keychron Q5 Mechanical Keyboard: Is Its Enhanced Performance Worth the Premium Cost?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2023s-secretive-vids-downloader-list-top-8-edition/"><u>[New] 2023'S Secretive Vids Downloader List Top 8 Edition</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-guide-to-locating-vanished-eyes-only-images-on-snapchat/"><u>[Updated] In 2024, Guide to Locating Vanished Eyes-Only Images on Snapchat</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-unleashing-video-magic-on-tiktok-with-pre-made-designs/"><u>2024 Approved Unleashing Video Magic on TikTok with Pre-Made Designs</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/captivate-crowds-mastering-hashtag-use-in-high-traffic-short-videos-for-2024/"><u>Captivate Crowds Mastering Hashtag Use in High-Traffic Short Videos for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/essential-strategies-for-secure-kids-online-a-complete-manual-on-using-parental-controls-effectively/"><u>Essential Strategies for Secure Kids Online: A Complete Manual on Using Parental Controls Effectively</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/fehlerfrei-in-icloud-sichern-iphone-sicherung-auch-ohne-wifi-moglich/"><u>Fehlerfrei in iCloud Sichern – iPhone-Sicherung Auch Ohne WiFi Möglich?</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/guia-expertos-para-rescatar-archivos-de-sistema-danados-y-prevenir-la-perdida-de-datos-en-windows-7/"><u>Guía Expertos Para Rescatar Archivos De Sistema Dañados Y Prevenir La Pérdida De Datos en Windows 7</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/harmonizing-with-instagram-a-songwriters-compliance-primer/"><u>Harmonizing with Instagram A Songwriter's Compliance Primer</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-pro-video-editor-convert-casual-clips-into-cinematic-masterpieces/"><u>New 2024 Approved Pro Video Editor Convert Casual Clips Into Cinematic Masterpieces</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-5-excellent-substitutes-for-malwarebytes-on-windows-11-enhanced-security-solutions/"><u>Top 5 Excellent Substitutes for Malwarebytes on Windows 11: Enhanced Security Solutions</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/ultimate-guide-to-selecting-premier-inland-ssd-imaging-apps-for-safe-os-migration/"><u>Ultimate Guide to Selecting Premier Inland SSD Imaging Apps for Safe OS Migration</u></a></li>
+<li><a href="https://win11.techidaily.com/uncovering-giants-identifying-heavy-disk-space-usage-on-pcs/"><u>Uncovering Giants: Identifying Heavy Disk Space Usage on PCs</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-honor-play-7t-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Honor Play 7T.</u></a></li>
+<li><a href="https://fox-access.techidaily.com/why-does-imovie-enforce-dimensions-for-2024/"><u>Why Does iMovie Enforce Dimensions for 2024</u></a></li>
 </ul></div>
 

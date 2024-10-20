@@ -1,7 +1,7 @@
 ---
 title: Microsoft & IBM Unveil Open Source Version of MS-DOS
-date: 2024-10-08T22:51:20.123Z
-updated: 2024-10-13T16:15:27.906Z
+date: 2024-10-17T02:44:06.400Z
+updated: 2024-10-19T21:43:04.884Z
 tags:
   - microsoft
 categories:
@@ -114,31 +114,29 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-enhancing-speech-clarity-on-skype-for-2024/"><u>[New] Enhancing Speech Clarity on Skype for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/complete-overview-key-reveals-from-microsofts-october-surface-launch-zdnet-insights/"><u>Complete Overview: Key Reveals From Microsoft's October Surface Launch - ZDNet Insights</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/efficient-strategies-for-setting-up-and-overseeing-home-windows-user-profiles-a-comprehensive-guide/"><u>Efficient Strategies for Setting Up & Overseeing Home Windows User Profiles: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/how-to-harness-the-power-of-ai-with-microsoft-365s-new-copilot-tools-zdnet-insights/"><u>How To Harness The Power Of AI With Microsoft 365'S New Copilot Tools | ZDNET Insights</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-s23plus-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy S23+</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-navigating-tiktok-lives-as-a-virtual-attendee/"><u>In 2024, Navigating TikTok Lives as a Virtual Attendee</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-a54-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy A54 5G</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/mastering-the-art-of-windows-11-vms-expert-tips-and-tricks-for-optimal-setup-sourced-from-zdnet/"><u>Mastering the Art of Windows 11 VMs: Expert Tips and Tricks for Optimal Setup - Sourced From ZDNet</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-rated-free-security-camera-systems-expert-reviews/"><u>New 2024 Approved Top-Rated Free Security Camera Systems Expert Reviews</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/step-by-step-guide-eliminating-unwanted-programs-from-your-windows-11-pc-howtogeek/"><u>Step-by-Step Guide: Eliminating Unwanted Programs From Your Windows 11 PC | HowToGeek</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-guide-to-choosing-a-nook-glowlight-4-for-reading-enthusiasts/"><u>The Ultimate Guide to Choosing a Nook GlowLight 4 for Reading Enthusiasts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-four-ai-enhancements-required-for-iphones-to-match-androids-capabilities-insights-from-zdnet/"><u>Top Four AI Enhancements Required for iPhones to Match Android's Capabilities - Insights From ZDNet</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-tecno-pova-6-pro-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Tecno Pova 6 Pro 5G Phone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-microsoft-black-friday-savings-save-400-on-surface-pro-7-and-get-200-off-surface-laptop-go-exclusive-deals-from-zdnet/"><u>Top Microsoft Black Friday Savings: Save $400 on Surface Pro 7 & Get $200 Off Surface Laptop Go - Exclusive Deals From ZDNet</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/transform-your-team-with-top-tier-tech-talent-discover-microsofts-elite-developers/"><u>Transform Your Team with Top-Tier Tech Talent: Discover Microsoft’s Elite Developers</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/understanding-the-latest-change-in-windows-11-unwanted-onedrive-folders-backup-insights-from-zdnet/"><u>Understanding the Latest Change in Windows 11: Unwanted OneDrive Folders Backup - Insights From ZDNet.</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-itel-s23-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Itel S23 Users</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/why-the-future-of-computing-demands-an-ipad-style-screen-on-macbook-insights-from-microsofts-surface-laptop-studio/"><u>Why the Future of Computing Demands an iPad-Style Screen on MacBook: Insights From Microsoft's Surface Laptop Studio</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-dissecting-drama-introducing-chapters-to-video-content/"><u>[New] In 2024, Dissecting Drama Introducing Chapters to Video Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-become-a-youtube-partner-you-need-10000-views-now/"><u>[Updated] In 2024, How to Become a YouTube Partner - You Need 10,000 Views Now</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-perfect-posts-enhance-videos-before-sharing-on-instagram/"><u>[Updated] In 2024, Perfect Posts Enhance Videos Before Sharing on Instagram</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-trailblaze-with-our-list-of-the-top-9-resources-for-dynamic-3d-fonts/"><u>[Updated] Trailblaze with Our List of The Top 9 Resources for Dynamic 3D Fonts</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1-como-eliminar-el-registro-de-inicio-guia-paso-a-paso/"><u>1. Cómo Eliminar El Registro De Inicio: Guía Paso a Paso</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/ctrlplusz-untuk-membatalkan-fail-rate-tebal-langkah-langkah-perbaikan-terpadu/"><u>Ctrl+Z Untuk Membatalkan Fail Rate Tebal - Langkah-Langkah Perbaikan Terpadu</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/how-to-recover-unintentionally-erased-documents-from-the-recycle-bin-on-windows/"><u>How to Recover Unintentionally Erased Documents From the Recycle Bin on Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/immersive-audio-awaits-discover-these-15-dolby-atmos-masterpieces-for-home-theaters/"><u>Immersive Audio Awaits: Discover These 15 Dolby Atmos Masterpieces for Home Theaters</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-a-guide-to-infusing-movement-into-images-in-illustrator/"><u>In 2024, A Guide to Infusing Movement Into Images in Illustrator</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/installieren-sie-windows-11-im-legacy-modus-umgehen-von-secure-boot-and-tpm-20-losungsansatze-erklart/"><u>Installieren Sie Windows 11 Im Legacy-Modus: Umgehen Von Secure Boot & TPM 2.0 - Lösungsansätze Erklärt</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-whatsapp-with-social-media-profile-pictures/"><u>Navigating WhatsApp with Social Media Profile Pictures</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/schnelles-erstellen-von-mirror-backups-zwischen-zwei-nas-systemen-fuhrungstechniken-zur-synchronisierung-von-dateien/"><u>Schnelles Erstellen Von Mirror-Backups Zwischen Zwei NAS-Systemen – Führungstechniken Zur Synchronisierung Von Dateien</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/sichere-samsung-datenmigration-bewahren-sie-den-originalspeicher-bei-jedem-ubertragungsprozess/"><u>Sichere Samsung-Datenmigration: Bewahren Sie Den Originalspeicher Bei Jedem Übertragungsprozess</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/top-instagram-tagging-strategies-to-skyrocket-likes-and-followers/"><u>Top Instagram Tagging Strategies to Skyrocket Likes and Followers</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/ultimate-tutorial-on-retrieving-lost-max-documents-step-by-step-recovery-process/"><u>Ultimate Tutorial on Retrieving Lost MAX Documents: Step-by-Step Recovery Process</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleash-your-typographic-vision-in-after-effects-mastery-for-2024/"><u>Unleash Your Typographic Vision in After Effects Mastery for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728478520623-windows-11-bitlocker/"><u>Windows 11上快速解決 BitLocker 設定 (八項指南)</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
