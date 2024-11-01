@@ -1,7 +1,7 @@
 ---
 title: "9 Надежных Решений SEO: Отслеживание И Прогнозирование Впереди AccuRanker | SEO PowerSuite"
-date: 2024-10-15T11:31:11.220Z
-updated: 2024-10-20T08:59:33.621Z
+date: 2024-10-27T21:46:58.757Z
+updated: 2024-10-31T18:10:02.848Z
 tags:
   - articles
 categories:
@@ -154,13 +154,6 @@ SEO PowerSuite предлагает комплексный набор SEO-инс
 
 ![](https://www.link-assistant.com/articles/wp-content/uploads/2024/08/Serpple-1024x710.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Серпл
 
 Serpple - это программа нового поколения для отслеживания рейтинга ключевых слов, сочетающая в себе расширенные возможности, высочайшую точность и простой пользовательский интерфейс. Она разработана таким образом, чтобы быть доступной для всех, от новичков до опытных SEO-экспертов. Всеобъемлющая приборная панель позволяет пользователям увидеть все ключевые слова, по которым они ранжируются, всего за несколько кликов. Пользователи могут легко добавлять домены и загружать ключевые слова, а автоматическое отслеживание позиций в поисковых системах позволяет в режиме реального времени получать информацию о снижении и повышении рейтинга без необходимости ручного сравнения.
@@ -218,13 +211,6 @@ Keyword.com отличается своей точностью: коэффици
 
 Этот тарифный план стоимостью $159 в месяц при годовом расчете включает до 50 API-запросов в день и поддержку нескольких учетных записей пользователей и предназначен для больших команд и корпоративных организаций. Он обеспечивает обширное отслеживание ключевых слов, подробные отчеты и расширенные интеграции для поддержки комплексных SEO-стратегий. Стоимость месячной подписки составляет $199.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Плюсы:
 
 * Высокая точность данных SERP
@@ -237,6 +223,13 @@ Keyword.com отличается своей точностью: коэффици
 * Ограниченный бесплатный план
 
 ![](https://www.link-assistant.com/articles/wp-content/uploads/2024/08/Zutrix.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Zutrix
 
@@ -296,6 +289,19 @@ Advanced Web Ranking (AWR) - это универсальный SEO-инстру�
 
 Для менее чем 50 000 ключевых слов предлагается индивидуальный тарифный план по цене $700 в месяц, предлагающий специализированные решения для крупномасштабного SEO-слежения. Этот план включает в себя все корпоративные функции, а также дополнительные возможности настройки под конкретные нужды бизнеса. Годовая подписка снижает ежемесячную стоимость до $630.
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Плюсы:
 
 * Поддерживает отслеживание более 4 000 поисковых систем
@@ -347,11 +353,31 @@ Ahrefs выделяется своими интерактивными графи
 
 ![](https://www.link-assistant.com/articles/wp-content/uploads/2024/08/Wincher.png)
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Винчер
 
 Wincher отслеживает ключевые слова и фразы, относящиеся к веб-сайту пользователя, предоставляя информацию о том, как веб-сайт работает по определенным поисковым запросам в различных поисковых системах, в первую очередь в Google. Он предлагает до 24 месяцев истории ранжирования в SERP, возможность импорта ключевых слов из Google Search Console, отчеты в формате PDF, оценку SEO на странице и группировку ключевых слов. Несмотря на его возможности, некоторые пользователи отмечают медленное время загрузки данных и неточности в объемах поиска и позициях.
 
 Простота Wincher и сосредоточенность на основных функциях делают его привлекательным выбором для малого и среднего бизнеса. Он обеспечивает ежедневное обновление рейтинга, многопользовательский доступ и чистый интерфейс для отслеживания эффективности ключевых слов. Возможность создания отчетов с белыми метками и доступ к API добавляют ценности, особенно для агентств, которым необходимо представлять клиентам профессиональные и брендированные отчеты.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Ценовые планы:
 
@@ -386,6 +412,13 @@ Rank Tracker - это надежный инструмент для отслеж�
 
 Ценовые планы Rank Tracker конкурентоспособны, и он предлагает множество вариантов для удовлетворения различных SEO-потребностей. Rank Tracker предлагает гибкие тарифные планы, позволяющие пользователям - от малого бизнеса до крупных агентств - расширять возможности отслеживания ключевых слов по мере роста их потребностей. Несмотря на сильные стороны, пользователи отмечают, что интерфейс мог бы быть более интуитивным, а некоторые функции загружаются слишком долго.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Ценовые планы:
 
 #### Стартер
@@ -403,6 +436,13 @@ Rank Tracker - это надежный инструмент для отслеж�
 #### Шестнадцатеричные данные
 
 Этот тарифный план стоимостью $209 в месяц поддерживает отслеживание 4 000 ключевых слов в день и подходит для крупных предприятий. Он включает в себя обширные инструменты отслеживания и отчетности, неограниченное количество проектов и пользователей. Годовая подписка снижает стоимость до $174 в месяц. Этот план предоставляет 1 000 проверок сложности ключевых слов по требованию и 1 000 ежемесячных проверок SERP, а также доступ к API.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Плюсы:
 
@@ -457,6 +497,13 @@ Semrush - это профессиональный SEO-инструмент с м
 SpyFu - это инструмент конкурентной разведки, направленный на выявление SEO- и PPC-стратегий ваших конкурентов. Это отличный выбор для компаний, стремящихся получить конкурентное преимущество. SpyFu предоставляет подробные сведения об анализе конкурентов, исследовании ключевых слов, анализе обратных ссылок, отслеживании рангов и обзоре доменов. Пользователи могут увидеть все ключевые слова, которые их конкуренты купили в AdWords и ранжировали органически.
 
 SpyFu предлагает неограниченный доступ к результатам поиска, экспорту данных и PDF-файлам с обзором домена на всех тарифных планах. Обширные исторические данные позволяют пользователям отслеживать тенденции производительности с течением времени. Несмотря на широкие возможности, некоторым пользователям интерфейс может показаться менее интуитивным по сравнению с другими инструментами, а для полного использования всех его возможностей может потребоваться обучение.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Ценовые планы:
 
@@ -523,25 +570,11 @@ Moz Pro также отлично справляется с отслеживан
 
 ![](https://www.link-assistant.com/articles/wp-content/uploads/2024/07/Similarweb-1024x535.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 12\. SimilarWeb
 
 SimilarWeb - это надежный инструмент, отвечающий всем требованиям SEO, от исследования конкурентов до изучения ключевых слов. С помощью этого инструмента можно обнаружить новые и трендовые ключевые слова, что поможет сформировать SEO-стратегию, а также определить высокопотенциальные ключевые слова по уровню конкуренции, фактическим кликам и объему поиска. SimilarWeb помогает упростить SEO, определяя тенденции поиска в конкретных нишах, что позволяет пользователям повысить долю трафика в популярных поисковых запросах.
 
 Одним из ключевых преимуществ SimilarWeb является функция исследования конкурентов, которая позволяет выявить возможности роста в различных маркетинговых каналах. Используя эти данные, компании могут разумно распределять ресурсы и максимально эффективно использовать свои маркетинговые бюджеты. Способность программного обеспечения отслеживать успешные стратегии конкурентов и эффективно их реализовывать может дать пользователям конкурентное преимущество.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Ценовые планы:
 
@@ -553,18 +586,18 @@ SimilarWeb предлагает бесплатную версию, котора�
 
 Для компаний, которым требуются более обширные данные, предлагается тарифный план Enterprise, предоставляющий неограниченное количество результатов по каждой метрике и данные о трафике за три года. Цены на этот тарифный план предоставляются по запросу и включают в себя индивидуальные функции, основанные на конкретных потребностях бизнеса.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Плюсы:
 
 * Всестороннее исследование конкурентов
 * Выявление высокопотенциальных ключевых слов
 * Доступна бесплатная версия
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Конс:
 
@@ -573,32 +606,11 @@ SimilarWeb предлагает бесплатную версию, котора�
 
 ![](https://www.link-assistant.com/articles/wp-content/uploads/2024/07/Raven-Tools-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 13\. Инструменты Ворона
 
 Raven Tools - это универсальный SEO-инструмент, объединяющий в одной платформе исследование ключевых слов, отслеживание конкурентов и аудит обратных ссылок. Он легко интегрируется с Google Analytics и Search Console, позволяя пользователям отслеживать органический трафик прямо из интерфейса. Raven Tools предлагает широкие возможности отслеживания ранжирования, генерируя ежедневные, еженедельные и ежемесячные отчеты для большинства функций SERP и отслеживая основные поисковые системы, такие как Google, Yandex, Bing, Yahoo и Baidu.
 
 Программа также предоставляет исторические данные отслеживания ключевых слов и позволяет отслеживать несколько ключевых слов одновременно. Результаты можно фильтровать по различным параметрам, таким как почтовый индекс, устройство и язык, что делает его гибким и мощным инструментом для детального SEO-анализа. Несмотря на широкие возможности, Raven Tools имеет конкурентоспособную цену, что делает его привлекательным вариантом для компаний любого размера.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Ценовые планы:
 
@@ -654,15 +666,22 @@ Raven Tools - это универсальный SEO-инструмент, объ
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-navigating-orientation-options-for-facebook-videos/"><u>[New] In 2024, Navigating Orientation Options for Facebook Videos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-ultimate-mix-of-youtube-and-instagram-feeds/"><u>[New] In 2024, The Ultimate Mix of YouTube & Instagram Feeds</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-seeking-awareness-complete-view-of-sharable-media-in-messages/"><u>[New] Seeking Awareness Complete View of Sharable Media in Messages</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/aomei-onekey-recovery-f11/"><u>啟動 AOMEI OneKey Recovery: 詳盡 F11鍵操作指南</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/discovering-the-default-save-location-for-screen-captures-on-desktop-pcs-and-iphones/"><u>Discovering the Default Save Location for Screen Captures on Desktop PCs and iPhones</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-broadcasting-strategies-for-vimeo-films/"><u>In 2024, Broadcasting Strategies for Vimeo Films</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/infinix-smart-8-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Smart 8 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/is-your-pc-at-risk-with-ccleaner-comprehensive-guide-to-detecting-malware-and-protective-measures/"><u>Is Your PC at Risk with CCleaner? Comprehensive Guide to Detecting Malware & Protective Measures</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/passo-a-passo-para-transferir-dados-do-samsung-ao-windows-10-download-e-tutorial/"><u>Passo a Passo Para Transferir Dados Do Samsung Ao Windows 10 - Download E Tutorial</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-itel-a60-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagram-slideshow-feature/"><u>[New] Instagram Slideshow Feature</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-playbackquality-diagnosis/"><u>[Updated] 2024 Approved PlaybackQuality Diagnosis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fifteen-methods-to-reset-a-twitch-stream-in-real-time/"><u>2024 Approved Fifteen Methods to Reset a Twitch Stream in Real-Time</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/comparing-returns-which-yields-higher-earnings-software-development-vs-web-services-ventures/"><u>Comparing Returns: Which Yields Higher Earnings - Software Development Vs. Web Services Ventures</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/discover-pope-benedict-xvis-official-email-via-massmail-enhanced-communication-with-secure-software/"><u>Discover Pope Benedict XVI's Official Email via MassMail: Enhanced Communication with Secure Software</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/diy-youtube-intros-and-ends-without-breaking-the-bank/"><u>DIY YouTube Intros & Ends Without Breaking the Bank</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/download-top-rated-free-data-recovery-tools-today/"><u>Download Top Rated Free Data Recovery Tools Today</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/easy-trade-duplication-local-copier-now-supports-dxtrade-with-seamless-mt4-copy-transfers-via-mt4copier/"><u>Easy Trade Duplication: Local Copier Now Supports DXTrade with Seamless MT4 Copy Transfers via Mt4Copier</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/how-to-overcome-challenges-with-saving-tiktok-videos-expert-solutions-inside/"><u>How to Overcome Challenges with Saving TikTok Videos: Expert Solutions Inside!</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/leading-seo-firms-in-lisbon-enhance-visibility-and-traffic-with-expert-services/"><u>Leading SEO Firms in Lisbon: Enhance Visibility and Traffic with Expert Services</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/mastering-the-art-of-safeguarding-virtual-environments-discover-sicher-vm-security-techniques/"><u>Mastering the Art of Safeguarding Virtual Environments: Discover [Sicher] VM Security Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/optimal-audibility-techniques-to-enhance-recording-quality-for-2024/"><u>Optimal Audibility Techniques to Enhance Recording Quality for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/resolved-major-system-integrity-issues-in-windows-11/"><u>Resolved: Major System Integrity Issues in Windows 11</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/sata-ssdide-hdd/"><u>SATA SSDにIDE HDDを簡単にアップグレードする方法 - 一歩ずつ解説</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/the-traders-guide-to-winning-mentality-leveraging-trade-copiers-on-mt4-and-mt5-for-enhanced-swing-trading-results/"><u>The Trader's Guide to Winning Mentality: Leveraging Trade Copiers on MT4 & MT#5 for Enhanced Swing Trading Results</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/valheim-vegetation-value-optimal-sapling-guidance/"><u>Valheim Vegetation Value Optimal Sapling Guidance</u></a></li>
 </ul></div>
 
