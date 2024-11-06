@@ -1,7 +1,7 @@
 ---
 title: Strategic Intellectual Property Revival Tactics with MassMail Software
-date: 2024-10-30T03:09:03.329Z
-updated: 2024-11-01T03:23:48.942Z
+date: 2024-10-31T19:56:47.998Z
+updated: 2024-11-06T16:05:14.106Z
 tags:
   - product
 categories:
@@ -21,6 +21,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -44,18 +51,18 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -69,13 +76,6 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -84,9 +84,23 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -100,28 +114,21 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
@@ -129,10 +136,10 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 8\. Partner
@@ -146,13 +153,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -173,21 +173,17 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-game-on-excavating-elite-escape-chamber-quests/"><u>[Updated] 2024 Approved Game On Excavating Elite Escape Chamber Quests</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-creating-memorable-moments-using-snapchats-cartoon-effects/"><u>[Updated] Creating Memorable Moments Using Snapchat's Cartoon Effects</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-get-your-hands-on-the-best-9-online-shops-featuring-futuristic-graffiti-fonts/"><u>[Updated] In 2024, Get Your Hands on the Best 9 Online Shops Featuring Futuristic Graffiti Fonts</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-set-sights-on-success-essential-background-music-for-gym-goers/"><u>[Updated] Set Sights on Success Essential Background Music for Gym-Goers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mobile-and-desktop-no-cost-magnifier-toolkit/"><u>2024 Approved Mobile & Desktop No-Cost Magnifier Toolkit</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/bygone-beauty-iphone-x-portrait-moments/"><u>Bygone Beauty IPhone X Portrait Moments</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-the-new-apple-m3-pro-and-max-chipsets-insights-for-savvy-shoppers/"><u>Comprehensive Guide to the New Apple M3, Pro, and Max Chipsets: Insights for Savvy Shoppers</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/forex-traders-beware-steer-clear-of-these-13-common-errors-using-trade-copier-on-mt4-and-mt-5-platforms/"><u>Forex Traders Beware: Steer Clear of These 13 Common Errors Using Trade Copier on MT4 & MT 5 Platforms</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/leading-seo-compannies-of-saudi-arabias-capital-an-exclusive-look-at-riyadhs-top-agents-featuring-seo-powersuite-strategies/"><u>Leading SEO Compannies of Saudi Arabia's Capital: An Exclusive Look at Riyadh’s Top Agents , Featuring SEO PowerSuite Strategies</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/mastering-market-psychology-the-virtue-of-patience-in-automated-trading-with-mt4mt5-copytrader/"><u>Mastering Market Psychology: The Virtue of Patience in Automated Trading with MT4/MT5 CopyTrader</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/mastering-seo-as-a-novice-discover-the-premier-seo-powersuite-applications/"><u>Mastering SEO as a Novice? Discover the Premier SEO PowerSuite Applications!</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-2024-approved-what-is-ai-advertising/"><u>New 2024 Approved What Is AI Advertising?</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/norton-pc-cloud-sicherung-nutzen-keine-datenverluste-garantiert/"><u>Norton PC-Cloud Sicherung Nutzen: Keine Datenverluste Garantiert</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/optimize-your-social-buzz-with-these-4-key-techniques-from-massmail-experts/"><u>Optimize Your Social Buzz with These 4 Key Techniques From MassMail Experts</u></a></li>
-<li><a href="https://games-able.techidaily.com/perfecting-your-review-format-for-steam-games/"><u>Perfecting Your Review Format for Steam Games</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/luchshie-specialisty-po-seo-v-oae-poluchite-konkurentnoe-preimu/"><u>Лучшие Специалисты По SEO В ОАЭ - Получите Конкурентное Преиму</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-top-5-time-lapse-screen-recorder/"><u>[New] 2024 Approved Top 5 Time-Lapse Screen Recorder</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-make-a-video-from-photo-with-music/"><u>[New] How to Make a Video From Photo with Music</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-discover-the-top-3-alternative-video-portals/"><u>[Updated] 2024 Approved Discover the Top 3 Alternative Video Portals</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-ultimate-sound-guide-for-your-android-devices-customization/"><u>[Updated] In 2024, The Ultimate Sound Guide for Your Android Device's Customization</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-guide-to-years-top-makeup-vloggers/"><u>[Updated] The Ultimate Guide to Year's Top Makeup Vloggers</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1-unlock-the-power-of-broadcast-maximize-your-reach-with-massmail-softwares-magic-marketing/"><u>1. Unlock the Power of Broadcast: Maximize Your Reach with MassMail Software's Magic Marketing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-greatest-animated-features-for-kids-on-netflix/"><u>Discover the Greatest Animated Features for Kids on Netflix</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/elevate-your-myspace-presence-essential-tips-and-tricks-using-massmail-software-to-appear-more-professional/"><u>Elevate Your MySpace Presence: Essential Tips & Tricks Using MassMail Software to Appear More Professional</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/guida-passo-passo-come-avviare-da-un-dispositivo-usb-esterno-su-windows-11/"><u>Guida Passo-Passo: Come Avviare Da Un Dispositivo USB Esterno Su Windows 11</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-crafting-powerful-hashtags-for-fb-brand-identity/"><u>In 2024, Crafting Powerful Hashtags for FB Brand Identity</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-ranking-seo-firms-in-barcelona-expert-services-by-seo-powersuite/"><u>Top-Ranking SEO Firms in Barcelona: Expert Services by SEO PowerSuite</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-transferring-dvds-onto-a-usb-flash-drive-for-both-pc-and-mac-users/"><u>Ultimate Guide: Transferring DVDs Onto a USB Flash Drive for Both PC & Mac Users</u></a></li>
 </ul></div>
 

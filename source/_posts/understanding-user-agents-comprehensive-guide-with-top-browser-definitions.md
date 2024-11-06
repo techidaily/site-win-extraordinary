@@ -1,7 +1,7 @@
 ---
 title: Understanding User Agents - Comprehensive Guide with Top Browser Definitions
-date: 2024-10-27T02:55:16.987Z
-updated: 2024-11-01T02:58:24.199Z
+date: 2024-11-01T16:41:49.581Z
+updated: 2024-11-06T21:21:10.726Z
 tags:
   - wiki
 categories:
@@ -17,13 +17,6 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 >
 
 ## User agent
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Contents
 
@@ -44,6 +37,19 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
 A user agent is a string of text that is sent by a web browser to a web server to identify itself and provide information about the browser's capabilities. The User Agent string can include information such as the browser type and version, the operating system, and the device type.[\[1\]](https://tools.techidaily.com/link-assistant/products/)
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What is User Agent used for?
 
 Web servers use the User Agent string to determine how to serve content to the browser. For example, a web server may use the information provided in the user agent string to serve a different version of a website to a mobile device than it would to a desktop computer.
@@ -57,6 +63,13 @@ with the free LinkAssistant tool
 ![](https://cdn1.link-assistant.com/news/images/product-download-banner/link.png) 
 
 ![](https://cdn1.link-assistant.com/news/images/product-download-banner/glow.svg) ![](https://cdn1.link-assistant.com/news/images/product-download-banner/glow-mobile.svg) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 When a web browser makes a request to a web server (for example, to load a web page), it sends an HTTP request message to the server. This message includes an HTTP header, which contains a variety of information about the request. One of the pieces of information in the HTTP header is the user agent string.
 
@@ -84,6 +97,14 @@ There are many different types of User Agents, including:
     
 ![user agent settings in Rank Tracker](https://cdn1.link-assistant.com/thumbs/w929-c1/upload/seowiki/posts/129/ua1.png)  
 [Download Rank Tracker](https://tools.techidaily.com/link-assistant/products/)  
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The image above shows how you can set up custom user agents to control rank tracking in the [Rank Tracker](https://tools.techidaily.com/link-assistant/products/) tool[\[3\]](https://tools.techidaily.com/link-assistant/products/).
 
 Set up custom user agents for rank tracking
@@ -92,14 +113,14 @@ with the free Rank Tracker tool
 
 ![](https://cdn1.link-assistant.com/news/images/product-download-banner/chart.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://cdn1.link-assistant.com/news/images/product-download-banner/glow.svg) ![](https://cdn1.link-assistant.com/news/images/product-download-banner/glow-mobile.svg) 
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to find my User Agent in any browser: Chrome, Firefox, Edge?
 
@@ -113,22 +134,15 @@ Remember, it’s generally not recommended to use user agent to detect the brows
 
 Please note that it’s possible to change or “fake” what your web browser sends as its User Agent. Some browsers let you change this setting, affecting what’s known as “Mobile Mode” or "Desktop Mode". However, changing your user agent should be done with caution as it can affect how websites are displayed and function.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to switch my User Agent in any browser: Chrome, Firefox, Edge, Safari?
 
 You can easily change and fake your browser’s user agent in a few steps. Here’s how you can do it for different browsers:
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **How to change user agent in Google Chrome & Microsoft Edge**
@@ -139,16 +153,10 @@ You can easily change and fake your browser’s user agent in a few steps. Here�
 4. Choose one from the built-in User-Agents list or enter any string you want in the field below the list.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **How to switch user agent in Mozilla Firefox**
@@ -165,13 +173,6 @@ You can easily change and fake your browser’s user agent in a few steps. Here�
 3. Navigate to _Develop > User-Agent_. You can select from a predefined list or enter a custom user-agent string by choosing _Other..._​
 
 Please note that changing your user agent should be done with caution as it can affect how websites are displayed and function. Also, these settings are temporary and only apply while you have the Developer Tools pane open, and it only applies to the current tab.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## List of User Agents for desktop browsers (Chrome, Mozilla Firefox, Edge, Safari) and mobile devices (Apple, Android)
 
@@ -194,6 +195,13 @@ Here are some examples of user agents for different devices and browsers:
 #### **Mozilla Firefox on Windows**
 
 `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0`
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mobile Apple Devices
 
@@ -236,13 +244,6 @@ Overall, user agents are an essential component of the web ecosystem, enabling u
 
 [How Google Crawler Works: SEO Starter-Pack Guide](https://tools.techidaily.com/link-assistant/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## References
 
 [1. https://en.wikipedia.org/wiki/User\_agent](https://en.wikipedia.org/wiki/User%5Fagent)[2. https://developers.google.com/search/docs/crawling-indexing/overview-google-crawlers](https://developers.google.com/search/docs/crawling-indexing/overview-google-crawlers)[3. https://www.link-assistant.com/help/rank-tracker/search-safety-settings.html#useragentnew](https://tools.techidaily.com/link-assistant/products/)
@@ -262,20 +263,21 @@ Overall, user agents are an essential component of the web ecosystem, enabling u
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-save-the-day-linkinscapes-6-best-apps-for-video-downloading-for-2024/"><u>[New] Save the Day Linkinscape's 6 Best Apps for Video Downloading for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-enhancing-mobile-broadcasting-via-obs-strategies-for-2024/"><u>[Updated] Enhancing Mobile Broadcasting via OBS Strategies for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-exquisite-drone-fleet-the-pinnacle-of-visual-artistry/"><u>2024 Approved Exquisite Drone Fleet The Pinnacle of Visual Artistry</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728474319318-windows-11/"><u>完全解決：Windows 11における「このフォルダは空です」問題の詳細なガイド</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/windows1110873/"><u>修復失败的Windows系统影像备份：11、10、8和7版本的3种方法</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/effective-techniques-for-resuming-hyper-v-vms-stuck-in-save-or-restore-operations/"><u>Effective Techniques for Resuming Hyper-V VMs Stuck in Save or Restore Operations</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/enhancing-online-presence-through-advanced-seo-framework-tools/"><u>Enhancing Online Presence Through Advanced SEO Framework Tools</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/explore-the-ultimate-guide-to-top-internetaffiliate-marketer-forums-unlock-opportunities-using-massmail-software-solutions/"><u>Explore the Ultimate Guide to Top Internet/Affiliate Marketer Forums - Unlock Opportunities Using Massmail Software Solutions</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-innovative-ai-renders-words-in-pictures/"><u>Facebook's Innovative AI Renders Words in Pictures</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-unlimited-free-fun-with-top-meme-templates/"><u>In 2024, Explore Unlimited Free Fun with Top Meme Templates</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/mastering-opengraph-for-enhanced-visibility-definitions-and-top-seo-techniques-explained/"><u>Mastering OpenGraph for Enhanced Visibility: Definitions and Top SEO Techniques Explained</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamless-integration-of-sega-dreamcatchers-with-android-technology/"><u>Seamless Integration of Sega Dreamcatchers with Android Technology</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successful-solutions-to-the-couldnt-load-plugin-dilemma-in-windows-11-with-chrome-browser/"><u>Successful Solutions to the 'Couldn't Load Plugin' Dilemma in Windows 11 with Chrome Browser</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/tailoring-drop-dates-to-maximize-listener-interest/"><u>Tailoring Drop Dates to Maximize Listener Interest</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/samye-effektivnye-agentstva-po-optimizacii-dlya-poiskovyh-sistem-v-filadelfii-seo-powersuite/"><u>Самые Эффективные Агентства По Оптимизации Для Поисковых Систем В Филадельфии - SEO PowerSuite</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-innocence-betrayed-consequences-of-acquiring-sham-supporters-in-social-media/"><u>[New] Innocence Betrayed Consequences of Acquiring Sham Supporters in Social Media</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/op-notch-leaderboard-scrutinizer-for-vloggers-success/"><u>[New] Top-Notch Leaderboard Scrutinizer for Vlogger's Success</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unlocking-potential-innovative-strategies-for-better-insta-content-for-2024/"><u>[New] Unlocking Potential Innovative Strategies for Better Insta Content for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-essential-tips-for-youtube-edits-with-sony-vegas/"><u>2024 Approved Essential Tips for YouTube Edits with Sony Vegas</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/como-activar-el-inicio-seguro-en-la-bios-para-actualizar-a-windows-11/"><u>Cómo Activar El Inicio Seguro en La BIOS Para Actualizar a Windows 11</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/complete-guide-to-wiping-your-hard-drive-on-windows/"><u>Complete Guide to Wiping Your Hard Drive on Windows</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/expert-seo-solutions-in-mecca-saudi-arabia-unveil-the-top-providers-for-a-successful-online-presence/"><u>Expert SEO Solutions in Mecca, Saudi Arabia - Unveil the Top Providers for a Successful Online Presence !</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/exploring-the-pros-and-cons-of-engaging-in-cfds-trading-with-metatrader-4-copiers/"><u>Exploring the Pros & Cons of Engaging in CFDs Trading with MetaTrader 4 Copiers</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-honor-magic-6-lite-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor Magic 6 Lite Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-how-to-select-a-youtube-gaming-introduction-maker-free-or-paid-edition/"><u>In 2024, How to Select a YouTube Gaming Introduction Maker Free or Paid Edition</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-y17s-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Vivo Y17s</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/leading-seo-compannies-manchester-expert-insights-into-elite-suites-for-optimized-search-visibility/"><u>Leading SEO Compannies Manchester | Expert Insights Into Elite Suites for Optimized Search Visibility</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/reverse-video-order-on-your-ios-gadget/"><u>Reverse Video Order on Your iOS Gadget</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/step-by-step-instructions-for-saving-and-retrieving-imessages-on-apple-devices/"><u>Step-by-Step Instructions for Saving and Retrieving iMessages on Apple Devices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/top-5-best-action-cameras-for-fishing/"><u>Top 5 Best Action Cameras for Fishing</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/understanding-encrypted-search-engines-definitions-insights-and-essential-seo-strategies-with-seo-powersuite/"><u>Understanding Encrypted Search Engines: Definitions, Insights & Essential SEO Strategies with SEO PowerSuite</u></a></li>
 </ul></div>
 
