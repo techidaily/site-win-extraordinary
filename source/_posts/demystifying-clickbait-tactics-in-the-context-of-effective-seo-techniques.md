@@ -1,7 +1,7 @@
 ---
 title: Demystifying Clickbait Tactics in the Context of Effective SEO Techniques
-date: 2024-10-19T05:29:32.247Z
-updated: 2024-10-20T07:45:12.836Z
+date: 2024-11-14T22:28:22.421Z
+updated: 2024-11-16T17:22:15.246Z
 tags:
   - wiki
 categories:
@@ -17,13 +17,6 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 >
 
 ## Clickbait
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Contents
 
@@ -41,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 * [Does clickbait work?](https://tools.techidaily.com/link-assistant/products/)
 * [References](https://tools.techidaily.com/link-assistant/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Definition
 
 Clickbait is a term used to describe deceptive and misleading link texts and thumbnails, created with the mere purpose of seducing link clicks. 
@@ -55,13 +41,6 @@ Clickbait is a term used to describe deceptive and misleading link texts and thu
 Clickbait is mainly used in digital marketing - for advertising and on social media. It is a means of driving more pageviews to a website and is often used to inflate the website’s revenues from pay-per-click advertising or other types of traffic monetization. 
 
 Quite frequently, clickbait may also be used by internet fraudsters, who resort to phishing attacks to steal personal information and distribute malicious files. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why is it called clickbait?
 
@@ -73,11 +52,25 @@ Clickbait takes advantage of a well-known psychological phenomenon, the so-calle
 
 With clickbait, the idea is that you’re only given fragments of information. This causes your curiosity to arise, forming the urgent need to click the link and thus “retrieve the missing pieces”. 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Examples of clickbait
 
 Clickbait is quite often resorted to by tabloids as opposed to respectable news sources. So simply digging through your Facebook newsfeed will provide you with quite a few examples.
 
 ![clickbait on facebook](https://cdn1.link-assistant.com/thumbs/w692-c1/upload/seowiki/posts/35/c1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Here, HaffPost is clearly exploiting our curiosity gap by making only part of the information available, and you feel the need to click the link to learn which movie the article is actually talking about. 
 
@@ -85,31 +78,44 @@ Here, HaffPost is clearly exploiting our curiosity gap by making only part of th
 
 Another schoolbook example of clickbait is this top right-corner ad. A famous brand has “done this again” - the phrase clearly hinting at some misdo or, on the contrary, at a huge success on behalf of Cadillac. But we have no way to learn what the article is about without clicking the link. 
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What’s a typical clickbait structure?
 
 In most cases, all clickbait headlines follow a similar structure and rely on the same tactics. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Shorter words
 
 The idea here is that shorter words are easier to read and understand and thus capture our attention more effectively.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Over-promises
 
 The go-to phrases for a clickbait writer are “You won’t believe” or “Try this one simple trick”, promising something unprecedented, which you absolutely can not afford to miss. 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Cliffhangers
 
@@ -122,6 +128,13 @@ Multiple questions or exclamation marks stand out among the rest of your newsfee
 ### Strong adjectives and superlatives
 
 Whatever you come across in a clickbait headline is likely to be shocking, astonishing, sensational, the best, the easiest, or the quickest. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Internet slang abbreviations
 
@@ -136,13 +149,6 @@ However, after the over-promise in the headline, we tend to face disappointment 
 Facebook, for example, promises to show clickbait posts to fewer people and, in the long run, even decrease the overall content exposure of a clickbait publisher[\[2\]](https://tools.techidaily.com/link-assistant/products/).
 
 Google, in its turn, has recently launched the so-called “Helpful content” algorithm update, said to fight clickbait search results and make sure top SERP positions are occupied by quality content “written by people, for people”[\[3\]](https://tools.techidaily.com/link-assistant/products/).
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## References
 
@@ -163,24 +169,22 @@ Google, in its turn, has recently launched the so-called “Helpful content” a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-inside-triller-an-oasis-in-the-sea-of-standard-video-platforms/"><u>[New] Inside Triller An Oasis in the Sea of Standard Video Platforms</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-synthesizing-mood-an-ode-to-trailer-tunes-for-2024/"><u>[Updated] Synthesizing Mood An Ode to Trailer Tunes for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725284757112-dvd/"><u>「解锁最新加密DVD的指南—详细教程和转码技术」</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/come-resetare-il-tuo-pc-windows-10-in-caso-di-blocco-del-sistema-guida-dettagliata-e-soluzioni-efficaci/"><u>Come Resetare Il Tuo PC Windows 10 in Caso Di Blocco Del Sistema - Guida Dettagliata E Soluzioni Efficaci</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/die-effektivsten-methoden-zur-ruckgewinnung-geloschter-benutzerprofile-in-windows-10-entdecken-sie-die-top-2-strategien/"><u>Die Effektivsten Methoden Zur Rückgewinnung Gelöschter Benutzerprofile in Windows 10 – Entdecken Sie Die Top-2 Strategien!</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/einfache-methode-zum-ubertragen-von-steam-spielen-auf-einen-anderen-computer/"><u>Einfache Methode Zum Übertragen Von Steam-Spielen Auf Einen Anderen Computer</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-ipad-enhancements-the-ultimate-guide-to-accessories-featured-on-zdnet/"><u>Essential iPad Enhancements : The Ultimate Guide to Accessories, Featured on ZDNET</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-free-srt-conversion-uncover-top-8-online-options/"><u>In 2024, Free SRT Conversion Uncover Top 8 Online Options</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-oppo-reno-11-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Oppo Reno 11 5G Phone that is Locked?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/step-by-step-tutorial-modifying-display-settings-in-windows-11s-hyper-v-environment/"><u>Step-by-Step Tutorial: Modifying Display Settings in Windows 11'S Hyper-V Environment</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/stopping-nortons-auto-delete-feature-tips-for-keeping-your-files-safe/"><u>Stopping Norton's Auto-Delete Feature: Tips for Keeping Your Files Safe</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-key-to-making-youtube-videos-stand-out-on-instagram-stories/"><u>The Key to Making YouTube Videos Stand Out on Instagram Stories</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-honor-x9b-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Honor X9b without backup.</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-3-methoden-zur-behebung-von-problemen-beim-neuformatieren-einer-sandisk-speicherkarte/"><u>Top 3 Methoden Zur Behebung Von Problemen Beim Neuformatieren Einer Sandisk Speicherkarte</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/two-hassle-free-techniques-safeguard-your-files-with-amazon-cloud-drive-at-no-charge/"><u>Two Hassle-Free Techniques: Safeguard Your Files with Amazon Cloud Drive at No Charge</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-the-ultimate-list-of-mac-music-production-tools-the-elite-four/"><u>Updated In 2024, The Ultimate List of Mac Music Production Tools - The Elite Four</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728466232307-usb/"><u>USBドライブの削除後、廃棄されていないデータをどうやって取り出せば良いか</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/windows-server-backup-plan-set-up-scheduled-savings-on-shared-remote-folders-with-limit-bypass/"><u>Windows Server Backup Plan: Set Up Scheduled Savings on Shared Remote Folders with Limit Bypass</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-maximizing-memories-the-ultimate-guide-for-overwatch-players-for-2024/"><u>[New] Maximizing Memories The Ultimate Guide for Overwatch Players for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-7-best-monitors-for-photo-editing-worth-trying/"><u>[Updated] In 2024, 7 Best Monitors for Photo Editing Worth Trying</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-rapid-rendering-of-fortnite-icons/"><u>[Updated] In 2024, Rapid Rendering of Fortnite Icons</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/19-topovyh-zamenitelej-hunterio-dlya-optimizacii-otzyvov-i-podtverzhdeniya-email-adresov/"><u>19 Топовых Заменителей Hunter.io Для Оптимизации Отзывов И Подтверждения Email-Адресов</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-image-edition-excellence-tutorial-insights/"><u>2024 Approved Image Edition Excellence Tutorial Insights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-lava-blaze-pro-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Lava Blaze Pro 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/9-nadezhnyh-reshenij-seo-otslezhivanie-i-prognozirovanie-vperedi-accuranker-seo-powersuite/"><u>9 Надежных Решений SEO: Отслеживание И Прогнозирование Впереди AccuRanker | SEO PowerSuite</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/decoding-the-differences-how-ipad-pro-stands-against-microsofts-surface-pro/"><u>Decoding the Differences: How iPad Pro Stands Against Microsoft's Surface Pro</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/effective-day-trading-tactics-using-trade-copier-on-metatrader-platforms-mt4-and-mt5/"><u>Effective Day Trading Tactics Using Trade Copier on Metatrader Platforms (MT4 & MT5)</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/efficient-management-of-pictorial-content-for-large-scale-newsletter-distribution-via-massmail-solution/"><u>Efficient Management of Pictorial Content for Large Scale Newsletter Distribution via MassMail Solution</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/microsoft-teams-connectivity-concerns-understanding-common-errors-and-fixes/"><u>Microsoft Teams Connectivity Concerns: Understanding Common Errors & Fixes</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-crowded-online-spaces-offering-no-cost-guitar-song-lines-and-artwork/"><u>New Crowded Online Spaces Offering No-Cost Guitar Song Lines and Artwork</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-infinix-note-30-vip-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Infinix Note 30 VIP</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-prioritat-bei-datenubertragung-professionelle-losungen-zum-klonen-von-usb-und-systemeinfuhr/"><u>Top-Priorität Bei Datenübertragung: Professionelle Lösungen Zum Klonen Von USB Und Systemeinfuhr</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/understanding-smtp-throttling-optimizing-email-delivery-with-hosting-services-massmail-solutions/"><u>Understanding SMTP Throttling: Optimizing Email Delivery with Hosting Services | MassMail Solutions</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/osnovnye-faktory-uspeha-luchshie-specialisty-seo-iz-myunhena-germaniya-rukovodstvo-2024-goda-s-pomoshyu-seo-powersuite/"><u>Основные Факторы Успеха - Лучшие Специалисты SEO Из Мюнхена, Германия: Руководство 2024 Года С Помощью SEO PowerSuite</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/alan-oitha-knt-tbhth-aan-afdl-khyarat-windows-11-5-bramg-nskh-mganya-shahdtha/"><u>الآن وإذا كنت تبحث عن أفضل خيارات Windows 11: 5 برامج نسخ مجانية شاهدتها</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Revolution in Email Outreach: From 1999 to 2012 with MassMail"
-date: 2024-11-01T18:25:27.091Z
-updated: 2024-11-06T20:41:18.894Z
+date: 2024-11-11T23:57:30.051Z
+updated: 2024-11-16T23:42:43.995Z
 tags:
   - product
 categories:
@@ -37,10 +37,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -58,16 +58,10 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -83,10 +77,16 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
@@ -97,9 +97,23 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -108,6 +122,13 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -121,23 +142,9 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -146,13 +153,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -173,17 +173,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-extraordinary.techidaily.com/1728499860122-404/"><u>解決策:訪れたページを見つけられないエラー404の対処方法</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/comprendere-la-nuova-installazione-di-windows-nella-maniera-piu-semplice-possibile-nessun-prerequisito-richiesto/"><u>Comprendere La Nuova Installazione Di Windows Nella Maniera Più Semplice Possibile: Nessun Prerequisito Richiesto!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/enhance-online-presence-with-manycam-the-leading-platform-for-virtual-camera-solutions-and-live-broadcasts/"><u>Enhance Online Presence with ManyCam: The Leading Platform for Virtual Camera Solutions and Live Broadcasts</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/essential-guide-zero-cost-applications-for-creating-exact-windows-10-copies-with-full-data-transfer/"><u>Essential Guide: Zero-Cost Applications for Creating Exact Windows 10 Copies with Full Data Transfer</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-tecno-camon-20-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Tecno Camon 20 Devices | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/mastering-sms-marketing-automation-insider-secrets-and-case-studies-using-massmail-software/"><u>Mastering SMS Marketing Automation: Insider Secrets & Case Studies Using MassMail Software</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/navigating-your-way-through-tablets-8-important-considerations/"><u>Navigating Your Way Through Tablets - 8 Important Considerations</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/premium-boot-device-wipe-utilities-optimal-solutions-for-windows-11-10-8-and-7-systems/"><u>Premium Boot Device Wipe Utilities: Optimal Solutions for Windows 11, 10, 8, and 7 Systems</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-vivo-y77t-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Vivo Y77t with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-roadmap-to-your-own-instagram-corporate-identity/"><u>The Roadmap to Your Own Instagram Corporate Identity</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/top-10-no-cost-video-cutting-apps-for-2024/"><u>Top 10 No-Cost Video Cutting Apps for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-little-wheels-whirlwind-games/"><u>[New] In 2024, Little Wheels Whirlwind Games</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-master-the-pinning-process-for-a-personal-touch-in-snapchat/"><u>2024 Approved Master the Pinning Process for a Personal Touch in Snapchat</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/award-winning-solutions-for-email-campaign-experts-choose-massmail/"><u>Award-Winning Solutions for Email Campaign Experts - Choose MassMail</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/come-ritrovare-i-file-eliminati-su-windows-11/"><u>Come Ritrovare I File Eliminati Su Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discovering-apples-stealthy-standout-the-surprising-success-of-the-349-ipad-revealed-in-latest-event-coverage-by-zdnet/"><u>Discovering Apple's Stealthy Standout: The Surprising Success of the $349 iPad Revealed in Latest Event Coverage by ZDNET</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/guida-per-risolvere-il-problema-del-backup-non-riuscito-in-windows-con-successo-completo-spiegazione/"><u>Guida per Risolvere Il Problema Del Backup Non Riuscito in Windows Con Successo Completo Spiegazione</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-6-plus-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 6 Plus iOS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-tecno-spark-20c-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Tecno Spark 20C Phone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-aerial-companions-for-gopro-hd-adventures/"><u>In 2024, Premium Aerial Companions for GoPro HD Adventures</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Realme GT 5? | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/mastering-lead-capture-in-2012-insider-advice-and-a-curated-selection-of-email-marketing-software/"><u>Mastering Lead Capture in 2012 - Insider Advice and a Curated Selection of Email Marketing Software</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/quick-fixes-for-a-smooth-windows-11-installation-beyond-99/"><u>Quick Fixes for a Smooth Windows 11 Installation Beyond 99%</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-budding-gardeners-handbook-to-sustainable-veggie-gardening-from-seedling-to-harvest/"><u>The Budding Gardener's Handbook to Sustainable Veggie Gardening From Seedling to Harvest</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/the-role-of-backlinks-in-seo-success-a-complete-breakdown-and-tips-for-optimization/"><u>The Role of Backlinks in SEO Success - A Complete Breakdown & Tips for Optimization</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/unlock-the-potential-of-local-searches-excel-with-top-tier-seattle-seo-providers-like-seo-powersuite/"><u>Unlock the Potential of Local Searches - Excel with Top-Tier Seattle SEO Providers Like SEO PowerSuite</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-nokia-c12-plus-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Nokia C12 Plus Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/why-businesses-opt-for-email-marketing-top-5-benefits-with-massmail-solutions/"><u>Why Businesses Opt for Email Marketing: Top 5 Benefits with MassMail Solutions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Hosting a Successful Online Marketing Workshop (2009)
-date: 2024-10-31T16:44:57.832Z
-updated: 2024-11-06T20:52:56.999Z
+date: 2024-11-15T23:44:17.969Z
+updated: 2024-11-17T04:08:37.780Z
 tags:
   - product
 categories:
@@ -44,13 +44,6 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
@@ -73,83 +66,78 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -179,17 +167,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-augmented-realities-transforming-movie-production/"><u>[New] Augmented Realities Transforming Movie Production</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-unleashing-full-potential-of-firefox-x-pie-mode-for-2024/"><u>[New] Unleashing Full Potential of Firefox X-Pie Mode for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/44cm44k744kt44ol44oq44og44kj5qmf6io95lin5rs75ocn5yyw5b6m44gu6lplus95yqg5a6j5ywo5aplusplus562w44cn/"><u>「セキュリティ機能不活性化後の追加安全対策」</u></a></li>
-<li><a href="https://win-news.techidaily.com/5tb-daiza-kapajata-ka-le-sharashha-garadada-bkaapa-kamada-yaha/"><u>5TB डाइज़ो कंपोजिट के लिए शीर्ष-ग्रेडेड बैकअप कमांड यहाँ</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/bantu-di-temukan-modifikasi-undi-yakin-ganti-foto-terkam-yang-gelahdi-dalam-windows-10/"><u>Bantu Di Temukan Modifikasi Undi Yakin Ganti Foto Terkam Yang Gelahdi Dalam Windows 10</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-audio-interface-innovations-for-optimal-podcasting/"><u>In 2024, Audio Interface Innovations for Optimal Podcasting</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-essential-steps-for-a-richer-photo-view-with-audio-filters/"><u>In 2024, Essential Steps for a Richer Photo View with Audio-Filters</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-whats-captivating-twitter-users-the-most/"><u>In 2024, What's Captivating Twitter Users the Most?</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/resolving-unvalid-directory-name-issues-in-windows-11-five-effective-solutions/"><u>Resolving 'Unvalid Directory Name' Issues in Windows 11: Five Effective Solutions</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/smart-choices-in-economical-sms-providers-insights-from-massmail-expertise/"><u>Smart Choices in Economical SMS Providers: Insights From MassMail Expertise</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-3-meilleurs-utilitaires-de-sauvegarde-gratuits-pour-windows-11-un-guide-complet/"><u>Top 3 Meilleurs Utilitaires De Sauvegarde Gratuits Pour Windows 11 : Un Guide Complet</u></a></li>
-<li><a href="https://windows11.techidaily.com/zap-zaps-revitalizing-a-sluggish-windows-11-experience/"><u>Zap Zaps: Revitalizing a Sluggish Windows 11 Experience</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-from-last-minute-to-first-impression-how-to-rewind-video-on-instagram/"><u>[New] 2024 Approved From Last Minute to First Impression How to Rewind Video on Instagram</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-guide-to-effective-nvidia-video-capture-for-2024/"><u>[New] Guide to Effective NVIDIA Video Capture for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-digital-domain-decision-which-platform-for-your-videos/"><u>[New] In 2024, Digital Domain Decision Which Platform for Your Videos?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-express-thumbnails-for-epic-battle-royale/"><u>[New] In 2024, Express Thumbnails for Epic Battle Royale</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-lg-vr-headgear-review-complete-immersion-unlocked/"><u>[New] In 2024, LG VR Headgear Review Complete Immersion Unlocked</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-capturewin-the-hassle-free-screen-recorder/"><u>[Updated] 2024 Approved CaptureWin The Hassle-Free Screen Recorder</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-m34-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy M34 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/leading-b2b-seo-strategies-and-tools-to-dominate-search-results/"><u>Leading B2B SEO Strategies & Tools to Dominate Search Results</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/leading-seo-firms-based-in-cardiff-wales-comprehensive-guide-to-top-ranked-agencies-and-seo-tools/"><u>Leading SEO Firms Based in Cardiff, Wales: Comprehensive Guide to Top-Ranked Agencies & SEO Tools</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/leveraging-google-trends-for-seo-success-insights-and-expert-tips-from-seo-powersuite/"><u>Leveraging Google Trends for SEO Success: Insights and Expert Tips From SEO PowerSuite</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/scleritis-is-a-potentially-sight-threatening-condition-that-requires-aggressive-treatment-to-control-inflammation-and-prevent-complications-like-scleromalac248/"><u>Scleritis Is a Potentially Sight-Threatening Condition that Requires Aggressive Treatment to Control Inflammation and Prevent Complications Like Scleromalacia Perforans.</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamless-operation-windows-plus-nvidia-card/"><u>Seamless Operation: Windows + Nvidia Card</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/troubleshooting-and-repair-steps-for-non-functional-hp-laptop-trackpad-in-windows-11/"><u>Troubleshooting and Repair Steps for Non-Functional HP Laptop Trackpad in Windows 11</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/vorbereitung-auf-den-laptop-vertrieb-professionelles-loschen-der-datentragerin-lernen-sie-wie-es-geht/"><u>Vorbereitung Auf Den Laptop-Vertrieb: Professionelles Löschen Der Datenträgerin - Lernen Sie, Wie Es Geht!</u></a></li>
 </ul></div>
 

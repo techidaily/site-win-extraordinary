@@ -1,7 +1,7 @@
 ---
 title: "Leading Strategies in Digital Advertising: Social Networks & Smartphones Take Center Stage with Innovative Video Campaigns"
-date: 2024-10-16T22:49:57.704Z
-updated: 2024-10-19T23:13:27.701Z
+date: 2024-11-15T16:33:39.554Z
+updated: 2024-11-16T23:59:33.955Z
 tags:
   - product
 categories:
@@ -22,6 +22,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -36,6 +43,13 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -44,25 +58,11 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -77,10 +77,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
@@ -92,16 +92,10 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
@@ -116,13 +110,6 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
@@ -132,10 +119,10 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
@@ -145,6 +132,13 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -173,21 +167,17 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-essential-tips-for-recording-fb-messenger-calls/"><u>[New] In 2024, Essential Tips for Recording FB Messenger Calls</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/7-energizing-youtube-exercise-challenges-for-viewers-participation-for-2024/"><u>7 Energizing YouTube Exercise Challenges for Viewers' Participation for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-lava-blaze-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/1728464752443-sd/"><u>錯誤修復：如何使用SD卡重置缺陷</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/como-transferir-correctamente-el-sistema-operativo-windows-11-a-un-ssd-con-clonacion-de-disco/"><u>Cómo Transferir Correctamente El Sistema Operativo Windows 11 a Un SSD Con Clonación De Disco</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/copier-un-disque-dur-externe-vers-une-autre-version-gratuite-sous-windows-11/"><u>Copier Un Disque Dur Externe Vers Une Autre Version Gratuite Sous Windows 11</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/entre-em-contato-imediato-descubra-como-a-equipe-de-suporte-e-vendas-do-aomei-backupper-pode-atender-as-suas-necessidades/"><u>Entre Em Contato Imediato: Descubra Como a Equipe De Suporte E Vendas Do AOMEI Backupper Pode Atender Às Suas Necessidades!</u></a></li>
-<li><a href="https://facebook.techidaily.com/epic-games-discloses-tracking-for-unlimited-game-playtime/"><u>Epic Games Discloses Tracking for Unlimited Game Playtime</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/expert-level-simplified-strategies-for-secure-backups-on-windows-systems/"><u>Expert-Level Simplified Strategies for Secure Backups on Windows Systems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-asus-rog-phone-7-ultimate-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Asus ROG Phone 7 Ultimate Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-motorola-edge-40mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Motorola Edge 40Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-metaverse-masterpieces-top-ten-films-that-reimagine-realities/"><u>In 2024, Metaverse Masterpieces Top Ten Films That Reimagine Realities</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/mac-4/"><u>Mac '写真'アプリにおける重複画像問題解決策を4つ</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/resolving-windows-11-bootmgr-not-found-issue/"><u>Resolving Windows 11 BOOTMGR Not Found Issue</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728493191036-sandisk-secureaccess/"><u>SanDisk SecureAccess数檔安全重建:逆轉意外刪除</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-mastering-mp3-capture-skype-calls-no-cost/"><u>2024 Approved Mastering MP3 Capture Skype Calls, No Cost</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/comment-eliminer-la-sauvegarde-automatique-avec-wbadmin-sur-windows-serveur-guide-detaille/"><u>Comment Éliminer La Sauvegarde Automatique Avec Wbadmin Sur Windows Serveur : Guide Détaillé</u></a></li>
+<li><a href="https://win-dash.techidaily.com/complete-user-manual-for-downloading-epson-v600-scanner-drivers/"><u>Complete User Manual for Downloading Epson V600 Scanner Drivers</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/einfache-anleitung-zum-formatieren-einer-externen-speicherfestplatte-fur-sicherungskopien-ganz-einfach/"><u>Einfache Anleitung Zum Formatieren Einer Externen Speicherfestplatte Für Sicherungskopien - Ganz Einfach!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/freshly-updated-hp-scanjet-printer-drivers-now-available-for-multiple-windows-versions/"><u>Freshly Updated HP Scanjet Printer Drivers Now Available for Multiple Windows Versions!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-the-ultimate-guide-to-choosing-the-best-free-photo-collage-ios-apps/"><u>In 2024, The Ultimate Guide to Choosing the Best FREE Photo Collage iOS Apps</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-battle-of-the-beats-apple-vs-samsung-earbuds-face-off/"><u>The Battle of the Beats: Apple vs Samsung Earbuds Face-Off</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-7-old-school-email-opening-strategies-that-deliver-results-free-bonus-tips-with-massmail/"><u>Top 7 Old School Email Opening Strategies That Deliver Results: Free Bonus Tips with Massmail</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-rated-seo-firms-in-silicon-valleys-heart-san-jose-usa-discovering-the-power-of-seo-powersuite/"><u>Top-Rated SEO Firms in Silicon Valley's Heart: San Jose, USA | Discovering the Power of SEO PowerSuite</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/ultimate-guide-moving-your-data-seamlessly-from-an-aged-iphone-to-a-new-iphone-12/"><u>Ultimate Guide: Moving Your Data Seamlessly From an Aged iPhone to a New iPhone 12</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-xiaomi-redmi-k70e-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Xiaomi Redmi K70E Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

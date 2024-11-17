@@ -1,7 +1,7 @@
 ---
 title: Understanding User Agents - Comprehensive Guide with Top Browser Definitions
-date: 2024-11-01T16:41:49.581Z
-updated: 2024-11-06T21:21:10.726Z
+date: 2024-11-13T02:45:28.419Z
+updated: 2024-11-16T21:11:34.235Z
 tags:
   - wiki
 categories:
@@ -38,16 +38,10 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 A user agent is a string of text that is sent by a web browser to a web server to identify itself and provide information about the browser's capabilities. The User Agent string can include information such as the browser type and version, the operating system, and the device type.[\[1\]](https://tools.techidaily.com/link-assistant/products/)
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What is User Agent used for?
@@ -62,14 +56,14 @@ with the free LinkAssistant tool
 
 ![](https://cdn1.link-assistant.com/news/images/product-download-banner/link.png) 
 
-![](https://cdn1.link-assistant.com/news/images/product-download-banner/glow.svg) ![](https://cdn1.link-assistant.com/news/images/product-download-banner/glow-mobile.svg) 
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://cdn1.link-assistant.com/news/images/product-download-banner/glow.svg) ![](https://cdn1.link-assistant.com/news/images/product-download-banner/glow-mobile.svg) 
 
 When a web browser makes a request to a web server (for example, to load a web page), it sends an HTTP request message to the server. This message includes an HTTP header, which contains a variety of information about the request. One of the pieces of information in the HTTP header is the user agent string.
 
@@ -98,13 +92,6 @@ There are many different types of User Agents, including:
 ![user agent settings in Rank Tracker](https://cdn1.link-assistant.com/thumbs/w929-c1/upload/seowiki/posts/129/ua1.png)  
 [Download Rank Tracker](https://tools.techidaily.com/link-assistant/products/)  
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The image above shows how you can set up custom user agents to control rank tracking in the [Rank Tracker](https://tools.techidaily.com/link-assistant/products/) tool[\[3\]](https://tools.techidaily.com/link-assistant/products/).
 
 Set up custom user agents for rank tracking
@@ -116,10 +103,10 @@ with the free Rank Tracker tool
 ![](https://cdn1.link-assistant.com/news/images/product-download-banner/glow.svg) ![](https://cdn1.link-assistant.com/news/images/product-download-banner/glow-mobile.svg) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to find my User Agent in any browser: Chrome, Firefox, Edge?
@@ -139,10 +126,16 @@ Please note that it’s possible to change or “fake” what your web browser s
 You can easily change and fake your browser’s user agent in a few steps. Here’s how you can do it for different browsers:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **How to change user agent in Google Chrome & Microsoft Edge**
@@ -152,19 +145,19 @@ You can easily change and fake your browser’s user agent in a few steps. Here�
 3. Uncheck the _Select Automatically_ checkbox.
 4. Choose one from the built-in User-Agents list or enter any string you want in the field below the list.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **How to switch user agent in Mozilla Firefox**
 
 1. Type about:config into Firefox’s address bar and press Enter.
 2. Right-click on the about:config page, point to _New_, and select _String_.
 3. Name the preference general.useragent.override.
 4. Enter your desired user agent as the value of the preference.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **How to change user agent in Safari**
 
@@ -177,6 +170,19 @@ Please note that changing your user agent should be done with caution as it can 
 ## List of User Agents for desktop browsers (Chrome, Mozilla Firefox, Edge, Safari) and mobile devices (Apple, Android)
 
 Here are some examples of user agents for different devices and browsers:
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Desktop Browsers**
 
@@ -195,13 +201,6 @@ Here are some examples of user agents for different devices and browsers:
 #### **Mozilla Firefox on Windows**
 
 `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0`
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mobile Apple Devices
 
@@ -244,6 +243,19 @@ Overall, user agents are an essential component of the web ecosystem, enabling u
 
 [How Google Crawler Works: SEO Starter-Pack Guide](https://tools.techidaily.com/link-assistant/products/)
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## References
 
 [1. https://en.wikipedia.org/wiki/User\_agent](https://en.wikipedia.org/wiki/User%5Fagent)[2. https://developers.google.com/search/docs/crawling-indexing/overview-google-crawlers](https://developers.google.com/search/docs/crawling-indexing/overview-google-crawlers)[3. https://www.link-assistant.com/help/rank-tracker/search-safety-settings.html#useragentnew](https://tools.techidaily.com/link-assistant/products/)
@@ -263,21 +275,16 @@ Overall, user agents are an essential component of the web ecosystem, enabling u
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-innocence-betrayed-consequences-of-acquiring-sham-supporters-in-social-media/"><u>[New] Innocence Betrayed Consequences of Acquiring Sham Supporters in Social Media</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/op-notch-leaderboard-scrutinizer-for-vloggers-success/"><u>[New] Top-Notch Leaderboard Scrutinizer for Vlogger's Success</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-unlocking-potential-innovative-strategies-for-better-insta-content-for-2024/"><u>[New] Unlocking Potential Innovative Strategies for Better Insta Content for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-essential-tips-for-youtube-edits-with-sony-vegas/"><u>2024 Approved Essential Tips for YouTube Edits with Sony Vegas</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/como-activar-el-inicio-seguro-en-la-bios-para-actualizar-a-windows-11/"><u>Cómo Activar El Inicio Seguro en La BIOS Para Actualizar a Windows 11</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/complete-guide-to-wiping-your-hard-drive-on-windows/"><u>Complete Guide to Wiping Your Hard Drive on Windows</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/expert-seo-solutions-in-mecca-saudi-arabia-unveil-the-top-providers-for-a-successful-online-presence/"><u>Expert SEO Solutions in Mecca, Saudi Arabia - Unveil the Top Providers for a Successful Online Presence !</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/exploring-the-pros-and-cons-of-engaging-in-cfds-trading-with-metatrader-4-copiers/"><u>Exploring the Pros & Cons of Engaging in CFDs Trading with MetaTrader 4 Copiers</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-honor-magic-6-lite-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor Magic 6 Lite Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-how-to-select-a-youtube-gaming-introduction-maker-free-or-paid-edition/"><u>In 2024, How to Select a YouTube Gaming Introduction Maker Free or Paid Edition</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-y17s-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Vivo Y17s</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/leading-seo-compannies-manchester-expert-insights-into-elite-suites-for-optimized-search-visibility/"><u>Leading SEO Compannies Manchester | Expert Insights Into Elite Suites for Optimized Search Visibility</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/reverse-video-order-on-your-ios-gadget/"><u>Reverse Video Order on Your iOS Gadget</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/step-by-step-instructions-for-saving-and-retrieving-imessages-on-apple-devices/"><u>Step-by-Step Instructions for Saving and Retrieving iMessages on Apple Devices</u></a></li>
-<li><a href="https://fox-info.techidaily.com/top-5-best-action-cameras-for-fishing/"><u>Top 5 Best Action Cameras for Fishing</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/understanding-encrypted-search-engines-definitions-insights-and-essential-seo-strategies-with-seo-powersuite/"><u>Understanding Encrypted Search Engines: Definitions, Insights & Essential SEO Strategies with SEO PowerSuite</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-access-unlimited-free-high-quality-green-screen-footage-online/"><u>[New] 2024 Approved Access Unlimited Free, High-Quality Green Screen Footage Online</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-a-comprehensible-list-of-mac-snippers-ranked/"><u>[New] A Comprehensible List of Mac Snippers Ranked</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-depth-guide-to-full-transcription-and-archiving-of-fb-messages/"><u>[New] In-Depth Guide to Full Transcription & Archiving of FB Messages</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevating-your-videos-visual-impact-youtubthumbnail-design-on-macos/"><u>[Updated] In 2024, Elevating Your Video's Visual Impact YoutubThumbnail Design on macOS</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1-reviving-your-bulk-email-campaigns-with-ease-a-guide-using-massmail/"><u>1. Reviving Your Bulk Email Campaigns with Ease: A Guide Using MassMail</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/aucun-fichier-perdu-garantie-de-secours-pour-tous-vos-documents-via-wd-smartware/"><u>Aucun Fichier Perdu : Garantie De Secours Pour Tous Vos Documents via WD SmartWare</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/navigating-online-databases-definitions-and-how-tos-for-optimized-directory-use-tips-from-seo-experts-at-seo-powersuite/"><u>Navigating Online Databases: Definitions and How-To's for Optimized Directory Use | Tips From SEO Experts at SEO PowerSuite</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/trier-un-fichier-mpeg-au-format-flv-gratuitement-sur-internet-movavi/"><u>Trier Un Fichier MPEG Au Format FLV Gratuitement Sur Internet - Movavi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-siri-issues-solve-the-top-7-glitches-on-iphone-and-ipad/"><u>Troubleshooting Siri Issues: Solve the Top 7 Glitches on iPhone and iPad</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/unraveling-the-mystery-of-how-individuals-perceive-spam-insights-from-massmailers-perspective/"><u>Unraveling the Mystery of How Individuals Perceive Spam: Insights From MassMailer's Perspective</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/windows-11-tutorial-easily-retrieve-lost-footage-with-these-simple-steps/"><u>Windows 11 Tutorial: Easily Retrieve Lost Footage with These Simple Steps</u></a></li>
 </ul></div>
 

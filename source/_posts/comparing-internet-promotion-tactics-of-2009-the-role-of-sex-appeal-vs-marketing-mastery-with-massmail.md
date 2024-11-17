@@ -1,7 +1,7 @@
 ---
 title: "Comparing Internet Promotion Tactics of 2009: The Role of Sex Appeal vs Marketing Mastery with Massmail"
-date: 2024-11-05T20:26:55.838Z
-updated: 2024-11-06T21:23:53.040Z
+date: 2024-11-12T21:07:30.381Z
+updated: 2024-11-16T23:28:35.453Z
 tags:
   - product
 categories:
@@ -21,6 +21,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -45,10 +52,10 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -73,13 +80,6 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
@@ -88,59 +88,46 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -153,6 +140,13 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -173,20 +167,16 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-lead-the-way-in-streaming-your-guide-to-youtubes-full-sphere-video-trends/"><u>[New] 2024 Approved Lead the Way in Streaming Your Guide to YouTube's Full-Sphere Video Trends</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-untold-story-of-instagram-story-consumers-for-2024/"><u>[New] The Untold Story of Instagram Story Consumers for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-checklist-for-youtube-rule-adherence-for-2024/"><u>[Updated] The Ultimate Checklist for YouTube Rule Adherence for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-total-command-mastery-powerdirector-review-and-guide/"><u>[Updated] Total Command Mastery PowerDirector Review & Guide</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/comprehensive-analysis-of-international-email-promotion-trends-in-2009-2010-featuring-massmail-solutions/"><u>Comprehensive Analysis of International Email Promotion Trends in 2009-2010 - Featuring Massmail Solutions</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/gamers-computer-ravaged-by-fire-ants-feasting-on-thermal-pad-see-the-unexpected-infestation/"><u>Gamer's Computer Ravaged by Fire Ants Feasting on Thermal Pad - See the Unexpected Infestation</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/mastering-the-302-redirect-in-seo-strategy-comprehensive-guide-on-its-purpose-real-world-usage-effects-on-rankings-and-pitfalls-to-avoid-expert-insights/"><u>Mastering the 302 Redirect in SEO Strategy: Comprehensive Guide on Its Purpose, Real-World Usage, Effects on Rankings, and Pitfalls to Avoid | Expert Insights</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/nef/"><u>NEFファイル説明と修復方法：二つのアプローチ解説</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/quick-solutions-upgrading-when-your-ssd-isnt-large-enough-for-os-transfer/"><u>Quick Solutions: Upgrading When Your SSD Isn't Large Enough for OS Transfer</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-art-of-saturation-and-contrast-in-gopro-editing/"><u>The Art of Saturation and Contrast in GoPro Editing</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/the-ultimate-guide-choosing-the-right-plr-product-purchase-sources-and-tactics-with-massmail/"><u>The Ultimate Guide: Choosing the Right PLR Product Purchase Sources & Tactics with MassMail</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-7-leading-computer-diagnostic-tools-preferred-by-it-professionals/"><u>Top 7 Leading Computer Diagnostic Tools Preferred by IT Professionals</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/ubertragen-von-iphone-filmen-auf-einen-pc-unter-windows-1110-top-strategien/"><u>Überträgen Von iPhone-Filmen Auf Einen PC Unter Windows 11/10: Top-Strategien</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-titans-comparative-study-of-notion-and-chatgpt/"><u>Unveiling the Titans: Comparative Study of Notion and ChatGPT</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-on-the-spot-screen-savers-facebook-edition/"><u>[New] 2024 Approved On-the-Spot Screen Savers - Facebook Edition</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/7-amazing-builds-in-creative-mode-for-2024/"><u>7 Amazing Builds in Creative Mode for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/craft-winning-promotional-emails-with-ease-masterclass-using-massmail-software/"><u>Craft Winning Promotional Emails with Ease: Masterclass Using Massmail Software</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-from-hits-to-strikes-expert-youtube-studio-editing-strategies/"><u>In 2024, From Hits to Strikes Expert YouTube Studio Editing Strategies</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-tiktok-age-update-made-simple-user-friendly-techniques/"><u>In 2024, TikTok Age Update Made Simple User-Friendly Techniques</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/mastering-fundamentals-of-email-signatures-insights-from-email-marketing-in-2010-with-massmail-tools/"><u>Mastering Fundamentals of Email Signatures: Insights From Email Marketing in 2010 with Massmail Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/nikon-d500-and-its-stance-on-high-quality-imaging/"><u>Nikon D500 and Its Stance on High-Quality Imaging</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/premier-screen-grabber-chromebook-edition-leader-for-2024/"><u>Premier Screen Grabber Chromebook Edition Leader for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-ranking-seo-software-for-b2b-markets-unveiling-the-best-of-seo-powersuite/"><u>Top-Ranking SEO Software for B2B Markets: Unveiling the Best of SEO PowerSuite</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/undoing-file-deletion-in-windows-t8s-recycle-bin-for-data-retrieval/"><u>Undoing File Deletion in Windows T8's Recycle Bin for Data Retrieval</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728488890868-windows-11-hdd/"><u>Windows 11 システムのスムーズな移行:新HDDへの絶妙な設定手順</u></a></li>
 </ul></div>
 
