@@ -1,7 +1,7 @@
 ---
 title: The Top 3 Methods to Securely Format Your External HDD on Windows 11
-date: 2024-11-14T16:59:10.363Z
-updated: 2024-11-16T19:12:43.845Z
+date: 2024-11-23T16:18:22.658Z
+updated: 2024-11-26T16:22:05.143Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/fd4e779227951f738339902ec6bf865ee57c2e0e824658f017eeb7cc4b43fd88.jpg
@@ -43,6 +43,10 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 6. [Consigli per un'Operazione Fluida di Windows 10](https://tools.techidaily.com/ubackup/products/)
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Introduzione
 
 Incontrare il problema di non poter digitare nella barra di ricerca di Windows 10 può essere frustrante, interrompendo il flusso di lavoro e ostacolando la navigazione efficiente. In questa guida completa, esamineremo i dettagli di questo problema, esploreremo le possibili cause e forniremo una varietà di soluzioni per garantire che tu possa digitare senza problemi nella barra di ricerca di Windows 10.
@@ -50,17 +54,7 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -84,16 +78,7 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
@@ -113,6 +98,10 @@ Fai clic con il tasto destro su entrambi Cortana ed Esplora file di Windows e sc
 Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
@@ -224,6 +213,10 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Consigli per un'Operazione Fluida di Windows 10
 
 Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e correzioni.
@@ -245,10 +238,7 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
@@ -262,16 +252,7 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Scarica Gratis AOMEI Backupper Ora
@@ -283,13 +264,6 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -306,14 +280,20 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-engaging-viewers-with-personalized-vimeo-end-screens/"><u>[New] 2024 Approved Engaging Viewers with Personalized Vimeo End Screens</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/choosing-between-exfat-and-ntfs-for-your-samsung-t7-drive-pros-cons-and-best-practices/"><u>Choosing Between exFAT and NTFS for Your Samsung T7 Drive: Pros, Cons, and Best Practices</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/curb-your-churn-rate-understanding-and-addressing-the-top-4-reasons-for-subscriber-drop-offs-with-massmail-software-solutions/"><u>Curb Your Churn Rate: Understanding and Addressing the Top 4 Reasons for Subscriber Drop-Offs with Massmail Software Solutions</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722974073270-get-your-latest-nvidia-quadro-graphics-drivers-for-windows-11-with-enhanced-features-download-now/"><u>Get Your Latest NVIDIA Quadro Graphics Drivers for Windows 11 with Enhanced Features | Download Now!</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/leading-seo-firms-in-kuwait-metropolis-elite-search-optimization-solutions-for-2-the-year-2024/"><u>Leading SEO Firms in Kuwait Metropolis - Elite Search Optimization Solutions for 2 the Year 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/mastering-webcam-use-for-professional-meeting-records/"><u>Mastering Webcam Use for Professional Meeting Records</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/step-by-step-guide-building-a-bootable-drive-with-rufus-on-windows-11/"><u>Step-by-Step Guide: Building a Bootable Drive with Rufus on Windows 11</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/why-microsofts-new-approach-with-window-copilot-as-an-app-is-exciting-for-users-tech-insights/"><u>Why Microsoft's New Approach with Window Copilot as an App Is Exciting for Users | Tech Insights</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728484911316-windows-11/"><u>Windows 11用にパーティションテーブルの回復手順：詳細ガイド</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-iphone-long-exposure-a-comprehensive-guide/"><u>[New] Mastering iPhone Long Exposure A Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-simple-approach-to-getting-clownfish-voice-changer-on-windows/"><u>[New] Simple Approach to Getting Clownfish Voice Changer on Windows</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-the-art-of-locating-concealed-youtube-media/"><u>2024 Approved Mastering the Art of Locating Concealed YouTube Media</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/best-forex-brokers-of-2023-a-comparative-analysis-and-feature-breakdown-for-traders/"><u>Best Forex Brokers of 2023: A Comparative Analysis & Feature Breakdown for Traders</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/chicagos-finest-leading-seo-firms-and-expert-digital-marketing-solutions/"><u>Chicago's Finest: Leading SEO Firms & Expert Digital Marketing Solutions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/hastenothalt-slowmotion-tape-for-2024/"><u>HasteNotHalt SlowMotion Tape for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-diversify-laptop-editing-with-alternatives-to-inshot/"><u>In 2024, Diversify Laptop Editing with Alternatives to Inshot</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/navigating-through-get-params-comprehensive-guide-to-definitions-real-world-uses-and-impact-on-seo/"><u>Navigating Through Get Params: Comprehensive Guide to Definitions, Real-World Uses & Impact on SEO</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-honor-x50-gt-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Honor X50 GT? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/restore-deleted-or-lost-folders-on-your-windows-10-pc-a-step-by-step-guide/"><u>Restore Deleted or Lost Folders on Your Windows 10 PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-pristine-video-conditions-after-corruption/"><u>Restoring Pristine Video Conditions After Corruption</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/soluzione-professionale-windows-backup-and-ripristino-per-aziende-introduzione-alla-tecnologia-avanzata-di-aomei/"><u>Soluzione Professionale Windows Backup & Ripristino per Aziende: Introduzione Alla Tecnologia Avanzata Di AOMEI</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-kindle-advantage-in-book-consumption/"><u>The Kindle Advantage in Book Consumption</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/understanding-asf-format-and-steps-for-effective-asf-data-recovery/"><u>Understanding ASF Format and Steps for Effective ASF Data Recovery</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/watch-dogs-reborn-a-complete-look-at-the-series-latest-setting-transformation-legion-edition/"><u>Watch Dogs Reborn: A Complete Look at the Series' Latest Setting Transformation - Legion Edition</u></a></li>
 </ul></div>
 

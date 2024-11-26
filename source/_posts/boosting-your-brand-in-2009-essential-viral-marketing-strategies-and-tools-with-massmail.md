@@ -1,7 +1,7 @@
 ---
 title: "Boosting Your Brand in 2009: Essential Viral Marketing Strategies & Tools with MassMail"
-date: 2024-11-11T22:31:57.881Z
-updated: 2024-11-16T21:28:13.173Z
+date: 2024-11-21T16:11:21.148Z
+updated: 2024-11-26T16:02:52.976Z
 tags:
   - product
 categories:
@@ -18,16 +18,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -38,13 +35,6 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -57,13 +47,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -87,16 +70,13 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -105,6 +85,10 @@ If you use several types of media to promote your campaign, use a different keyw
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -118,26 +102,21 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -148,10 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -173,22 +149,16 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-windows-11-premium-video-grabber-selections-for-2024/"><u>[New] Windows 11 Premium Video Grabber Selections for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-clearscreen-pro-win11-live-video-recorder/"><u>[Updated] 2024 Approved ClearScreen Pro - Win11 Live Video Recorder</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/4-windows-10-windows-11/"><u>4 種不同的方法：在 Windows 10 上重新安裝 Windows 11</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/establishing-reliability-through-email-campaigns-a-guide-with-massmail/"><u>Establishing Reliability Through Email Campaigns: A Guide with MassMail</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/evasion-experts-how-effective-is-malware-at-outsmarting-windows-defender-protections/"><u>Evasion Experts: How Effective Is Malware at Outsmarting Windows Defender Protections?</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/gratuito-il-migliore-backup-software-gratuito-per-sistemi-windows-7/"><u>Gratuito: Il Migliore Backup Software Gratuito per Sistemi Windows 7</u></a></li>
-<li><a href="https://win-community.techidaily.com/guide-restoring-full-file-visibility-on-google-drive/"><u>Guide: Restoring Full File Visibility on Google Drive</u></a></li>
-<li><a href="https://win-special.techidaily.com/how-to-sync-local-folders-with-google-drive-on-windows-windows-781011-supported/"><u>How to Sync Local Folders with Google Drive on Windows [Windows 7/8/10/11 Supported]</u></a></li>
-<li><a href="https://games-able.techidaily.com/ideal-multiplayer-console-titles-best-16-for-game-nights/"><u>Ideal Multiplayer Console Titles - Best 16 for Game Nights</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-essential-guide-to-audio-crossfades-in-premiere/"><u>In 2024, Essential Guide to Audio Crossfades in Premiere</u></a></li>
-<li><a href="https://win-web3.techidaily.com/navigating-the-windows-evolution-which-version-is-right-for-you-windows-7-10-or-11/"><u>Navigating the Windows Evolution: Which Version Is Right for You – Windows 7, 10, or 11?</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/safely-removing-fractureiser-malware-from-minecraft-secure-mod-installation-guide/"><u>Safely Removing Fractureiser Malware From Minecraft: Secure Mod Installation Guide</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-5-strategien-fur-den-effizienten-musikladen-auf-ihrem-iphone-14-iphone-14-pro-max-oder-iphone-14-pro-anleitungen-and-hacks/"><u>Top-5 Strategien Für Den Effizienten Musikladen Auf Ihrem iPhone 14, iPhone 14 Pro Max Oder iPhone 14 Pro - Anleitungen & Hacks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-hdmi-sound-problems-on-windows-7-computers/"><u>Troubleshooting HDMI Sound Problems on Windows 7 Computers</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/understanding-website-visits-comprehensive-guide-with-key-seo-strategies-by-seo-powersuite/"><u>Understanding Website Visits: Comprehensive Guide with Key SEO Strategies by SEO PowerSuite</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/unlocking-the-secrets-of-site-layouts-defining-web-structure-and-seo-optimization-techniques-the-digital-marketers-handbook/"><u>Unlocking the Secrets of Site Layouts: Defining Web Structure & SEO Optimization Techniques | The Digital Marketer's Handbook</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1726029374273-audacity/"><u>オーディオ編集が必要な時、Audacity以外におすすめ!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-express-screen-snag-aural-elements/"><u>2024 Approved Express Screen Snag Aural Elements</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-step-by-step-for-mastering-voice-commands-in-tiktok-videos-with-siri/"><u>2024 Approved Step-by-Step for Mastering Voice Commands in TikTok Videos with Siri</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/boost-your-websites-visibility-mastering-short-tail-keywords-and-top-seo-techniques-for-success/"><u>Boost Your Website's Visibility: Mastering Short-Tail Keywords & Top SEO Techniques for Success!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/freeing-up-space-on-your-windows-11-system-a-comprehensive-guide/"><u>Freeing Up Space on Your Windows 11 System: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/ignite-passion-for-gaming-with-new-fallout-titles-beyond-tv/"><u>Ignite Passion for Gaming with New Fallout Titles Beyond TV</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-detailed-guide-on-making-gifs-into-stickers-whatsapp-discord-and-telegram-edition/"><u>In 2024, A Detailed Guide on Making GIFs Into Stickers WhatsApp, Discord & Telegram Edition</u></a></li>
+<li><a href="https://win-docs.techidaily.com/navigating-the-void-understanding-page-not-found-errors/"><u>Navigating the Void: Understanding 'Page Not Found' Errors</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/recupera-file-cancellati-in-windows-11-soluzioni-e-metodi-fatti-da-te/"><u>Recupera File Cancellati in Windows 11 - Soluzioni E Metodi Fatti Da Te</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/redecouvrez-votre-document-les-techniques-pour-recuperer-les-fichiers-ancasses-apres-la-commande-ctrlplusz/"><u>Redécouvrez Votre Document : Les Techniques Pour Récupérer Les Fichiers Ancassés Après La Commande Ctrl+Z</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-correcting-the-absence-of-dsounddll-errors-on-your-pc/"><u>Troubleshooting Tips: Correcting the Absence of dsound.dll Errors on Your PC</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/understanding-one-pager-documents-in-seo-key-concepts-and-effective-strategies/"><u>Understanding One-Pager Documents in SEO: Key Concepts & Effective Strategies</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Atomic SMS Proves Its Mettle: Over 200K Texts Successfully Sent Using MassMail Software!"
-date: 2024-11-15T01:09:04.908Z
-updated: 2024-11-17T03:40:37.686Z
+date: 2024-11-24T16:05:38.826Z
+updated: 2024-11-26T16:11:53.015Z
 tags:
   - product
 categories:
@@ -22,13 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -43,6 +36,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -50,6 +47,10 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -74,33 +75,16 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -111,10 +95,7 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
@@ -125,16 +106,13 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -147,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -167,21 +149,17 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-seamless-tactic-for-igtv-stories-integration/"><u>[Updated] In 2024, Seamless Tactic for IGTV Stories Integration</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-navigating-through-8-free-crossover-video-meeting-software/"><u>[Updated] Navigating Through 8 Free, Crossover Video Meeting Software</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1-unlocking-the-power-of-backlinks-a-comprehensive-guide-with-key-seo-strategies/"><u>1. Unlocking the Power of Backlinks: A Comprehensive Guide with Key SEO Strategies</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-breakdown-easy-to-follow-steps-to-using-a-whiteboard-on-zoom-devices/"><u>2024 Approved Breakdown Easy-to-Follow Steps to Using a Whiteboard on Zoom Devices</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-how-to-use-whiteboard-in-zoom-meeting/"><u>2024 Approved How to Use Whiteboard in Zoom Meeting</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/advanced-techniques-to-leverage-windows-11-pro/"><u>Advanced Techniques to Leverage Windows 11 Pro</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/are-all-javascript-features-compatible-with-flipboard-e-books-on-flipbuildercom/"><u>Are All JavaScript Features Compatible with FlipBoard E-Books on flipbuilder.com?</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/craft-winning-promotional-emails-with-ease-masterclass-using-massmail-software/"><u>Craft Winning Promotional Emails with Ease: Masterclass Using Massmail Software</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/deciphering-the-soft-asteriskexercise-1-similar-difficultyformatlength/"><u>Deciphering the Soft asteriskExercise 1 (Similar Difficulty/Format/Length)</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-youtubes-most-followed-fashionistas-and-cosmetic-experts/"><u>In 2024, YouTube's Most-Followed Fashionistas & Cosmetic Experts</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/mastering-fundamentals-of-email-signatures-insights-from-email-marketing-in-2010-with-massmail-tools/"><u>Mastering Fundamentals of Email Signatures: Insights From Email Marketing in 2010 with Massmail Tools</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/mastering-the-art-of-effective-email-prompts-utilizing-massmail-software-for-optimal-results/"><u>Mastering the Art of Effective Email Prompts: Utilizing MassMail Software for Optimal Results</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/revolutionary-6-applications-to-enhance-photo-editing-experience/"><u>Revolutionary 6 Applications to Enhance Photo Editing Experience</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/the-ultimate-guide-crafting-compelling-promotional-emails-with-top-techniques-learn-from-massmail/"><u>The Ultimate Guide: Crafting Compelling Promotional Emails with Top Techniques - Learn From MassMail</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-oneplus-open-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your OnePlus Open Phone Pattern Lock</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-ranking-seo-software-for-b2b-markets-unveiling-the-best-of-seo-powersuite/"><u>Top-Ranking SEO Software for B2B Markets: Unveiling the Best of SEO PowerSuite</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-mastering-free2x-camera-recorder-features/"><u>[New] In 2024, Mastering Free2X Camera Recorder Features</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-streamlining-console-experience-with-computer-playback-tech-for-2024/"><u>[New] Streamlining Console Experience with Computer Playback Tech for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-artisans-guide-to-blending-visuals-and-melodies-in-canvas-videos/"><u>[New] The Artisan's Guide to Blending Visuals & Melodies in Canvas Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-capturing-your-favorite-shows-screenrecording-netflix-on-mac/"><u>[Updated] In 2024, Capturing Your Favorite Shows ScreenRecording Netflix on Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-video-projects-pace-with-these-cost-free-editing-hacks/"><u>Boost Your Video Projects' Pace with These Cost-Free Editing Hacks</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/boosting-your-brand-in-2009-essential-viral-marketing-strategies-and-tools-with-massmail/"><u>Boosting Your Brand in 2009: Essential Viral Marketing Strategies & Tools with MassMail</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/effective-podcast-promotion-strategies-leveraging-massmail-software-tools/"><u>Effective Podcast Promotion Strategies: Leveraging MassMail Software Tools</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/insider-look-at-the-kobo-clarity-colour-is-it-worth-your-attention/"><u>Insider Look at the Kobo Clarity Colour: Is It Worth Your Attention?</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/maximizing-roi-is-email-marketing-through-massmail-software-the-right-choice/"><u>Maximizing ROI: Is Email Marketing Through Massmail Software the Right Choice?</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/migrate-your-samsung-data-with-a-bootable-usb-eine-schritt-fur-schritt-anleitung/"><u>Migrate Your Samsung Data with a Bootable USB: Eine Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-no-budget-no-problem-best-free-mod-video-editors/"><u>New No Budget, No Problem Best Free MOD Video Editors</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728510167125-windows-11/"><u>Windows 11のセキュアブートがオンになっており、現在機能していません</u></a></li>
 </ul></div>
 

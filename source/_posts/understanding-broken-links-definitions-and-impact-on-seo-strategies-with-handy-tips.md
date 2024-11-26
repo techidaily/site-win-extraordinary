@@ -1,7 +1,7 @@
 ---
 title: "Understanding Broken Links: Definitions and Impact on SEO Strategies with Handy Tips"
-date: 2024-11-15T17:26:02.902Z
-updated: 2024-11-17T02:56:21.102Z
+date: 2024-11-23T16:24:53.060Z
+updated: 2024-11-26T16:01:34.448Z
 tags:
   - wiki
 categories:
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 
 A broken link is a link to a page that does not work. When a user or a search engine crawler follows such link, they see an error message or a 404 (not found) page. Another popular definition for broken links is dead links. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why broken links appear
 
 Broken links appear because of a variety of reasons:
@@ -55,10 +48,7 @@ Broken links appear because of a variety of reasons:
 * A page has restricted access (password protection, firewall, etc.).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Examples of broken links
@@ -71,6 +61,11 @@ When users follow a link that is broken, they may not necessarily see a **404 (n
 * **This site can’t be reached**. A site took too long to respond. In addition to server errors, this status may also signalize the typo in the domain name:  
 ![site can't be reached message](https://cdn1.link-assistant.com/thumbs/w1073-c1/upload/seowiki/posts/28/bl1.png)
 * **502 (bad gateway)**. A server received an invalid response because it was crushed;
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * **Reset**. A server dropped connections because it was misconfigured or too busy.
 
 ## Broken links’ meaning for SEO
@@ -78,39 +73,16 @@ When users follow a link that is broken, they may not necessarily see a **404 (n
 Broken links themselves do not directly affect your performance in search. Still, they negatively affect both the page they are placed on and the page they link to.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Outgoing broken links
 
 Broken links harm user experience and increase bounce rate, which will surely affect your site traffic. Besides, broken links result in incomplete content, as users cannot access the information they may need. What’s more, Google Quality Rater Guidelines say[\[2\]](https://tools.techidaily.com/link-assistant/products/) that Google watches the number of broken links to determine if the site is spammy or was abandoned. And if yes, Google may start deindexing the site.
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Incoming broken links
 
 Broken links do not pass link juice, so the page where the link points to will not receive value and page strength. Plus, a page where a broken link points to may not be indexed at all if no other links point to it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing broken links
 
@@ -119,6 +91,10 @@ Broken links should be fixed anyway to prevent link juice drainage and poor user
 ### Broken links with 4xx status codes
 
 Most broken links that return 4xx status codes are fixed with the help of correctly implemented 301 redirects to relevant pages. Doing so keeps users on your website (i.e. bounce rate decreases), saves link juice, and does not harm UX.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Broken links with other status codes
 
@@ -133,6 +109,10 @@ Sometimes a page is moved without any alternative. In this case, you should not 
 [The Ultimate Guide to Broken Link Building](https://tools.techidaily.com/link-assistant/products/)
 
 [Most Common Indexing Issues and How to Fix Them - 404 Not Found](https://tools.techidaily.com/link-assistant/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## References
 
@@ -153,22 +133,19 @@ Sometimes a page is moved without any alternative. In this case, you should not 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-delving-into-the-world-of-video-grading-styles-for-2024/"><u>[New] Delving Into the World of Video Grading Styles for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-guide-to-top-12-free-and-paid-gaming-introduction-creators/"><u>[Updated] 2024 Approved Essential Guide to Top 12 Free and Paid Gaming Introduction Creators</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728499860122-404/"><u>解決策:訪れたページを見つけられないエラー404の対処方法</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/copenhagens-premier-seo-services-elevate-your-website-traffic-excellence-by-optimizepro-experts/"><u>Copenhagen's Premier SEO Services: Elevate Your Website Traffic | Excellence by OptimizePro Experts</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/customizing-your-outreach-effective-techniques-for-personalized-cold-email-campaigns-using-massmail/"><u>Customizing Your Outreach: Effective Techniques for Personalized Cold Email Campaigns Using MassMail</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-ios-18-availability-schedule-free-download-innovative-functions-and-recent-announcements/"><u>Discover iOS 18 - Availability Schedule, Free Download, Innovative Functions, & Recent Announcements</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/epson-ds-530-window-11-drivers-download-compatible-with-64-bit-os/"><u>Epson DS-530 Window 11 Drivers Download: Compatible with 64-Bit OS</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-correcting-device-not-detected-in-windows-operating-systems-understanding-error-code-24/"><u>Guide to Correcting 'Device Not Detected' In Windows Operating Systems: Understanding Error Code 24</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/intriguing-apple-advertisement-challenges-top-browser-dominance-get-the-full-story-now/"><u>Intriguing Apple Advertisement Challenges Top Browser Dominance: Get the Full Story Now</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/mastering-sms-marketing-automation-insider-secrets-and-case-studies-using-massmail-software/"><u>Mastering SMS Marketing Automation: Insider Secrets & Case Studies Using MassMail Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-device-recognition-errors-with-ease-your-ultimate-fix-guide-to-usb-problems/"><u>Overcoming Device Recognition Errors with Ease: Your Ultimate Fix Guide to USB Problems</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/premium-boot-device-wipe-utilities-optimal-solutions-for-windows-11-10-8-and-7-systems/"><u>Premium Boot Device Wipe Utilities: Optimal Solutions for Windows 11, 10, 8, and 7 Systems</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/professionelle-hdd-zu-ssd-klonierung-mit-topkloner-software/"><u>Professionelle HDD Zu SSD Klonierung Mit Topkloner-Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlined-file-management-overcoming-o365-errors-on-win-11/"><u>Streamlined File Management: Overcoming O365 Errors on Win 11</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-2-strategies-fur-die-integration-von-sharepoint-und-onedrive-synchronisation-auch-automatisch/"><u>Top 2 Strategies Für Die Integration Von SharePoint Und OneDrive - Synchronisation Auch Automatisch</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/understanding-vmware-esxi-80s-minimum-system-specifications-and-setup-tips/"><u>Understanding VMware ESXi 8.0'S Minimum System Specifications and Setup Tips</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-facebooks-novelty-the-leading-five-new-features-unraveled-for-2024/"><u>[New] Facebook's Novelty The Leading Five New Features Unraveled for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-complete-hand-tracking-encyclopedia-for-2024/"><u>[New] The Complete Hand-Tracking Encyclopedia for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-syma-x8c-user-guide-insights/"><u>2024 Approved The Syma X8C User Guide Insights</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/a-beginners-guide-to-incorporating-ichimoku-cloud-analysis-for-currency-pairs-in-mt4-trading/"><u>A Beginner's Guide to Incorporating Ichimoku Cloud Analysis for Currency Pairs in MT4 Trading</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/best-seo-firms-in-vienna-top-ranking-seo-experts-and-services/"><u>Best SEO Firms in Vienna - Top Ranking SEO Experts and Services</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/conquering-facebook-audiences-live-stream-excellence-with-wirecast/"><u>Conquering Facebook Audiences Live Stream Excellence with Wirecast</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/demystifying-pop-up-advertising-comprehensive-insights-and-effective-seo-techniques-for-optimization/"><u>Demystifying Pop-Up Advertising: Comprehensive Insights & Effective SEO Techniques for Optimization</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-continuous-usb-port-malfunctions/"><u>Diagnosing and Repairing Continuous USB Port Malfunctions</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/diversifying-your-investments-a-guide-to-multi-currency-trading-success-using-metatrader/"><u>Diversifying Your Investments: A Guide to Multi-Currency Trading Success Using MetaTrader</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-a1x-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Oppo A1x 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-power-dynamics-within-tropico-6-steering-a-fictional-paradise/"><u>Navigating Power Dynamics Within Tropico 6: Steering a Fictional Paradise</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/secrets-unveiled-amplifying-profile-visibility-for-2024/"><u>Secrets Unveiled Amplifying Profile Visibility for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/troubleshooting-tips-accelerating-your-wd-external-hdd-performance/"><u>Troubleshooting Tips: Accelerating Your WD External HDD Performance</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/eksperty-po-optimizacii-dlya-google-luchshie-seo-agentstva-velikobritanii-sfokusirovannye-na-bristolskom-rynke/"><u>Эксперты По Оптимизации Для Google: Лучшие SEO-Агентства Великобритании, Сфокусированные На Бристольском Рынке</u></a></li>
 </ul></div>
 

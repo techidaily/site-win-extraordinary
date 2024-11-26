@@ -1,7 +1,7 @@
 ---
 title: Building Rapid Trust with Opt-In Email Lists - Master the Art of Effective Communication Using MassMail
-date: 2024-11-09T19:51:02.443Z
-updated: 2024-11-16T21:15:11.444Z
+date: 2024-11-22T16:22:35.813Z
+updated: 2024-11-26T16:20:39.693Z
 tags:
   - product
 categories:
@@ -23,10 +23,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -43,13 +40,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -58,13 +48,6 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
@@ -72,10 +55,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -94,20 +74,21 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -121,20 +102,21 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -167,18 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-ultimate-iphone-guide-to-slow-motion-magic/"><u>[New] 2024 Approved The Ultimate iPhone Guide to Slow-Motion Magic</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-mirrorless-challenge-to-dslr-who-wins-in-video/"><u>[Updated] In 2024, Mirrorless Challenge to DSLR Who Wins in Video?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-quick-tips-transferring-camera-roll-from-your-device-to-snapchat-app/"><u>2024 Approved Quick Tips Transferring Camera Roll From Your Device to Snapchat App</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/forex-traders-beware-steer-clear-of-these-13-common-errors-using-trade-copier-on-mt4-and-mt-5-platforms/"><u>Forex Traders Beware: Steer Clear of These 13 Common Errors Using Trade Copier on MT4 & MT 5 Platforms</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/guesting-without-glitches-live-tiktok-conversations/"><u>Guesting Without Glitches Live TikTok Conversations</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-forge-memes-that-captivate-audiences-for-2024/"><u>How to Forge Memes that Captivate Audiences for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-itel-a60-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Itel A60 FRP Bypass</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Itel P55 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/mastering-seo-as-a-novice-discover-the-premier-seo-powersuite-applications/"><u>Mastering SEO as a Novice? Discover the Premier SEO PowerSuite Applications!</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/norton-pc-cloud-sicherung-nutzen-keine-datenverluste-garantiert/"><u>Norton PC-Cloud Sicherung Nutzen: Keine Datenverluste Garantiert</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/optimize-your-social-buzz-with-these-4-key-techniques-from-massmail-experts/"><u>Optimize Your Social Buzz with These 4 Key Techniques From MassMail Experts</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/repair-strategies-for-dealing-with-the-normalizdll-not-found-problem/"><u>Repair Strategies for Dealing with the Normaliz.dll Not Found Problem</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-ispring-screen-recorder-review/"><u>[New] 2024 Approved ISpring Screen Recorder Review</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-depth-recmaster-screen-capture-analysis/"><u>[Updated] In-Depth Recmaster Screen Capture Analysis</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/breaking-barriers-reconnecting-brothers-networked-printer/"><u>Breaking Barriers: Reconnecting Brother's Networked Printer</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-6s-drfone-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-speak-with-style-mastering-the-art-of-altering-vocal-effects-on-snapchat/"><u>In 2024, Speak with Style Mastering the Art of Altering Vocal Effects on Snapchat</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-uncovering-key-pace-requirements-for-exceptional-slow-motion-videos/"><u>In 2024, Uncovering Key Pace Requirements for Exceptional Slow-Motion Videos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unveiling-social-media-puzzles-how-to-use-facebook-insights/"><u>In 2024, Unveiling Social Media Puzzles How to Use Facebook Insights</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/preserve-your-data-while-moving-back-effortless-transition-from-ios-15-to-ios-14/"><u>Preserve Your Data While Moving Back: Effortless Transition From iOS 15 to iOS 14</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/preserving-your-data-a-step-by-step-guide-to-restoring-an-iphone-using-itunes/"><u>Preserving Your Data: A Step-by-Step Guide to Restoring an iPhone Using iTunes</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/rapid-retrieval-techniques-for-accidentally-erased-ps1-files/"><u>Rapid Retrieval Techniques for Accidentally Erased PS1 Files</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/sicheres-klonen-von-windows-1011-gpt-datenlaufwerken-fur-optimierte-datensicherheit/"><u>Sicheres Klonen Von Windows 10/11 GPT-Datenlaufwerken Für Optimierte Datensicherheit</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/step-by-step-guide-to-hosting-a-successful-online-marketing-workshop-2009/"><u>Step-by-Step Guide to Hosting a Successful Online Marketing Workshop (2009)</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/treaty-of-peace-with-japan-san-francisco/"><u>Treaty of Peace with Japan (San Francisco)</u></a></li>
 </ul></div>
 
