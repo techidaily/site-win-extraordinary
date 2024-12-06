@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Hosting a Successful Online Marketing Workshop (2009)
-date: 2024-11-25T16:23:56.968Z
-updated: 2024-11-26T16:11:25.026Z
+date: 2024-12-05T07:03:42.910Z
+updated: 2024-12-06T02:17:27.176Z
 tags:
   - product
 categories:
@@ -32,13 +32,13 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -54,10 +54,6 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -71,7 +67,7 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
@@ -79,16 +75,12 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -98,13 +90,13 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -114,6 +106,10 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
@@ -121,6 +117,10 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,18 +149,17 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-easy-to-follow-strategies-recording-hulu-across-windowsmacandroidios/"><u>[Updated] Easy-to-Follow Strategies Recording Hulu Across Windows/Mac/Android/iOS</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-script-to-splendor-animating-effects-unbound-for-2024/"><u>[Updated] From Script to Splendor Animating Effects Unbound for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-beginners-walkthrough-for-screencastify-recorder/"><u>[Updated] In 2024, Beginner's Walkthrough for Screencastify Recorder</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-essential-tips-for-designing-engaging-fb-video-covers/"><u>[Updated] In 2024, Essential Tips for Designing Engaging FB Video Covers</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/dejouez-le-ralenti-de-votre-pc-sous-windows-11-decouvrez-les-7-astuces-ultimes-pour-ameliorer-la-vitesse/"><u>Déjouez Le Ralenti De Votre PC Sous Windows 11 : Découvrez Les 7 Astuces Ultimes Pour Améliorer La Vitesse !</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/discover-the-next-wave-of-effective-facebook-ad-techniques/"><u>Discover the Next Wave of Effective Facebook Ad Techniques</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-tecno-pova-6-pro-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Tecno Pova 6 Pro 5G Is Unlocked</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/premier-seo-firms-in-belfast-uk-unveiled-an-exhaustive-handbook-seo-mastery-essentials/"><u>Premier SEO Firms in Belfast, UK Unveiled: An Exhaustive Handbook - SEO Mastery Essentials</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionizing-interaction-the-ultimate-list-of-10-advanced-gpt-variants-beating-out-original-chatgpt/"><u>Revolutionizing Interaction: The Ultimate List of 10 Advanced GPT Variants Beating Out Original ChatGPT</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/safe-and-quick-steps-transferring-your-recovery-partition-to-an-sd-card/"><u>Safe & Quick Steps: Transferring Your Recovery Partition to an SD Card</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/solucion-paso-a-paso-para-rescatar-el-disco-secuencial-desaparecido-en-windows-11/"><u>Solución Paso a Paso Para Rescatar El Disco Secuencial Desaparecido en Windows 11</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/top-10-hd-android-videos-ultimate-players-guide-for-2024/"><u>Top 10 HD Android Videos Ultimate Players Guide for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/treaty-of-peace-with-japan-san-francisco/"><u>Treaty of Peace with Japan (San Francisco)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-add-mp3-elements-to-ppt-display-panels/"><u>[Updated] Add MP3 Elements to PPT Display Panels</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-crafting-authenticity-in-client-testimonial-videos/"><u>[Updated] In 2024, Crafting Authenticity in Client Testimonial Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-step-by-step-techniques-for-sharing-videos-on-instagram/"><u>[Updated] In 2024, Step-by-Step Techniques for Sharing Videos on Instagram</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-innovative-strategies-for-effective-macscreencasting-for-2024/"><u>[Updated] Innovative Strategies for Effective MacScreencasting for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-secrets-unlocked-advanced-techniques-to-sculpt-your-igtv-content-size-for-2024/"><u>[Updated] Secrets Unlocked Advanced Techniques to Sculpt Your IGTV Content Size for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/comedic-approaches-to-marketing-effective-tipping-protocols-for-eateries-using-massmail-solutions/"><u>Comedic Approaches to Marketing: Effective Tipping Protocols for Eateries Using MassMail Solutions</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/economical-entertainment-with-game-systems-exploring-cost-cutting-strategies-by-coderush-labs/"><u>Economical Entertainment with Game Systems: Exploring Cost-Cutting Strategies by CodeRush Labs</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/elite-seo-firms-in-atlanta-guaranteeing-optimal-web-presence-powersuite-seo-solutions/"><u>Elite SEO Firms in Atlanta Guaranteeing Optimal Web Presence | PowerSuite SEO Solutions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-churn-memetic-content-for-gif-hub/"><u>In 2024, Churn Memetic Content for GIF Hub</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/r-your-first-impressions-best-free-intro-makers-for-2024/"><u>Master Your First Impressions Best Free Intro Makers for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/mastering-e-commerce-success-essential-modern-marketing-skills-using-massmail-platforms/"><u>Mastering E-Commerce Success: Essential Modern Marketing Skills Using MassMail Platforms</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quintessential-radio-narrative-craftsmanship-for-2024/"><u>Quintessential Radio Narrative Craftsmanship for 2024</u></a></li>
 </ul></div>
 

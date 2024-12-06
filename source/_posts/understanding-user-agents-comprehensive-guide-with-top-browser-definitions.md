@@ -1,7 +1,7 @@
 ---
 title: Understanding User Agents - Comprehensive Guide with Top Browser Definitions
-date: 2024-11-25T16:05:23.615Z
-updated: 2024-11-26T16:07:47.165Z
+date: 2024-11-30T06:15:34.323Z
+updated: 2024-12-05T23:13:03.351Z
 tags:
   - wiki
 categories:
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## User agent
 
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
 A user agent is a string of text that is sent by a web browser to a web server to identify itself and provide information about the browser's capabilities. The User Agent string can include information such as the browser type and version, the operating system, and the device type.[\[1\]](https://tools.techidaily.com/link-assistant/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is User Agent used for?
 
 Web servers use the User Agent string to determine how to serve content to the browser. For example, a web server may use the information provided in the user agent string to serve a different version of a website to a mobile device than it would to a desktop computer.
@@ -49,11 +57,11 @@ with the free LinkAssistant tool
 
 ![](https://cdn1.link-assistant.com/news/images/product-download-banner/link.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://cdn1.link-assistant.com/news/images/product-download-banner/glow.svg) ![](https://cdn1.link-assistant.com/news/images/product-download-banner/glow-mobile.svg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 When a web browser makes a request to a web server (for example, to load a web page), it sends an HTTP request message to the server. This message includes an HTTP header, which contains a variety of information about the request. One of the pieces of information in the HTTP header is the user agent string.
 
@@ -68,7 +76,7 @@ In this example, the user agent string is _Mozilla/5.0 (Windows NT 10.0; Win64; 
 The web server receives the HTTP request message and reads the HTTP header, including the user agent string. It can then use this information to determine how to serve content to the browser.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Types of User Agents
@@ -94,14 +102,10 @@ with the free Rank Tracker tool
 
 ![](https://cdn1.link-assistant.com/news/images/product-download-banner/chart.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://cdn1.link-assistant.com/news/images/product-download-banner/glow.svg) ![](https://cdn1.link-assistant.com/news/images/product-download-banner/glow-mobile.svg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to find my User Agent in any browser: Chrome, Firefox, Edge?
@@ -134,6 +138,10 @@ You can easily change and fake your browser’s user agent in a few steps. Here�
 3. Name the preference general.useragent.override.
 4. Enter your desired user agent as the value of the preference.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **How to change user agent in Safari**
 
 1. Go to Preferences.
@@ -143,16 +151,12 @@ You can easily change and fake your browser’s user agent in a few steps. Here�
 Please note that changing your user agent should be done with caution as it can affect how websites are displayed and function. Also, these settings are temporary and only apply while you have the Developer Tools pane open, and it only applies to the current tab.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## List of User Agents for desktop browsers (Chrome, Mozilla Firefox, Edge, Safari) and mobile devices (Apple, Android)
 
 Here are some examples of user agents for different devices and browsers:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Desktop Browsers**
 
@@ -171,6 +175,10 @@ Here are some examples of user agents for different devices and browsers:
 #### **Mozilla Firefox on Windows**
 
 `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile Apple Devices
 
@@ -197,10 +205,6 @@ You can find more information on how different browsers deal with user agents on
 * List of [Mozilla Firefox](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent/Firefox) user agent strings
 * List of [Microsoft Edge](https://learn.microsoft.com/en-us/microsoft-edge/web-platform/user-agent-guidance#user-agent-strings) user agent strings
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Importance
 
 User agents play a crucial role in the way the World Wide Web functions, as they enable users to access and interact with online content and services. Some of the key benefits and importance of user agents include:
@@ -212,10 +216,6 @@ User agents play a crucial role in the way the World Wide Web functions, as they
 * **Innovation:** User agents enable the development of new and innovative technologies, such as virtual and augmented reality, which can enhance the user experience.
 
 Overall, user agents are an essential component of the web ecosystem, enabling users to access and interact with online content and services in a convenient and secure manner.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Related links about User Agent
 
@@ -240,15 +240,21 @@ Overall, user agents are an essential component of the web ecosystem, enabling u
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-pros-playbook-mastering-gameplay-logging-in-windows-10/"><u>2024 Approved Pro's Playbook Mastering Gameplay Logging in Windows 10</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-srgb-adoption-over-traditional-rgb-techniques/"><u>2024 Approved Srgb Adoption Over Traditional Rgb Techniques</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-unlock-professional-vimeo-edits-without-paid-software/"><u>2024 Approved Unlock Professional Vimeo Edits Without Paid Software</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-assurance-read-before-you-rely-six-reasons-to-proceed-with-care/"><u>AI Assurance? Read Before You Rely: Six Reasons to Proceed with Care</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-iphone-6s-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your iPhone 6s</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-the-ultimate-gaming-duo-on-mobile-top-15/"><u>Discover the Ultimate Gaming Duo on Mobile (Top 15)</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/email-strategies-unveiled-learning-from-past-mistakes-with-common-techniques-2010/"><u>Email Strategies Unveiled: Learning From Past Mistakes with 'Common Techniques 2010</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/erstellen-eines-windows-11-systemwiederherstellungslaufwerks-drei-effiziente-methoden/"><u>Erstellen Eines Windows 11-Systemwiederherstellungslaufwerks: Drei Effiziente Methoden</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/limited-cost-spring-promotional-email-designs-with-massmail-boost-your-campaign/"><u>Limited-Cost Spring Promotional Email Designs with MassMail: Boost Your Campaign!</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-rejtingovye-seo-kompanii-v-maskate-povyshenie-onlajn-vidimosti-s-pomoshyu-powersuite/"><u>Топ-Рейтинговые SEO-Компании В Маскате: Повышение Онлайн-Видимости С Помощью PowerSuite</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-dive-deep-into-the-digital-world-adding-panoramic-photos-to-your-feed/"><u>[New] In 2024, Dive Deep Into the Digital World Adding Panoramic Photos to Your Feed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-easy-insights-into-effective-use-of-showmore-screen-recorder-for-2024/"><u>[Updated] Easy Insights Into Effective Use of ShowMore Screen Recorder for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-premier-rankings-best-general-knowledge-shows/"><u>2024 Approved The Premier Rankings Best General Knowledge Shows</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/6lwe5rqq5zue5ps2562s6yem5asn5y6f5yig6zmk5zuplus5yop5pa55rov5oyh5y2x/"><u>资源回收筒里复原删除图像方法指南</u></a></li>
+<li><a href="https://win-blog.techidaily.com/batman-arkham-knight-gameplay-issues-fix-your-crashingfatal-error-woes-here/"><u>Batman: Arkham Knight Gameplay Issues? Fix Your Crashing/Fatal Error Woes Here</u></a></li>
+<li><a href="https://win11.techidaily.com/crafting-individualized-gpo-settings-a-windows-11-masterclass/"><u>Crafting Individualized GPO Settings: A Windows 11 Masterclass</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabling-iphone-se-2020-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling iPhone SE (2020) Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/easy-steps-to-migrate-information-between-iphones-transitioning-from-previous-models-to-iphone-14/"><u>Easy Steps to Migrate Information Between iPhones: Transitioning From Previous Models to iPhone 14</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/essential-techniques-replaces-ways-for-variety-and-emphasis-while-repair-unbootable-drive-errors-targets-the-exact-problem-highlighted-by-unmountable-boot-v262/"><u>Essential Techniques Replaces Ways for Variety and Emphasis, While Repair 'Unbootable Drive' Errors Targets the Exact Problem Highlighted by Unmountable Boot Volume.</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/guia-paso-a-paso-para-migracion-de-datos-y-actualizacion-de-discos-duros-en-sistemas-operativos-windows/"><u>Guía Paso a Paso Para Migración De Datos Y Actualización De Discos Duros en Sistemas Operativos Windows</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Honor Play 40C? | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/solution-preventing-automatic-filling-of-c-drive-on-windows-server-2012-r2/"><u>Solution: Preventing Automatic Filling of C Drive on Windows Server 2012 R2</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/step-by-step-guide-adding-custom-tracks-to-itunes-library-on-iphone/"><u>Step-by-Step Guide: Adding Custom Tracks to iTunes Library on iPhone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/strumento-libero-di-ripristino-dati-windows-10-scarica-la-soluzione-migliore-in-assoluto-al-100/"><u>Strumento Libero Di Ripristino Dati Windows 10: Scarica La Soluzione Migliore in Assoluto Al 100%</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-ultimate-mic-selection-for-podcasters-for-2024/"><u>The Ultimate Mic Selection for Podcasters for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-lyric-locators-discovering-hit-songs-of-the-year-updated/"><u>Updated Lyric Locators Discovering Hit Songs of the Year, Updated</u></a></li>
 </ul></div>
 
