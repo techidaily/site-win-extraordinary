@@ -1,7 +1,7 @@
 ---
 title: "Understanding Broken Links: Definitions and Impact on SEO Strategies with Handy Tips"
-date: 2024-12-01T00:56:56.195Z
-updated: 2024-12-06T03:03:15.704Z
+date: 2024-12-09T04:49:08.996Z
+updated: 2024-12-11T21:29:12.280Z
 tags:
   - wiki
 categories:
@@ -16,11 +16,11 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## Broken link
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Broken link
 
 ### Contents
 
@@ -38,12 +38,16 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 * [References](https://tools.techidaily.com/link-assistant/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broken link definition
 
 A broken link is a link to a page that does not work. When a user or a search engine crawler follows such link, they see an error message or a 404 (not found) page. Another popular definition for broken links is dead links. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why broken links appear
 
@@ -54,10 +58,6 @@ Broken links appear because of a variety of reasons:
 * A whole site is not available or timed out;
 * A link points to the content (a PDF, video, Google Docs file, etc.) that is no longer available;
 * A page has restricted access (password protection, firewall, etc.).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Examples of broken links
 
@@ -77,7 +77,7 @@ When users follow a link that is broken, they may not necessarily see a **404 (n
 Broken links themselves do not directly affect your performance in search. Still, they negatively affect both the page they are placed on and the page they link to.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Outgoing broken links
@@ -92,6 +92,10 @@ Broken links do not pass link juice, so the page where the link points to will n
 
 Broken links should be fixed anyway to prevent link juice drainage and poor user experience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Broken links with 4xx status codes
 
 Most broken links that return 4xx status codes are fixed with the help of correctly implemented 301 redirects to relevant pages. Doing so keeps users on your website (i.e. bounce rate decreases), saves link juice, and does not harm UX.
@@ -103,10 +107,6 @@ If a link is broken because of server issues, then it is the server that needs f
 ### Setting up a custom 404 page
 
 Sometimes a page is moved without any alternative. In this case, you should not redirect users to your homepage but set up a custom 404 page. It should include some navigation links that may be interesting for users. Custom 404s are not indexed by Google and are needed to keep users on your site and decrease bounce rate.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Related links
 
@@ -133,20 +133,17 @@ Sometimes a page is moved without any alternative. In this case, you should not 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-ultimate-timeline-tools-at-no-cost/"><u>[New] In 2024, Ultimate Timeline Tools at No Cost</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-the-complete-azure-guide-to-speech-to-text-integration-for-2024/"><u>[New] The Complete Azure Guide to Speech-to-Text Integration for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-addressing-youtube-shorts-no-image-upload-issue/"><u>[Updated] In 2024, Addressing YouTube Shorts No Image Upload Issue?</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/44cm44k744kt44ol44oq44og44kj5qmf6io95lin5rs75ocn5yyw5b6m44gu6lplus95yqg5a6j5ywo5aplusplus562w44cn/"><u>「セキュリティ機能不活性化後の追加安全対策」</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728504153876-windows-11ssd/"><u>零複製安全地将Windows 11分区转换至SSD：专业人士选择</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/accelerate-computer-speed-by-clearing-cache-and-unnecessary-files-expert-tips-from-yl-software-professionals/"><u>Accelerate Computer Speed by Clearing Cache & Unnecessary Files – Expert Tips From YL Software Professionals</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/bantu-di-temukan-modifikasi-undi-yakin-ganti-foto-terkam-yang-gelahdi-dalam-windows-10/"><u>Bantu Di Temukan Modifikasi Undi Yakin Ganti Foto Terkam Yang Gelahdi Dalam Windows 10</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/comment-configurer-un-logiciel-de-formatage-dappareil-pc-acer-sans-support-cd-guide-complet-et-facile-a-suivre/"><u>Comment Configurer Un Logiciel De Formatage D'Appareil PC Acer Sans Support CD : Guide Complet Et Facile À Suivre</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/essential-history-series-youtube-recommendations-for-learners-for-2024/"><u>Essential History Series YouTube Recommendations for Learners for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/expert-strategies-for-seamless-clip-composition/"><u>Expert Strategies for Seamless Clip Composition</u></a></li>
-<li><a href="https://win11.techidaily.com/maximize-visual-impact-with-auto-color-settings-in-windows-11/"><u>Maximize Visual Impact with Auto Color Settings in Windows 11</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/preventing-your-emails-from-being-truncated-mastering-full-length-messages-with-gmail-and-massmail/"><u>Preventing Your Emails From Being Truncated: Mastering Full-Length Messages with Gmail & MassMail</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/solving-mkv-audio-video-sync-problems-a-comprehensive-guide/"><u>Solving MKV Audio-Video Sync Problems: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-3-meilleurs-utilitaires-de-sauvegarde-gratuits-pour-windows-11-un-guide-complet/"><u>Top 3 Meilleurs Utilitaires De Sauvegarde Gratuits Pour Windows 11 : Un Guide Complet</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/windows-11-cd-rw/"><u>Windows 11 で CD-RW メディアから効果的にファイルを削除するコツ</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-audio-artisans-crafting-a-personal-library-with-6-best-free-youtube-apps/"><u>[Updated] In 2024, Audio Artisans Crafting a Personal Library with 6 Best Free YouTube Apps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-enhancing-engagement-sound-synchronization-for-fb-video-posts/"><u>[Updated] In 2024, Enhancing Engagement Sound Synchronization for FB Video Posts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-practical-methods-reflecting-video-via-vlc-software/"><u>[Updated] Practical Methods Reflecting Video via VLC Software</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/44cm55ww44gq44kl44oh44oi44oq5lik44gu44oh44oq44kk44k544gr5zci44kp44gb44gm55s75yop44ov44kh44kk44or44ks5yig44gr44kl44og44kv44ol44od44kv44cn/"><u>「異なるメモリ上のデバイスに合わせて画像ファイルを分けるテクニック」</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728463080578-windows-10/"><u>解決辦法集：輕鬆修正Windows 10電腦中'自動印上便筘不出現'的斑馬</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/5asw6yoo44oj44op44kk44ow44gu5yid5pyf5yyw5a6m5lqgic0g6yen6kab44oh44o844k5b6p5pen5oml6acg44ks44kk44oj/"><u>外部ドライブの初期化完了 - 重要データ復旧手順ガイド</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/dynamic-titles-for-adobe-after-effects-for-2024/"><u>Dynamic Titles for Adobe After Effects for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/resuelva-problemas-de-discrepancia-de-tamano-al-clonar-discos-duros-con-estas-estrategias-efectivas/"><u>Resuelva Problemas De Discrepancia De Tamaño Al Clonar Discos Duros Con Estas Estrategias Efectivas</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-tecno-spark-20-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Tecno Spark 20 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-document-readability-with-4-innovative-chatgpt-strategies/"><u>Transform Document Readability with 4 Innovative ChatGPT Strategies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-copy-with-strategic-slug-line-usage-for-2024/"><u>Transform Your Copy with Strategic Slug Line Usage for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/wie-man-eine-sichere-ipod-touch-sicherung-sowohl-lokal-auf-seinem-computer-als-auch-in-der-icloud-erstellt/"><u>Wie Man Eine Sichere IPod Touch Sicherung Sowohl Lokal Auf Seinem Computer Als Auch in Der iCloud Erstellt</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Best Email Marketing Strategies of 2008 with MassMail Software
-date: 2024-12-05T07:21:16.321Z
-updated: 2024-12-05T18:37:20.739Z
+date: 2024-12-06T06:13:52.321Z
+updated: 2024-12-12T09:31:40.882Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -35,6 +31,10 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -47,10 +47,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -70,12 +66,16 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
@@ -83,7 +83,7 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
@@ -102,25 +102,25 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,19 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-vloggers-compendium-on-anti-shake-technology-excellence/"><u>[New] In 2024, Vloggers' Compendium on Anti-Shake Technology Excellence</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-premier-producer-a-choreography-of-colors-and-tones/"><u>[Updated] In 2024, Premier Producer A Choreography of Colors & Tones</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/can-data-be-restored-after-being-sent-to-the-recycling-bin-on-your-computer/"><u>Can Data Be Restored After Being Sent to the Recycling Bin on Your Computer?</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/defining-preloading-for-websites-in-depth-analysis-plus-proven-seo-techniques/"><u>Defining Preloading for Websites: In-Depth Analysis + Proven SEO Techniques</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-huawei-nova-y91-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Huawei Nova Y91 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-mastering-video-editing-for-social-media-standout/"><u>In 2024, Mastering Video Editing for Social Media Standout</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/leading-seo-agencies-in-vienna-austria-ranking-the-finest-with-seo-powersuite-expertise/"><u>Leading SEO Agencies in Vienna (Austria): Ranking the Finest with SEO PowerSuite Expertise</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726027533447-microsoft-teams/"><u>Microsoft Teams レコーディング修正ツールと方法：簡単な手引き</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/protect-your-creative-assets-a-quick-guide-to-saving-fcp-projects-for-2024/"><u>Protect Your Creative Assets A Quick Guide to Saving FCP Projects for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/solutions-rapides-pour-les-partitions-accidentellement-effacees-conseils-techniques/"><u>Solutions Rapides Pour Les Partitions Accidentellement Effacées - Conseils Techniques</u></a></li>
-<li><a href="https://win-premium.techidaily.com/step-by-step-guide-how-to-retrieve-lost-data-from-a-raw-disk-drive/"><u>Step-by-Step Guide: How to Retrieve Lost Data From a Raw Disk Drive</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-archivists-arsenal-pivotal-80s-vhs-tricks-for-editors-for-2024/"><u>The Archivist’s Arsenal Pivotal 80S VHS Tricks for Editors for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/through-the-looking-glass-reevaluating-rights-with-edges-restrictions/"><u>Through the Looking Glass: Reevaluating Rights with Edge's Restrictions</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-5-seo-agentstv-v-liverpule-velikobritaniya-obzor-2/"><u>Топ-5 SEO Агентств В Ливерпуле (Великобритания) - Обзор 2</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-mastering-ps3-gaming-capture-step-by-step-guide/"><u>[New] In 2024, Mastering PS3 Gaming Capture Step-by-Step Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-for-effective-periscope-use/"><u>2024 Approved The Ultimate Guide for Effective Periscope Use</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-chat-solution-for-players-comparing-teamspeak-and-discord-in-detail/"><u>Best Chat Solution for Players: Comparing TeamSpeak and Discord in Detail</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/comment-est-ce-que-lon-peut-telecharger-des-messages-de-licloud-sur-un-iphone-ou-pc/"><u>Comment Est-Ce Que L'on Peut Télécharger Des Messages De L'iCloud Sur Un iPhone Ou PC ?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-for-when-your-windows-10-mouse-ignores-the-right-click/"><u>Comprehensive Fixes for When Your Windows 10 Mouse Ignores the Right Click</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/comprehensive-step-by-step-process-to-remove-crypto-infections-using-malwarefox/"><u>Comprehensive Step-by-Step Process to Remove Crypto Infections Using MalwareFox</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-the-elite-list-of-10-most-visited-sites-on-the-internet/"><u>Explore The Elite List of 10 Most Visited Sites on the Internet</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/hdd/"><u>HDDが壊れた時に必要なデータ回復とクローン作成ガイド</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/impostare-il-backup-automatico-con-pianificazione-su-windows-server-2008/"><u>Impostare Il Backup Automatico Con Pianificazione Su Windows Server 2008</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-expertise-pinpointing-specific-players/"><u>Steam Expertise: Pinpointing Specific Players</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/step-by-step-tutorial-on-device-driver-restoration-with-yl-software-solutions/"><u>Step-by-Step Tutorial on Device Driver Restoration with YL Software Solutions</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/strategie-per-identificare-e-rimuovere-duplicati-non-autorizzati-del-sistema-operativo-windows/"><u>Strategie per Identificare E Rimuovere Duplicati Non Autorizzati Del Sistema Operativo Windows</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/trouble-with-windows-11-recovery-process-discover-6-successful-fix-strategies/"><u>Trouble with Windows 11 Recovery Process? Discover 6 Successful Fix Strategies!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-tutorial-on-integrating-several-wma-tracks-into-one-cohesive-file/"><u>Ultimate Tutorial on Integrating Several WMA Tracks Into One Cohesive File</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unblocking-printer-access-for-windows-users/"><u>Unblocking Printer Access for Windows Users</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/upgrade-your-performance-replacing-laptop-hard-drive-with-solid-state-disk-ssd/"><u>Upgrade Your Performance: Replacing Laptop Hard Drive with Solid State Disk (SSD)</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/44oh44kj44k544kv44kv44oq44o844oz44ki44od44ox5b6m44gu44ov44kh44kk44or5zue5b6p5oml6acg/"><u>ディスククリーンアップ後のファイル回復手順</u></a></li>
 </ul></div>
 

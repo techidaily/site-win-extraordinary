@@ -1,7 +1,7 @@
 ---
 title: "Top 7 Old School Email Opening Strategies That Deliver Results: Free Bonus Tips with Massmail"
-date: 2024-11-30T01:24:14.641Z
-updated: 2024-12-05T21:02:10.431Z
+date: 2024-12-09T00:31:03.848Z
+updated: 2024-12-12T02:46:53.663Z
 tags:
   - product
 categories:
@@ -18,13 +18,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -36,13 +36,13 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -51,10 +51,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -82,10 +78,6 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
@@ -94,17 +86,21 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -115,12 +111,16 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,24 +149,17 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-channel-choices-youtube-vs-tiktok-battle/"><u>[New] 2024 Approved Channel Choices Youtube vs TikTok Battle</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-harnessing-viral-power-your-pathway-to-youtube-fame/"><u>[New] In 2024, Harnessing Viral Power Your Pathway to YouTube Fame</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-inside-the-new-windows-11-innovations/"><u>[Updated] In 2024, Inside the New Windows 11 Innovations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/best-alternatives-to-chatgpt-discover-the-top-7-automatic-coding-platforms/"><u>Best Alternatives to ChatGPT: Discover the Top 7 Automatic Coding Platforms</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/curb-your-churn-rate-understanding-and-addressing-the-top-4-reasons-for-subscriber-drop-offs-with-massmail-software-solutions/"><u>Curb Your Churn Rate: Understanding and Addressing the Top 4 Reasons for Subscriber Drop-Offs with Massmail Software Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-the-correct-sequence-watching-star-wars-series-chronologically-on-disneyplus/"><u>Discover the Correct Sequence: Watching 'Star Wars' Series Chronologically on Disney+</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/email-strategies-unveiled-learning-from-past-mistakes-with-common-techniques-2010/"><u>Email Strategies Unveiled: Learning From Past Mistakes with 'Common Techniques 2010</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/erstellen-eines-windows-11-systemwiederherstellungslaufwerks-drei-effiziente-methoden/"><u>Erstellen Eines Windows 11-Systemwiederherstellungslaufwerks: Drei Effiziente Methoden</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/guida-passo-passo-per-il-recupero-dei-dati-persi-usando-le-opzioni-di-chkdsk/"><u>Guida Passo-Passo per Il Recupero Dei Dati Persi: Usando Le Opzioni Di CHKDSK</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/how-to-safeguard-snapchat-videos-in-devices-and-oses/"><u>How to Safeguard Snapchat Videos in Devices & OSes</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-s18-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Vivo S18 Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/leading-seo-firms-in-kuwait-metropolis-elite-search-optimization-solutions-for-2-the-year-2024/"><u>Leading SEO Firms in Kuwait Metropolis - Elite Search Optimization Solutions for 2 the Year 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/maximize-revenue-through-massmails-cutting-edge-sales-acceleration-techniques/"><u>Maximize Revenue Through MassMail's Cutting-Edge Sales Acceleration Techniques</u></a></li>
-<li><a href="https://extra-information.techidaily.com/overcoming-the-crashes-in-windows-11s-photos-application/"><u>Overcoming the Crashes in Windows 11'S Photos Application</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/step-by-step-guide-building-a-bootable-drive-with-rufus-on-windows-11/"><u>Step-by-Step Guide: Building a Bootable Drive with Rufus on Windows 11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/testing-the-limits-an-experts-take-on-the-spectacular-capabilities-of-the-netgear-nighthawk-c7000-router/"><u>Testing the Limits: An Expert's Take on the Spectacular Capabilities of the Netgear Nighthawk C7000 Router</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-snaps-into-funny-imessage-gifs-a-step-by-step-tutorial/"><u>Transform Your Snaps Into Funny iMessage GIFs - A Step-by-Step Tutorial!</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728484911316-windows-11/"><u>Windows 11用にパーティションテーブルの回復手順：詳細ガイド</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-rejtingovye-seo-kompanii-v-maskate-povyshenie-onlajn-vidimosti-s-pomoshyu-powersuite/"><u>Топ-Рейтинговые SEO-Компании В Маскате: Повышение Онлайн-Видимости С Помощью PowerSuite</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-how-to-enable-grid-view-on-google-meet-to-see-every-participant/"><u>[New] How to Enable Grid View on Google Meet to See Every Participant?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-reel-motivation-a-curated-list-of-top-10-film-titles/"><u>[Updated] 2024 Approved Reel Motivation A Curated List of Top 10 Film Titles</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/effortlessly-send-data-across-pcs-with-wifi-sharing-techniques/"><u>Effortlessly Send Data Across PCs with WiFi Sharing Techniques</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722956186632-factors-influencing-creep-include-stress-level-temperature-material-composition-grain-size-and-environmental-conditions/"><u>Factors Influencing Creep Include Stress Level, Temperature, Material Composition, Grain Size, and Environmental Conditions</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-v29-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-of-oneplus-9-pros-style-speed-and-cutting-edge-camcorder-setup/"><u>In-Depth Review of OnePlus 9 Pro's Style, Speed and Cutting-Edge Camcorder Setup</u></a></li>
+<li><a href="https://blog-min.techidaily.com/real-time-streaming-discover-the-power-of-manycam-professional-live-video-editing-and-virtual-camera-solutions/"><u>Real-Time Streaming: Discover the Power of ManyCam - Professional Live Video Editing and Virtual Camera Solutions</u></a></li>
+<li><a href="https://howto.techidaily.com/reliable-user-guide-to-fix-vivo-y36i-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Vivo Y36i Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/segment-your-network-using-vlans-and-restrict-nas-access-through-appropriate-subnetting-reducing-exposure-to-potential-threats/"><u>Segment Your Network Using VLANs and Restrict NAS Access Through Appropriate Subnetting, Reducing Exposure to Potential Threats.</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/step-by-step-strategies-for-upgrading-your-windows-server-2008-r2-to-advanced-equipment-systems/"><u>Step-by-Step Strategies for Upgrading Your Windows Server 2008 (R2) to Advanced Equipment Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723212400773-windows-10-and-bluetooth-woes-heres-how-to-make-your-peripherals-visible-again/"><u>Windows 10 and Bluetooth Woes? Here's How to Make Your Peripherals Visible Again!</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728477836936-windows-10/"><u>Windows 10 システム復元機能が使えるように設定する詳細ガイド</u></a></li>
 </ul></div>
 

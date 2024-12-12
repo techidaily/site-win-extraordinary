@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Analysis of International Email Promotion Trends in 2009-2010 - Featuring Massmail Solutions
-date: 2024-11-29T18:09:24.494Z
-updated: 2024-12-05T21:01:08.075Z
+date: 2024-12-11T06:07:23.362Z
+updated: 2024-12-11T22:57:37.159Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -66,25 +66,29 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -94,10 +98,6 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
@@ -106,21 +106,17 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,19 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-enhancing-virtual-collaboration-essential-strategies-for-efficient-zoom-chats/"><u>[New] Enhancing Virtual Collaboration Essential Strategies for Efficient ZOOM Chats</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expertly-convert-videos-on-your-device-with-the-most-trusted-apps-8/"><u>[Updated] Expertly Convert Videos on Your Device with the Most Trusted Apps #8</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-prime-retro-elements-reviving-classic-vhs-tricks/"><u>[Updated] Prime Retro Elements Reviving Classic VHS Tricks</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-leveraging-social-influence-a-guide-to-biz-success-on-snap/"><u>2024 Approved Leveraging Social Influence A Guide to Biz Success on Snap</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/beyond-moz-discover-the-ultimate-list-of-top-seo-tools-to-propel-your-digital-marketing-success/"><u>Beyond Moz: Discover the Ultimate List of Top SEO Tools to Propel Your Digital Marketing Success!</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/como-hacer-una-copia-de-seguridad-del-ssd-con-xxclone-para-windows-10-guia-paso-a-paso/"><u>Cómo Hacer Una Copia De Seguridad Del SSD Con XXClone Para Windows 10 - Guía Paso a Paso</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-newest-epson-wf-7720-printer-software-on-your-pc/"><u>How to Install the Newest Epson WF-7720 Printer Software on Your PC</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-a-trio-of-dimensions-differentiating-the-futures-tech-trio/"><u>In 2024, A Trio of Dimensions Differentiating the Future's Tech Trio</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/massmail-solution-preventing-negative-consumer-actions-for-a-thriving-enterprise/"><u>MassMail Solution: Preventing Negative Consumer Actions for a Thriving Enterprise</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722983010599-no-more-screen-shimmers-your-definitive-guide-to-banishing-the-blink/"><u>No More Screen Shimmers – Your Definitive Guide to Banishing the Blink</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/titre-seo-comment-cloner-un-disque-dur-virtuel-avec-efficacite-en-utilisant-virtualbox/"><u>Titre SEO: « Comment Cloner Un Disque Dur Virtuel Avec Efficacité en Utilisant VirtualBox »</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/troubleshooting-steps-for-fixing-f11-system-recovery-issues-on-hp-devices-across-windows-versions/"><u>Troubleshooting Steps for Fixing 'F11 System Recovery' Issues on HP Devices Across Windows Versions</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/silnejshie-cifrovye-marketingovye-eksperty-izmira-povyshaem-vash-seo-s-pomoshyu-powersuite/"><u>Сильнейшие Цифровые Маркетинговые Эксперты Измира - Повышаем Ваш SEO С Помощью PowerSuite</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-5-effektivnyh-agentstv-po-optimizacii-dlya-onlajn-rosta-v-ssha-optimizeboost-elite/"><u>Топ-5 Эффективных Агентств По Оптимизации Для Онлайн Роста В США | OptimizeBoost Elite</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-boost-your-content-reach-the-expert-guide-to-youtubes-featured-channels/"><u>[New] 2024 Approved Boost Your Content Reach The Expert Guide to Youtube's Featured Channels</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-charting-the-trends-popular-tiktok-reaction-videos/"><u>[New] 2024 Approved Charting the Trends Popular TikTok Reaction Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-top-10-tools-to-shield-photographic-work-for-2024/"><u>[New] Top 10 Tools to Shield Photographic Work for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-snapping-the-screen-top-8-compact-and-complimentary-android-recorder-software/"><u>[Updated] In 2024, Snapping the Screen - Top 8 Compact and Complimentary Android Recorder Software</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/a-comprehensive-guide-setting-up-vcenter-on-esxi-and-windows-servers-a-step-by-step-tutorial/"><u>A Comprehensive Guide: Setting Up vCenter on ESXi & Windows Servers - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-community.techidaily.com/a-step-by-step-guide-identifying-and-resolving-computer-hardware-issues-with-insights-from-yl-software/"><u>A Step-by-Step Guide: Identifying & Resolving Computer Hardware Issues with Insights From YL Software</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728476948950-aomei-backupper/"><u>AOMEI Backupper最新版へのアップグレードと更新手順：詳細ガイド</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/complete-step-by-step-tutorial-how-to-recover-your-iphone-using-a-pc-or-mac-backup/"><u>Complete Step-by-Step Tutorial: How to Recover Your iPhone Using a PC or Mac Backup</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/datmp420246/"><u>DAT到MP4软件翻新列表:2024年6种专业转码工具推荐及其优点说明</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/effortlessly-enhance-data-safety-a-comprehensive-roadmap-to-autonomous-sd-card-backup-solutions/"><u>Effortlessly Enhance Data Safety: A Comprehensive Roadmap to Autonomous SD Card Backup Solutions</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/erfolgreiches-network-cloning-auf-mehreren-computern-methoden-und-tipps-zum-perfektionieren-des-prozesses/"><u>Erfolgreiches Network-Cloning Auf Mehreren Computern - Methoden Und Tipps Zum Perfektionieren Des Prozesses</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/gpt/"><u>GPTドライブにあるパーティションの安全なコピー作成方法</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/is-it-possible-for-malicious-software-to-conceal-within-bios-systems-securing-your-computer-against-viruses/"><u>Is It Possible for Malicious Software to Conceal Within BIOS Systems? Securing Your Computer Against Viruses</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-the-premium-1900-robovac-and-mop-worth-your-investment-my-one-month-hands-on-experience-smarthomeguide/"><u>Is the Premium $1,900 RoboVac and Mop Worth Your Investment? My One-Month Hands-On Experience | SmartHomeGuide</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/prevent-access-breaches-without-a-key-mastering-anti-hijack-measures-with-malwarefox-insights/"><u>Prevent Access Breaches Without a Key: Mastering Anti-Hijack Measures with MalwareFox Insights</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/revealing-invisible-words-within-pictures-of-word-files-techniques-explored/"><u>Revealing Invisible Words Within Pictures of Word Files: Techniques Explored</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/step-by-step-instructions-on-saving-and-recovering-data-with-yl-solutions/"><u>Step-by-Step Instructions on Saving & Recovering Data with YL Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fix-for-missing-or-corrupt-jscriptdll-files-on-your-pc/"><u>The Ultimate Fix for Missing or Corrupt JScript.dll Files on Your PC</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/wiederherstellung-verlorener-excel-dokumente-auf-windows-10-einfache-schritte-zur-losung/"><u>Wiederherstellung Verlorener Excel-Dokumente Auf Windows 10: Einfache Schritte Zur Lösung</u></a></li>
 </ul></div>
 
