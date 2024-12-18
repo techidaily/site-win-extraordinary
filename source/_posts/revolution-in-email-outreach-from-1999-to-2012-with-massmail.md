@@ -1,7 +1,7 @@
 ---
 title: "Revolution in Email Outreach: From 1999 to 2012 with MassMail"
-date: 2024-12-08T22:48:24.839Z
-updated: 2024-12-12T08:17:57.592Z
+date: 2024-12-14T16:21:31.119Z
+updated: 2024-12-18T16:25:09.214Z
 tags:
   - product
 categories:
@@ -32,13 +32,13 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -54,10 +54,6 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -70,10 +66,6 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -82,12 +74,16 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
@@ -95,7 +91,7 @@ If you use several types of media to promote your campaign, use a different keyw
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
@@ -103,7 +99,7 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
@@ -113,6 +109,10 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -149,16 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-extraordinary.techidaily.com/a-beginners-guide-to-incorporating-ichimoku-cloud-analysis-for-currency-pairs-in-mt4-trading/"><u>A Beginner's Guide to Incorporating Ichimoku Cloud Analysis for Currency Pairs in MT4 Trading</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/best-seo-firms-in-vienna-top-ranking-seo-experts-and-services/"><u>Best SEO Firms in Vienna - Top Ranking SEO Experts and Services</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/decode-hard-linguistics-strategies-for-accurate-pronunciation/"><u>Decode Hard Linguistics: Strategies for Accurate Pronunciation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-create-an-outlook-signature-easily-outlook-2013-and-2016/"><u>How to Create an Outlook Signature Easily. Outlook 2013 & 2016</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-use-special-features-virtual-location-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Google Pixel 8? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 15 Pro Max</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/migrate-your-samsung-data-with-a-bootable-usb-eine-schritt-fur-schritt-anleitung/"><u>Migrate Your Samsung Data with a Bootable USB: Eine Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Infinix Note 30 VIP Racing Edition</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-solution-resolving-your-magic-mouse-tracking-issues/"><u>Quick Solution: Resolving Your Magic Mouse Tracking Issues</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/ultimate-guide-to-purifying-your-email-subscribers-a-deep-dive-with-massmail-tech/"><u>Ultimate Guide to Purifying Your Email Subscribers: A Deep Dive with MassMail Tech</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/izbrannye-seo-agentstva-dlya-vashego-biznesa-v-frankfurte-vybor-seo-powersuite/"><u>Избранные SEO-Агентства Для Вашего Бизнеса В Франкфурте: Выбор SEO PowerSuite</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-dodge-digital-duplicates-to-increase-youtube-exposure/"><u>[New] 2024 Approved Dodge Digital Duplicates to Increase YouTube Exposure</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-build-your-wealth-on-youtube-a-guide-to-creating-content-without-ads/"><u>[New] In 2024, Build Your Wealth on YouTube A Guide to Creating Content Without Ads</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-8-strategies-livestreaming-webinars-without-costs/"><u>[Updated] 8 Strategies Livestreaming Webinars Without Costs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-circulating-camera-mounts-for-vr/"><u>[Updated] In 2024, Circulating Camera Mounts for VR</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-secure-your-live-streams-on-firefoxchrome/"><u>2024 Approved Secure Your Live Streams on FireFox/Chrome</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1726029378585-aviutl/"><u>音声ファイルをAviUtlにうまく読み込むための解決策：エラーから回復へ</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-setup-service-via-command-line-utilities/"><u>Adjusting Setup Service via Command-Line Utilities</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/email-strategies-unveiled-learning-from-past-mistakes-with-common-techniques-2010/"><u>Email Strategies Unveiled: Learning From Past Mistakes with 'Common Techniques 2010</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/erstellen-eines-windows-11-systemwiederherstellungslaufwerks-drei-effiziente-methoden/"><u>Erstellen Eines Windows 11-Systemwiederherstellungslaufwerks: Drei Effiziente Methoden</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-assessment-of-the-apple-books-ebook-reader/"><u>In-Depth Assessment of the Apple Books eBook Reader</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/limited-cost-spring-promotional-email-designs-with-massmail-boost-your-campaign/"><u>Limited-Cost Spring Promotional Email Designs with MassMail: Boost Your Campaign!</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/mastering-the-art-of-smart-ip-reactivation-insights-and-techniques-via-massmail-solutions/"><u>Mastering the Art of Smart IP Reactivation: Insights & Techniques via MassMail Solutions</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/maximize-revenue-through-massmails-cutting-edge-sales-acceleration-techniques/"><u>Maximize Revenue Through MassMail's Cutting-Edge Sales Acceleration Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/unshackling-your-powershell-scripts-top-4-strategies-for-execution-lift/"><u>Unshackling Your PowerShell Scripts: Top 4 Strategies for Execution Lift</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-rejtingovye-seo-kompanii-v-maskate-povyshenie-onlajn-vidimosti-s-pomoshyu-powersuite/"><u>Топ-Рейтинговые SEO-Компании В Маскате: Повышение Онлайн-Видимости С Помощью PowerSuite</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top 7 Old School Email Opening Strategies That Deliver Results: Free Bonus Tips with Massmail"
-date: 2024-12-09T00:31:03.848Z
-updated: 2024-12-12T02:46:53.663Z
+date: 2024-12-17T17:51:46.307Z
+updated: 2024-12-18T16:05:04.061Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -40,10 +36,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -52,11 +44,19 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -78,17 +78,21 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -98,29 +102,25 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,17 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-how-to-enable-grid-view-on-google-meet-to-see-every-participant/"><u>[New] How to Enable Grid View on Google Meet to See Every Participant?</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-reel-motivation-a-curated-list-of-top-10-film-titles/"><u>[Updated] 2024 Approved Reel Motivation A Curated List of Top 10 Film Titles</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/effortlessly-send-data-across-pcs-with-wifi-sharing-techniques/"><u>Effortlessly Send Data Across PCs with WiFi Sharing Techniques</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722956186632-factors-influencing-creep-include-stress-level-temperature-material-composition-grain-size-and-environmental-conditions/"><u>Factors Influencing Creep Include Stress Level, Temperature, Material Composition, Grain Size, and Environmental Conditions</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-v29-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-of-oneplus-9-pros-style-speed-and-cutting-edge-camcorder-setup/"><u>In-Depth Review of OnePlus 9 Pro's Style, Speed and Cutting-Edge Camcorder Setup</u></a></li>
-<li><a href="https://blog-min.techidaily.com/real-time-streaming-discover-the-power-of-manycam-professional-live-video-editing-and-virtual-camera-solutions/"><u>Real-Time Streaming: Discover the Power of ManyCam - Professional Live Video Editing and Virtual Camera Solutions</u></a></li>
-<li><a href="https://howto.techidaily.com/reliable-user-guide-to-fix-vivo-y36i-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Vivo Y36i Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/segment-your-network-using-vlans-and-restrict-nas-access-through-appropriate-subnetting-reducing-exposure-to-potential-threats/"><u>Segment Your Network Using VLANs and Restrict NAS Access Through Appropriate Subnetting, Reducing Exposure to Potential Threats.</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/step-by-step-strategies-for-upgrading-your-windows-server-2008-r2-to-advanced-equipment-systems/"><u>Step-by-Step Strategies for Upgrading Your Windows Server 2008 (R2) to Advanced Equipment Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723212400773-windows-10-and-bluetooth-woes-heres-how-to-make-your-peripherals-visible-again/"><u>Windows 10 and Bluetooth Woes? Here's How to Make Your Peripherals Visible Again!</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728477836936-windows-10/"><u>Windows 10 システム復元機能が使えるように設定する詳細ガイド</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-in-depth-training-adopting-the-best-screen-recording-practices-with-adobe-captivate/"><u>[New] In 2024, In-Depth Training Adopting the Best Screen Recording Practices with Adobe Captivate</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-pinnacle-creations-synopsis-in-depth-studio-scrutiny/"><u>[New] Pinnacle Creations Synopsis In-Depth Studio Scrutiny</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728502939055-fujifilm/"><u>使えるテクニック！Fujifilmデジタルカメラから消した画像を取り戻す</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-installation-access-intels-dual-band-ac-amowireless-7260-driver-click-to-download/"><u>Effortless Installation: Access Intel's Dual Band AC amoWireless 7260 Driver - Click to Download</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/elevate-your-email-strategy-leverage-ab-testing-tools-to-boost-interactions-and-sales-using-massmail/"><u>Elevate Your Email Strategy: Leverage A/B Testing Tools to Boost Interactions and Sales Using Massmail</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhancing-your-laptops-soundscape-elevating-system-volume-on-win10-systems/"><u>Enhancing Your Laptop's Soundscape: Elevating System Volume on Win10 Systems</u></a></li>
+<li><a href="https://facebook.techidaily.com/from-one-platform-to-another-introducing-metas-digital-evolution/"><u>From One Platform to Another: Introducing Meta's Digital Evolution</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/guia-paso-a-paso-para-realizar-copias-de-seguridad-espejo-entre-nas-devices-y-asegurar-archivos-sintetizados/"><u>Guía Paso a Paso Para Realizar Copias De Seguridad Espejo Entre NAS Devices Y Asegurar Archivos Sintetizados</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-changing-your-phones-gps-address-safely-and-effectively-for-various-purposes/"><u>How-To: Changing Your Phone’s GPS Address Safely & Effectively for Various Purposes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Oppo Reno 8T? | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/mastering-email-campaign-optimization-through-split-testing-learn-with-massmail-tools/"><u>Mastering Email Campaign Optimization Through Split Testing – Learn with MassMail Tools</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/mastering-email-deliverability-four-key-tips-to-prevent-spam-tagging-with-massmail-solutions/"><u>Mastering Email Deliverability: Four Key Tips to Prevent SPAM Tagging with MassMail Solutions</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/maximizing-your-email-impact-with-effective-signature-techniques-in-gmail-and-outlook-discover-massmails-guide/"><u>Maximizing Your Email Impact with Effective Signature Techniques in Gmail & Outlook | Discover MassMail's Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/seamless-listening-the-ipodcast-guidebook/"><u>Seamless Listening The iPodcast Guidebook</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/step-by-step-tutorial-on-leveraging-metatrader-4-for-dxtrade-copier-functionality-complete-user-manual-insights/"><u>Step-by-Step Tutorial on Leveraging MetaTrader 4 for dxTrade Copier Functionality - Complete User Manual Insights</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/strategies-pour-une-desinfection-antivirus-reussie-sur-votre-appareil/"><u>Stratégies Pour Une Désinfection Antivirus Réussie Sur Votre Appareil</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-insiders-guide-to-instagrams-chroma-key-effect-for-2024/"><u>The Insider's Guide to Instagram’s Chroma Key Effect for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/windows-10-streaming-guide-learn-how-to-download-play-and-enjoy-4k-videos/"><u>Windows 10 Streaming Guide: Learn How to Download, Play & Enjoy 4K Videos</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/prevoshodnye-specialisty-seo-v-bagdade-irak-kak-vybrat-luchshego-partnera-dlya-prodvizheniya-vashego-sajta-s-pomoshyu-powersuite/"><u>Превосходные Специалисты SEO В Багдаде, Ирак - Как Выбрать Лучшего Партнера Для Продвижения Вашего Сайта С Помощью PowerSuite</u></a></li>
 </ul></div>
 

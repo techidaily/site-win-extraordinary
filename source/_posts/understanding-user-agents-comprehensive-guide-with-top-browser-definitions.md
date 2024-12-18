@@ -1,7 +1,7 @@
 ---
 title: Understanding User Agents - Comprehensive Guide with Top Browser Definitions
-date: 2024-12-06T05:40:34.805Z
-updated: 2024-12-12T03:32:59.693Z
+date: 2024-12-13T16:17:29.754Z
+updated: 2024-12-18T17:28:25.684Z
 tags:
   - wiki
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
 ## User agent
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Contents
 
 * ["User Agent" Definition](https://tools.techidaily.com/link-assistant/products/)
@@ -33,13 +37,13 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 * [Related links](https://tools.techidaily.com/link-assistant/products/)
 * [References](https://tools.techidaily.com/link-assistant/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## "User Agent" Definition
 
 A user agent is a string of text that is sent by a web browser to a web server to identify itself and provide information about the browser's capabilities. The User Agent string can include information such as the browser type and version, the operating system, and the device type.[\[1\]](https://tools.techidaily.com/link-assistant/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is User Agent used for?
 
@@ -56,7 +60,7 @@ with the free LinkAssistant tool
 ![](https://cdn1.link-assistant.com/news/images/product-download-banner/glow.svg) ![](https://cdn1.link-assistant.com/news/images/product-download-banner/glow-mobile.svg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 When a web browser makes a request to a web server (for example, to load a web page), it sends an HTTP request message to the server. This message includes an HTTP header, which contains a variety of information about the request. One of the pieces of information in the HTTP header is the user agent string.
@@ -86,10 +90,6 @@ There are many different types of User Agents, including:
 ![user agent settings in Rank Tracker](https://cdn1.link-assistant.com/thumbs/w929-c1/upload/seowiki/posts/129/ua1.png)  
 [Download Rank Tracker](https://tools.techidaily.com/link-assistant/products/)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The image above shows how you can set up custom user agents to control rank tracking in the [Rank Tracker](https://tools.techidaily.com/link-assistant/products/) tool[\[3\]](https://tools.techidaily.com/link-assistant/products/).
 
 Set up custom user agents for rank tracking
@@ -99,17 +99,13 @@ with the free Rank Tracker tool
 ![](https://cdn1.link-assistant.com/news/images/product-download-banner/chart.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://cdn1.link-assistant.com/news/images/product-download-banner/glow.svg) ![](https://cdn1.link-assistant.com/news/images/product-download-banner/glow-mobile.svg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to find my User Agent in any browser: Chrome, Firefox, Edge?
@@ -135,16 +131,16 @@ You can easily change and fake your browser’s user agent in a few steps. Here�
 3. Uncheck the _Select Automatically_ checkbox.
 4. Choose one from the built-in User-Agents list or enter any string you want in the field below the list.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **How to switch user agent in Mozilla Firefox**
 
 1. Type about:config into Firefox’s address bar and press Enter.
 2. Right-click on the about:config page, point to _New_, and select _String_.
 3. Name the preference general.useragent.override.
 4. Enter your desired user agent as the value of the preference.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **How to change user agent in Safari**
 
@@ -177,7 +173,7 @@ Here are some examples of user agents for different devices and browsers:
 `Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0`
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile Apple Devices
@@ -186,6 +182,10 @@ Here are some examples of user agents for different devices and browsers:
 
 `Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Mobile/15E148 Safari/604.1  
 Mozilla/5.0 (iPad; CPU OS 16_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5 Mobile/15E148 Safari/604.1`
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile Android Devices
 
@@ -240,22 +240,16 @@ Overall, user agents are an essential component of the web ecosystem, enabling u
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-learning-legends-esteemed-ed-streams-online/"><u>[New] 2024 Approved Learning Legends Esteemed Ed Streams Online</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-audio-visual-transcription-tool/"><u>[New] In 2024, Audio Visual Transcription Tool</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-enriching-mp4-soundtracks-with-srt-a-compreomedium-guide-for-2024/"><u>[Updated] Enriching MP4 Soundtracks with SRT – A Compreomedium Guide for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/aucun-fichier-perdu-garantie-de-secours-pour-tous-vos-documents-via-wd-smartware/"><u>Aucun Fichier Perdu : Garantie De Secours Pour Tous Vos Documents via WD SmartWare</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/hunterio-alternatives-explored-top-19-solutions-for-effective-email-extraction-and-validation-seo-powersuite-insights/"><u>Hunter.io Alternatives Explored: Top 19 Solutions for Effective Email Extraction and Validation | SEO PowerSuite Insights</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-exclusive-play-on-apex-how-to-turn-off-cross-platform-mode/"><u>In 2024, Exclusive Play on Apex How to Turn Off Cross-Platform Mode</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-hue-harmony-professionals-transforming-photos/"><u>In 2024, Hue Harmony Professionals Transforming Photos</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-iphone-14-pro-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On iPhone 14 Pro</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/maximizing-storage-efficiency-with-advanced-mssql-backup-compression-strategies/"><u>Maximizing Storage Efficiency with Advanced MSSQL Backup Compression Strategies</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/onetastic-upgrade-guide-elevating-your-productivity-with-microsoft-onenote-plugin/"><u>Onetastic Upgrade Guide: Elevating Your Productivity with Microsoft OneNote Plugin</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/pengurusan-gadingan-telepon-rumah-bagi-mencegah-kerusakan-data-melintas-kegagalan-power-off-dan-reset/"><u>Pengurusan Gadingan Telepon Rumah Bagi Mencegah Kerusakan Data - Melintas Kegagalan Power Off Dan Reset</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722895760220-the-wonders-of-artificeintelligence-in-android-ecosystems/"><u>The Wonders of ArtificeIntelligence in Android Ecosystems</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-5-mkv-player-picks-for-macos-enthusiasts/"><u>Top 5 MKV Player Picks for macOS Enthusiasts</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/understanding-the-mechanics-of-an-mt4-forex-copy-trading-tool/"><u>Understanding the Mechanics of an MT4 Forex Copy Trading Tool</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/unraveling-the-mystery-of-how-individuals-perceive-spam-insights-from-massmailers-perspective/"><u>Unraveling the Mystery of How Individuals Perceive Spam: Insights From MassMailer's Perspective</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/windows-11-tutorial-easily-retrieve-lost-footage-with-these-simple-steps/"><u>Windows 11 Tutorial: Easily Retrieve Lost Footage with These Simple Steps</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-rejtingovye-seo-agentstva-v-atlante-dlya-maksimalizacii-onlajn-obrabatyvaemosti/"><u>Топ-Рейтинговые SEO-Агентства В Атланте Для Максимализации Онлайн Обрабатываемости</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-dream-workflow-best-afx-templates-without-a-price-tag-for-2024/"><u>[New] Dream Workflow Best AFX Templates Without a Price Tag for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-decoding-the-art-of-engaging-in-youtube-short-forms/"><u>2024 Approved Decoding the Art of Engaging in YouTube Short Forms</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-unlocking-your-pc-games-with-ease-on-windows-10/"><u>2024 Approved Unlocking Your PC Games with Ease on Windows 10</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/comparing-returns-which-yields-higher-earnings-software-development-vs-web-services-ventures/"><u>Comparing Returns: Which Yields Higher Earnings - Software Development Vs. Web Services Ventures</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/download-top-rated-free-data-recovery-tools-today/"><u>Download Top Rated Free Data Recovery Tools Today</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/easy-trade-duplication-local-copier-now-supports-dxtrade-with-seamless-mt4-copy-transfers-via-mt4copier/"><u>Easy Trade Duplication: Local Copier Now Supports DXTrade with Seamless MT4 Copy Transfers via Mt4Copier</u></a></li>
+<li><a href="https://techtrends.techidaily.com/guide-changing-your-samsung-tvs-default-web-browser/"><u>Guide: Changing Your Samsung TV's Default Web Browser</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p55t-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Itel P55T Phone without Any Data Loss</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-lenovos-yoga-pro-9i-featuring-sturdy-keys-and-ultra-portable-build/"><u>In-Depth Review of Lenovo's Yoga Pro 9I: Featuring Sturdy Keys & Ultra Portable Build</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/sata-ssdide-hdd/"><u>SATA SSDにIDE HDDを簡単にアップグレードする方法 - 一歩ずつ解説</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/the-traders-guide-to-winning-mentality-leveraging-trade-copiers-on-mt4-and-mt5-for-enhanced-swing-trading-results/"><u>The Trader's Guide to Winning Mentality: Leveraging Trade Copiers on MT4 & MT#5 for Enhanced Swing Trading Results</u></a></li>
 </ul></div>
 

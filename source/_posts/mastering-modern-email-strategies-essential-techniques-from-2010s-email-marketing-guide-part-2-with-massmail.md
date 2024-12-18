@@ -1,7 +1,7 @@
 ---
 title: Mastering Modern Email Strategies - Essential Techniques From 2010'S Email Marketing Guide (Part 2) with MassMail
-date: 2024-12-05T04:08:39.662Z
-updated: 2024-12-11T21:55:20.883Z
+date: 2024-12-16T16:48:38.895Z
+updated: 2024-12-18T17:22:46.466Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -40,10 +40,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -59,7 +55,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -74,6 +70,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -86,6 +86,10 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
@@ -95,12 +99,16 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -114,10 +122,6 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,22 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-encompassing-locomotion-study-report/"><u>2024 Approved Encompassing Locomotion Study Report</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-complete-guide-to-producing-high-quality-gopro-time-lapse/"><u>2024 Approved The Complete Guide to Producing High-Quality GoPro Time-Lapse</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-transforming-gameplay-discovering-the-seven-stars-of-stardew-updates/"><u>2024 Approved Transforming Gameplay Discovering the Seven Stars of Stardew Updates</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/convertir-votre-profil-user-account-de-windows-10-en-windows-11-decouvrez-ces-3-moyens-rapides-et-simples/"><u>Convertir Votre Profil User Account De Windows 10 en Windows 11 - Découvrez Ces 3 Moyens Rapides Et Simples !</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/download-premium-suspensehorror-sfx-for-free-secure-your-quality-as-you-go/"><u>Download Premium Suspense/Horror SFX for Free - Secure Your Quality as You Go!</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/easy-and-secure-portable-disk-erasure-tool-quick-guide/"><u>Easy & Secure Portable Disk Erasure Tool - Quick Guide</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/fast-track-solutions-resolve-slow-iphone-setup-in-minutes/"><u>Fast-Track Solutions: Resolve Slow iPhone Setup in Minutes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-honor-100-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Honor 100 Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-11-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 11 iOS System? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-m1-mastery-seamless-editing-with-video-tools/"><u>In 2024, M1 Mastery Seamless Editing with Video Tools</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/lart-de-la-restauration-des-cartes-cf-difficultes-didentification-votre-solution-definitive-en-six-pratiques-essentielles/"><u>L'Art De La Restauration Des Cartes CF Difficultés D'Identification : Votre Solution Definitive en Six Pratiques Essentielles</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/losung-zur-problemlosung-wenn-dein-ipod-abgestellt-ist-und-nicht-mit-itunes-synchronisieren-kann/"><u>Lösung Zur Problemlösung: Wenn Dein iPod Abgestellt Ist Und Nicht Mit iTunes Synchronisieren Kann</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-unleash-your-creativity-the-top-5-avchd-video-editing-software-for-2024/"><u>New Unleash Your Creativity The Top 5 AVCHD Video Editing Software for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/ps4-system-storage-access-issue-solutions/"><u>PS4 System Storage Access Issue Solutions</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/the-most-effective-adata-backup-solutions-for-optimal-data-protection/"><u>The Most Effective ADATA Backup Solutions for Optimal Data Protection</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unlocking-a-fresh-start-for-your-ios-device-ultimate-guide-to-conducting-a-factory-wipe/"><u>Unlocking a Fresh Start for Your iOS Device: Ultimate Guide to Conducting a Factory Wipe</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728476131667-windows-11-pc/"><u>Windows 11に最適化されたファイル転送ツール: PC間移動ガイド</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-determining-a-bespoke-keyword-for-your-tiktok-feed/"><u>[New] In 2024, Determining a Bespoke Keyword for Your TikTok Feed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigate-metaverse-success-7-crucial-tech-gadgets/"><u>[New] Navigate Metaverse Success 7 Crucial Tech Gadgets</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728491393350-usb/"><u>「USBデバイスの安全な除去を忘れてしまった場合、何が起こるかについての深掘り解明」</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unrivaled-narratives-crafted-in-eight-film-fields/"><u>2024 Approved Unrivaled Narratives Crafted in Eight Film Fields</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728508923354-windows/"><u>三种创建Windows服务器全系统影像备份方法 - 最佳实践指南</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-fixes-for-preventing-manor-lords-from-crashing-on-your-computer/"><u>Effective Fixes for Preventing Manor Lords From Crashing on Your Computer</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/exploring-literary-identities-introducing-yourself-through-aomei-bio-pages/"><u>Exploring Literary Identities: Introducing Yourself Through AOMEI Bio Pages</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-faulty-graphics-software-for-smooth-mc-gaming/"><u>Fixing Faulty Graphics Software for Smooth MC Gaming</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-restore-excel-2023-file-stellar-by-stellar-guide/"><u>How Do I Restore Excel 2023 File ? | Stellar</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-samsung-galaxy-s23-ultra-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Samsung Galaxy S23 Ultra to iPad | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-blaze-2-pro-phone-without-google-account-by-drfone-android/"><u>How to Unlock Lava Blaze 2 Pro Phone without Google Account?</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/lawful-techniques-for-gathering-contacts-master-sms-campaigns-with-massmail/"><u>Lawful Techniques for Gathering Contacts: Master SMS Campaigns with Massmail</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sharpscope-zoommax7-precision-in-size-adjustment/"><u>SharpScope ZoomMax7 Precision in Size Adjustment</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/soluzione-rapida-perche-il-tuo-centro-sincronizzazione-di-windows-10-non-si-avvia-piu/"><u>Soluzione Rapida: Perché Il Tuo Centro Sincronizzazione Di Windows 10 Non Si Avvia Più</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728468436396-ssd/"><u>SSD セルフバックアップで重要データ保護ガイド</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/what-are-orphan-pages-in-depth-analysis-and-top-seo-techniques-for-optimization-expert-insights-from-the-seo-toolkit/"><u>What Are Orphan Pages? In-Depth Analysis and Top SEO Techniques for Optimization - Expert Insights From the SEO Toolkit</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/windows-11-ssd3/"><u>Windows 11 SSD速度下降了？不用憂心，就在此拯救3種致命武器！</u></a></li>
 </ul></div>
 

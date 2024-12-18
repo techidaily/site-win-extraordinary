@@ -1,7 +1,7 @@
 ---
 title: "Crucial Contact Segments in Email Campaigns: Insights From MassMail Systems"
-date: 2024-12-05T00:36:19.978Z
-updated: 2024-12-11T22:47:07.874Z
+date: 2024-12-11T16:54:08.883Z
+updated: 2024-12-18T17:06:34.180Z
 tags:
   - product
 categories:
@@ -17,10 +17,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
@@ -41,7 +37,7 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -59,7 +55,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -78,17 +74,21 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -106,17 +106,21 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,17 +149,15 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-simplify-your-work-the-best-5-mac-snipper-applications/"><u>[New] In 2024, Simplify Your Work The Best 5 Mac Snipper Applications</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pixels-of-peaceful-tales-video-critique/"><u>[Updated] Pixels of Peaceful Tales Video Critique</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728491393350-usb/"><u>「USBデバイスの安全な除去を忘れてしまった場合、何が起こるかについての深掘り解明」</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728508923354-windows/"><u>三种创建Windows服务器全系统影像备份方法 - 最佳实践指南</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-inside-the-tech-top-reviews-for-home-videotaping-tools/"><u>In 2024, Inside the Tech Top Reviews for Home Videotaping Tools</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/soluzione-rapida-perche-il-tuo-centro-sincronizzazione-di-windows-10-non-si-avvia-piu/"><u>Soluzione Rapida: Perché Il Tuo Centro Sincronizzazione Di Windows 10 Non Si Avvia Più</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728468436396-ssd/"><u>SSD セルフバックアップで重要データ保護ガイド</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-rated-laptops-for-students-in-depth-analysis-and-recommendations-techadvisor/"><u>Top-Rated Laptops for Students: In-Depth Analysis & Recommendations | TechAdvisor</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-your-dota-2-installation-loading-halted-or-game-wont-open/"><u>Troubleshoot Your Dota 2 Installation: Loading Halted or Game Won’t Open?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/which-leads-in-conversation-an-analysis-of-chatgpt-plus-versus-perplexity/"><u>Which Leads in Conversation: An Analysis of ChatGPT Plus Versus Perplexity</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/windows-11-ssd3/"><u>Windows 11 SSD速度下降了？不用憂心，就在此拯救3種致命武器！</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ave-youtube-playback-a-comprehensive-screencast-guide-at-no-cost-for-2024/"><u>[New] Save YouTube Playback A Comprehensive Screencast Guide at No Cost for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-crafting-memes-in-the-virtual-frontier/"><u>2024 Approved Crafting Memes in the Virtual Frontier</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/boost-your-youtube-earnings-with-effective-adsense-use/"><u>Boost Your YouTube Earnings with Effective AdSense Use</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/decoding-transactional-search-intent-comprehensive-guide-plus-expert-seo-optimization-tips-elite-seo-authority/"><u>Decoding Transactional Search Intent – Comprehensive Guide + Expert SEO Optimization Tips | Elite SEO Authority</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/easy-tips-and-tricks-for-effective-pc-backup-using-seagates-extermal-storage-solutions/"><u>Easy Tips & Tricks for Effective PC Backup Using Seagate's Extermal Storage Solutions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-insight-on-the-no-nonsense-aukey-usb-30-hub-quality-meets-modern-aesthetics/"><u>Expert Insight on the No-Nonsense Aukey USB 3.0 Hub: Quality Meets Modern Aesthetics</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmonizing-highlights-how-to-add-soundtracks-to-powerpoint/"><u>In 2024, Harmonizing Highlights How to Add Soundtracks to PowerPoint</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-removing-unwanted-horizontal-bars-on-your-display/"><u>Step-by-Step Tutorial: Removing Unwanted Horizontal Bars On Your Display</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/the-ultimate-list-of-top-ranking-forex-signal-services-a-comprehensive-guide/"><u>The Ultimate List of Top-Ranking Forex Signal Services: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-tools-similar-to-brightedge-mastering-advanced-seo-tactics-using-reliable-software-solutions/"><u>Top Tools Similar to BrightEdge: Mastering Advanced SEO Tactics Using Reliable Software Solutions</u></a></li>
 </ul></div>
 

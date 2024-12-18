@@ -1,7 +1,7 @@
 ---
 title: "Boosting Your Brand in 2009: Essential Viral Marketing Strategies & Tools with MassMail"
-date: 2024-12-06T01:54:36.941Z
-updated: 2024-12-12T06:58:58.273Z
+date: 2024-12-15T16:58:33.184Z
+updated: 2024-12-18T17:29:28.019Z
 tags:
   - product
 categories:
@@ -17,6 +17,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
@@ -51,7 +55,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -66,10 +70,6 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -77,6 +77,10 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -91,36 +95,28 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,20 +149,17 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-top-8-free-video-calling-applications-recommended-for-businesses/"><u>[New] In 2024, Top 8 Free Video Calling Applications Recommended for Businesses</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-innovating-beyond-boundaries-revitalizing-vr-content/"><u>[Updated] 2024 Approved Innovating Beyond Boundaries Revitalizing VR Content</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-exploration-superior-vr-games-on-google-cardboard/"><u>[Updated] Exclusive Exploration Superior VR Games on Google Cardboard</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unlocking-the-potential-of-music-in-instagrams-visual-world/"><u>[Updated] In 2024, Unlocking the Potential of Music in Instagram's Visual World</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728501730041-usb/"><u>快速修復缺失USB內容物件：全方位指南</u></a></li>
-<li><a href="https://games-able.techidaily.com/arcade-racings-legacy-do-wheels-outperform-touchpads-now/"><u>Arcade Racing's Legacy: Do Wheels Outperform Touchpads Now?</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-solutions-to-stop-chrome-from-crashing-on-windows-10/"><u>Effortless Solutions to Stop Chrome From Crashing on Windows 10</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/ensure-business-continuity-with-aomeis-seamless-exchange-server-backup-solutions/"><u>Ensure Business Continuity with AOMEI's Seamless Exchange Server Backup Solutions</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/ensuring-safe-backups-a-guide-to-using-windows-server-2012-r2-on-synology-network-attached-storage-nas/"><u>Ensuring Safe Backups: A Guide to Using Windows Server 2012 R2 on Synology Network Attached Storage (NAS)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-boost-your-productivity-utilizing-chatgpt-features-in-excel/"><u>How to Boost Your Productivity: Utilizing ChatGPT Features in Excel</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-lava-blaze-2-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Lava Blaze 2 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/how-to-move-your-hdd-or-sata-drive-to-a-solid-state-drive-ssd-using-windows-11-step-by-step-guide/"><u>How To Move Your HDD or SATA Drive to a Solid State Drive (SSD) Using Windows 11 - Step-by-Step Guide</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/iniziare-con-una-nuova-piattaforma-di-posta-elettronica-ecco-come-migrare-i-tuoi-dati-gmail/"><u>Iniziare Con Una Nuova Piattaforma Di Posta Elettronica? Ecco Come Migrare I Tuoi Dati Gmail</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/resolving-issues-retrieve-document-contents-in-microsoft-word-201/"><u>Resolving Issues: Retrieve Document Contents in Microsoft Word 201</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unbox-and-explore-in-depth-insights-on-the-4k-ultra-hd-49-inch-sony-xbr-49x9-tv-model-review/"><u>Unbox and Explore! In-Depth Insights on the 4K Ultra HD, 49-Inch Sony XBR-49X9# TV Model Review</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-stage-talent-video-download-permission-form/"><u>[New] In 2024, Stage Talent Video Download Permission Form</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-high-quality-hd-videos-at-a-tap-top-10-android-choices/"><u>[Updated] 2024 Approved High-Quality Hd Videos at a Tap Top 10 Android Choices</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-markets-best-gpus-for-uhd-video-processing/"><u>[Updated] 2024 Approved Market's Best GPUs for UHD Video Processing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-style-with-confidence-adding-border-artistry-to-your-instagram-posts/"><u>[Updated] In 2024, Style with Confidence Adding Border Artistry to Your Instagram Posts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-master-of-mayhem-top-10-roguelites-for-2024/"><u>[Updated] Master of Mayhem Top 10 Roguelites for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728503311147-3/"><u>無損データ復元のための3つの適切な手段 - バックアップ不要</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/complete-step-by-step-tutorial-on-transferring-your-gpt-hard-drive-data-to-an-ssd-in-windows-10-or-11-full-guide/"><u>Complete Step-by-Step Tutorial on Transferring Your GPT Hard Drive Data to an SSD in Windows 10 or 11 – Full Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/effortless-facebook-video-extras-the-best-fire-browser-plugins-of-2023-for-2024/"><u>Effortless Facebook Video Extras The Best Fire-Browser Plugins of 2023 for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/evasion-experts-how-effective-is-malware-at-outsmarting-windows-defender-protections/"><u>Evasion Experts: How Effective Is Malware at Outsmarting Windows Defender Protections?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-zero-price-super-quality-youtube-thumbnails-extractor-guide/"><u>In 2024, Zero Price, Super Quality YouTube Thumbnails Extractor Guide</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/leading-seo-companies-in-budapest-your-comprehensive-2024-selection-list-with-seo-powersuite-reviews/"><u>Leading SEO Companies in Budapest: Your Comprehensive 2024 Selection List with SEO PowerSuite Reviews</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/understanding-website-visits-comprehensive-guide-with-key-seo-strategies-by-seo-powersuite/"><u>Understanding Website Visits: Comprehensive Guide with Key SEO Strategies by SEO PowerSuite</u></a></li>
 </ul></div>
 

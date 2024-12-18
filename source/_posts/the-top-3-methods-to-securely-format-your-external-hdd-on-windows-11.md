@@ -1,7 +1,7 @@
 ---
 title: The Top 3 Methods to Securely Format Your External HDD on Windows 11
-date: 2024-12-06T00:01:41.816Z
-updated: 2024-12-11T20:01:09.203Z
+date: 2024-12-14T16:49:27.582Z
+updated: 2024-12-18T17:02:33.045Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/fd4e779227951f738339902ec6bf865ee57c2e0e824658f017eeb7cc4b43fd88.jpg
@@ -27,6 +27,10 @@ Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella 
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Sommario** 
 
@@ -65,17 +69,9 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
@@ -94,6 +90,10 @@ Fai clic con il tasto destro su entrambi Cortana ed Esplora file di Windows e sc
 Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
@@ -114,7 +114,7 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
@@ -135,10 +135,6 @@ Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
 Passo 1\. Apri Impostazioni:
@@ -152,6 +148,10 @@ Clicca su "Aggiornamento di Windows" e seleziona "Verifica aggiornamenti."
 Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 5: Crea un Nuovo Account Utente
 
@@ -180,7 +180,7 @@ Passo 6\. Testa la Barra di Ricerca:
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
@@ -204,7 +204,7 @@ Passo 4\. Avvia il Backup:
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
@@ -252,7 +252,7 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Scarica Gratis AOMEI Backupper Ora
@@ -280,20 +280,16 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-reign-supreme-with-these-ultimate-10-innovative-ideas-for-igtv-video-content/"><u>[Updated] 2024 Approved Reign Supreme with These Ultimate 10 Innovative Ideas for IGTV Video Content</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/boost-your-websites-visibility-mastering-short-tail-keywords-and-top-seo-techniques-for-success/"><u>Boost Your Website's Visibility: Mastering Short-Tail Keywords & Top SEO Techniques for Success!</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/elevate-mail-success-critical-guidelines-for-ensuring-message-delivery-via-massmail-tech/"><u>Elevate Mail Success: Critical Guidelines for Ensuring Message Delivery via MassMail Tech</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/fast-fix-unlocking-your-micro-sd-cards-full-potential-without-writing-restrictions/"><u>Fast Fix: Unlocking Your Micro SD Card's Full Potential Without Writing Restrictions</u></a></li>
-<li><a href="https://win-dash.techidaily.com/free-download-compatible-oculus-drivers-for-windows-11-10-8-and-7/"><u>Free Download: Compatible Oculus Drivers for Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-oneplus-nord-n30-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do OnePlus Nord N30 5G Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-samsung-galaxy-f34-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Samsung Galaxy F34 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728497285899-kioxia/"><u>KIOXIA クローンプログラムの選び方：唯一無二の推薦とその利点（有料・無料）</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/making-an-informed-ai-selection-comparing-bing-chat-to-chatgpt/"><u>Making an Informed AI Selection: Comparing Bing Chat to ChatGPT</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/mastering-the-markets-a-comprehensive-look-at-cryptocurrency-and-forex-trading-with-mt4copier-strategies/"><u>Mastering the Markets: A Comprehensive Look at Cryptocurrency and Forex Trading with MT4copier Strategies</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/recupera-file-cancellati-in-windows-11-soluzioni-e-metodi-fatti-da-te/"><u>Recupera File Cancellati in Windows 11 - Soluzioni E Metodi Fatti Da Te</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-kernelbasedll-errors-swiftly-effective-troubleshooting-tips-and-techniques/"><u>Solving 'KernelBase.dll' Errors Swiftly: Effective Troubleshooting Tips and Techniques</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/step-by-step-guide-restoring-files-from-a-damaged-sd-card-without-reformatting/"><u>Step-by-Step Guide: Restoring Files From a Damaged SD Card Without Reformatting</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlinking-from-twitch-a-comprehensive-tutorial-on-how-to-erase-your-account/"><u>Unlinking From Twitch: A Comprehensive Tutorial on How to Erase Your Account</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-11-character-map-access-steps/"><u>Windows 11 Character Map Access Steps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-fresh-take-on-the-sony-s3700-bdp-performance-for-2024/"><u>[New] Fresh Take on the Sony S3700 BDP Performance for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-deciphering-whatsapps-sound-exchange-lingo-for-2024/"><u>[Updated] Deciphering WhatsApp's Sound Exchange Lingo for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1-are-free-words-detrimental-to-your-email-marketing-strategy-with-massmail-software/"><u>1. Are Free Words Detrimental to Your Email Marketing Strategy with Massmail Software?</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1-top-free-tools-for-securely-backing-up-your-compact-flash-cards-on-windows/"><u>1. Top Free Tools for Securely Backing Up Your Compact Flash Cards on Windows</u></a></li>
+<li><a href="https://win-trending.techidaily.com/accessing-facebook-live-broadcasts-without-creating-a-profile-simple-steps/"><u>Accessing Facebook Live Broadcasts Without Creating a Profile: Simple Steps!</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/building-and-leveraging-personalized-video-content-with-massmail-a-step-by-step-guide/"><u>Building & Leveraging Personalized Video Content with MassMail: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-online-converter-transforming-m4v-files-into-mpeg-format-with-ease-movavi/"><u>Free Online Converter: Transforming M4V Files Into MPEG Format with Ease - Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/optimize-mobile-marketing-expert-strategies-with-seo-powersuite/"><u>Optimize Mobile Marketing: Expert Strategies with SEO PowerSuite</u></a></li>
+<li><a href="https://win-dash.techidaily.com/revitalize-your-pc-display-with-updated-graphics-driver-instructions-for-windows-11/"><u>Revitalize Your PC Display with Updated Graphics Driver Instructions for Windows 11</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/understanding-fibonacci-retracement-indicators-insights-and-application-in-mt4-trading/"><u>Understanding Fibonacci Retracement Indicators: Insights & Application in MT4 Trading</u></a></li>
 </ul></div>
 

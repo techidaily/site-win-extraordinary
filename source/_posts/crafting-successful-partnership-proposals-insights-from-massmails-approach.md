@@ -1,7 +1,7 @@
 ---
 title: "Crafting Successful Partnership Proposals: Insights From Massmail's Approach"
-date: 2024-12-05T06:40:59.242Z
-updated: 2024-12-11T16:19:51.407Z
+date: 2024-12-14T17:25:55.613Z
+updated: 2024-12-18T16:32:39.236Z
 tags:
   - product
 categories:
@@ -22,6 +22,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -36,6 +40,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -45,7 +53,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -53,10 +61,6 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -82,37 +86,25 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -122,6 +114,10 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-shooting-hdr-iphones-pathway-to-enhanced-images/"><u>[New] Shooting HDR IPhone's Pathway to Enhanced Images</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-master-iphones-quick-focus-adjustment/"><u>[Updated] 2024 Approved Master iPhone's Quick Focus Adjustment</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-celebrating-the-10-best-moba-games-on-android/"><u>2024 Approved Celebrating the #10 Best MOBA Games on Android</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/ace-the-art-of-lead-capture-with-atomic-lead-extractor-from-massmail-software-effortless-effective-results-await/"><u>Ace the Art of Lead Capture with Atomic Lead Extractor From Massmail Software - Effortless, Effective Results Await!</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/all-inclusive-roadmap-navigating-through-successful-seagate-hardware-rescue-techniques/"><u>All-Inclusive Roadmap: Navigating Through Successful Seagate Hardware Rescue Techniques</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/avatar-makeover-building-your-cartoon-personality/"><u>Avatar Makeover Building Your Cartoon Personality</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/definition-peculiarities-role-in-seo-and-strategy/"><u>Definition, Peculiarities, Role in SEO, and Strategy.</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/essential-starter-guide-the-best-seo-instruments-in-the-seo-powersuite/"><u>Essential Starter Guide: The Best SEO Instruments in the SEO PowerSuite</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-access-and-view-stored-wireless-network-passwords-in-windows-11/"><u>How to Access and View Stored Wireless Network Passwords in Windows 11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-recommendation-best-websites-to-download-classical-ringtones/"><u>In 2024, Recommendation Best Websites to Download Classical Ringtones</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-transform-your-drive-must-have-accessories-for-sj4000-owners/"><u>In 2024, Transform Your Drive Must-Have Accessories for SJ4000 Owners</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/innovations-in-mobile-photography-a-look-at-iphone-x/"><u>Innovations in Mobile Photography A Look at iPhone X</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/leading-leeds-seo-firms-enhance-your-digital-visibility-with-expert-strategies-powerseo-pro/"><u>Leading Leeds SEO Firms: Enhance Your Digital Visibility with Expert Strategies | PowerSEO Pro</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/seamless-edits-start-on-all-your-tech-for-2024/"><u>Seamless Edits Start on All Your Tech for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/smart-choices-in-economical-sms-providers-insights-from-massmail-expertise/"><u>Smart Choices in Economical SMS Providers: Insights From MassMail Expertise</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-insightful-guide-to-understanding-ai-transfer-learning-functions/"><u>The Insightful Guide to Understanding AI Transfer Learning Functions</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/understanding-deep-links-comprehensive-guide-and-seo-strategies-for-enhanced-website-authority/"><u>Understanding Deep Links: Comprehensive Guide & SEO Strategies for Enhanced Website Authority</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/understanding-search-bot-algorithms-definitions-and-effective-seo-strategies-with-seo-powersuite/"><u>Understanding Search Bot Algorithms: Definitions & Effective SEO Strategies with SEO PowerSuite</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/understanding-webmaster-guidelines-comprehensive-overview-with-essential-seo-strategies-master-your-site-ranking/"><u>Understanding Webmaster Guidelines: Comprehensive Overview with Essential SEO Strategies | Master Your Site Ranking</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-comprehensively-curated-list-15-prime-gear-for-gopro/"><u>[Updated] Comprehensively Curated List 15 Prime Gear for GoPro</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/6-solutions-to-unlock-asus-phones-if-you-forgot-password-pin-pattern-by-drfone-android/"><u>6 Solutions to Unlock Asus Phones If You Forgot Password, PIN, Pattern</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728484859642-windows-11/"><u>安全に初期設定を行い、データ保護を最優先: Windows 11の新しいセットアップへの挑戦方法</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728503105651-windows-11/"><u>使用Windows 11兼容性檢查器選擇最適合的工具和設置</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728504072042-windows-11/"><u>移動Windows 11中的附件到本地計算機 - 最佳方法</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/cloning-your-pc-setup-on-windows-11-no-need-to-reinstall/"><u>Cloning Your PC Setup on Windows 11 - No Need to Reinstall!</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/conseils-rapides-comment-remettre-en-place-votre-partition-ou-volume-sur-votre-pc/"><u>Conseils Rapides: Comment Remettre en Place Votre Partition Ou Volume Sur Votre PC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-fix-the-beats-audio-driver-conflict-in-windows-1187-a-comprehensive-guide-for-hp-users/"><u>How to Fix the Beats Audio Driver Conflict in Windows 11/8/7: A Comprehensive Guide for HP Users</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-preeminent-5-photo-background-changer-tools-iphone-x87-edition/"><u>In 2024, Preeminent 5 Photo Background Changer Tools IPhone X/8/7 Edition</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-honor-magic-5-lite-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Honor Magic 5 Lite Device</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mastering-game-selection-amidst-rising-scores-strategies-for-identifying-top-notch-games-in-todays-market/"><u>Mastering Game Selection Amidst Rising Scores: Strategies for Identifying Top-Notch Games in Today's Market</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-zero-noise-videos-how-to-extract-audio-free-mp4mkvavimov-files/"><u>New 2024 Approved Zero-Noise Videos How to Extract Audio-Free MP4/MKV/AVI/MOV Files</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/simple-guide-effortless-restoration-of-images-on-external-storage-devices/"><u>Simple Guide: Effortless Restoration of Images on External Storage Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/troubleshooting-how-to-fix-ogg-file-playback-issues-on-windows-11-version-1903/"><u>Troubleshooting: How to Fix OGG File Playback Issues on Windows 11 Version 1903</u></a></li>
 </ul></div>
 

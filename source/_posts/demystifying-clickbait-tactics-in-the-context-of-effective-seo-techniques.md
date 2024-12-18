@@ -1,7 +1,7 @@
 ---
 title: Demystifying Clickbait Tactics in the Context of Effective SEO Techniques
-date: 2024-11-14T22:28:22.421Z
-updated: 2024-11-16T17:22:15.246Z
+date: 2024-12-17T17:00:10.464Z
+updated: 2024-12-18T16:40:08.500Z
 tags:
   - wiki
 categories:
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Clickbait
 
@@ -52,70 +56,41 @@ Clickbait takes advantage of a well-known psychological phenomenon, the so-calle
 
 With clickbait, the idea is that you’re only given fragments of information. This causes your curiosity to arise, forming the urgent need to click the link and thus “retrieve the missing pieces”. 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Examples of clickbait
 
 Clickbait is quite often resorted to by tabloids as opposed to respectable news sources. So simply digging through your Facebook newsfeed will provide you with quite a few examples.
 
 ![clickbait on facebook](https://cdn1.link-assistant.com/thumbs/w692-c1/upload/seowiki/posts/35/c1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Here, HaffPost is clearly exploiting our curiosity gap by making only part of the information available, and you feel the need to click the link to learn which movie the article is actually talking about. 
 
 ![clickbait on youtube](https://cdn1.link-assistant.com/thumbs/w1185-c1/upload/seowiki/posts/35/c2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Another schoolbook example of clickbait is this top right-corner ad. A famous brand has “done this again” - the phrase clearly hinting at some misdo or, on the contrary, at a huge success on behalf of Cadillac. But we have no way to learn what the article is about without clicking the link. 
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s a typical clickbait structure?
 
 In most cases, all clickbait headlines follow a similar structure and rely on the same tactics. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Shorter words
 
 The idea here is that shorter words are easier to read and understand and thus capture our attention more effectively.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Over-promises
 
 The go-to phrases for a clickbait writer are “You won’t believe” or “Try this one simple trick”, promising something unprecedented, which you absolutely can not afford to miss. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cliffhangers
 
@@ -130,15 +105,16 @@ Multiple questions or exclamation marks stand out among the rest of your newsfee
 Whatever you come across in a clickbait headline is likely to be shocking, astonishing, sensational, the best, the easiest, or the quickest. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Internet slang abbreviations
 
 OMG, WOW, or LOL are other means of catching the eye and grabbing our attention
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Does clickbait work?
 
@@ -169,22 +145,21 @@ Google, in its turn, has recently launched the so-called “Helpful content” a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-maximizing-memories-the-ultimate-guide-for-overwatch-players-for-2024/"><u>[New] Maximizing Memories The Ultimate Guide for Overwatch Players for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-7-best-monitors-for-photo-editing-worth-trying/"><u>[Updated] In 2024, 7 Best Monitors for Photo Editing Worth Trying</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-rapid-rendering-of-fortnite-icons/"><u>[Updated] In 2024, Rapid Rendering of Fortnite Icons</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/19-topovyh-zamenitelej-hunterio-dlya-optimizacii-otzyvov-i-podtverzhdeniya-email-adresov/"><u>19 Топовых Заменителей Hunter.io Для Оптимизации Отзывов И Подтверждения Email-Адресов</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-image-edition-excellence-tutorial-insights/"><u>2024 Approved Image Edition Excellence Tutorial Insights</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-lava-blaze-pro-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Lava Blaze Pro 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/9-nadezhnyh-reshenij-seo-otslezhivanie-i-prognozirovanie-vperedi-accuranker-seo-powersuite/"><u>9 Надежных Решений SEO: Отслеживание И Прогнозирование Впереди AccuRanker | SEO PowerSuite</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/decoding-the-differences-how-ipad-pro-stands-against-microsofts-surface-pro/"><u>Decoding the Differences: How iPad Pro Stands Against Microsoft's Surface Pro</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/effective-day-trading-tactics-using-trade-copier-on-metatrader-platforms-mt4-and-mt5/"><u>Effective Day Trading Tactics Using Trade Copier on Metatrader Platforms (MT4 & MT5)</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/efficient-management-of-pictorial-content-for-large-scale-newsletter-distribution-via-massmail-solution/"><u>Efficient Management of Pictorial Content for Large Scale Newsletter Distribution via MassMail Solution</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/microsoft-teams-connectivity-concerns-understanding-common-errors-and-fixes/"><u>Microsoft Teams Connectivity Concerns: Understanding Common Errors & Fixes</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-crowded-online-spaces-offering-no-cost-guitar-song-lines-and-artwork/"><u>New Crowded Online Spaces Offering No-Cost Guitar Song Lines and Artwork</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-infinix-note-30-vip-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Infinix Note 30 VIP</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-prioritat-bei-datenubertragung-professionelle-losungen-zum-klonen-von-usb-und-systemeinfuhr/"><u>Top-Priorität Bei Datenübertragung: Professionelle Lösungen Zum Klonen Von USB Und Systemeinfuhr</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/understanding-smtp-throttling-optimizing-email-delivery-with-hosting-services-massmail-solutions/"><u>Understanding SMTP Throttling: Optimizing Email Delivery with Hosting Services | MassMail Solutions</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/osnovnye-faktory-uspeha-luchshie-specialisty-seo-iz-myunhena-germaniya-rukovodstvo-2024-goda-s-pomoshyu-seo-powersuite/"><u>Основные Факторы Успеха - Лучшие Специалисты SEO Из Мюнхена, Германия: Руководство 2024 Года С Помощью SEO PowerSuite</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/alan-oitha-knt-tbhth-aan-afdl-khyarat-windows-11-5-bramg-nskh-mganya-shahdtha/"><u>الآن وإذا كنت تبحث عن أفضل خيارات Windows 11: 5 برامج نسخ مجانية شاهدتها</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-ideal-screen-capturing-solutions-for-igadgets/"><u>[New] In 2024, Ideal Screen Capturing Solutions for iGadgets</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-pc-compatible-sony-ps3-mimicry-tools-top-picks-for-2024/"><u>[New] PC-Compatible Sony PS3 Mimicry Tools Top Picks for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-substituting-periscope-6-premium-video-apps-for-iphones-and-ipads/"><u>[New] Substituting Periscope 6 Premium Video Apps for iPhones & iPads</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-3-step-approach-to-effective-copywriting-on-facebook/"><u>[Updated] 2024 Approved The 3-Step Approach to Effective Copywriting on Facebook</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-top-picks-for-novice-gopro-enthusiasts/"><u>[Updated] 2024 Approved Top Picks for Novice GoPro Enthusiasts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audioadventurers-venturing-without-dacast-for-2024/"><u>AudioAdventurers Venturing Without DaCast for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/email-strategies-unveiled-learning-from-past-mistakes-with-common-techniques-2010/"><u>Email Strategies Unveiled: Learning From Past Mistakes with 'Common Techniques 2010</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/erstellen-eines-windows-11-systemwiederherstellungslaufwerks-drei-effiziente-methoden/"><u>Erstellen Eines Windows 11-Systemwiederherstellungslaufwerks: Drei Effiziente Methoden</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/guida-passo-passo-per-il-recupero-dei-dati-persi-usando-le-opzioni-di-chkdsk/"><u>Guida Passo-Passo per Il Recupero Dei Dati Persi: Usando Le Opzioni Di CHKDSK</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-most-effective-internet-tools-for-caption-perfection/"><u>In 2024, Unveiling the Most Effective Internet Tools for Caption Perfection</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/limited-cost-spring-promotional-email-designs-with-massmail-boost-your-campaign/"><u>Limited-Cost Spring Promotional Email Designs with MassMail: Boost Your Campaign!</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/maximize-revenue-through-massmails-cutting-edge-sales-acceleration-techniques/"><u>Maximize Revenue Through MassMail's Cutting-Edge Sales Acceleration Techniques</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/maximize-watch-time-minimize-leaving-6-key-tactics-to-retain-more-audience/"><u>Maximize Watch Time, Minimize Leaving 6 Key Tactics to Retain More Audience</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/selecting-the-superior-vehicle-compasses-of-2024/"><u>Selecting the Superior Vehicle Compasses of 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/step-by-step-guide-building-a-bootable-drive-with-rufus-on-windows-11/"><u>Step-by-Step Guide: Building a Bootable Drive with Rufus on Windows 11</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-rejtingovye-seo-kompanii-v-maskate-povyshenie-onlajn-vidimosti-s-pomoshyu-powersuite/"><u>Топ-Рейтинговые SEO-Компании В Маскате: Повышение Онлайн-Видимости С Помощью PowerSuite</u></a></li>
 </ul></div>
 
