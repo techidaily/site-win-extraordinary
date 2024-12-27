@@ -1,7 +1,7 @@
 ---
 title: How Does Offline Marketing Influence Success? Insights & Statistics From 2013 with MassMail Software
-date: 2024-12-15T16:53:29.542Z
-updated: 2024-12-18T17:48:50.001Z
+date: 2024-12-23T03:31:49.797Z
+updated: 2024-12-26T20:37:06.970Z
 tags:
   - product
 categories:
@@ -18,16 +18,12 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -70,6 +66,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -78,25 +78,25 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -106,21 +106,17 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,15 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-brawlers-domain-vs-twitch-territory/"><u>[New] The Brawler's Domain Vs. Twitch Territory</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/he-ultimate-pathway-to-prominence-on-youtube-channel-showcase-for-2024/"><u>[New] The Ultimate Pathway to Prominence on YouTube Channel Showcase for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-unlock-high-end-visuals-a-practical-guide-for-sdr-to-hdr-transition-for-2024/"><u>[New] Unlock High-End Visuals A Practical Guide for SDR to HDR Transition for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-top-choices-premier-mac-video-capture-apps/"><u>[Updated] In 2024, Top Choices Premier Mac Video Capture Apps</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728503311147-3/"><u>無損データ復元のための3つの適切な手段 - バックアップ不要</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/complete-step-by-step-tutorial-on-transferring-your-gpt-hard-drive-data-to-an-ssd-in-windows-10-or-11-full-guide/"><u>Complete Step-by-Step Tutorial on Transferring Your GPT Hard Drive Data to an SSD in Windows 10 or 11 – Full Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-restoring-functionality-to-broken-logitech-control-panel-on-windows/"><u>Expert Advice: Restoring Functionality to Broken Logitech Control Panel on Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-100-pro-phone-without-google-account-by-drfone-android/"><u>How to Unlock Honor 100 Pro Phone without Google Account?</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/leading-seo-companies-in-budapest-your-comprehensive-2024-selection-list-with-seo-powersuite-reviews/"><u>Leading SEO Companies in Budapest: Your Comprehensive 2024 Selection List with SEO PowerSuite Reviews</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/understanding-website-visits-comprehensive-guide-with-key-seo-strategies-by-seo-powersuite/"><u>Understanding Website Visits: Comprehensive Guide with Key SEO Strategies by SEO PowerSuite</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-keeping-your-content-in-the-spotlight-adhering-to-youtubes-cc-policy/"><u>[Updated] Keeping Your Content in the Spotlight Adhering to YouTube's CC Policy</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-avoidance-tactics-no-more-recommended-podcasts-on-spotify/"><u>2024 Approved Avoidance Tactics No More Recommended Podcasts on Spotify</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-xiaomi-redmi-a2-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Xiaomi Redmi A2 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dia-a-dia-aprendiendo-los-dias-de-la-semana-en-espanol/"><u>Día a Día: Aprendiendo Los Días De La Semana en Español</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-nubia-red-magic-9-pro-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Nubia Red Magic 9 Pro</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-apple-iphone-xs-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your Apple iPhone XS Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/mastering-craigslist-safety-top-techniques-for-a-secure-online-experience-using-massmail-solutions-2009/"><u>Mastering Craigslist Safety: Top Techniques for a Secure Online Experience Using MassMail Solutions (2009)</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/mastering-digital-tracking-a-guide-to-finding-anyone-using-major-online-platforms-and-massmail-tech/"><u>Mastering Digital Tracking: A Guide to Finding Anyone Using Major Online Platforms and MassMail Tech</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/maximizing-your-email-impact-with-effective-signature-techniques-in-gmail-and-outlook-discover-massmails-guide/"><u>Maximizing Your Email Impact with Effective Signature Techniques in Gmail & Outlook | Discover MassMail's Guide</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/soluzione-guida-come-gestire-i-duplicati-non-visibili-nelle-foto-su-mac-con-4-metodi/"><u>Soluzione Guida: Come Gestire I Duplicati Non Visibili Nelle Foto Su Mac Con 4 Metodi</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/steering-clear-of-common-pitfalls-in-email-marketing-how-to-keep-your-mailing-list-clean-with-massmail/"><u>Steering Clear of Common Pitfalls in Email Marketing: How to Keep Your Mailing List Clean with MassMail</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/strategies-pour-une-desinfection-antivirus-reussie-sur-votre-appareil/"><u>Stratégies Pour Une Désinfection Antivirus Réussie Sur Votre Appareil</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-unleash-your-creativity-top-4k-video-editing-software-for-2024/"><u>Updated Unleash Your Creativity Top 4K Video Editing Software for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/utilizing-b-roll-enhancing-video-quality-for-2024/"><u>Utilizing B Roll Enhancing Video Quality for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/prevoshodnye-specialisty-seo-v-bagdade-irak-kak-vybrat-luchshego-partnera-dlya-prodvizheniya-vashego-sajta-s-pomoshyu-powersuite/"><u>Превосходные Специалисты SEO В Багдаде, Ирак - Как Выбрать Лучшего Партнера Для Продвижения Вашего Сайта С Помощью PowerSuite</u></a></li>
 </ul></div>
 

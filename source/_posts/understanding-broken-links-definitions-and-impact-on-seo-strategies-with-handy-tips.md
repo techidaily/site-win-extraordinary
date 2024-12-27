@@ -1,7 +1,7 @@
 ---
 title: "Understanding Broken Links: Definitions and Impact on SEO Strategies with Handy Tips"
-date: 2024-12-17T16:33:11.668Z
-updated: 2024-12-18T17:05:48.205Z
+date: 2024-12-26T06:33:46.737Z
+updated: 2024-12-26T23:19:54.023Z
 tags:
   - wiki
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 ## Broken link
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Contents
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 A broken link is a link to a page that does not work. When a user or a search engine crawler follows such link, they see an error message or a 404 (not found) page. Another popular definition for broken links is dead links. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why broken links appear
@@ -76,10 +76,6 @@ Broken links themselves do not directly affect your performance in search. Still
 
 Broken links harm user experience and increase bounce rate, which will surely affect your site traffic. Besides, broken links result in incomplete content, as users cannot access the information they may need. What’s more, Google Quality Rater Guidelines say[\[2\]](https://tools.techidaily.com/link-assistant/products/) that Google watches the number of broken links to determine if the site is spammy or was abandoned. And if yes, Google may start deindexing the site.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Incoming broken links
 
 Broken links do not pass link juice, so the page where the link points to will not receive value and page strength. Plus, a page where a broken link points to may not be indexed at all if no other links point to it.
@@ -87,10 +83,6 @@ Broken links do not pass link juice, so the page where the link points to will n
 ## Fixing broken links
 
 Broken links should be fixed anyway to prevent link juice drainage and poor user experience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Broken links with 4xx status codes
 
@@ -100,12 +92,16 @@ Most broken links that return 4xx status codes are fixed with the help of correc
 
 If a link is broken because of server issues, then it is the server that needs fixing. Make sure everything is implemented correctly on the server side and ask Google to recrawl pages.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Setting up a custom 404 page
 
 Sometimes a page is moved without any alternative. In this case, you should not redirect users to your homepage but set up a custom 404 page. It should include some navigation links that may be interesting for users. Custom 404s are not indexed by Google and are needed to keep users on your site and decrease bounce rate.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Related links
@@ -113,6 +109,10 @@ Sometimes a page is moved without any alternative. In this case, you should not 
 [The Ultimate Guide to Broken Link Building](https://tools.techidaily.com/link-assistant/products/)
 
 [Most Common Indexing Issues and How to Fix Them - 404 Not Found](https://tools.techidaily.com/link-assistant/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## References
 
@@ -133,18 +133,20 @@ Sometimes a page is moved without any alternative. In this case, you should not 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-your-guide-to-genuine-selfies-on-instagrams-canvas/"><u>[New] 2024 Approved Your Guide to Genuine Selfies on Instagram's Canvas</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-accelerating-artistic-outputs-fast-tracked-google-collage-creation-for-2024/"><u>[New] Accelerating Artistic Outputs Fast-Tracked Google Collage Creation for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-personalize-twitter-video-thumbnail/"><u>[Updated] Personalize Twitter Video Thumbnail</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1-best-tel-aviv-seo-firms-expert-services-with-seo-powersuite-solutions/"><u>1. Best Tel Aviv SEO Firms: Expert Services with SEO PowerSuite Solutions</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-secrets-revealed-how-to-convert-facebooks-hd-videos-to-mp4-for-free/"><u>2024 Approved Secrets Revealed How to Convert Facebook's HD Videos to MP4 for Free</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/boost-and-expand-wireless-signal-using-the-advanced-features-of-netgear-nighthawk-x6s-wi-fi-booster/"><u>Boost and Expand Wireless Signal Using the Advanced Features of Netgear Nighthawk X6S Wi-Fi Booster</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-list-of-top-iphone-vr-game-hits/"><u>In 2024, Exclusive List of Top iPhone VR Game Hits</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722883509064-the-anticipated-google-pixel-tablets-release-timeline-unveiled-key-features-inside/"><u>The Anticipated Google Pixel Tablet's Release Timeline Unveiled - Key Features Inside!</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/the-role-of-risk-capacity-in-forex-strategies-essential-guide-for-mt4-users/"><u>The Role of Risk Capacity in Forex Strategies - Essential Guide for MT4 Users</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-seo-software-solutions-for-blogging-success-discover-the-ultimate-guide-to-boosting-your-blogs-rank/"><u>Top SEO Software Solutions for Blogging Success: Discover the Ultimate Guide to Boosting Your Blog's Rank!</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/troubleshooting-steps-how-to-fix-windows-not-recognizing-your-scanner-tips-from-yl-computing/"><u>Troubleshooting Steps: How to Fix Windows Not Recognizing Your Scanner - Tips From YL Computing</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-5-iskusnyh-agentstv-po-optimizacii-dlya-seo-v-gorode-doha-katar/"><u>Топ-5 Искусных Агентств По Оптимизации Для SEO В Городе Доха, Катар</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-6-completely-different-places-to-get-icons-and-logos-for-youtube-videos/"><u>[New] 2024 Approved 6 Completely Different Places to Get Icons and Logos for YouTube Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-magix-music-maker-2024-review/"><u>[New] The Ultimate Guide to Magix Music Maker 2024 Review</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-cut-to-perfection-advanced-guide-to-cropping-videos-for-instagram/"><u>[Updated] In 2024, Cut to Perfection Advanced Guide to Cropping Videos for Instagram</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-tips-for-using-google-meets-built-in-photo-functionality/"><u>[Updated] In 2024, Tips for Using Google Meet's Built-In Photo Functionality</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/come-ripristinare-una-partizione-di-disco-cancellata-per-errore-su-windows-11/"><u>Come Ripristinare Una Partizione Di Disco Cancellata per Errore Su Windows 11</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/comprehensive-step-by-step-tutorial-transferring-data-from-a-sata-ssd-to-an-m2-nvme-drive/"><u>Comprehensive Step-by-Step Tutorial: Transferring Data From a SATA SSD to an M.2 NVMe Drive</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/copie-todas-as-partes-com-o-centralizado-do-aomei-opcoes-de-compra-simplificadas/"><u>Copie Todas as Partes Com O Centralizado Do AOMEI - Opções De Compra Simplificadas</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-14-how-to-unlock-a-disabled-iphone-14-drfone-by-drfone-ios/"><u>Disabled iPhone 14 How to Unlock a Disabled iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-11-pro-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/get-your-intel-unison-working-flawlessly-on-windows-11/"><u>Get Your Intel Unison Working Flawlessly on Windows 11</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/guide-de-lutilisation-de-la-carte-memoire-durgence-lenovo-onekey-pour-le-recuperer-facilement/"><u>Guide De L'Utilisation De La Carte Mémoire D'Urgence Lenovo OneKey Pour Le Récupérer Facilement</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-highest-quality-costless-clocks/"><u>In 2024, Highest Quality Costless Clocks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/precision-in-podcast-promotion-timelines-for-2024/"><u>Precision in Podcast Promotion Timelines for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/resolucion-al-problema-de-acceso-a-la-carpeta-programdata-en-windows-11/"><u>Resolución Al Problema De Acceso a La Carpeta 'ProgramData' En Windows 11</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/resoudre-les-dysfonctionnements-du-glisseur-et-deposeur-de-fenetre-par-defaut-en-mode-bureau-sur-windows-11/"><u>Résoudre Les Dysfonctionnements Du Glisseur Et Déposeur De Fenêtre Par Défaut en Mode Bureau Sur Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Leveraging MetaTrader 4 for dxTrade Copier Functionality - Complete User Manual Insights
-date: 2024-12-12T16:05:17.932Z
-updated: 2024-12-18T16:30:21.821Z
+date: 2024-12-20T00:53:46.184Z
+updated: 2024-12-27T02:57:11.645Z
 tags:
   - forex
   - trades
@@ -53,6 +53,10 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Before you begin**
 
 **Please prepare the following…**
@@ -74,7 +78,7 @@ Table of Contents
 [![MT4 to DxTrade downloaded zip file](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-0200-Downloaded-zip-file-550x147.png)](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-0200-Downloaded-zip-file.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * ### **Extract the downloaded zip folder.**
@@ -86,19 +90,11 @@ Table of Contents
 
 [![Extracted file save location](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-0400-Save-location.png)](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-0400-Save-location.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * * * Check **Show extracted file when complete** if you have this option before clicking the **Extract** button. If you don’t have the option, you need to manually find the extracted file after extraction.
 
 * ### **Locate the extracted files.**
 
 [![Extracted files from MT4 to DxTrade zip file](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-0500-Extracted-files-e1727809615912-550x137.png)](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-0500-Extracted-files.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * * * Upon extraction, the zip folder will unload different files. However, your focus should be on:  
                   * The auto-installer  
@@ -132,7 +128,7 @@ Table of Contents
 [![MT4 data folder](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-1000-MT4-data-folder-550x265.png)](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-1000-MT4-data-folder.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * * * Once the data folder is open, paste the “extracted MQL4” file here.
@@ -142,16 +138,12 @@ Table of Contents
 [![Manual installation-How to paste MQL4 folder in MT4 data folder-Windows 10](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-1150-Manual-installation-How-to-paste-MQL4-folder-in-MT4-data-folder-Windows-10.png)](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-1150-Manual-installation-How-to-paste-MQL4-folder-in-MT4-data-folder-Windows-10.png)  
 _Windows 10_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * If prompted to replace the existing MQL4 folder, click **Replace the files in the destination**.
 
 [![Replace the files in the destination prompt](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-1200-Replace-the-files-in-the-destination-prompt.png)](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-1200-Replace-the-files-in-the-destination-prompt.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Refresh the Navigator in MetaTrader 4 to show the EA.**
@@ -191,14 +183,26 @@ _Windows 10_
 
 [![EA settings-Checking Allow DLL imports and import of external experts under Common tab](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-1800-EA-settings-Checking-Allow-DLL-imports-and-import-of-external-experts-under-Common-tab-550x275.png)](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-1800-EA-settings-Checking-Allow-DLL-imports-and-import-of-external-experts-under-Common-tab.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * ###   **Input your license key.**
 * * * In the same properties window, head over to the **Inputs** tab and provide your license key. Click **OK** to finish.
 
 [![EA settings-How to input license key under Inputs tab](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-1900-EA-settings-How-to-input-license-key-under-Inputs-tab-550x275.png)](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-1900-EA-settings-How-to-input-license-key-under-Inputs-tab.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * ### **Input your DxTrade account information**
 * * [![MT4 to DxTrade Panel](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-2000-MT4-to-DxTrade-Panel.png)](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-2000-MT4-to-DxTrade-Panel.png)As soon as you finish, a login screen will immediately appear. Input your DxTrade server, username, password, and account number. Only you should know this information.  
          * The DxTrade **Server** is the web trading platform URL for DxTrade. You can access this via your broker’s website.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
          * Your **Username** is the name you chose when registering for a broker account. Typically an email address or self assigned..  
          * Your **Password** can either be the broker account or trading account password.  
@@ -211,6 +215,10 @@ _Windows 10_
 
 [![Real time trade sync demo](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-2100-Real-time-trade-sync-demo-550x413.gif)](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-2100-Real-time-trade-sync-demo.gif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * ### **Understanding the automatic trade copying.**
 * * After connecting successfully, the copier should automatically sync every trade execution moving forward. It will not copy any existing trade placed before the installation.  
    * By default, the copier adjusts lot sizes based on account balance differences between MT4 and DxTrade. However, this setting can be adjusted.  
@@ -221,11 +229,19 @@ _Windows 10_
 
 [![How to modify risk management setting-General Tab-Lot AAM](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-2200-How-to-modify-risk-management-setting-General-Tab-Lot-AAM.png)](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-2200-How-to-modify-risk-management-setting-General-Tab-Lot-AAM.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * * * Lot Auto-Adjust and Multiply or AAM (Suggested):  
                   * Auto adjusts lot size based on account balance differences.  
                   * Multiplier allows increasing or decreasing risk on DxTrade.
 
 [![How to modify risk management setting-General Tab-Lot multiplier](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-2300-How-to-modify-risk-management-setting-General-Tab-Lot-multiplier.png)](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-2300-How-to-modify-risk-management-setting-General-Tab-Lot-multiplier.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * * * * This is selected by default at a 1.0 multiplier which you can change.  
          * Pure Lot Multiplier:  
@@ -234,10 +250,6 @@ _Windows 10_
                   * Uses a set lot size for all copied trades regardless of the lot size you set on the master trade.
 
 [![How to modify risk management setting-General Tab-Fixed lot size](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-2400-How-to-modify-risk-management-setting-General-Tab-Fixed-lot-size.png)](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-2400-How-to-modify-risk-management-setting-General-Tab-Fixed-lot-size.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * ### **Configuring symbol mappings under Symbol tab.**
 * * * The copier automatically maps most symbols between MT4 and DxTrade. As well as it adjusts for any contract size difference.  
@@ -252,10 +264,6 @@ _Windows 10_
                   * E.g; **AAA.swd** on master, **AAA** on client at 100000 lot (standard lot).
 
 [![How to configure smybol mappings-Symbol Tab-How to add a new symbol](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-2600-How-to-configure-smybol-mappings-Symbol-Tab-How-to-add-a-new-symbol-550x296.png)](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-2600-How-to-configure-smybol-mappings-Symbol-Tab-How-to-add-a-new-symbol.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * * * Clicking **Reset** (bottom right corner) will clear and redownload the list. You may need to add back the symbols that are not on the list.
 
@@ -277,14 +285,6 @@ _Windows 10_
    * Useful for limiting trading to specific market hours or days.
 
 [![How to use time filters-Time Tab](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-2800-How-to-use-time-filters-Time-Tab.png)](https://www.mt4copier.com/wp-content/uploads/2024/09/How-to-Use-MT4-to-DxTrade-Copier-2800-How-to-use-time-filters-Time-Tab.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Reminders, Additional Information and Tips**
 
@@ -366,16 +366,16 @@ Yes. You can filter trades by type, magic numbers, symbols, and set time restric
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-extraordinary.techidaily.com/1728476948950-aomei-backupper/"><u>AOMEI Backupper最新版へのアップグレードと更新手順：詳細ガイド</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722976278330-download-and-setup-your-sound-blaster-z-drivers-for-windows-11-today/"><u>Download & Setup Your Sound Blaster Z Drivers for Windows 11 Today</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/effortlessly-enhance-data-safety-a-comprehensive-roadmap-to-autonomous-sd-card-backup-solutions/"><u>Effortlessly Enhance Data Safety: A Comprehensive Roadmap to Autonomous SD Card Backup Solutions</u></a></li>
-<li><a href="https://win-tips.techidaily.com/eiko-kawasegawa-designs-from-yl-software-exquisite-imagery-for-your-screens-powered-by-yl-computing/"><u>Eiko Kawasegawa Designs From YL Software - Exquisite Imagery for Your Screens – Powered by YL Computing</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/gpt/"><u>GPTドライブにあるパーティションの安全なコピー作成方法</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-samsung-galaxy-s24-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Samsung Galaxy S24.</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-leveraging-visuals-easy-guide-to-integrating-snap-camera-on-teams/"><u>In 2024, Leveraging Visuals Easy Guide to Integrating Snap Camera on Teams</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oneplus-ace-2-pro-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On OnePlus Ace 2 Pro</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/prevent-access-breaches-without-a-key-mastering-anti-hijack-measures-with-malwarefox-insights/"><u>Prevent Access Breaches Without a Key: Mastering Anti-Hijack Measures with MalwareFox Insights</u></a></li>
-<li><a href="https://win-unique.techidaily.com/transitioning-from-windows-11-home-to-pro-edition-two-effective-methods/"><u>Transitioning From Windows 11 Home to Pro Edition: Two Effective Methods</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/wiederherstellung-verlorener-excel-dokumente-auf-windows-10-einfache-schritte-zur-losung/"><u>Wiederherstellung Verlorener Excel-Dokumente Auf Windows 10: Einfache Schritte Zur Lösung</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-unlock-advanced-features-of-obs-studio-on-android-platforms/"><u>[Updated] 2024 Approved Unlock Advanced Features of OBS Studio on Android Platforms</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-complete-obs-guide-to-skype-call-recording/"><u>[Updated] In 2024, The Complete OBS Guide to Skype Call Recording</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-harnessing-funimates-downloading-prowess-quickly/"><u>2024 Approved Harnessing Funimate's Downloading Prowess Quickly</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/discover-the-benefits-of-using-virtualization-for-streamlined-disaster-recovery-solutions/"><u>Discover the Benefits of Using Virtualization for Streamlined Disaster Recovery Solutions</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/easy-and-secure-portable-disk-erasure-tool-quick-guide/"><u>Easy & Secure Portable Disk Erasure Tool - Quick Guide</u></a></li>
+<li><a href="https://media-tips.techidaily.com/hassle-free-methods-for-changing-mts-video-to-wmv-with-simple-steps/"><u>Hassle-Free Methods for Changing MTS Video to WMV with Simple Steps</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/lart-de-la-restauration-des-cartes-cf-difficultes-didentification-votre-solution-definitive-en-six-pratiques-essentielles/"><u>L'Art De La Restauration Des Cartes CF Difficultés D'Identification : Votre Solution Definitive en Six Pratiques Essentielles</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/the-most-effective-adata-backup-solutions-for-optimal-data-protection/"><u>The Most Effective ADATA Backup Solutions for Optimal Data Protection</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-the-logitech-g533-microphone-how-to-fix-common-issues/"><u>Troubleshooting the Logitech G533 Microphone: How to Fix Common Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-secret-how-to-access-and-utilize-facebook-marketplace/"><u>Unlocking the Secret: How to Access and Utilize Facebook Marketplace</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728476131667-windows-11-pc/"><u>Windows 11に最適化されたファイル転送ツール: PC間移動ガイド</u></a></li>
 </ul></div>
 
