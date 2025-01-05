@@ -1,7 +1,7 @@
 ---
 title: How Does Offline Marketing Influence Success? Insights & Statistics From 2013 with MassMail Software
-date: 2024-12-23T03:31:49.797Z
-updated: 2024-12-26T20:37:06.970Z
+date: 2024-12-31T16:56:49.686Z
+updated: 2025-01-05T16:14:20.610Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -39,6 +35,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -54,6 +54,10 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -66,37 +70,41 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -114,10 +122,6 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,20 +149,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-keeping-your-content-in-the-spotlight-adhering-to-youtubes-cc-policy/"><u>[Updated] Keeping Your Content in the Spotlight Adhering to YouTube's CC Policy</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-avoidance-tactics-no-more-recommended-podcasts-on-spotify/"><u>2024 Approved Avoidance Tactics No More Recommended Podcasts on Spotify</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-xiaomi-redmi-a2-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Xiaomi Redmi A2 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/dia-a-dia-aprendiendo-los-dias-de-la-semana-en-espanol/"><u>Día a Día: Aprendiendo Los Días De La Semana en Español</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-nubia-red-magic-9-pro-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Nubia Red Magic 9 Pro</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-apple-iphone-xs-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your Apple iPhone XS Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/mastering-craigslist-safety-top-techniques-for-a-secure-online-experience-using-massmail-solutions-2009/"><u>Mastering Craigslist Safety: Top Techniques for a Secure Online Experience Using MassMail Solutions (2009)</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/mastering-digital-tracking-a-guide-to-finding-anyone-using-major-online-platforms-and-massmail-tech/"><u>Mastering Digital Tracking: A Guide to Finding Anyone Using Major Online Platforms and MassMail Tech</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/maximizing-your-email-impact-with-effective-signature-techniques-in-gmail-and-outlook-discover-massmails-guide/"><u>Maximizing Your Email Impact with Effective Signature Techniques in Gmail & Outlook | Discover MassMail's Guide</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/soluzione-guida-come-gestire-i-duplicati-non-visibili-nelle-foto-su-mac-con-4-metodi/"><u>Soluzione Guida: Come Gestire I Duplicati Non Visibili Nelle Foto Su Mac Con 4 Metodi</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/steering-clear-of-common-pitfalls-in-email-marketing-how-to-keep-your-mailing-list-clean-with-massmail/"><u>Steering Clear of Common Pitfalls in Email Marketing: How to Keep Your Mailing List Clean with MassMail</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/strategies-pour-une-desinfection-antivirus-reussie-sur-votre-appareil/"><u>Stratégies Pour Une Désinfection Antivirus Réussie Sur Votre Appareil</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-unleash-your-creativity-top-4k-video-editing-software-for-2024/"><u>Updated Unleash Your Creativity Top 4K Video Editing Software for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/utilizing-b-roll-enhancing-video-quality-for-2024/"><u>Utilizing B Roll Enhancing Video Quality for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/prevoshodnye-specialisty-seo-v-bagdade-irak-kak-vybrat-luchshego-partnera-dlya-prodvizheniya-vashego-sajta-s-pomoshyu-powersuite/"><u>Превосходные Специалисты SEO В Багдаде, Ирак - Как Выбрать Лучшего Партнера Для Продвижения Вашего Сайта С Помощью PowerSuite</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-explore-top-10-dynamic-picture-background-switchers/"><u>[Updated] 2024 Approved Explore Top 10 Dynamic Picture-Background Switchers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-is-it-possible-to-watch-fb-videos-on-tv/"><u>[Updated] 2024 Approved Is It Possible to Watch FB Videos on TV ?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-traffic-critical-youtube-seo-instruments-for-video-success/"><u>Boost Traffic Critical YouTube SEO Instruments for Video Success</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/comment-personnaliser-un-document-microsoft-word/"><u>Comment Personnaliser Un Document Microsoft Word?</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/complete-win32-disk-imager-tutorial-mastering-sd-card-cloning-and-top-substitutes/"><u>Complete Win32 Disk Imager Tutorial: Mastering SD Card Cloning & Top Substitutes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversione-gratuita-e-perfetta-da-wmv-a-mp4-mantenere-la-qualita-al-98/"><u>Conversione Gratuita E Perfetta Da WMV a MP4 - Mantenere La Qualità Al 98%!</u></a></li>
+<li><a href="https://win11.techidaily.com/costs-beyond-price-the-reality-of-affordable-windows-licenses/"><u>Costs Beyond Price: The Reality of Affordable Windows Licenses</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-itel-s23-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Itel S23 using Video Repair Utility?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/identifying-if-youve-been-blacklisted-by-a-contact-in-imessage/"><u>Identifying If You've Been Blacklisted by a Contact in iMessage</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/leading-strategies-in-digital-advertising-social-networks-and-smartphones-take-center-stage-with-innovative-video-campaigns/"><u>Leading Strategies in Digital Advertising: Social Networks & Smartphones Take Center Stage with Innovative Video Campaigns</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/linux-users-guide-to-the-best-seo-apps-free-effective-tools-for-optimizing-your-website/"><u>Linux Users' Guide to the Best SEO Apps: Free, Effective Tools for Optimizing Your Website</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/rainbow-strategies-in-bulk-email-promotion-using-massmail-tools/"><u>Rainbow Strategies in Bulk Email Promotion Using MassMail Tools</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/schritt-fur-schritt-festplattendaten-sichern-mit-der-eingabebefehlsoption/"><u>Schritt-Für-Schritt: Festplattendaten Sichern Mit Der Eingabebefehlsoption</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/the-benefits-and-drawbacks-of-crypto-investments-a-guide-by-yl-software-solutions/"><u>The Benefits & Drawbacks of Crypto Investments - A Guide by YL Software Solutions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/form-concepts-to-successful-youtube-titles/"><u>Transform Concepts to Successful YouTube Titles</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-10-seo-servisov-v-dubline-irlandiya-povyshajte-onlajn-vidimost-s-pomoshyu-seo-powersuite/"><u>Топ-10 SEO-Сервисов В Дублине, Ирландия: Повышайте Онлайн Видимость С Помощью SEO PowerSuite</u></a></li>
 </ul></div>
 

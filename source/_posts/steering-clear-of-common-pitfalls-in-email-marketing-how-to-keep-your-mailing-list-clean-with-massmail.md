@@ -1,7 +1,7 @@
 ---
 title: "Steering Clear of Common Pitfalls in Email Marketing: How to Keep Your Mailing List Clean with MassMail"
-date: 2024-12-21T17:01:37.104Z
-updated: 2024-12-27T04:15:40.516Z
+date: 2024-12-29T17:29:28.520Z
+updated: 2025-01-05T16:10:22.289Z
 tags:
   - product
 categories:
@@ -45,7 +45,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -55,7 +55,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -74,17 +74,21 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -94,16 +98,12 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,21 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-essential-tips-for-youtube-audio-optimization/"><u>[New] 2024 Approved Essential Tips for YouTube Audio Optimization</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-average-to-exceptional-discover-the-finest-free-intra-designs/"><u>[New] 2024 Approved From Average to Exceptional Discover the Finest Free Intra Designs</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/12701587-new-2024-approved-sharing-stories-that-resonate-with-a-digital-audience-yt/"><u>[New] 2024 Approved Sharing Stories that Resonate with a Digital Audience YT.</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-all-you-need-to-know-about-upgrading-to-macos-11-big-sur/"><u>[New] All You Need to Know About Upgrading to macOS 11 Big Sur</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-maximizing-engagement-with-effective-endorsement-footage/"><u>[Updated] Maximizing Engagement with Effective Endorsement Footage</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/comment-resolvez-vous-un-probleme-de-demarrage-avec-sccm-et-pxe/"><u>Comment Résolvez-Vous Un Problème De Démarrage Avec SCCM Et PXE?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-leading-8-free-web-development-tools-for-windows-users/"><u>Discover the Leading 8 Free Web Development Tools for Windows Users</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/discwizard-cloning-issue-on-seagate/"><u>DiscWizard Cloning Issue on Seagate硬碟已經解決了</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/fixing-the-problem-of-non-syncing-contacts-between-iphone-and-google-mail/"><u>Fixing the Problem of Non-Syncing Contacts Between iPhone & Google Mail</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/guia-gratuito-como-consegui-alcance-e-reconecte-se-com-seus-dados-apagados-em-um-disco-rigidom-externo/"><u>Guia Gratuito: Como Consegui Alcance E Reconecte-Se Com Seus Dados Apagados Em Um Disco Rigidom Externo</u></a></li>
-<li><a href="https://games-able.techidaily.com/guide-terminating-steam-recurring-memberships/"><u>Guide: Terminating Steam Recurring Memberships</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-vivo-y78plus-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Vivo Y78+ FRP Locks</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/protecting-personal-computers-cost-free-methods-for-uploading-windows-7-documents-onto-nas-systems-beyond-synology/"><u>Protecting Personal Computers: Cost-Free Methods for Uploading Windows 7 Documents Onto NAS Systems, Beyond Synology</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728463053016-samsung-ssd/"><u>Samsung SSDが正常に接続されます - 手順ガイド</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/solving-the-mystery-of-googles-sudden-diverts-to-bing-causes-and-solutions-explained/"><u>Solving the Mystery of Google's Sudden Diverts to Bing: Causes & Solutions Explained</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-x100-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo X100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-navigating-the-maze-of-youtube-short-mistakes/"><u>[Updated] Navigating the Maze of YouTube Short Mistakes</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-experience-unparalleled-reality-top-10-pc-headsets-for-in-depth-vr-video/"><u>2024 Approved Experience Unparalleled Reality Top 10 PC Headsets for In-Depth VR Video</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728508923354-windows/"><u>三种创建Windows服务器全系统影像备份方法 - 最佳实践指南</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/ammans-premier-seo-firms-your-ultimate-2024-directory-and-expert-tips-with-seo-elite-solutions/"><u>Amman's Premier SEO Firms: Your Ultimate 2024 Directory & Expert Tips with SEO Elite Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/customizing-and-applying-data-labels-on-your-ms-excel-chart-a-step-by-step-guide/"><u>Customizing & Applying Data Labels on Your MS Excel Chart - A Step-By-Step Guide</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/exploring-literary-identities-introducing-yourself-through-aomei-bio-pages/"><u>Exploring Literary Identities: Introducing Yourself Through AOMEI Bio Pages</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-illuminating-your-android-videos/"><u>In 2024, Illuminating Your Android Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-your-stepwise-approach-to-uploading-youtube-shorts-on-laptop-phone/"><u>In 2024, Your Stepwise Approach to Uploading YouTube Shorts on Laptop, Phone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/lawful-techniques-for-gathering-contacts-master-sms-campaigns-with-massmail/"><u>Lawful Techniques for Gathering Contacts: Master SMS Campaigns with Massmail</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-the-art-of-starting-over-in-windows-11-expert-tips-for-an-effective-factory-reset-using-revo-uninstaller/"><u>Mastering the Art of Starting Over in Windows 11: Expert Tips for an Effective Factory Reset Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/revolution-in-email-outreach-from-1999-to-2012-with-massmail/"><u>Revolution in Email Outreach: From 1999 to 2012 with MassMail</u></a></li>
+<li><a href="https://network-issues.techidaily.com/step-by-step-solutions-to-restore-your-pcs-display-following-a-windows-10-update-malfunction/"><u>Step-by-Step Solutions to Restore Your PC's Display Following a Windows 10 Update Malfunction</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/step-by-step-tutorial-siding-loading-alternative-software-on-google-cast-devices/"><u>Step-by-Step Tutorial: Siding Loading Alternative Software on Google Cast Devices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-low-light-guru-writes-for-iphone-users/"><u>The Low Light Guru' Writes for iPhone Users</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/understanding-session-ids-comprehensive-guide-with-essential-seo-strategies/"><u>Understanding Session IDs: Comprehensive Guide with Essential SEO Strategies</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/what-are-orphan-pages-in-depth-analysis-and-top-seo-techniques-for-optimization-expert-insights-from-the-seo-toolkit/"><u>What Are Orphan Pages? In-Depth Analysis and Top SEO Techniques for Optimization - Expert Insights From the SEO Toolkit</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728489758192-windows-117/"><u>Windows 11/7間でフォルダー同期について学ぶ:ドライブバイツーリング</u></a></li>
 </ul></div>
 

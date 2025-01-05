@@ -1,7 +1,7 @@
 ---
 title: Deciphering the Digital Dialogue - MassMail's In-Depth Report on Email Marketing Trends and Future Projections for Years Two Thousand Ten to Fifteen
-date: 2024-10-12T22:22:30.661Z
-updated: 2024-10-20T01:42:14.711Z
+date: 2025-01-02T17:55:31.812Z
+updated: 2025-01-05T17:39:41.426Z
 tags:
   - product
 categories:
@@ -18,9 +18,17 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -32,28 +40,12 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -82,6 +74,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -95,10 +91,7 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
@@ -109,22 +102,12 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
@@ -134,13 +117,6 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -173,24 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-top-5-game-changers-for-professional-obs-studio-video/"><u>2024 Approved The Top 5 Game-Changers for Professional OBS Studio Video</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-windows-11-photo-customization-audio-plus-visuals/"><u>2024 Approved The Ultimate Guide to Windows 11 Photo Customization Audio + Visuals</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-samsung-galaxy-a23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728501730041-usb/"><u>快速修復缺失USB內容物件：全方位指南</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-itel-s23-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Itel S23 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/comment-proteger-vos-jeux-en-effectuant-des-backups-sur-plateformes-comme-steam-et-epic-games/"><u>Comment Protéger Vos Jeux En Effectuant Des Backups Sur Plateformes Comme Steam Et Epic Games?</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/disabling-heic-image-format-step-by-step-guide-for-iphone-models-from-11-to-se/"><u>Disabling HEIC Image Format: Step-by-Step Guide for iPhone Models From 11 to SE</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/ensure-business-continuity-with-aomeis-seamless-exchange-server-backup-solutions/"><u>Ensure Business Continuity with AOMEI's Seamless Exchange Server Backup Solutions</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/ensuring-safe-backups-a-guide-to-using-windows-server-2012-r2-on-synology-network-attached-storage-nas/"><u>Ensuring Safe Backups: A Guide to Using Windows Server 2012 R2 on Synology Network Attached Storage (NAS)</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/exploring-mcafees-capabilities-for-malware-detection-a-comparative-analysis-with-malwarefox-findings/"><u>Exploring McAfee's Capabilities for Malware Detection: A Comparative Analysis with MalwareFox Findings</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/how-to-move-your-hdd-or-sata-drive-to-a-solid-state-drive-ssd-using-windows-11-step-by-step-guide/"><u>How To Move Your HDD or SATA Drive to a Solid State Drive (SSD) Using Windows 11 - Step-by-Step Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/iniziare-con-una-nuova-piattaforma-di-posta-elettronica-ecco-come-migrare-i-tuoi-dati-gmail/"><u>Iniziare Con Una Nuova Piattaforma Di Posta Elettronica? Ecco Come Migrare I Tuoi Dati Gmail</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/mantaukan-data-anda-seperti-hadiah-gratis-proses-mudah-untuk-pemulihan-gigi-hdd-yang-tercoret/"><u>Mantaukan Data Anda Seperti Hadiah Gratis - Proses Mudah Untuk Pemulihan Gigi Hdd Yang Tercoret</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/1723262378040-qualcomms-affordable-snapdragon-x-elite-get-your-compact-desktop-development-kit-starting-preorders-today/"><u>Qualcomm's Affordable Snapdragon X Elite: Get Your Compact Desktop Development Kit – Starting Preorders Today</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/resolving-issues-retrieve-document-contents-in-microsoft-word-201/"><u>Resolving Issues: Retrieve Document Contents in Microsoft Word 201</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/thumbnail-tailoring-for-youtube-a-practical-guide-to-image-resizing-and-customization/"><u>Thumbnail Tailoring for YouTube A Practical Guide to Image Resizing and Customization</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/k-monetization-how-to-apply-for-the-youtube-partner-program-2024/"><u>Unlock Monetization How to Apply for the YouTube Partner Program 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/wiederherstellung-verlorener-daten-auf-einer-unerreichbaren-festplatte-erfolg-mit-myrecover/"><u>Wiederherstellung Verlorener Daten Auf Einer Unerreichbaren Festplatte - Erfolg Mit MyRecover</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-16-unique-metaverse-scenarios-demonstrating-vrs-impact/"><u>[Updated] 16 Unique Metaverse Scenarios Demonstrating VR's Impact</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-multipurpose-dock-experience-enhanced-connectivity-with-two-4k-hdmi-outputs-for-just-49-top-pick/"><u>Affordable Multipurpose Dock: Experience Enhanced Connectivity with Two 4K HDMI Outputs for Just $49 – Top Pick !</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/amplifying-visuals-expert-guide-to-snapchat-zoom/"><u>Amplifying Visuals Expert Guide to Snapchat Zoom</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/come-eseguire-lazzardo-di-guttman-una-guida-dettagliata-alleliminazione-completa-del-disco/"><u>Come Eseguire L'Azzardo Di Guttman: Una Guida Dettagliata All'Eliminazione Completa Del Disco</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/effective-marketing-strategies-and-budget-allocation-diving-into-2011-2012-with-channel-optimization-and-social-media-integration-using-massmail/"><u>Effective Marketing Strategies & Budget Allocation: Diving Into 2011-2012 with Channel Optimization and Social Media Integration Using MassMail</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/effective-techniques-for-moving-data-between-ssds-and-hdds-in-various-versions-of-windows-os/"><u>Effective Techniques for Moving Data Between SSDs and HDDs in Various Versions of Windows OS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-much-does-it-cost-inside-the-revolutionary-grok-artificial-intelligence-by-elon-musk/"><u>How Much Does It Cost? Inside the Revolutionary Grok Artificial Intelligence by Elon Musk</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/how-to-record-screen-with-adobe-captive-for-2024/"><u>How To Record Screen With Adobe Captive for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-crafting-connection-tips-and-tricks-for-sharing-content-via-facebook/"><u>In 2024, Crafting Connection Tips and Tricks for Sharing Content via Facebook</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/nokia-72-analysis-standout-features-that-elevate-this-midrange-device-above-its-peers/"><u>Nokia 7.2 Analysis: Standout Features That Elevate This Midrange Device Above Its Peers</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-free-disk-management-tools-optimize-your-storage-on-windows-11-10-8-and/"><u>Top Free Disk Management Tools: Optimize Your Storage on Windows 11, 10, 8 &</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/ultimate-guide-to-secure-connectivity-discover-the-best-12-protection-tools-for-wireless-networks-featuring-malwarefox/"><u>Ultimate Guide to Secure Connectivity: Discover the Best 12 Protection Tools for Wireless Networks Featuring MalwareFox</u></a></li>
 </ul></div>
 

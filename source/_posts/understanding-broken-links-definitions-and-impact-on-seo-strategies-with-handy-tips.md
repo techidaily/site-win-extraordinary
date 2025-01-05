@@ -1,7 +1,7 @@
 ---
 title: "Understanding Broken Links: Definitions and Impact on SEO Strategies with Handy Tips"
-date: 2024-12-26T06:33:46.737Z
-updated: 2024-12-26T23:19:54.023Z
+date: 2024-12-30T17:04:03.343Z
+updated: 2025-01-05T18:02:52.659Z
 tags:
   - wiki
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 ## Broken link
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Contents
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 A broken link is a link to a page that does not work. When a user or a search engine crawler follows such link, they see an error message or a 404 (not found) page. Another popular definition for broken links is dead links. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why broken links appear
@@ -72,6 +72,10 @@ When users follow a link that is broken, they may not necessarily see a **404 (n
 
 Broken links themselves do not directly affect your performance in search. Still, they negatively affect both the page they are placed on and the page they link to.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Outgoing broken links
 
 Broken links harm user experience and increase bounce rate, which will surely affect your site traffic. Besides, broken links result in incomplete content, as users cannot access the information they may need. What’s more, Google Quality Rater Guidelines say[\[2\]](https://tools.techidaily.com/link-assistant/products/) that Google watches the number of broken links to determine if the site is spammy or was abandoned. And if yes, Google may start deindexing the site.
@@ -88,21 +92,17 @@ Broken links should be fixed anyway to prevent link juice drainage and poor user
 
 Most broken links that return 4xx status codes are fixed with the help of correctly implemented 301 redirects to relevant pages. Doing so keeps users on your website (i.e. bounce rate decreases), saves link juice, and does not harm UX.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Broken links with other status codes
 
 If a link is broken because of server issues, then it is the server that needs fixing. Make sure everything is implemented correctly on the server side and ask Google to recrawl pages.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Setting up a custom 404 page
 
 Sometimes a page is moved without any alternative. In this case, you should not redirect users to your homepage but set up a custom 404 page. It should include some navigation links that may be interesting for users. Custom 404s are not indexed by Google and are needed to keep users on your site and decrease bounce rate.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Related links
 
@@ -111,7 +111,7 @@ Sometimes a page is moved without any alternative. In this case, you should not 
 [Most Common Indexing Issues and How to Fix Them - 404 Not Found](https://tools.techidaily.com/link-assistant/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## References
@@ -133,20 +133,19 @@ Sometimes a page is moved without any alternative. In this case, you should not 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-6-completely-different-places-to-get-icons-and-logos-for-youtube-videos/"><u>[New] 2024 Approved 6 Completely Different Places to Get Icons and Logos for YouTube Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-magix-music-maker-2024-review/"><u>[New] The Ultimate Guide to Magix Music Maker 2024 Review</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-cut-to-perfection-advanced-guide-to-cropping-videos-for-instagram/"><u>[Updated] In 2024, Cut to Perfection Advanced Guide to Cropping Videos for Instagram</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-tips-for-using-google-meets-built-in-photo-functionality/"><u>[Updated] In 2024, Tips for Using Google Meet's Built-In Photo Functionality</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/come-ripristinare-una-partizione-di-disco-cancellata-per-errore-su-windows-11/"><u>Come Ripristinare Una Partizione Di Disco Cancellata per Errore Su Windows 11</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/comprehensive-step-by-step-tutorial-transferring-data-from-a-sata-ssd-to-an-m2-nvme-drive/"><u>Comprehensive Step-by-Step Tutorial: Transferring Data From a SATA SSD to an M.2 NVMe Drive</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/copie-todas-as-partes-com-o-centralizado-do-aomei-opcoes-de-compra-simplificadas/"><u>Copie Todas as Partes Com O Centralizado Do AOMEI - Opções De Compra Simplificadas</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-14-how-to-unlock-a-disabled-iphone-14-drfone-by-drfone-ios/"><u>Disabled iPhone 14 How to Unlock a Disabled iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-11-pro-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone 11 Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/get-your-intel-unison-working-flawlessly-on-windows-11/"><u>Get Your Intel Unison Working Flawlessly on Windows 11</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/guide-de-lutilisation-de-la-carte-memoire-durgence-lenovo-onekey-pour-le-recuperer-facilement/"><u>Guide De L'Utilisation De La Carte Mémoire D'Urgence Lenovo OneKey Pour Le Récupérer Facilement</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-highest-quality-costless-clocks/"><u>In 2024, Highest Quality Costless Clocks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/precision-in-podcast-promotion-timelines-for-2024/"><u>Precision in Podcast Promotion Timelines for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/resolucion-al-problema-de-acceso-a-la-carpeta-programdata-en-windows-11/"><u>Resolución Al Problema De Acceso a La Carpeta 'ProgramData' En Windows 11</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/resoudre-les-dysfonctionnements-du-glisseur-et-deposeur-de-fenetre-par-defaut-en-mode-bureau-sur-windows-11/"><u>Résoudre Les Dysfonctionnements Du Glisseur Et Déposeur De Fenêtre Par Défaut en Mode Bureau Sur Windows 11</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-curated-insta-photos-in-slideshow-for-2024/"><u>[Updated] Curated Insta Photos in Slideshow for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-expert-advice-on-screen-recorders-for-zoom-meetings-for-2024/"><u>[Updated] Expert Advice on Screen Recorders for Zoom Meetings for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/anthem-of-adventure-engaging-sci-fi-action-and-humor-in-the-outer-worlds/"><u>Anthem of Adventure: Engaging Sci-Fi Action and Humor in The Outer Worlds</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/comparing-returns-which-yields-higher-earnings-software-development-vs-web-services-ventures/"><u>Comparing Returns: Which Yields Higher Earnings - Software Development Vs. Web Services Ventures</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/comprehensive-guide-on-yahoos-recent-dmarc-updates-featuring-insights-from-massmail-solutions/"><u>Comprehensive Guide on Yahoo's Recent DMARC Updates Featuring Insights From MassMail Solutions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/cushioning-calm-top-relaxing-pc-titles-for-2024/"><u>Cushioning Calm Top Relaxing PC Titles for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/download-top-rated-free-data-recovery-tools-today/"><u>Download Top Rated Free Data Recovery Tools Today</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/easy-trade-duplication-local-copier-now-supports-dxtrade-with-seamless-mt4-copy-transfers-via-mt4copier/"><u>Easy Trade Duplication: Local Copier Now Supports DXTrade with Seamless MT4 Copy Transfers via Mt4Copier</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/illustrate-laughter-memes-in-adobe-for-2024/"><u>Illustrate Laughter Memes in Adobe for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-elevating-your-gopro-footage-through-color-grading/"><u>In 2024, Elevating Your GoPro Footage Through Color Grading</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-unmatched-mac-visual-scriber-with-sound-capture/"><u>In 2024, Unmatched Mac Visual Scriber with Sound Capture</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/leading-mecca-seo-firms-best-digital-marketing-services-of-2024-with-seopower-suite/"><u>Leading Mecca SEO Firms: Best Digital Marketing Services of 2024 with SEOPower Suite</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/leading-seo-firms-in-lisbon-enhance-visibility-and-traffic-with-expert-services/"><u>Leading SEO Firms in Lisbon: Enhance Visibility and Traffic with Expert Services</u></a></li>
 </ul></div>
 

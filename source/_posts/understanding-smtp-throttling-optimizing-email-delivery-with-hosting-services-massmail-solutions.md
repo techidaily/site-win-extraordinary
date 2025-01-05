@@ -1,7 +1,7 @@
 ---
 title: "Understanding SMTP Throttling: Optimizing Email Delivery with Hosting Services | MassMail Solutions"
-date: 2024-12-23T16:40:43.322Z
-updated: 2024-12-27T00:22:50.230Z
+date: 2024-12-31T17:40:09.536Z
+updated: 2025-01-05T18:19:00.898Z
 tags:
   - product
 categories:
@@ -17,10 +17,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
@@ -49,7 +45,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -78,17 +74,9 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -98,25 +86,37 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,24 +149,15 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-inject-life-into-posts-change-your-voice-with-ease-on-insta/"><u>[New] Inject Life Into Posts Change Your Voice with Ease on Insta</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-boost-engagement-with-essential-marketing-terms-for-2024/"><u>[Updated] Boost Engagement with Essential Marketing Terms for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-youtube-sharing-with-google-credentials/"><u>[Updated] Navigating YouTube Sharing with Google Credentials</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-3-twitter-video-tools-for-easy-uploads/"><u>2024 Approved Top 3 Twitter Video Tools for Easy Uploads</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/copenhagens-premier-seo-services-elevate-your-website-traffic-excellence-by-optimizepro-experts/"><u>Copenhagen's Premier SEO Services: Elevate Your Website Traffic | Excellence by OptimizePro Experts</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/customizing-your-outreach-effective-techniques-for-personalized-cold-email-campaigns-using-massmail/"><u>Customizing Your Outreach: Effective Techniques for Personalized Cold Email Campaigns Using MassMail</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-lenovos-innovative-tech-seamlessly-transfers-files-from-iphones-with-latest-laptop-models-why-you-shouldnt-miss-out/"><u>Discover Lenovo's Innovative Tech: Seamlessly Transfers Files From iPhones with Latest Laptop Models - Why You Shouldn't Miss Out!</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/discover-superior-substitutes-to-moz-local-elevate-your-local-search-rankings-in-202c-comprehensive-guide-by-seo-powersuite/"><u>Discover Superior Substitutes to Moz Local: Elevate Your Local Search Rankings in 202C | Comprehensive Guide by SEO PowerSuite</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/gideon-v-wainwright-1963/"><u>Gideon V. Wainwright (1963)</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-get-the-latest-drivers-for-your-msi-b350-motherboard-on-windows-pcs/"><u>How to Get the Latest Drivers for Your MSI B350 Motherboard on Windows PCs</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Realme C67 4G? | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/massmail-software-explains-how-your-perception-of-sales-differs-from-reality/"><u>MassMail Software Explains How Your Perception of Sales Differs From Reality</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/professionelle-hdd-zu-ssd-klonierung-mit-topkloner-software/"><u>Professionelle HDD Zu SSD Klonierung Mit Topkloner-Software</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/real-time-strategies-for-utilizing-gpt-cutting-edge-with-chatgpt-now/"><u>Real-Time Strategies for Utilizing GPT-Cutting Edge with ChatGPT Now</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-gamers-guide-to-exceptional-video-sessions-for-2024/"><u>The Gamers' Guide to Exceptional Video Sessions for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-2-strategies-fur-die-integration-von-sharepoint-und-onedrive-synchronisation-auch-automatisch/"><u>Top 2 Strategies Für Die Integration Von SharePoint Und OneDrive - Synchronisation Auch Automatisch</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/ultimate-video-tips-for-efficient-contact-retrieval-using-massmail-learn-to-seamlessly-extract-phones-and-emails/"><u>Ultimate Video Tips for Efficient Contact Retrieval Using MassMail - Learn to Seamlessly Extract Phones and Emails!</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/understanding-link-equity-comprehensive-guide-and-optimization-strategies-for-enhanced-seo/"><u>Understanding Link Equity: Comprehensive Guide & Optimization Strategies for Enhanced SEO</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-soundscapes-of-apple-in-the-realm-of-vids/"><u>[Updated] Soundscapes of Apple in the Realm of Vids</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-ultimate-strategy-for-perfect-xbox-screen-recordings/"><u>[Updated] The Ultimate Strategy for Perfect Xbox Screen Recordings</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-techniques-for-capturing-high-quality-movies-on-all-os/"><u>2024 Approved Techniques for Capturing High-Quality Movies on All OS</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728504072042-windows-11/"><u>移動Windows 11中的附件到本地計算機 - 最佳方法</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/cloning-your-pc-setup-on-windows-11-no-need-to-reinstall/"><u>Cloning Your PC Setup on Windows 11 - No Need to Reinstall!</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/conseils-rapides-comment-remettre-en-place-votre-partition-ou-volume-sur-votre-pc/"><u>Conseils Rapides: Comment Remettre en Place Votre Partition Ou Volume Sur Votre PC</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/explore-books-anywhere-with-the-stylish-and-functional-kobo-clara-hd/"><u>Explore Books Anywhere with the Stylish and Functional Kobo Clara HD</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/identifying-exclusion-from-chatsphere/"><u>Identifying Exclusion From Chatsphere</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/simple-guide-effortless-restoration-of-images-on-external-storage-devices/"><u>Simple Guide: Effortless Restoration of Images on External Storage Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-resetting-your-macs-wi-fi-and-bluetooth-configurations/"><u>Ultimate Guide: Resetting Your Mac's Wi-Fi and Bluetooth Configurations</u></a></li>
 </ul></div>
 

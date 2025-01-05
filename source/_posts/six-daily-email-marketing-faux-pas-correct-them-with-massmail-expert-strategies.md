@@ -1,7 +1,7 @@
 ---
 title: Six Daily Email Marketing Faux Pas - Correct Them with MassMail Expert Strategies
-date: 2024-12-25T17:00:55.824Z
-updated: 2024-12-27T03:00:46.545Z
+date: 2025-01-04T18:09:14.173Z
+updated: 2025-01-05T17:34:22.029Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -49,7 +49,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -78,10 +78,6 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
@@ -91,7 +87,7 @@ If you use several types of media to promote your campaign, use a different keyw
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
@@ -103,7 +99,7 @@ When promoting your vanity short code, always provide the short code’s digits 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
@@ -114,13 +110,13 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-implementing-exact-timestamp-features-for-youtube/"><u>[New] 2024 Approved Implementing Exact Timestamp Features for YouTube</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-techniques-for-interpreting-video-reactions-on-youtube/"><u>[New] 2024 Approved Techniques for Interpreting Video Reactions on YouTube</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-professional-path-to-broadcasting-full-dome-content-on-fb/"><u>[Updated] 2024 Approved The Professional Path to Broadcasting Full-Dome Content on FB</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-flight-to-perfection-assessing-gopro-karmas-capabilities/"><u>[Updated] Flight to Perfection Assessing GoPro Karma's Capabilities</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-rapid-rendering-of-facebook-videos-tips-and-tricks/"><u>[Updated] In 2024, Rapid Rendering of Facebook Videos Tips & Tricks</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-beginner-to-pro-transforming-windows-videos-with-minimal-tools/"><u>2024 Approved From Beginner to Pro Transforming Windows Videos with Minimal Tools</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/4-windows-10-windows-11/"><u>4 種不同的方法：在 Windows 10 上重新安裝 Windows 11</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/decoding-transactional-search-intent-comprehensive-guide-plus-expert-seo-optimization-tips-elite-seo-authority/"><u>Decoding Transactional Search Intent – Comprehensive Guide + Expert SEO Optimization Tips | Elite SEO Authority</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/discover-the-best-seo-services-in-san-francisco-usa-the-definitive-2024-edition-by-seo-powersuite-experts/"><u>Discover the Best SEO Services in San Francisco, USA - The Definitive 2024 Edition by SEO PowerSuite Experts</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/easy-tips-and-tricks-for-effective-pc-backup-using-seagates-extermal-storage-solutions/"><u>Easy Tips & Tricks for Effective PC Backup Using Seagate's Extermal Storage Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-quiet-mode-a-comprehensive-guide-for-soundless-acer-laptops/"><u>Fixing Quiet Mode: A Comprehensive Guide for Soundless Acer Laptops</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo Y02T? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-oppo-k11-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Oppo K11 5G Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/junior-savers-program-a-guide-for-instilling-savings-habits-in-teens-through-the-innovative-use-of-massmail-solutions/"><u>Junior Savers Program: A Guide for Instilling Savings Habits in Teens Through the Innovative Use of MassMail Solutions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-the-art-of-screenshot-with-zd-software-for-2024/"><u>Mastering the Art of Screenshot with ZD Software for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/the-ultimate-list-of-top-ranking-forex-signal-services-a-comprehensive-guide/"><u>The Ultimate List of Top-Ranking Forex Signal Services: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-tools-similar-to-brightedge-mastering-advanced-seo-tactics-using-reliable-software-solutions/"><u>Top Tools Similar to BrightEdge: Mastering Advanced SEO Tactics Using Reliable Software Solutions</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/ultimate-step-by-step-strategy-restore-accidentally-erased-mp3-songs-in-windows-and-android/"><u>Ultimate Step-by-Step Strategy: Restore Accidentally Erased MP3 Songs in Windows and Android</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728484850952-usb/"><u>USB格式化後文件消失？不用擔心！: 深度文件重建無成本解決方法</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-exploring-ricoh-theta-s-in-full-review-for-2024/"><u>[Updated] Exploring Ricoh Theta S in Full Review for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/3-migliori-modi-per-abilitare-libernazione-su-windows-11-un-guida-completa/"><u>3 Migliori Modi per Abilitare L'Ibernazione Su Windows 11: Un Guida Completa</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-guide-to-lenovo-bluetooth-software-safe-download-and-update-for-win7win10/"><u>Complete Guide to Lenovo Bluetooth Software: Safe Download & Update for Win7/Win10</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/cutting-edge-strategies-to-minimize-vids-for-instagram-on-macos/"><u>Cutting-Edge Strategies to Minimize Vids for Instagram on macOS</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/duplicate-your-internal-hard-disk-on-any-windows-os-version-windows-11-10-8-and-7-guide/"><u>Duplicate Your Internal Hard Disk on Any Windows OS Version - Windows 11, 10, 8 & 7 Guide</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/enregistrer-definitivement-des-donnees-sur-un-disque-dur-avec-windows-11-une-methode-eprouvee/"><u>Enregistrer Définitivement Des Données Sur Un Disque Dur Avec Windows 11 : Une Méthode Éprouvée</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-world-of-dts-virtual-x-a-comprehensive-guide/"><u>Exploring the World of DTS Virtual X - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/how-to-resolve-partial-file-copies-with-synctoy-on-windows-11-and-7-platforms/"><u>How to Resolve Partial File Copies with SyncToy on Windows 11 and 7 Platforms</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/solucion-eficaz-para-problemas-de-copia-de-sectores-y-limitaciones-de-almacenamiento-utilizando-clonezilla/"><u>Solución Eficaz Para Problemas De Copia De Sectores Y Limitaciones De Almacenamiento Utilizando Clonezilla</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/strong-financial-position-with-over-137-billion-in-cash-reserves-as-of-2021-pineapple-has-significant-financial-resources-to-invest-in-research-and-developm123/"><u>Strong Financial Position: With over $137 Billion in Cash Reserves as of 2021, PineApple Has Significant Financial Resources to Invest in Research and Development or Acquisitions if Needed.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/transforma-archivos-de-video-3gp-a-imagenes-animadas-gif-gratuito-guia-de-movavi/"><u>Transforma Archivos De Video 3GP a Imágenes Animadas GIF Gratuito - Guía De Movavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/updating-your-apple-studio-displays-firmware-a-simple-guide/"><u>Updating Your Apple Studio Display's Firmware - A Simple Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-against-pc-game-glitches-fixing-frequent-f1-2020-crashes-successfully/"><u>Winning Against PC Game Glitches: Fixing Frequent F1 2020 Crashes Successfully</u></a></li>
 </ul></div>
 

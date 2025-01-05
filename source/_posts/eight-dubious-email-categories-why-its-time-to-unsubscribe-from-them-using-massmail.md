@@ -1,7 +1,7 @@
 ---
 title: "Eight Dubious Email Categories: Why It's Time to Unsubscribe From Them Using MassMail"
-date: 2024-10-13T01:22:56.127Z
-updated: 2024-10-20T03:25:21.760Z
+date: 2024-12-31T17:57:10.797Z
+updated: 2025-01-05T18:22:52.160Z
 tags:
   - product
 categories:
@@ -21,13 +21,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -69,22 +62,12 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
@@ -96,34 +79,36 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -133,6 +118,10 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -140,13 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -167,22 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-crafting-perfect-instagram-story-cover-pages-for-2024/"><u>[New] Crafting Perfect Instagram Story Cover Pages for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-sub-50-mic-selections-for-aspiring-streaming-artists/"><u>[Updated] 2024 Approved Sub-$50 Mic Selections for Aspiring Streaming Artists</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-total-data-for-uninterrupted-viewer-experience/"><u>[Updated] Total Data for Uninterrupted Viewer Experience</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/au-flac-avi/"><u>免費在線轉 AU 成 FLAC - 魔逆大戰 AVI聲音格式變更工具</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/ssd-hdd-ssd/"><u>最佳免費 SSD 克隆程式清單：如何容易地從 HDD 移動到 SSD</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/directory-services-restore-functionality/"><u>Directory Services Restore Functionality</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/effortlessly-flip-your-videos-three-simple-techniques-for-rotating-footage-on-windows-11/"><u>Effortlessly Flip Your Videos: Three Simple Techniques for Rotating Footage on Windows 11</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/effortlessly-send-data-across-pcs-with-wifi-sharing-techniques/"><u>Effortlessly Send Data Across PCs with WiFi Sharing Techniques</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/executive-seating-unveiled-the-x-chair-x4-review-for-productive-workspaces/"><u>Executive Seating Unveiled: The X-Chair X4 Review for Productive Workspaces</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Motorola Moto G04? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 14 Pro</u></a></li>
-<li><a href="https://driver-install.techidaily.com/latest-drivers-guide-how-to-keep-your-msi-bravo-sharp/"><u>Latest Drivers Guide: How to Keep Your MSI Bravo Sharp</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/migracion-rapida-y-sencilla-al-nuevo-hardware-con-windows-server-2016/"><u>Migración Rápida Y Sencilla Al Nuevo Hardware Con Windows Server 2016</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/resoudre-le-probleme-de-redemarrage-force-sur-windows-11-strategies-pratiques-8-techniques/"><u>Résoudre Le Problème De Redémarrage Forcé Sur Windows 11 : Stratégies Pratiques (8 Techniques)</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/segment-your-network-using-vlans-and-restrict-nas-access-through-appropriate-subnetting-reducing-exposure-to-potential-threats/"><u>Segment Your Network Using VLANs and Restrict NAS Access Through Appropriate Subnetting, Reducing Exposure to Potential Threats.</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/step-by-step-strategies-for-upgrading-your-windows-server-2008-r2-to-advanced-equipment-systems/"><u>Step-by-Step Strategies for Upgrading Your Windows Server 2008 (R2) to Advanced Equipment Systems</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728477836936-windows-10/"><u>Windows 10 システム復元機能が使えるように設定する詳細ガイド</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ourav-joshis-path-to-wealth-via-youtube-for-2024/"><u>[New] Sourav Joshi's Path to Wealth via YouTube for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-professional-gopro-footage-in-3-simple-steps/"><u>[Updated] In 2024, Professional Gopro Footage in 3 Simple Steps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-picture-to-motion-transformation-with-music-elements/"><u>2024 Approved Picture-to-Motion Transformation with Music Elements</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/die-optimalen-methoden-fur-die-replikation-von-datentragern-auf-windows-server-2008-r2/"><u>Die Optimalen Methoden Für Die Replikation Von Datenträgern Auf Windows Server 2008 R2</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-4k-multi-touch-desktops-for-work/"><u>Elite 4K Multi-Touch Desktops for Work</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-errors-in-graphics-card-drivers-ryzen-edition-solutions/"><u>Fixing Errors in Graphics Card Drivers: Ryzen Edition Solutions</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/how-labor-force-insights-can-shift-currency-values-in-fx-markets-using-mt4-copy-trading-tools/"><u>How Labor Force Insights Can Shift Currency Values in FX Markets Using MT4 Copy Trading Tools</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-iphone-xs-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your iPhone XS Apple ID and Apple Pay</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfectly-pair-audio-visual-delights-top-6-music-video-apps-for-android/"><u>In 2024, Perfectly Pair Audio-Visual Delights Top 6 Music Video Apps for Android</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/introducing-the-latest-addition-to-fxmagnetic-the-revolutionary-rsi-trader-for-mt4-pros/"><u>Introducing the Latest Addition to FXmagnetic: The Revolutionary RSI Trader for MT4 Pros</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/key-considerations-before-swapping-your-graphics-unit-advice-by-yl-software-experts/"><u>Key Considerations Before Swapping Your Graphics Unit - Advice by YL Software Experts</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/maneja-problemas-con-el-menu-inicio-en-windows-11-descubre-estas-9-estrategias-utiles/"><u>Maneja Problemas Con El Menú Inicio en Windows 11: Descubre Estas 9 Estrategias Útiles</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/mastering-currency-risks-in-forex-markets-effective-hedge-strategies-and-mt4mt5-trade-duplication-via-mt4copier/"><u>Mastering Currency Risks in Forex Markets: Effective Hedge Strategies and MT4/MT5 Trade Duplication via Mt4copier</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/resolved-how-to-retrieve-vanished-documents-from-an-outside-usb-device/"><u>Resolved: How to Retrieve Vanished Documents From an Outside USB Device!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-digital-resources-for-mastering-prompt-engineering-techniques/"><u>Top Digital Resources for Mastering Prompt Engineering Techniques</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/triumph-in-email-marketing-2010-boosting-open-rates-by-30-with-triggered-vs-traditional-broadcast-approaches-via-massmail-tech/"><u>Triumph in Email Marketing 2010: Boosting Open Rates by 30% with Triggered Vs. Traditional Broadcast Approaches via Massmail Tech</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/understanding-modrewrite-definitions-and-seo-best-practices-with-expert-tips/"><u>Understanding Mod_Rewrite: Definitions & SEO Best Practices with Expert Tips</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Harness Halloween Hype Quickly: Multi-Platform Promotions via MassMail Automation"
-date: 2024-12-23T20:28:49.907Z
-updated: 2024-12-27T05:23:07.227Z
+date: 2024-12-30T17:54:56.218Z
+updated: 2025-01-05T17:48:49.132Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -36,16 +32,12 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -55,10 +47,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -78,6 +66,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -90,13 +82,13 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -122,6 +114,10 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-how-to-secure-a-library-of-premium-free-graphic-designs/"><u>[New] In 2024, How to Secure a Library of Premium, Free Graphic Designs</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-seo-101-skyrocket-your-youtube-traffic/"><u>[New] In 2024, SEO 101 Skyrocket Your YouTube Traffic</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-optimal-activities-coexisting-with-listening-podcasts/"><u>[Updated] Optimal Activities Coexisting with Listening Podcasts</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728474319318-windows-11/"><u>完全解決：Windows 11における「このフォルダは空です」問題の詳細なガイド</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/windows1110873/"><u>修復失败的Windows系统影像备份：11、10、8和7版本的3种方法</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/effective-techniques-for-resuming-hyper-v-vms-stuck-in-save-or-restore-operations/"><u>Effective Techniques for Resuming Hyper-V VMs Stuck in Save or Restore Operations</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/explore-the-ultimate-guide-to-top-internetaffiliate-marketer-forums-unlock-opportunities-using-massmail-software-solutions/"><u>Explore the Ultimate Guide to Top Internet/Affiliate Marketer Forums - Unlock Opportunities Using Massmail Software Solutions</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-11-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone 11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-best-buys-detailed-analysis-of-top-6-hdmi-monitors/"><u>In 2024, Best Buys Detailed Analysis of Top 6 HDMI Monitors</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/leading-seo-firms-in-the-eternal-city-of-rome-enhance-visibility-with-expert-strategies/"><u>Leading SEO Firms in the Eternal City of Rome: Enhance Visibility with Expert Strategies</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/mastering-opengraph-for-enhanced-visibility-definitions-and-top-seo-techniques-explained/"><u>Mastering OpenGraph for Enhanced Visibility: Definitions and Top SEO Techniques Explained</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/navigating-through-vlcs-recording-options-for-2024/"><u>Navigating Through VLC's Recording Options for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/privacyayer-why-and-how-to-delete-your-facebook-view-trails/"><u>Privacy'ayer: Why and How to Delete Your Facebook View Trails</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pro-level-clarity-top-8k-cameras-for-the-ultimate-picture/"><u>Pro-Level Clarity Top 8K Cameras for the Ultimate Picture</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/professional-strategies-for-myspace-entrepreneurs-enhance-your-online-image-with-massmail-tools/"><u>Professional Strategies for MySpace Entrepreneurs: Enhance Your Online Image with MassMail Tools</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-photography-journey-with-vsco-editing-tool-for-2024/"><u>Ultimate Photography Journey with VSCO Editing Tool for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/luchshie-specializirovannye-agentstva-po-seo-i-prodvizheniyu-v-varshave-polsha-rejting-s-seo-powersuite/"><u>Лучшие Специализированные Агентства По SEO И Продвижению В Варшаве, Польша: Рейтинг С SEO PowerSuite</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/samye-effektivnye-agentstva-po-optimizacii-dlya-poiskovyh-sistem-v-filadelfii-seo-powersuite/"><u>Самые Эффективные Агентства По Оптимизации Для Поисковых Систем В Филадельфии - SEO PowerSuite</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-how-to-shoot-underwater-video-easily-with-7-tips-for-2024/"><u>[New] How to Shoot Underwater Video Easily (with 7 Tips) for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-webcam-use-for-professional-meeting-records-for-2024/"><u>[Updated] Mastering Webcam Use for Professional Meeting Records for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-twitch-user-introduction-measurements-format-duration/"><u>2024 Approved Twitch User Introduction Measurements, Format, Duration</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/dell-xpsssd/"><u>専用ガイド: Dell XPSで安全にSSD容量アップ手順</u></a></li>
+<li><a href="https://os-tips.techidaily.com/a-comprehensive-guide-to-downloading-all-members-of-your-whatsapp-group-chat/"><u>A Comprehensive Guide to Downloading All Members of Your WhatsApp Group Chat</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/a-comprehensive-guide-setting-up-vcenter-on-esxi-and-windows-servers-a-step-by-step-tutorial/"><u>A Comprehensive Guide: Setting Up vCenter on ESXi & Windows Servers - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/erfolgreiches-network-cloning-auf-mehreren-computern-methoden-und-tipps-zum-perfektionieren-des-prozesses/"><u>Erfolgreiches Network-Cloning Auf Mehreren Computern - Methoden Und Tipps Zum Perfektionieren Des Prozesses</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/expand-storage-top-six-methods-to-create-more-room-on-your-windows-10-system/"><u>Expand Storage: Top Six Methods to Create More Room on Your Windows 10 System</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovating-film-viewing-with-iphone-tricks/"><u>In 2024, Innovating Film Viewing with iPhone Tricks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-seamless-social-sharing-upload-a-twt/"><u>In 2024, Seamless Social Sharing Upload a Twt</u></a></li>
+<li><a href="https://win-news.techidaily.com/instruzione-passo-passo-per-creare-unimage-iso-da-hard-disk-utilizzando-windows-11/"><u>Instruzione Passo-Passo per Creare Un'Image ISO Da Hard Disk Utilizzando Windows 11</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/optimizing-pc-speed-verifying-accuracy-of-your-machines-temp-directory/"><u>Optimizing PC Speed: Verifying Accuracy of Your Machine's Temp Directory</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-guide-how-to-download-windows-movie-maker-6-for-2024/"><u>Quick Guide How to Download Windows Movie Maker 6 for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/revealing-invisible-words-within-pictures-of-word-files-techniques-explored/"><u>Revealing Invisible Words Within Pictures of Word Files: Techniques Explored</u></a></li>
 </ul></div>
 

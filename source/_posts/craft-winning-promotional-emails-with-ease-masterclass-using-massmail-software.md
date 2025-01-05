@@ -1,7 +1,7 @@
 ---
 title: "Craft Winning Promotional Emails with Ease: Masterclass Using Massmail Software"
-date: 2024-12-21T19:54:43.788Z
-updated: 2024-12-27T04:14:35.749Z
+date: 2024-12-31T17:25:49.880Z
+updated: 2025-01-05T16:13:51.684Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -37,7 +33,7 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s engaging
@@ -53,7 +49,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -61,10 +57,6 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -78,6 +70,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -86,21 +82,17 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -113,6 +105,10 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,16 +149,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevate-your-presence-the-best-5-practices-for-max-viewers/"><u>[Updated] In 2024, Elevate Your Presence The Best 5 Practices for Max Viewers</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-realme-narzo-n55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquering-oculus-install-error-on-wincx-a-helpful-guide/"><u>Conquering Oculus Install Error on WinCX: A Helpful Guide</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/guide-de-lutilisation-de-la-carte-memoire-durgence-lenovo-onekey-pour-le-recuperer-facilement/"><u>Guide De L'Utilisation De La Carte Mémoire D'Urgence Lenovo OneKey Pour Le Récupérer Facilement</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-magic5-ultimate-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Honor Magic5 Ultimate Phone with Broken Screen</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/metodos-eficaces-para-eliminar-copias-de-seguridad-del-historial-de-archivos-en-tu-pc-con-windows-ebx/"><u>Métodos Eficaces Para Eliminar Copias De Seguridad Del Historial De Archivos en Tu PC Con Windows Ebx</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/moving-your-google-authenticator-a-step-by-step-guide-for-upgrading-to-a-new-iphone/"><u>Moving Your Google Authenticator: A Step-by-Step Guide for Upgrading to a New iPhone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/resoudre-les-dysfonctionnements-du-glisseur-et-deposeur-de-fenetre-par-defaut-en-mode-bureau-sur-windows-11/"><u>Résoudre Les Dysfonctionnements Du Glisseur Et Déposeur De Fenêtre Par Défaut en Mode Bureau Sur Windows 11</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/restore-your-security-successfully-resolving-email-hacks-in-3-simple-steps/"><u>Restore Your Security: Successfully Resolving Email Hacks in 3 Simple Steps</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-art-of-streaming-saved-media-easy-igtv-downloads-on-pc-and-mac/"><u>The Art of Streaming Saved Media Easy IGTV Downloads on PC & Mac</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/ultimate-list-of-high-performance-video-transcoding-software-for-pcs-running-windows-2023-edition/"><u>Ultimate List of High-Performance Video Transcoding Software for PCs Running Windows, 2023 Edition</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-explore-the-best-in-class-android-apps-to-revive-ps2-games/"><u>[Updated] Explore the Best-in-Class Android Apps to Revive PS2 Games</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-ghostly-glance-at-fb-sequences/"><u>[Updated] In 2024, Ghostly Glance at Fb Sequences</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/boost-your-conversions-building-irresistible-email-signup-forms-detailed-tips-and-techniques-with-massmail-demo/"><u>Boost Your Conversions: Building Irresistible Email Signup Forms, Detailed Tips & Techniques with MassMail Demo</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-review-unleashing-the-potential-of-maxoaks-high-capacity-battery-pack-with-185-wh-and-50000-mah-your-go-to-power-bank/"><u>Comprehensive Review: Unleashing the Potential of MaxOak's High Capacity Battery Pack with 185 Wh and 50,000 mAh – Your Go-To Power Bank!</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/discover-pope-benedict-xvis-official-email-via-massmail-enhanced-communication-with-secure-software/"><u>Discover Pope Benedict XVI's Official Email via MassMail: Enhanced Communication with Secure Software</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y100t-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Vivo Y100t Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-cutting-edge-videography-bordering-techniques-for-ig/"><u>In 2024, Cutting-Edge Videography Bordering Techniques for IG</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/mastering-the-art-of-safeguarding-virtual-environments-discover-sicher-vm-security-techniques/"><u>Mastering the Art of Safeguarding Virtual Environments: Discover [Sicher] VM Security Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-slow-download-challenges-in-utorrent-a-step-by-step-guide/"><u>Overcoming Slow Download Challenges in uTorrent: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-changing-your-samsung-tvs-built-in-web-browser/"><u>Step-by-Step Guide: Changing Your Samsung TV's Built-In Web Browser</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/the-traders-guide-to-winning-mentality-leveraging-trade-copiers-on-mt4-and-mt5-for-enhanced-swing-trading-results/"><u>The Trader's Guide to Winning Mentality: Leveraging Trade Copiers on MT4 & MT#5 for Enhanced Swing Trading Results</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-complimentary-digital-assets-for-creative-makers-updated-list-massmail/"><u>Top Complimentary Digital Assets for Creative Makers - Updated List | MassMail</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/ubertragung-von-musik-auf-den-neuen-iphone-modellen-ab-ios-15-14-bis-einschliesslich-12-und-11-fuhren-sie-diese-7-losungen-aus/"><u>Übertragung Von Musik Auf Den Neuen iPhone Modellen Ab iOS 15, 14 Bis Einschließlich 12 Und 11 – Führen Sie Diese 7 Lösungen Aus</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/virtual-event-space-12-channel-livestream-experience/"><u>Virtual Event Space 12-Channel Livestream Experience</u></a></li>
 </ul></div>
 
