@@ -1,7 +1,7 @@
 ---
 title: "Top Notch 2009 Business Laughs: Timelessly Funny Office Anecdotes & Shareable by Massmail App"
-date: 2025-01-01T17:44:46.456Z
-updated: 2025-01-05T16:33:21.175Z
+date: 2025-01-10T03:41:36.498Z
+updated: 2025-01-11T17:24:00.653Z
 tags:
   - product
 categories:
@@ -18,13 +18,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -35,10 +35,6 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -58,6 +54,10 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -70,10 +70,6 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -82,25 +78,25 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -110,13 +106,13 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-strategies-for-maximizing-your-twitter-archive/"><u>[New] 2024 Approved Strategies for Maximizing Your Twitter Archive</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-choosing-from-manycams-finding-optimal-options/"><u>[Updated] In 2024, Choosing From ManyCams Finding Optimal Options</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-is-integrating-itop-into-your-toolkit-advisable/"><u>[Updated] Is Integrating ITop Into Your Toolkit Advisable?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-jumpstart-your-channel-key-hashtags-for-6-figure-impact-for-2024/"><u>[Updated] Jumpstart Your Channel Key Hashtags for 6-Figure Impact for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728487015231-aomei-backupper/"><u>简要探索 AOMEI Backupper: 主要特性与操作方法</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/comment-resolvez-vous-un-probleme-de-demarrage-avec-sccm-et-pxe/"><u>Comment Résolvez-Vous Un Problème De Démarrage Avec SCCM Et PXE?</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/discwizard-cloning-issue-on-seagate/"><u>DiscWizard Cloning Issue on Seagate硬碟已經解決了</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722891529371-dive-into-tomorrow-at-samsung-unpacked-2025-key-announcements-and-expert-predictions-awaiting/"><u>Dive Into Tomorrow at Samsung Unpacked 2025 - Key Announcements & Expert Predictions Awaiting!</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/expert-tips-for-resolving-persistent-ipad-restart-issues-the-top-5-solutions-you-need/"><u>Expert Tips for Resolving Persistent iPad Restart Issues – The Top 5 Solutions You Need</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/fixing-the-problem-of-non-syncing-contacts-between-iphone-and-google-mail/"><u>Fixing the Problem of Non-Syncing Contacts Between iPhone & Google Mail</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-plus-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 Plus to other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728488582558-outlook/"><u>Outlook: 詳盡教程如何回收已永久删除的电子邮件</u></a></li>
-<li><a href="https://windows11.techidaily.com/phase-out-announcement-end-for-windows-781-on-microsoft-platforms/"><u>Phase-Out Announcement: End for Windows 7/8.1 on Microsoft Platforms</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728463053016-samsung-ssd/"><u>Samsung SSDが正常に接続されます - 手順ガイド</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/steps-to-restore-deleted-contact-information-from-an-android-smartphone/"><u>Steps to Restore Deleted Contact Information From an Android Smartphone</u></a></li>
-<li><a href="https://win11.techidaily.com/the-mystery-of-ftdibussys-and-windows-memory-standards/"><u>The Mystery of ftdibus.sys & Windows Memory Standards</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/troubleshooting-and-resolving-no-internet-access-in-your-hyper-v-virtual-machine-on-windows-1011-expert-guidance/"><u>Troubleshooting and Resolving No Internet Access in Your Hyper-V Virtual Machine on Windows 10/11: Expert Guidance</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-from-footage-to-film-mastering-video-editing-with-windows-movie-maker/"><u>Updated In 2024, From Footage to Film Mastering Video Editing with Windows Movie Maker</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/windows-nology-unveiled-a-comprehensive-tutorial-for-incremental-and-differential-data-backup-in-windows-11/"><u>Windows Nology Unveiled: A Comprehensive Tutorial for Incremental and Differential Data Backup in Windows 11</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-game-on-djis-new-contenders-mavic-air-vs-spark-in-combat/"><u>[New] In 2024, Game On DJI's New Contenders – Mavic Air Vs. Spark in Combat</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mastering-instagram-rising-video-view-counts/"><u>[Updated] 2024 Approved Mastering Instagram Rising Video View Counts</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728479866542-windows-11/"><u>如何快速且安全的重新格式化和安装Windows 11：三种不同的方法</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728503105651-windows-11/"><u>使用Windows 11兼容性檢查器選擇最適合的工具和設置</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-latest-nvidia-drivers-compatible-with-windows-10-hassle-free/"><u>Download Latest NVIDIA Drivers Compatible with Windows 10 - Hassle-Free!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/enhance-your-video-understanding-windows-hdr-for-2024/"><u>Enhance Your Video Understanding Windows HDR for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/guia-paso-a-paso-clonar-el-entorno-de-inicio-en-windows-ninja-para-evitar-la-perdida-de-informacion/"><u>Guía Paso a Paso: Clonar El Entorno De Inicio en Windows Ninja Para Evitar La Pérdida De Información</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-effective-guide-to-cast-apple-iphone-6s-to-macbook-without-hindrance-drfone-by-drfone-ios/"><u>In 2024, Effective Guide to Cast Apple iPhone 6s to MacBook without Hindrance | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Poco C51? | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/migracion-rapida-y-sencilla-al-nuevo-hardware-con-windows-server-2016/"><u>Migración Rápida Y Sencilla Al Nuevo Hardware Con Windows Server 2016</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-windows-movie-maker-tutorial-editing-videos-like-a-pro/"><u>New 2024 Approved Windows Movie Maker Tutorial Editing Videos Like a Pro</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-0x800705b4-fault-during-windows-10-updates-a-complete-fix-guide/"><u>Resolving the 0X800705b4 Fault During Windows 10 Updates - A Complete Fix Guide</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/resoudre-le-probleme-de-redemarrage-force-sur-windows-11-strategies-pratiques-8-techniques/"><u>Résoudre Le Problème De Redémarrage Forcé Sur Windows 11 : Stratégies Pratiques (8 Techniques)</u></a></li>
 </ul></div>
 

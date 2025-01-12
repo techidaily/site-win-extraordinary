@@ -1,7 +1,7 @@
 ---
 title: Explore the Resurgence of Video in Email Campaigns - Elevate Engagement Using MassMail Tools!
-date: 2024-12-31T17:01:02.474Z
-updated: 2025-01-05T16:09:25.385Z
+date: 2025-01-09T01:21:27.034Z
+updated: 2025-01-12T02:31:03.997Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -37,7 +33,7 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s engaging
@@ -45,7 +41,7 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -55,6 +51,10 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -74,17 +74,9 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
@@ -94,17 +86,21 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -130,6 +126,10 @@ Written by:
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Emily Bronte
 
  Back to blog
@@ -149,24 +149,16 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-uncluttered-desktop-recorder-w10/"><u>[New] Uncluttered Desktop Recorder W10</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-ultimate-guide-to-action-film-snapshotting/"><u>[Updated] 2024 Approved Ultimate Guide to Action Film Snapshotting</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-shoes-for-virtual-ground-leading-treadmill-insights/"><u>[Updated] In 2024, Shoes for Virtual Ground Leading Treadmill Insights</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1-schritt-fur-schritt-anleitung-zum-erstellungsvorgang-von-ipod-touch-backups-auf-dem-pc-oder-im-icloud/"><u>1. Schritt-Für-Schritt Anleitung Zum Erstellungsvorgang Von IPod Touch Backups Auf Dem PC Oder Im iCloud</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/2-how-to-seamlessly-import-a-pst-file-to-gmail-techniques-including-outlook-integration-and-standalone-options/"><u>2. How to Seamlessly Import a PST File to Gmail: Techniques Including Outlook Integration and Standalone Options</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/botnet-basics-unveiled-how-these-networks-operate-demystified-for-the-everyday-user/"><u>Botnet Basics Unveiled: How These Networks Operate Demystified for the Everyday User</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/cutting-edge-photo-and-video-enhancement-top-8-editing-apps-for-modern-devices-for-2024/"><u>Cutting-Edge Photo & Video Enhancement Top 8 Editing Apps for Modern Devices for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/eine-effiziente-losung-zum-abrufen-und-wiederherstellen-von-ausfuhrlich-geloschten-nachrichten-in-deinem-microsoft-outlook-postfach/"><u>Eine Effiziente Lösung Zum Abrufen Und Wiederherstellen Von Ausführlich Gelöschten Nachrichten in Deinem Microsoft Outlook-Postfach</u></a></li>
-<li><a href="https://article-files.techidaily.com/elements-to-construct-a-magnetic-vlog-storyline-for-2024/"><u>Elements to Construct a Magnetic Vlog Storyline for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-ipadiphone-experience-top-4-gba-emulators/"><u>Enhancing iPad/iPhone Experience: Top 4 GBA Emulators!</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/how-to-optimize-your-computers-performance-and-lower-resource-consumption-expert-advice-from-yl-computing/"><u>How to Optimize Your Computer's Performance and Lower Resource Consumption - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-mastering-the-art-of-unfollow-a-compilation-of-essential-tools/"><u>In 2024, Mastering the Art of Unfollow A Compilation of Essential Tools</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-the-chromatic-chameleons-playbook-for-masters/"><u>In 2024, The Chromatic Chameleon's Playbook for Masters</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/os-melhores-softwares-de-resgate-do-servidor-windows-descubra-a-solucao-eficiente-do-aomee-backupper/"><u>Os Melhores Softwares De Resgate Do Servidor Windows - Descubra a Solução Eficiente Do AoMee Backupper</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/retrieve-accidentally-erased-data-top-4-solutions-for-windows-and-macos-users/"><u>Retrieve Accidentally Erased Data: Top 4 Solutions for Windows & macOS Users</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/ssd-windows-115/"><u>SSD認識不可: Windows 11におけるトップ5修復手順</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-rated-no-cost-sandisk-ultimate-external-hard-drive-clone-tool/"><u>Top Rated No-Cost Sandisk Ultimate External Hard Drive Clone Tool</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728483520782-windows/"><u>Windows 系統下載錯亂！怎麼找到正確位置？</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/yl-computings-guide-installing-applications-on-your-control-panel/"><u>YL Computing's Guide: Installing Applications on Your Control Panel</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-unlocking-the-secrets-of-instagrams-saved-content/"><u>[New] In 2024, Unlocking the Secrets of Instagram's Saved Content</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/comprehensive-analysis-of-international-email-promotion-trends-in-2009-2010-featuring-massmail-solutions/"><u>Comprehensive Analysis of International Email Promotion Trends in 2009-2010 - Featuring Massmail Solutions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/essential-tactics-for-a-solo-podcast-craze/"><u>Essential Tactics for a Solo Podcast Craze</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/expert-advice-on-bypassing-the-barrier-liberate-your-ebooks-from-nooks-drm-today/"><u>Expert Advice on Bypassing the Barrier: Liberate Your Ebooks From Nook's DRM Today!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Vivo Y17s? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/insufficient-disk-space-resolving-not-enough-storage-errors/"><u>Insufficient Disk Space: Resolving 'Not Enough Storage' Errors</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/recuperation-de-fichiers-innovante-alternatives-a-puran-pour-les-utilisateurs-de-2024/"><u>Récupération De Fichiers Innovante: Alternatives À Puran Pour Les Utilisateurs De 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/streamline-your-life-quick-tips-to-beginning-on-discord-broadcasts/"><u>Streamline Your Life Quick Tips to Beginning on Discord Broadcasts</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/the-ultimate-guide-to-picking-a-quality-mt4-duplication-tool-for-forex-traders/"><u>The Ultimate Guide to Picking a Quality MT4 Duplication Tool for Forex Traders</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/ubertragen-von-iphone-filmen-auf-einen-pc-unter-windows-1110-top-strategien/"><u>Überträgen Von iPhone-Filmen Auf Einen PC Unter Windows 11/10: Top-Strategien</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/updated-hp-deskjet-37er5-ink-advantage-driver-available-now-for-pcs-windows-10-8-and-7/"><u>Updated HP DeskJet 37Er5 Ink Advantage Driver Available Now for PCs (Windows 10, 8 & 7)</u></a></li>
 </ul></div>
 

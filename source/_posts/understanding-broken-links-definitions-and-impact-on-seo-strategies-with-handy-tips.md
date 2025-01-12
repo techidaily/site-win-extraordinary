@@ -1,7 +1,7 @@
 ---
 title: "Understanding Broken Links: Definitions and Impact on SEO Strategies with Handy Tips"
-date: 2024-12-30T17:04:03.343Z
-updated: 2025-01-05T18:02:52.659Z
+date: 2025-01-10T06:56:53.814Z
+updated: 2025-01-11T18:30:38.685Z
 tags:
   - wiki
 categories:
@@ -16,10 +16,14 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Broken link
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Contents
@@ -40,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 ## Broken link definition
 
 A broken link is a link to a page that does not work. When a user or a search engine crawler follows such link, they see an error message or a 404 (not found) page. Another popular definition for broken links is dead links. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why broken links appear
 
@@ -68,6 +68,10 @@ When users follow a link that is broken, they may not necessarily see a **404 (n
 
 * **Reset**. A server dropped connections because it was misconfigured or too busy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Broken links’ meaning for SEO
 
 Broken links themselves do not directly affect your performance in search. Still, they negatively affect both the page they are placed on and the page they link to.
@@ -80,6 +84,10 @@ Broken links themselves do not directly affect your performance in search. Still
 
 Broken links harm user experience and increase bounce rate, which will surely affect your site traffic. Besides, broken links result in incomplete content, as users cannot access the information they may need. What’s more, Google Quality Rater Guidelines say[\[2\]](https://tools.techidaily.com/link-assistant/products/) that Google watches the number of broken links to determine if the site is spammy or was abandoned. And if yes, Google may start deindexing the site.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Incoming broken links
 
 Broken links do not pass link juice, so the page where the link points to will not receive value and page strength. Plus, a page where a broken link points to may not be indexed at all if no other links point to it.
@@ -91,10 +99,6 @@ Broken links should be fixed anyway to prevent link juice drainage and poor user
 ### Broken links with 4xx status codes
 
 Most broken links that return 4xx status codes are fixed with the help of correctly implemented 301 redirects to relevant pages. Doing so keeps users on your website (i.e. bounce rate decreases), saves link juice, and does not harm UX.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Broken links with other status codes
 
@@ -109,10 +113,6 @@ Sometimes a page is moved without any alternative. In this case, you should not 
 [The Ultimate Guide to Broken Link Building](https://tools.techidaily.com/link-assistant/products/)
 
 [Most Common Indexing Issues and How to Fix Them - 404 Not Found](https://tools.techidaily.com/link-assistant/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## References
 
@@ -133,19 +133,24 @@ Sometimes a page is moved without any alternative. In this case, you should not 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-curated-insta-photos-in-slideshow-for-2024/"><u>[Updated] Curated Insta Photos in Slideshow for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-expert-advice-on-screen-recorders-for-zoom-meetings-for-2024/"><u>[Updated] Expert Advice on Screen Recorders for Zoom Meetings for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/anthem-of-adventure-engaging-sci-fi-action-and-humor-in-the-outer-worlds/"><u>Anthem of Adventure: Engaging Sci-Fi Action and Humor in The Outer Worlds</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/comparing-returns-which-yields-higher-earnings-software-development-vs-web-services-ventures/"><u>Comparing Returns: Which Yields Higher Earnings - Software Development Vs. Web Services Ventures</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/comprehensive-guide-on-yahoos-recent-dmarc-updates-featuring-insights-from-massmail-solutions/"><u>Comprehensive Guide on Yahoo's Recent DMARC Updates Featuring Insights From MassMail Solutions</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/cushioning-calm-top-relaxing-pc-titles-for-2024/"><u>Cushioning Calm Top Relaxing PC Titles for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/download-top-rated-free-data-recovery-tools-today/"><u>Download Top Rated Free Data Recovery Tools Today</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/easy-trade-duplication-local-copier-now-supports-dxtrade-with-seamless-mt4-copy-transfers-via-mt4copier/"><u>Easy Trade Duplication: Local Copier Now Supports DXTrade with Seamless MT4 Copy Transfers via Mt4Copier</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/illustrate-laughter-memes-in-adobe-for-2024/"><u>Illustrate Laughter Memes in Adobe for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-elevating-your-gopro-footage-through-color-grading/"><u>In 2024, Elevating Your GoPro Footage Through Color Grading</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-unmatched-mac-visual-scriber-with-sound-capture/"><u>In 2024, Unmatched Mac Visual Scriber with Sound Capture</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/leading-mecca-seo-firms-best-digital-marketing-services-of-2024-with-seopower-suite/"><u>Leading Mecca SEO Firms: Best Digital Marketing Services of 2024 with SEOPower Suite</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/leading-seo-firms-in-lisbon-enhance-visibility-and-traffic-with-expert-services/"><u>Leading SEO Firms in Lisbon: Enhance Visibility and Traffic with Expert Services</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-insta-zoom-mastery-in-and-out-for-clearer-selfies/"><u>[New] 2024 Approved Insta Zoom Mastery In and Out for Clearer Selfies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-download-youtube-playlists-without-hassle-our-guide-for-2024/"><u>[Updated] Download YouTube Playlists Without Hassle - Our Guide for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-snap-away-the-best-cams-for-novice-photographers/"><u>[Updated] Snap Away The Best Cams for Novice Photographers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-decode-your-insta-performance-a-complete-look-at-user-behavior/"><u>2024 Approved Decode Your Insta Performance A Complete Look at User Behavior</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/windows1110873/"><u>修復失败的Windows系统影像备份：11、10、8和7版本的3种方法</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/beginners-guide-to-successful-forex-trading-with-three-proven-mt4-techniques/"><u>Beginner's Guide to Successful Forex Trading with Three Proven MT4 Techniques</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/easy-steps-for-retrieving-accidentally-deleted-files-in-windows-10-trash-can/"><u>Easy Steps for Retrieving Accidentally Deleted Files in Windows 10 Trash Can</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/expert-level-url-catalog-management-and-optimization-using-powersuites-premier-seo-solutions/"><u>Expert-Level URL Catalog Management & Optimization Using PowerSuite's Premier SEO Solutions</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/future-forecast-exciting-developments-for-pcdj-in-2015/"><u>Future Forecast: Exciting Developments for PCDJ in 2015</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-breaking-the-internet-hashtag-wisdom-for-short-films/"><u>In 2024, Breaking the Internet Hashtag Wisdom for Short Films</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/is-it-true-that-re-formatting-your-storage-device-deletes-every-bit-of-information/"><u>Is It True That Re-Formatting Your Storage Device Deletes Every Bit of Information?</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/leading-seo-firms-in-the-eternal-city-of-rome-enhance-visibility-with-expert-strategies/"><u>Leading SEO Firms in the Eternal City of Rome: Enhance Visibility with Expert Strategies</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/professional-strategies-for-myspace-entrepreneurs-enhance-your-online-image-with-massmail-tools/"><u>Professional Strategies for MySpace Entrepreneurs: Enhance Your Online Image with MassMail Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/professionalizing-virtual-collaboration-zoom-recording-tips/"><u>Professionalizing Virtual Collaboration Zoom Recording Tips</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/seamlessly-move-songs-from-ipad-to-iphone-guided-steps-including-pc-free-options/"><u>Seamlessly Move Songs From iPad to iPhone – Guided Steps Including PC-Free Options</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-laptop-trackpad-issues-on-windows-10-8-and-7-a-comprehensive-guide/"><u>Solving Laptop Trackpad Issues on Windows 10, 8 & 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-cyberpunk-2077-game-crashes-on-pc-effective-strategies-revealed/"><u>Troubleshooting Cyberpunk 2077 Game Crashes on PC - Effective Strategies Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-meta-quest-3s-ai-features-faster-than-apple-vision-pro-the-ultimate-setup-guide/"><u>Unlocking Meta Quest 3'S AI Features Faster Than Apple Vision Pro – The Ultimate Setup Guide</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/luchshie-specializirovannye-agentstva-po-seo-i-prodvizheniyu-v-varshave-polsha-rejting-s-seo-powersuite/"><u>Лучшие Специализированные Агентства По SEO И Продвижению В Варшаве, Польша: Рейтинг С SEO PowerSuite</u></a></li>
 </ul></div>
 

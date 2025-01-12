@@ -1,7 +1,7 @@
 ---
 title: Demystifying Clickbait Tactics in the Context of Effective SEO Techniques
-date: 2024-12-30T16:45:33.639Z
-updated: 2025-01-05T17:53:32.223Z
+date: 2025-01-09T22:15:26.943Z
+updated: 2025-01-12T06:17:47.218Z
 tags:
   - wiki
 categories:
@@ -16,11 +16,11 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## Clickbait
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Clickbait
 
 ### Contents
 
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 * [Does clickbait work?](https://tools.techidaily.com/link-assistant/products/)
 * [References](https://tools.techidaily.com/link-assistant/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Definition
 
 Clickbait is a term used to describe deceptive and misleading link texts and thumbnails, created with the mere purpose of seducing link clicks. 
@@ -49,6 +53,10 @@ Quite frequently, clickbait may also be used by internet fraudsters, who resort 
 ## Why is it called clickbait?
 
 “Clickbait” is a compound of two terms, and as the Urban Dictionary puts it, clickbait literally means “bait for clicks”[\[1\]](https://tools.techidaily.com/link-assistant/products/). The term’s construction bears resemblance to “fish bait” - a common fishing term describing the fish hook that is disguised by an enticement and thus made attractive for fish to swallow.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How does clickbait work?
 
@@ -66,19 +74,15 @@ Here, HaffPost is clearly exploiting our curiosity gap by making only part of th
 
 ![clickbait on youtube](https://cdn1.link-assistant.com/thumbs/w1185-c1/upload/seowiki/posts/35/c2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Another schoolbook example of clickbait is this top right-corner ad. A famous brand has “done this again” - the phrase clearly hinting at some misdo or, on the contrary, at a huge success on behalf of Cadillac. But we have no way to learn what the article is about without clicking the link. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What’s a typical clickbait structure?
 
 In most cases, all clickbait headlines follow a similar structure and rely on the same tactics. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Shorter words
 
@@ -89,28 +93,24 @@ The idea here is that shorter words are easier to read and understand and thus c
 The go-to phrases for a clickbait writer are “You won’t believe” or “Try this one simple trick”, promising something unprecedented, which you absolutely can not afford to miss. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Cliffhangers
 
 Clickbait often tries to leave you on a cliffhanger - mentioning events without naming them directly (like “She did THIS to lose weight in one week”), thus creating a burning need to continue reading.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Unusual punctuation
 
 Multiple questions or exclamation marks stand out among the rest of your newsfeed items, attract attention and create a sense of importance. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Strong adjectives and superlatives
 
 Whatever you come across in a clickbait headline is likely to be shocking, astonishing, sensational, the best, the easiest, or the quickest. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Internet slang abbreviations
 
@@ -145,17 +145,20 @@ Google, in its turn, has recently launched the so-called “Helpful content” a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-top-video-editors-aiding-in-app-dev-creation/"><u>[New] In 2024, Top Video Editors Aiding in App Dev Creation</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-mememolding-cutter/"><u>[Updated] MemeMolding Cutter</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/advanced-ocr-technology-amplifies-workflow-at-premier-construction-data-company/"><u>Advanced OCR Technology Amplifies Workflow at Premier Construction Data Company</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-seamlessly-upgrade-video-card-software-on-your-windows-11-pc/"><u>How to Seamlessly Upgrade Video Card Software on Your Windows 11 PC</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s23-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S23 Phone without Google Account?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-through-the-top-8-blended-mobile-video-collage-choices-on-android/"><u>In 2024, Navigating Through the Top 8 Blended Mobile Video Collage Choices on Android</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/moving-your-google-authenticator-a-step-by-step-guide-for-upgrading-to-a-new-iphone/"><u>Moving Your Google Authenticator: A Step-by-Step Guide for Upgrading to a New iPhone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/pixie-dust-game-hours-childrens-choice-edition/"><u>Pixie-Dust Game Hours - Children's Choice Edition</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/reset-eines-deaktivierten-iphones-ohne-verwendung-von-itunes/"><u>Reset Eines Deaktivierten iPhones Ohne Verwendung Von iTunes</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/restore-your-security-successfully-resolving-email-hacks-in-3-simple-steps/"><u>Restore Your Security: Successfully Resolving Email Hacks in 3 Simple Steps</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/titolo-seo-ottimizzato-risoluzione-veloce-per-il-problema-di-sincronizzazione-con-google-drive-su-mac/"><u>Titolo SEO Ottimizzato: Risoluzione Veloce per Il Problema Di Sincronizzazione Con Google Drive Su Mac</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/zoho-mail/"><u>Zoho Mail資料夾抄送：最有效的三種備份技巧</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-key-to-smooth-screencasting-a-macos-guide/"><u>[New] In 2024, The Key to Smooth Screencasting A MacOS Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-top-10-cheapbudget-friendly-action-cameras-for-2024/"><u>[New] Top 10 Cheap/Budget Friendly Action Cameras for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/amsterdams-leading-seo-firms-reviewed-elite-rankings-and-in-depth-analysis-of-top-performers/"><u>Amsterdam's Leading SEO Firms Reviewed – Elite Rankings and In-Depth Analysis of Top Performers</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/como-proteger-tus-archivos-con-un-respaldo-completo-antes-de-la-transicion-de-windows-10-a-windows-11/"><u>Cómo Proteger Tus Archivos Con Un Respaldo Completo Antes De La Transición De Windows 10 a Windows 11</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/fxmagnetic-enhances-your-trading-arsenal-with-rsi-trader-master-data-driven-approaches-using-rsi-and-sma-indicators-on-metatrader-4/"><u>FxMagnetic Enhances Your Trading Arsenal with RSI Trader - Master Data-Driven Approaches Using RSI and SMA Indicators on MetaTrader 4</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-unleash-potential-essential-windows-10-skills-review/"><u>In 2024, Unleash Potential Essential Windows 10 Skills Review</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installing-your-epson-workforce-ds-30-compatible-drivers-for-windows-1187-users/"><u>Installing Your Epson WorkForce DS 30: Compatible Drivers for Windows 11/8/7 Users</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/leading-seo-compannies-of-saudi-arabias-capital-an-exclusive-look-at-riyadhs-top-agents-featuring-seo-powersuite-strategies/"><u>Leading SEO Compannies of Saudi Arabia's Capital: An Exclusive Look at Riyadh’s Top Agents , Featuring SEO PowerSuite Strategies</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/mastering-link-authority-in-seo-definitions-insights-and-effective-techniques-boost-your-rankings-with-powersuite-tips/"><u>Mastering Link Authority in SEO: Definitions, Insights & Effective Techniques | Boost Your Rankings with PowerSuite Tips</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/mastering-market-psychology-the-virtue-of-patience-in-automated-trading-with-mt4mt5-copytrader/"><u>Mastering Market Psychology: The Virtue of Patience in Automated Trading with MT4/MT5 CopyTrader</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-prompt-crafting-in-ai-and-its-job-market-resilience/"><u>The Future of Prompt Crafting in AI and Its Job Market Resilience</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-real-deal-examining-vibers-mobile-international-calling-platform/"><u>The Real Deal: Examining Viber's Mobile International Calling Platform</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-efficiently-organizing-and-sharing-your-dvd-collection-with-plex-nas-roku-and-dlna-servers/"><u>Ultimate Guide: Efficiently Organizing and Sharing Your DVD Collection with Plex, NAS, Roku & DLNA Servers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Tecno Phantom V Flip? | Dr.fone</u></a></li>
 </ul></div>
 
