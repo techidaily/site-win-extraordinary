@@ -1,7 +1,7 @@
 ---
 title: "Lawful Techniques for Gathering Contacts: Master SMS Campaigns with Massmail"
-date: 2025-01-11T09:33:48.359Z
-updated: 2025-01-12T01:03:31.771Z
+date: 2025-01-12T00:49:29.288Z
+updated: 2025-01-18T00:54:25.952Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -35,6 +31,10 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -70,40 +70,40 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
@@ -118,6 +118,10 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,21 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-scrutinizing-the-specifications-of-djis-flight-model-3/"><u>2024 Approved Scrutinizing the Specifications of DJI's Flight Model 3</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/7-etapes-et-conseils-utiles/"><u>7 - Étapes Et Conseils Utiles</u></a></li>
-<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/analyzing-the-influence-of-macroeconomic-factors-on-currency-trading-via-mt4-copier/"><u>Analyzing the Influence of Macroeconomic Factors on Currency Trading via MT4 Copier</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/easy-guide-to-downloading-complete-youtube-playlists-and-channel-videos/"><u>Easy Guide to Downloading Complete YouTube Playlists & Channel Videos</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/guide-to-modify-comment-accessibility-on-youtube/"><u>Guide to Modify Comment Accessibility on YouTube</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/how-does-massmails-email-marketing-autoresponder-work-a-comprehensive-guide/"><u>How Does MassMail's Email Marketing Autoresponder Work?: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/how-does-offline-marketing-influence-success-insights-and-statistics-from-2013-with-massmail-software/"><u>How Does Offline Marketing Influence Success? Insights & Statistics From 2013 with MassMail Software</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-expert-techniques-for-flipping-and-tilting-iphone-images/"><u>In 2024, Expert Techniques for Flipping & Tilting iPhone Images</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/leading-seo-service-providers-in-manama-bahrain-discover-the-expertise-of-seo-powersuite/"><u>Leading SEO Service Providers in Manama, Bahrain: Discover the Expertise of SEO PowerSuite</u></a></li>
-<li><a href="https://fox-links.techidaily.com/master-audio-on-chrome-selecting-the-best-web-based-speech-modifiers-for-2024/"><u>Master Audio on Chrome Selecting the Best Web-Based Speech Modifiers for 2024</u></a></li>
-<li><a href="https://discover-data.techidaily.com/step-by-step-guide-how-to-seamlessly-move-all-information-to-a-freshly-bought-iphone/"><u>Step-by-Step Guide: How to Seamlessly Move All Information to a Freshly Bought iPhone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-quest-for-authenticity-differentiating-fake-from-genuine-ai-outputs/"><u>The Quest for Authenticity: Differentiating Fake From Genuine AI Outputs</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-3-email-marketing-pitfalls-of-2naughts-essential-tips-for-effective-communication-with-your-subscriber-base-via-massmail/"><u>Top 3 Email Marketing Pitfalls of 2Naughts: Essential Tips for Effective Communication with Your Subscriber Base via Massmail</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/understanding-pogo-sticking-a-comprehensive-guide-and-strategies-for-optimized-search-engine-visibility/"><u>Understanding Pogo Sticking: A Comprehensive Guide & Strategies for Optimized Search Engine Visibility</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/when-corporate-image-clashes-with-staff-sentiment-the-backlash-against-united-airlines-sexy-branding/"><u>When Corporate Image Clashes with Staff Sentiment: The Backlash Against United Airlines' Sexy Branding</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/op-15-youtube-experts-in-modern-science-exploration/"><u>[New] Top 15 YouTube Experts in Modern Science Exploration</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-compact-and-cost-effective-mirrorless-4k-cameras-(1000/"><u>[Updated] Compact and Cost-Effective Mirrorless 4K Cameras <$1,000</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-handsome-horizons-premium-pc-backgrounds-online/"><u>[Updated] Handsome Horizons Premium PC Backgrounds Online</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-budget-friendly-high-resolution-cameras/"><u>[Updated] In 2024, Budget-Friendly High-Resolution Cameras</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/behind-the-scenes-of-effective-online-streaming/"><u>Behind the Scenes of Effective Online Streaming</u></a></li>
+<li><a href="https://win-latest.techidaily.com/como-sincronizar-archivo-entre-servidores-de-windows-en-segundo-plano-sin-problemas/"><u>Cómo Sincronizar Archivo Entre Servidores De Windows en Segundo Plano Sin Problemas</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/creating-your-own-turn-the-page-digital-reads-for-mac-with-flipbuilder-step-by-step-guide/"><u>Creating Your Own Turn-The-Page Digital Reads for Mac with FlipBuilder - Step By Step Guide</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/custom-flipbooks-made-easy-learn-how-to-tailor-your-own-with-flipbuilders-user-friendly-tools/"><u>Custom Flipbooks Made Easy: Learn How to Tailor Your Own with FlipBuilder's User-Friendly Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dying-light-sound-troubles-heres-how-to-fix-it-swiftly-and-easily/"><u>Dying Light Sound Troubles? Here's How to Fix It Swiftly & Easily</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/enhancing-ebooks-with-multimedia-adding-youtube-content-through-flipbuilder-for-engaging-readers/"><u>Enhancing eBooks with Multimedia: Adding YouTube Content Through FlipBuilder for Engaging Readers</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/explore-the-ins-and-outs-of-securing-refunds-with-flipbuilder-a-builders-guide-to-assurance/"><u>Explore the Ins and Outs of Securing Refunds with FlipBuilder: A Builder’s Guide to Assurance</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/how-to-add-mp3-audio-files-in-your-flipbooks-made-easy-discover-the-basics-at-flipbuildercom/"><u>How to Add MP3 Audio Files in Your Flipbooks Made Easy - Discover the Basics at FlipBuilder.com</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-free-memes-unlock-humor-in-everyday-life/"><u>In 2024, Best FREE Memes Unlock Humor in Everyday Life</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/is-it-possible-to-tailor-the-assistance-icon-for-flipbuilder-sites/"><u>Is It Possible to Tailor the Assistance Icon for FlipBuilder Sites?</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/maximizing-your-publishing-potential-how-many-ebooks-can-you-create-with-flipbuilder/"><u>Maximizing Your Publishing Potential: How Many eBooks Can You Create with FlipBuilder?</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-frustration-solutions-to-keep-nox-player-running-smoothly-on-desktop-computers/"><u>No More Frustration: Solutions to Keep Nox Player Running Smoothly on Desktop Computers</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/saving-books-as-local-pdfs-with-flipbuilder-a-step-by-step-guide/"><u>Saving Books as Local PDFs with FlipBuilder - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/step-by-step-guide-adding-personalized-watermarks-to-flipbook-page-impressions-using-flipbuilder/"><u>Step-by-Step Guide: Adding Personalized Watermarks to FlipBook Page Impressions Using FlipBuilder</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-get-asus-touchpad-drivers-installed-in-no-time-with-windows-11/"><u>Step-by-Step: Get ASUS Touchpad Drivers Installed in No Time with Windows 11</u></a></li>
 </ul></div>
 

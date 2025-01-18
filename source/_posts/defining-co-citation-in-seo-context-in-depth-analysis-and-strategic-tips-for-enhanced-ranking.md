@@ -1,7 +1,7 @@
 ---
 title: Defining Co-Citation in SEO Context - In-Depth Analysis and Strategic Tips for Enhanced Ranking
-date: 2025-01-01T16:02:40.584Z
-updated: 2025-01-05T17:34:33.940Z
+date: 2025-01-10T20:47:45.611Z
+updated: 2025-01-17T20:39:52.435Z
 tags:
   - wiki
 categories:
@@ -16,14 +16,10 @@ thumbnail: https://thmb.techidaily.com/2d442320ddcea5a6c643d7bb96072df0771c7a8fd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Co-citation
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Contents
@@ -51,7 +47,7 @@ While co-citation presupposes that one document is referring to two others, bibl
 ![Co-citation vs bibliographic coupling](https://cdn1.link-assistant.com/thumbs/w790-c1/upload/seowiki/posts/36/cc1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is author co-citation analysis?
@@ -60,10 +56,6 @@ Citation analysis has multiple areas of focus, from journal rankings to measurin
 
 The term refers to measuring the number of times any author's work is co-cited by another author. The co-citation patterns are then used to identify, trace, and illustrate the intellectual structure of an academic discipline[\[2\]](https://tools.techidaily.com/link-assistant/products/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is a co-citation network/map?
 
 For the purposes of co-citation analyses, the so-called citation graph is built, or, in other words, the network of documents interconnected with each other through citations. 
@@ -71,6 +63,10 @@ For the purposes of co-citation analyses, the so-called citation graph is built,
 The constructed network forms closely connected clusters of co-cited documents, which tend to share some common theme.
 
 ![Evolution of Electronic Word of Mouth: A Systematic Literature Review Using Bibliometric Analysis of 20 Years (2000–2020)](https://cdn1.link-assistant.com/thumbs/w747-c1/upload/seowiki/posts/36/cc2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Co-citation and SEO
 
@@ -83,12 +79,16 @@ The former is obvious from the commonly known role of backlinks in search engine
 In any case, the concept of co-citation has influenced the basic principles of SEO link building, giving birth to co-citation link building - actively pursuing web mentions in the same articles where key competitors’ are being mentioned. Thus, being co-cited by the same source, a website might get a semantic association with an established industry leader.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## See more
 
 [9 Actionable Link Building Tactics for 2023 - Explore co-citation links](https://tools.techidaily.com/link-assistant/products/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## References
 
@@ -109,17 +109,14 @@ In any case, the concept of co-citation has influenced the basic principles of S
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-tips-for-posting-wide-angle-photos-to-facebook-from-smartphones/"><u>[New] 2024 Approved Tips for Posting Wide Angle Photos to Facebook From Smartphones</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-toolwiz-evaluation-the-top-choice-in-mobile-editing-for-2024/"><u>[Updated] Toolwiz Evaluation The Top Choice in Mobile Editing for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/blending-beats-and-imagery-music-tips-for-instagram/"><u>Blending Beats and Imagery Music Tips for Instagram</u></a></li>
-<li><a href="https://os-tips.techidaily.com/bypass-itunes-error-3194-seamlessly-with-these-3-effective-strategies-proven-results/"><u>Bypass iTunes Error 3194 Seamlessly with These 3 Effective Strategies (Proven Results)</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/demystifying-http-header-information-for-enhanced-seo-techniques/"><u>Demystifying HTTP Header Information for Enhanced SEO Techniques</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/how-does-a-metatrader-4-copy-trading-system-function/"><u>How Does a MetaTrader 4 Copy Trading System Function?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-liberating-your-media-experience-free-movplay-software/"><u>In 2024, Liberating Your Media Experience Free MOV/PLAY Software</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/industrys-largest-uav-payload-carriers-for-2024/"><u>Industry's Largest UAV Payload Carriers for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/mastering-the-art-of-moving-files-top-7-strategies-for-iphone-to-pc-transfer/"><u>Mastering the Art of Moving Files: Top 7 Strategies for iPhone-to-PC Transfer</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/quick-fixes-restoring-your-vanished-youtube-footage-with-ease/"><u>Quick Fixes: Restoring Your Vanished YouTube Footage with Ease</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/ultimate-bloggers-handbook-mastering-the-art-of-writing-with-top-7-tips-and-avoiding-common-mistakes-learn-how-with-massmail/"><u>Ultimate Blogger's Handbook: Mastering the Art of Writing with Top 7 Tips & Avoiding Common Mistakes - Learn How with MassMail</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/zeitgesteuerte-datenwiederherstellung-durch-synctoy-auf-dem-betriebssystem-windows-10/"><u>Zeitgesteuerte Datenwiederherstellung Durch SyncToy Auf Dem Betriebssystem Windows 10</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-motorola-moto-g04-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Motorola Moto G04</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-maximizing-your-impact-with-periscope-live/"><u>2024 Approved Maximizing Your Impact with Periscope Live</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/apple-watch-gps-vs-cellular-apple-watch/"><u>Apple Watch GPS Vs. Cellular Apple Watch</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/mastering-seo-as-a-novice-discover-the-premier-seo-powersuite-applications/"><u>Mastering SEO as a Novice? Discover the Premier SEO PowerSuite Applications!</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/norton-pc-cloud-sicherung-nutzen-keine-datenverluste-garantiert/"><u>Norton PC-Cloud Sicherung Nutzen: Keine Datenverluste Garantiert</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/sechs-effektive-ubertragungsmethoden-zum-migrate-data-von-ihrem-alten-iphone-zu-einem-modernen-iphone-modell-iphone-13-bis-16/"><u>Sechs Effektive Übertragungsmethoden Zum Migrate Data Von Ihrem Alten iPhone Zu Einem Modernen iPhone-Modell (iPhone 13 Bis 16)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/sharpened-focus-on-squares-creating-striking-imovie-content-for-instagram-for-2024/"><u>Sharpened Focus on Squares Creating Striking iMovie Content for Instagram for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-18-ai-powered-video-editors-ultimate-selection-guide/"><u>Top 18 AI-Powered Video Editors - Ultimate Selection Guide</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/luchshie-specialisty-po-seo-v-oae-poluchite-konkurentnoe-preimu/"><u>Лучшие Специалисты По SEO В ОАЭ - Получите Конкурентное Преиму</u></a></li>
 </ul></div>
 

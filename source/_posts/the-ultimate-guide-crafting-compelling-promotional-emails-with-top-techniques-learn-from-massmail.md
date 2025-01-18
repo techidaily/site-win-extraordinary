@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide: Crafting Compelling Promotional Emails with Top Techniques - Learn From MassMail"
-date: 2025-01-06T23:53:12.348Z
-updated: 2025-01-11T20:02:15.165Z
+date: 2025-01-10T23:04:12.718Z
+updated: 2025-01-17T17:44:26.112Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -49,7 +49,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -57,6 +57,10 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -70,10 +74,6 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -85,6 +85,10 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -98,6 +102,10 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
@@ -106,16 +114,12 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,18 +149,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-instagram-video-descriptions-the-key-to-threefold-success-for-2024/"><u>[New] Instagram Video Descriptions - The Key to Threefold Success for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1-unlocking-essential-tips-enhancing-your-bulk-text-marketing-using-atomic-sms-the-ultimate-guide/"><u>1. Unlocking Essential Tips: Enhancing Your Bulk Text Marketing Using Atomic SMS - The Ultimate Guide</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/best-forex-brokers-of-2023-a-comparative-analysis-and-feature-breakdown-for-traders/"><u>Best Forex Brokers of 2023: A Comparative Analysis & Feature Breakdown for Traders</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/elevating-your-youtube-stream-the-wirecast-way/"><u>Elevating Your YouTube Stream The WireCast Way</u></a></li>
-<li><a href="https://win-answers.techidaily.com/exclusive-insights-into-why-maf/"><u>Exclusive Insights Into Why Maf</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Samsung Galaxy F34 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-everlasting-deactivation-tactics-against-youtubes-sneaky-snack/"><u>In 2024, Everlasting Deactivation Tactics Against YouTube's Sneaky Snack</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-tecno-pova-6-pro-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Tecno Pova 6 Pro 5G Devices</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/navigating-through-get-params-comprehensive-guide-to-definitions-real-world-uses-and-impact-on-seo/"><u>Navigating Through Get Params: Comprehensive Guide to Definitions, Real-World Uses & Impact on SEO</u></a></li>
-<li><a href="https://extra-information.techidaily.com/oculus-spectacular-expert-reviews-and-choices/"><u>Oculus Spectacular Expert Reviews and Choices</u></a></li>
-<li><a href="https://win11.techidaily.com/optimizing-your-wi-fi-connections-metric-functionality/"><u>Optimizing Your Wi-Fi Connection's Metric Functionality</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/restore-deleted-or-lost-folders-on-your-windows-10-pc-a-step-by-step-guide/"><u>Restore Deleted or Lost Folders on Your Windows 10 PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/soluzione-professionale-windows-backup-and-ripristino-per-aziende-introduzione-alla-tecnologia-avanzata-di-aomei/"><u>Soluzione Professionale Windows Backup & Ripristino per Aziende: Introduzione Alla Tecnologia Avanzata Di AOMEI</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-leading-emulators-top-5-for-playing-ps3-games-on-pc-for-2024/"><u>[New] Leading Emulators Top 5 for Playing PS3 Games on PC for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-resolution-showdown-gopro-vs-polaroids-editing-experience/"><u>[New] Resolution Showdown GoPro Vs. Polaroid's Editing Experience</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/comprehensive-tutorial-on-syncing-an-iphone-with-your-unmanned-aerial-vehicle-uav/"><u>Comprehensive Tutorial on Syncing an iPhone with Your Unmanned Aerial Vehicle (UAV)</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/discover-enhanced-productivity-with-emeditors-pro-edition-version-7-beta-release/"><u>Discover Enhanced Productivity with EmEditor's Pro Edition, Version 7 Beta Release</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/discover-the-unexpected-feature-of-copying-entire-lines-in-emeditor-when-no-characters-are-chosen/"><u>Discover the Unexpected Feature of Copying Entire Lines in EmEditor When No Characters Are Chosen</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/engaging-with-top-companies-on-linkedin/"><u>Engaging with Top Companies on LinkedIn</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/620365-9780307783714-essential-energy-balancing-ii/"><u>Essential Energy Balancing II | Free Book</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-cs-go-microphone-issues-solutions-inside/"><u>Fixing CS: GO Microphone Issues - Solutions Inside</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/game-changing-savings-alert-snag-the-asus-tuf-gaming-laptop-with-a15-cpu-at-just-658-this-memorial-day/"><u>Game-Changing Savings Alert: Snag the ASUS TUF Gaming Laptop With A15 CPU at Just $658 This Memorial Day!</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/get-a-competitive-edge-with-the-latest-emeditor-professional-v1117-beta-premium-text-editing-software/"><u>Get a Competitive Edge with the Latest EmEditor Professional v11.1.7 Beta - Premium Text Editing Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-repairing-the-wi-fi-signal-for-windows-surface-pro-users/"><u>Guide: Repairing the Wi-Fi Signal for Windows Surface Pro Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-razer-device-functionality-in-windows-11/"><u>Restoring Razer Device Functionality in Windows 11</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/save-file-location-directly-to-clipboard-with-emeditors-right-click-functionality-explained/"><u>Save File Location Directly to Clipboard with EmEditor's Right-Click Functionality Explained</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/streamline-your-tunes-mastering-the-art-of-mp3-compression-techniques/"><u>Streamline Your Tunes: Mastering the Art of MP3 Compression Techniques</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/ultimate-text-editing-software-emeditors-powerful-features-unveiled/"><u>Ultimate Text Editing Software: EmEditor's Powerful Features Unveiled</u></a></li>
+<li><a href="https://discover-great.techidaily.com/understanding-and-fixing-your-laptops-wi-fi-connectivity-problems-with-help-from-yl-software-tips/"><u>Understanding and Fixing Your Laptop’s Wi-Fi Connectivity Problems with Help From YL Software Tips</u></a></li>
 </ul></div>
 

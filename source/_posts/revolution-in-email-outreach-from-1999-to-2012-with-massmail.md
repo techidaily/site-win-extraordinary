@@ -1,7 +1,7 @@
 ---
 title: "Revolution in Email Outreach: From 1999 to 2012 with MassMail"
-date: 2025-01-09T18:33:22.518Z
-updated: 2025-01-12T03:45:47.087Z
+date: 2025-01-15T21:11:13.760Z
+updated: 2025-01-17T23:18:15.164Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -39,6 +35,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -54,6 +54,10 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -66,17 +70,9 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
@@ -86,10 +82,6 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
@@ -98,9 +90,17 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -111,7 +111,7 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Partner
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,20 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-explore-creative-boundaries-with-high-quality-affects-plug-ins/"><u>[New] Explore Creative Boundaries with High-Quality Affects Plug-Ins</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-free-iphones-masterclass-perfect-your-pictures-with-simple-edits-for-2024/"><u>[Updated] FREE iPhones Masterclass Perfect Your Pictures with Simple Edits for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-visual-strategy-for-podcast-branding/"><u>[Updated] The Ultimate Visual Strategy for Podcast Branding</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1-reviving-your-bulk-email-campaigns-with-ease-a-guide-using-massmail/"><u>1. Reviving Your Bulk Email Campaigns with Ease: A Guide Using MassMail</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/advanced-techniques-for-gradual-volume-change-for-2024/"><u>Advanced Techniques for Gradual Volume Change for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/aucun-fichier-perdu-garantie-de-secours-pour-tous-vos-documents-via-wd-smartware/"><u>Aucun Fichier Perdu : Garantie De Secours Pour Tous Vos Documents via WD SmartWare</u></a></li>
-<li><a href="https://win-answers.techidaily.com/improving-dota-2-performance-overcoming-dropping-fps-on-windows-1110/"><u>Improving Dota 2 Performance: Overcoming Dropping FPS on Windows 11/10</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Honor 90 GT? | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/navigating-online-databases-definitions-and-how-tos-for-optimized-directory-use-tips-from-seo-experts-at-seo-powersuite/"><u>Navigating Online Databases: Definitions and How-To's for Optimized Directory Use | Tips From SEO Experts at SEO PowerSuite</u></a></li>
-<li><a href="https://win-blog.techidaily.com/sekiro-stability-issues-resolve-them-easily-and-swiftly-here/"><u>Sekiro Stability Issues? Resolve Them Easily & Swiftly Here</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-notch-2009-business-laughs-timelessly-funny-office-anecdotes-and-shareable-by-massmail-app/"><u>Top Notch 2009 Business Laughs: Timelessly Funny Office Anecdotes & Shareable by Massmail App</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-windows-10-and-11-file-system-issues-efficiently/"><u>Troubleshooting Guide: Resolving Windows 10 & 11 File System Issues Efficiently</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/unraveling-the-mystery-of-how-individuals-perceive-spam-insights-from-massmailers-perspective/"><u>Unraveling the Mystery of How Individuals Perceive Spam: Insights From MassMailer's Perspective</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-all-about-anime-dubbing/"><u>Updated All About Anime Dubbing</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/windows-11-tutorial-easily-retrieve-lost-footage-with-these-simple-steps/"><u>Windows 11 Tutorial: Easily Retrieve Lost Footage with These Simple Steps</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/astering-the-art-of-channel-creation-on-youtube-for-2024/"><u>[New] Mastering the Art of Channel Creation on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-unlocking-trending-potential-in-your-videos/"><u>2024 Approved Unlocking Trending Potential in Your Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-windows-10-treasures-exciting-new-apps-and-games-await/"><u>2024 Approved Windows 10 Treasures Exciting New Apps & Games Await</u></a></li>
+<li><a href="https://win-blog.techidaily.com/avoid-frustration-with-these-expert-solutions-s-cities-skylines-stability-issues/"><u>Avoid Frustration with These Expert Solutions 'S Cities: Skylines Stability Issues</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/download-and-convert-hd-music-video-in-1080p-to-various-file-types-including-mp4-wmv-mov-avi-compatible-with-windowsmacosx/"><u>Download & Convert HD Music Video in 1080P to Various File Types Including MP4, WMV, MOV, AVI Compatible with Windows/MacOSX</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/download-and-convert-tidal-tracks-top-free-flac-transposer-apps-for-pc-and-mac/"><u>Download & Convert TIDAL Tracks: Top Free FLAC Transposer Apps for PC & Mac</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/download-and-convert-kannada-tracks-into-mp3-format-for-both-macos-and-windows-systems/"><u>Download and Convert Kannada Tracks Into MP3 Format for Both macOS and Windows Systems</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/download-episodes-and-subs-from-arte-channel-online-streaming-platform/"><u>Download Episodes & Subs From Arte Channel Online Streaming Platform</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/download-videos-in-high-quality-formats-with-nowvideo-compatible-with-macos-and-windows/"><u>Download Videos in High-Quality Formats with NowVideo: Compatible with macOS & Windows</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/easy-access-to-knowledge-extract-and-save-cadlearning-lectures-as-high-quality-mp4-files/"><u>Easy Access to Knowledge: Extract & Save CADLearning Lectures as High-Quality MP4 Files</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/easy-access-to-team-coco-series-secure-your-favorite-shows-as-mp4-wmv-or-avi-files/"><u>Easy Access to Team Coco Series: Secure Your Favorite Shows as MP4, WMV or AVI Files</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/easy-methods-for-transforming-mirrens-avimov-videos-into-compatible-mp4-and-mp3-formats-across-windows-and-macos-systems/"><u>Easy Methods for Transforming Mirren's AVI/MOV Videos Into Compatible MP4 and MP3 Formats Across Windows & macOS Systems</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/how-to-download-and-convert-ovguide-films-in-various-formats-mp4-avi-mkv-for-pc-and-mac/"><u>How to Download & Convert OVGuide Films in Various Formats (MP4, AVI, MKV) for PC & MAC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/immersive-tech-triumphs-upcoming-top-5-playstation-vr-games/"><u>Immersive Tech Triumphs Upcoming Top 5 PlayStation VR Games</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-enhancing-engagement-how-to-utilize-youtubes-prominent-channels/"><u>In 2024, Enhancing Engagement How to Utilize YouTube's Prominent Channels</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Poco C65? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-illuminating-iphones-in-the-dark-photography-tips/"><u>In 2024, Illuminating iPhones in the Dark Photography Tips</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/wu-and-orchestrator-the-pillars-of-update-routine/"><u>WU & Orchestrator: The Pillars of Update Routine</u></a></li>
 </ul></div>
 

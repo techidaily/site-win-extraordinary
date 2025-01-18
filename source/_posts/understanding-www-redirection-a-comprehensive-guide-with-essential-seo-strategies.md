@@ -1,7 +1,7 @@
 ---
 title: "Understanding WWW Redirection: A Comprehensive Guide with Essential SEO Strategies"
-date: 2025-01-01T16:39:39.750Z
-updated: 2025-01-05T17:09:13.691Z
+date: 2025-01-12T20:26:16.746Z
+updated: 2025-01-17T20:53:32.161Z
 tags:
   - wiki
 categories:
@@ -17,14 +17,10 @@ thumbnail: https://thmb.techidaily.com/a0951da729f49f8bf93e8223ca1a50717bbb6f5f3
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## www redirect
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Contents
 
@@ -34,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/a0951da729f49f8bf93e8223ca1a50717bbb6f5f3
 * [Related links](https://tools.techidaily.com/link-assistant/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Definition
@@ -42,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/a0951da729f49f8bf93e8223ca1a50717bbb6f5f3
 A www redirect, also known as a www to non-www redirect or a non-www to www redirect, is a type of server-side [redirect](https://tools.techidaily.com/link-assistant/products/) that is used to ensure that all traffic to a website is directed to either the www version of the URL or the non-www version of the URL. This type of redirect is used to avoid duplicate content issues and ensure that search engines and users are directed to the correct version of the website.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Setting up www redirects
@@ -57,7 +53,7 @@ It's important to pick one version of your website and stick with it, be it www 
 It's also worth mentioning that Google Search Console allows you to set your preferred domain, it means that you can specify whether you prefer your site to be displayed as example.com or www.example.com. This will be used to determine the canonical version of your pages, and it means that if you have a redirect in place, but you have set the preferred domain as example.com and your server is redirecting to www.example.com it may cause duplicate content issues.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SEO impact
@@ -71,6 +67,10 @@ Improperly implemented redirects can cause a number of [SEO](https://tools.techi
 * **Negative impact on page speed:** Redirects can slow down the loading of a webpage if the browser has to go through multiple redirects before reaching the final destination. This can be especially problematic on mobile devices with slower internet connections.
 
 It is important to ensure that redirects are implemented correctly to avoid these SEO problems. For example, ensure that all versions of the website (www and non-www) are redirecting to a single version of the website. Also, use a redirect to the permanent (301) instead of temporary redirects (302) which is recommended by google, this will help to pass the link juice to the new page.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Related links
 
@@ -91,18 +91,24 @@ It is important to ensure that redirects are implemented correctly to avoid thes
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-your-photo-archives-new-eden-mix-no-fee-infinite-with-paid-cloud-spaces/"><u>[New] 2024 Approved Your Photo Archive's New Eden Mix No-Fee Infinite with Paid Cloud Spaces</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1-are-free-words-detrimental-to-your-email-marketing-strategy-with-massmail-software/"><u>1. Are Free Words Detrimental to Your Email Marketing Strategy with Massmail Software?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-ice-floe-iceberg-thermal-unit-reviews-evaluating-the-quiet-cool-power-of-models-240-and-360/"><u>Affordable Ice FLOe Iceberg Thermal Unit Reviews: Evaluating the Quiet Cool Power of Models 240 & 360</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/changing-user-permissions-through-windows-control-panel-a-step-by-step-guide-by-yl-computing/"><u>Changing User Permissions Through Windows Control Panel: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/evaluating-your-antivirus-ensuring-effective-cybersecurity-protection/"><u>Evaluating Your Antivirus: Ensuring Effective Cybersecurity Protection</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/how-to-deal-with-missing-desktop-files-and-folders-in-windows-11-a-step-by-step-guide/"><u>How To Deal With Missing Desktop Files And Folders in Windows 11 – A Step-by-Step Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-google-pixel-fold-easily-by-drfone-android/"><u>In 2024, How To Unlock a Google Pixel Fold Easily?</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210495264-9780998276588-lsd-my-problem-child-4th-edition/"><u>LSD My Problem Child (4th Edition) | Free Book</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimal-classic-gaming-experience-winning-with-scummvm-on-pc/"><u>Optimal Classic Gaming Experience: Winning with ScummVM on PC</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/professional-insights-on-pc-assembly-mastery-comprehensive-strategies-and-advice/"><u>Professional Insights on PC Assembly Mastery: Comprehensive Strategies & Advice</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/soluzioni-rapide-per-il-recupero-della-tabella-delle-partizioni-gpt-eliminata-su-windows-11/"><u>Soluzioni Rapide per Il Recupero Della Tabella Delle Partizioni GPT Eliminata Su Windows 11</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/top-3-prime-video-hosts-beyond-youtube/"><u>Top 3 Prime Video Hosts - Beyond YouTube</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-7-phone-number-locators-to-track-apple-iphone-11-pro-max-location-drfone-by-drfone-virtual-ios/"><u>Top 7 Phone Number Locators To Track Apple iPhone 11 Pro Max Location | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ptimizing-titles-and-tags-for-improved-youtube-visibility/"><u>[New] Optimizing Titles and Tags for Improved YouTube Visibility</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-recording-realities-evaluating-the-power-and-precision-of-apeaksoftware-for-2024/"><u>[New] Recording Realities – Evaluating the Power and Precision of Apeaksoftware for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nderstanding-and-implementing-cc-licenses-wisely/"><u>[New] Understanding & Implementing CC Licenses Wisely</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-best-practices-the-8-truly-effective-promotion-techniques/"><u>[Updated] 2024 Approved Best Practices The 8 Truly Effective Promotion Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1716069496127-updated-2024-approved-essential-8-android-group-calls-over-4-users/"><u>[Updated] 2024 Approved Essential 8 Android Group Calls Over 4 Users!</u></a></li>
+<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/boost-your-day-trade-success-with-proven-mt4-price-action-strategies/"><u>Boost Your Day-Trade Success with Proven MT4 Price Action Strategies</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/comprehensive-guide-how-to-boot-your-pc-using-an-external-hard-drive-on-windows-10-and-11/"><u>Comprehensive Guide: How to Boot Your PC Using an External Hard Drive on Windows 10 and 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-new-gadgets-with-toms-computing-hub/"><u>Discovering New Gadgets with Tom's Computing Hub</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-samsung-galaxy-s23-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Samsung Galaxy S23</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-asus-rog-phone-7-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Asus ROG Phone 7 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/leading-b2b-seo-strategies-and-tools-to-dominate-search-results/"><u>Leading B2B SEO Strategies & Tools to Dominate Search Results</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/leading-seo-firms-based-in-cardiff-wales-comprehensive-guide-to-top-ranked-agencies-and-seo-tools/"><u>Leading SEO Firms Based in Cardiff, Wales: Comprehensive Guide to Top-Ranked Agencies & SEO Tools</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/leveraging-google-trends-for-seo-success-insights-and-expert-tips-from-seo-powersuite/"><u>Leveraging Google Trends for SEO Success: Insights and Expert Tips From SEO PowerSuite</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/scleritis-is-a-potentially-sight-threatening-condition-that-requires-aggressive-treatment-to-control-inflammation-and-prevent-complications-like-scleromalac248/"><u>Scleritis Is a Potentially Sight-Threatening Condition that Requires Aggressive Treatment to Control Inflammation and Prevent Complications Like Scleromalacia Perforans.</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/troubleshooting-and-repair-steps-for-non-functional-hp-laptop-trackpad-in-windows-11/"><u>Troubleshooting and Repair Steps for Non-Functional HP Laptop Trackpad in Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleashing-the-potential-galaxs-latest-dual-16-pin-1300-watt-power-unit-for-gaming-rigs/"><u>Unleashing the Potential: Galax's Latest Dual 16-Pin 1300 Watt Power Unit for Gaming Rigs</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/vergeten-maandag-morgen-dat-jouw-bureaublad-op-windows-10-of-11-verschwindende-is-hier-zijn-de-stappen-om-het-terug-te-brengen/"><u>Vergeten Maandag Morgen Dat Jouw Bureaublad Op Windows 10 of 11 Verschwindende Is? Hier Zijn De Stappen Om Het Terug Te Brengen!</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/vorbereitung-auf-den-laptop-vertrieb-professionelles-loschen-der-datentragerin-lernen-sie-wie-es-geht/"><u>Vorbereitung Auf Den Laptop-Vertrieb: Professionelles Löschen Der Datenträgerin - Lernen Sie, Wie Es Geht!</u></a></li>
 </ul></div>
 

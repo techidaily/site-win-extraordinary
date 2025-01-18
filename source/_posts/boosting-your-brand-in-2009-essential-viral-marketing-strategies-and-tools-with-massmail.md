@@ -1,7 +1,7 @@
 ---
 title: "Boosting Your Brand in 2009: Essential Viral Marketing Strategies & Tools with MassMail"
-date: 2025-01-08T19:53:27.159Z
-updated: 2025-01-11T19:21:35.676Z
+date: 2025-01-13T16:32:27.488Z
+updated: 2025-01-18T02:01:11.382Z
 tags:
   - product
 categories:
@@ -18,17 +18,9 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -40,17 +32,9 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -60,15 +44,15 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -82,9 +66,17 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
@@ -94,6 +86,10 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
@@ -102,13 +98,13 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -130,6 +126,10 @@ Written by:
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Emily Bronte
 
  Back to blog
@@ -149,20 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-inshot-unpacked-editors-edition-detailed-review/"><u>[Updated] 2024 Approved InShot Unpacked Editor's Edition Detailed Review</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-ultimate-facebook-playbook-for-business-growth-30-key-points/"><u>[Updated] 2024 Approved The Ultimate Facebook Playbook for Business Growth (30 Key Points)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-explore-best-free-cloud-storage-services-accessible-up-to-1tb/"><u>[Updated] Explore Best Free Cloud Storage Services - Accessible Up to 1TB</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-turboupload-the-ultimate-guide-to-fast-youtube-video-rendering/"><u>[Updated] TurboUpload The Ultimate Guide to Fast YouTube Video Rendering</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/6lwe5rqq5zue5ps2562s6yem5asn5y6f5yig6zmk5zuplus5yop5pa55rov5oyh5y2x/"><u>资源回收筒里复原删除图像方法指南</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adapt-calc-app-for-night-time-viewing-dark-mode-tutorial/"><u>Adapt Calc App for Night-Time Viewing: Dark Mode Tutorial</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/backup-des-fichiers-changes-uniquement-sur-windows-cuillere-7-guide-detaille/"><u>Backup Des Fichiers Changés Uniquement Sur Windows Cuillère 7 : Guide Détaillé</u></a></li>
-<li><a href="https://discover-community.techidaily.com/efficiently-changing-mp4-videos-to-mpeg-2-standard-discover-these-3-strategies/"><u>Efficiently Changing MP4 Videos to MPEG-2 Standard: Discover These 3 Strategies</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/essential-techniques-replaces-ways-for-variety-and-emphasis-while-repair-unbootable-drive-errors-targets-the-exact-problem-highlighted-by-unmountable-boot-v262/"><u>Essential Techniques Replaces Ways for Variety and Emphasis, While Repair 'Unbootable Drive' Errors Targets the Exact Problem Highlighted by Unmountable Boot Volume.</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/extended-scrutiny-gopro-slr4-black-edition-model/"><u>Extended Scrutiny GoPro SLR4 Black Edition Model</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/guia-paso-a-paso-para-migracion-de-datos-y-actualizacion-de-discos-duros-en-sistemas-operativos-windows/"><u>Guía Paso a Paso Para Migración De Datos Y Actualización De Discos Duros en Sistemas Operativos Windows</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/solution-preventing-automatic-filling-of-c-drive-on-windows-server-2012-r2/"><u>Solution: Preventing Automatic Filling of C Drive on Windows Server 2012 R2</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-how-to-erase-shadows-from-images-successfully/"><u>Step-by-Step Guide: How To Erase Shadows From Images Successfully</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/top-7-facebook-fraud-tactics-professional-guidance-to-stay-safe/"><u>Top 7 Facebook Fraud Tactics: Professional Guidance to Stay Safe</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/unlockedscreen-gaming-captured-no-cash-required-in-24-for-2024/"><u>UnlockedScreen Gaming Captured, No Cash Required in '24 for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-importing-audio-steps-for-inshot-video-editing/"><u>[New] 2024 Approved Importing Audio Steps for InShot Video Editing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-excellence-in-virtual-venue-experience/"><u>[New] Excellence in Virtual Venue Experience</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-discover-the-world-from-above-xiaomis-4k-flight-diary/"><u>[Updated] Discover the World From Above - Xiaomi's 4K Flight Diary</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-index-of-varied-photographic-and-videography-instruments/"><u>[Updated] In 2024, Index of Varied Photographic and Videography Instruments</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/2-master-your-sign-offs-building-impactful-email-footers-using-massmail-software/"><u>2. Master Your Sign-Offs: Building Impactful Email Footers Using MassMail Software</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/aucun-fichier-perdu-garantie-de-secours-pour-tous-vos-documents-via-wd-smartware/"><u>Aucun Fichier Perdu : Garantie De Secours Pour Tous Vos Documents via WD SmartWare</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/first-flight-journey-with-syma-x5c-best-start-to-uav-hobbies-for-2024/"><u>First Flight Journey with Syma X5C Best Start to UAV Hobbies for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-endgame-pc-release-hurdle-a-step-by-step-guide-to-get-you-set/"><u>Fixing the Endgame Pc Release Hurdle: A Step by Step Guide to Get You Set</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-master-destiny-2s-remarkable-broccoli-glitch-fix-update/"><u>How to Master Destiny 2'S Remarkable Broccoli Glitch Fix Update</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/hunterio-alternatives-explored-top-19-solutions-for-effective-email-extraction-and-validation-seo-powersuite-insights/"><u>Hunter.io Alternatives Explored: Top 19 Solutions for Effective Email Extraction and Validation | SEO PowerSuite Insights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/image-illumination-incor-writings-on-visual-canvases-online-for-2024/"><u>Image Illumination Incor Writings on Visual Canvases Online for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/maximize-efficiency-on-macos-using-quick-actions-features-in-finder-insights-for-advanced-users/"><u>Maximize Efficiency on macOS Using Quick Actions Features in Finder - Insights for Advanced Users</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/maximizing-storage-efficiency-with-advanced-mssql-backup-compression-strategies/"><u>Maximizing Storage Efficiency with Advanced MSSQL Backup Compression Strategies</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/pengurusan-gadingan-telepon-rumah-bagi-mencegah-kerusakan-data-melintas-kegagalan-power-off-dan-reset/"><u>Pengurusan Gadingan Telepon Rumah Bagi Mencegah Kerusakan Data - Melintas Kegagalan Power Off Dan Reset</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/understanding-the-mechanics-of-an-mt4-forex-copy-trading-tool/"><u>Understanding the Mechanics of an MT4 Forex Copy Trading Tool</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/unraveling-the-mystery-of-how-individuals-perceive-spam-insights-from-massmailers-perspective/"><u>Unraveling the Mystery of How Individuals Perceive Spam: Insights From MassMailer's Perspective</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/windows-11-tutorial-easily-retrieve-lost-footage-with-these-simple-steps/"><u>Windows 11 Tutorial: Easily Retrieve Lost Footage with These Simple Steps</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-rejtingovye-seo-agentstva-v-atlante-dlya-maksimalizacii-onlajn-obrabatyvaemosti/"><u>Топ-Рейтинговые SEO-Агентства В Атланте Для Максимализации Онлайн Обрабатываемости</u></a></li>
 </ul></div>
 

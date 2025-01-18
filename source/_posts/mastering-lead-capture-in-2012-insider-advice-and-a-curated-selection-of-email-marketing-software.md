@@ -1,7 +1,7 @@
 ---
 title: Mastering Lead Capture in 2012 - Insider Advice and a Curated Selection of Email Marketing Software
-date: 2025-01-08T17:01:36.189Z
-updated: 2025-01-12T05:39:31.624Z
+date: 2025-01-16T22:43:24.301Z
+updated: 2025-01-17T17:27:36.172Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s engaging
@@ -47,6 +47,10 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -66,10 +70,6 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -79,7 +79,7 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
@@ -87,7 +87,7 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
@@ -98,12 +98,16 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
@@ -126,10 +130,6 @@ Written by:
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Emily Bronte
 
  Back to blog
@@ -149,21 +149,17 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-extraordinary.techidaily.com/effortless-sd-card-duplication-for-windows-11-users-a-5-stage-process/"><u>Effortless SD Card Duplication for Windows 11 Users - A 5-Stage Process</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-windows-store-cache-issues-a-comprehensive-guide/"><u>Fixing Windows Store Cache Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/haifas-premier-search-engine-optimization-experts-enhance-your-digital-footprint-through-advanced-seo-strategies/"><u>Haifa's Premier Search Engine Optimization Experts: Enhance Your Digital Footprint Through Advanced SEO Strategies</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-xiaomi-14mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Xiaomi 14Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Infinix Smart 8? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-y55s-5g-2023-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Vivo Y55s 5G (2023) to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-7-tools-for-3d-animators-creation/"><u>In 2024, Top 7 Tools for 3D Animator's Creation</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/leading-seo-firms-in-dallas-boosting-web-presence-insights-into-seo-powersuite/"><u>Leading SEO Firms in Dallas Boosting Web Presence - Insights Into SEO PowerSuite</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/one-stop-resource-for-apple-devices-detailed-manuals-specs-and-fixes-at-your-fingertps/"><u>One-Stop Resource for Apple Devices: Detailed Manuals, Specs and Fixes at Your Fingertps</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-for-creating-gmail-forwarding-aliases/"><u>Step-by-Step Tutorial for Creating Gmail Forwarding Aliases</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/ultimate-guide-mastering-the-dxtrade-copy-trading-feature-in-metatrader-4/"><u>Ultimate Guide: Mastering the DXtrade Copy Trading Feature in MetaTrader 4</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/understanding-click-path-a-comprehensive-guide-on-definitions-and-seo-optimization-strategies/"><u>Understanding Click Path: A Comprehensive Guide on Definitions and SEO Optimization Strategies</u></a></li>
-<li><a href="https://video-capture.techidaily.com/unveiling-the-leading-6-mac-video-grabber-apps-for-2024/"><u>Unveiling the Leading 6 Mac Video Grabber Apps for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/what-is-concealed-content-defining-it-for-better-seo-performance-with-practical-insights/"><u>What Is Concealed Content? Defining It for Better SEO Performance with Practical Insights</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Realme 11 Pro+? | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/povyshenie-vidimosti-sajta-s-pomoshyu-luchshih-seo-kompanij-v-ankare-turciya-predlozheniya-2024-goda-powerseo-solutions/"><u>Повышение Видимости Сайта С Помощью Лучших SEO-Компаний В Анкаре, Турция – Предложения 2024 Года | PowerSEO Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-blurry-to-crystal-clear-the-ultimate-guide-to-vce-22/"><u>[New] From Blurry to Crystal Clear The Ultimate Guide to VCE 2.2</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1-2-methoden-windows-11-installation-fehlgeschlagen-oder-aktualisierung-verhindert/"><u>1. [2 Methoden] Windows 11 Installation Fehlgeschlagen Oder Aktualisierung Verhindert</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-utilizing-b-footage-an-essential-filmmaking-skill/"><u>2024 Approved Utilizing B-Footage An Essential Filmmaking Skill</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/binge-and-float-navigating-the-pip-functionality-for-seamless-watching-for-2024/"><u>Binge & Float Navigating the PIP Functionality for Seamless Watching for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-oppo-a1x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-loop-youtube-videos-on-tv-for-2024/"><u>How to Loop YouTube Videos on TV for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Simulate GPS Movement in AR games On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-asus-rog-phone-7-ultimate-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Asus ROG Phone 7 Ultimate Devices</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-seo-firms-in-oslo-premium-search-engine-optimization-services-norway/"><u>Top SEO Firms in Oslo - Premium Search Engine Optimization Services Norway</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/unveiling-black-hat-seo-an-overview-of-strategies-impact-on-rankings-and-associated-dangers/"><u>Unveiling Black Hat SEO: An Overview of Strategies, Impact on Rankings & Associated Dangers</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/zeitgesteuerte-datenwiederherstellung-durch-synctoy-auf-dem-betriebssystem-windows-10/"><u>Zeitgesteuerte Datenwiederherstellung Durch SyncToy Auf Dem Betriebssystem Windows 10</u></a></li>
 </ul></div>
 
