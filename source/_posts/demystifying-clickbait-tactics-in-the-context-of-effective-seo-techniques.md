@@ -1,7 +1,7 @@
 ---
 title: Demystifying Clickbait Tactics in the Context of Effective SEO Techniques
-date: 2025-01-10T22:14:02.049Z
-updated: 2025-01-17T19:05:42.630Z
+date: 2025-01-22T17:45:38.785Z
+updated: 2025-01-24T00:29:39.726Z
 tags:
   - wiki
 categories:
@@ -15,10 +15,6 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Clickbait
 
@@ -50,6 +46,10 @@ Quite frequently, clickbait may also be used by internet fraudsters, who resort 
 
 “Clickbait” is a compound of two terms, and as the Urban Dictionary puts it, clickbait literally means “bait for clicks”[\[1\]](https://tools.techidaily.com/link-assistant/products/). The term’s construction bears resemblance to “fish bait” - a common fishing term describing the fish hook that is disguised by an enticement and thus made attractive for fish to swallow.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How does clickbait work?
 
 Clickbait takes advantage of a well-known psychological phenomenon, the so-called “curiosity gap”, which explains that we, as humans, always experience an urge to discover all the missing pieces of information. 
@@ -57,7 +57,7 @@ Clickbait takes advantage of a well-known psychological phenomenon, the so-calle
 With clickbait, the idea is that you’re only given fragments of information. This causes your curiosity to arise, forming the urgent need to click the link and thus “retrieve the missing pieces”. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Examples of clickbait
@@ -70,23 +70,23 @@ Here, HaffPost is clearly exploiting our curiosity gap by making only part of th
 
 ![clickbait on youtube](https://cdn1.link-assistant.com/thumbs/w1185-c1/upload/seowiki/posts/35/c2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Another schoolbook example of clickbait is this top right-corner ad. A famous brand has “done this again” - the phrase clearly hinting at some misdo or, on the contrary, at a huge success on behalf of Cadillac. But we have no way to learn what the article is about without clicking the link. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What’s a typical clickbait structure?
 
 In most cases, all clickbait headlines follow a similar structure and rely on the same tactics. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Shorter words
 
 The idea here is that shorter words are easier to read and understand and thus capture our attention more effectively.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Over-promises
 
@@ -96,6 +96,10 @@ The go-to phrases for a clickbait writer are “You won’t believe” or “Try
 
 Clickbait often tries to leave you on a cliffhanger - mentioning events without naming them directly (like “She did THIS to lose weight in one week”), thus creating a burning need to continue reading.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Unusual punctuation
 
 Multiple questions or exclamation marks stand out among the rest of your newsfeed items, attract attention and create a sense of importance. 
@@ -104,16 +108,12 @@ Multiple questions or exclamation marks stand out among the rest of your newsfee
 
 Whatever you come across in a clickbait headline is likely to be shocking, astonishing, sensational, the best, the easiest, or the quickest. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Internet slang abbreviations
 
 OMG, WOW, or LOL are other means of catching the eye and grabbing our attention
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does clickbait work?
@@ -145,18 +145,21 @@ Google, in its turn, has recently launched the so-called “Helpful content” a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-a-complete-list-where-to-find-high-quality-music-files/"><u>[New] 2024 Approved A Complete List Where to Find High-Quality Music Files</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-achieve-seamless-video-playback-by-removing-bars-in-youtube/"><u>[New] 2024 Approved Achieve Seamless Video Playback by Removing Bars in YouTube</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-prime-fb-video-snatcher-and-upgrades-for-firefox/"><u>[Updated] 2024 Approved Prime FB Video Snatcher & Upgrades for FireFox</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-from-ideas-to-influence-an-insider-look-at-strategic-instagram-videos-for-2024/"><u>[Updated] From Ideas to Influence An Insider Look at Strategic Instagram Videos for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-step-by-step-guide-to-attending-live-showcases-on-tiktok/"><u>[Updated] Step-by-Step Guide to Attending Live Showcases on TikTok</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/discovering-jonna-author-of-award-winning-literary-works-and-more/"><u>Discovering Jonna: Author of Award-Winning Literary Works and More!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-return-your-lenovo-device-to-factory-conditions-an-easy-to-follow-guide/"><u>How to Return Your Lenovo Device to Factory Conditions - An Easy-to-Follow Guide</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-apple-iphone-13-pro-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track WhatsApp Messages on Apple iPhone 13 Pro Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/leading-seo-firms-in-kuwait-metropolis-elite-search-optimization-solutions-for-2-the-year-2024/"><u>Leading SEO Firms in Kuwait Metropolis - Elite Search Optimization Solutions for 2 the Year 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-enrollment-process-for-chatgpt-updates/"><u>Mastering the Enrollment Process for ChatGPT Updates</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/quick-fixes-for-error-0x80070003-complete-troubleshooting-steps/"><u>Quick Fixes for Error 0X80070003 - Complete Troubleshooting Steps</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-xiaomi-13-ultra-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Xiaomi 13 Ultra Device</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728483761643-hdd-3/"><u>データが消えてしまった時、HDDでもスパーク!? 3つの方法で無料に戻す秘訣を学ぶ。</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unlock-facebook-popularity-discover-best-apps-from-androidiphone/"><u>[New] In 2024, Unlock Facebook Popularity Discover Best Apps From Android/iPhone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-maccam-easy-webcam-recordings/"><u>[Updated] Mastering MacCam Easy Webcam Recordings</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/44cm44k744kt44ol44oq44og44kj5qmf6io95lin5rs75ocn5yyw5b6m44gu6lplus95yqg5a6j5ywo5aplusplus562w44cn/"><u>「セキュリティ機能不活性化後の追加安全対策」</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-zte-blade-a73-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your ZTE Blade A73 5G</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/all-inclusive-roadmap-navigating-through-successful-seagate-hardware-rescue-techniques/"><u>All-Inclusive Roadmap: Navigating Through Successful Seagate Hardware Rescue Techniques</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/bantu-di-temukan-modifikasi-undi-yakin-ganti-foto-terkam-yang-gelahdi-dalam-windows-10/"><u>Bantu Di Temukan Modifikasi Undi Yakin Ganti Foto Terkam Yang Gelahdi Dalam Windows 10</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-lenovo-x1-carbon-drivers-download-manual-for-windows-10-and-ebootable-in-windows-7/"><u>Latest Lenovo X1 Carbon Drivers - Download Manual for Windows 10 & Ebootable in Windows 7</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/leading-leeds-seo-firms-enhance-your-digital-visibility-with-expert-strategies-powerseo-pro/"><u>Leading Leeds SEO Firms: Enhance Your Digital Visibility with Expert Strategies | PowerSEO Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/screen-guards-protect-your-device-capture-better-for-2024/"><u>Screen Guards Protect Your Device, Capture Better for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/smart-choices-in-economical-sms-providers-insights-from-massmail-expertise/"><u>Smart Choices in Economical SMS Providers: Insights From MassMail Expertise</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-best-action-hats-motorcycle-cameras-reviewed-and-ranked-for-2024/"><u>The Best Action Hats Motorcycle Cameras Reviewed and Ranked for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-compilation-budget-friendly-editing-tools-for-2024/"><u>The Ultimate Compilation Budget-Friendly Editing Tools for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/top-3-meilleurs-utilitaires-de-sauvegarde-gratuits-pour-windows-11-un-guide-complet/"><u>Top 3 Meilleurs Utilitaires De Sauvegarde Gratuits Pour Windows 11 : Un Guide Complet</u></a></li>
+<li><a href="https://article-tips.techidaily.com/top-5-macos-safari-video-conversion-apps/"><u>Top 5 macOS Safari Video Conversion Apps</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/understanding-deep-links-comprehensive-guide-and-seo-strategies-for-enhanced-website-authority/"><u>Understanding Deep Links: Comprehensive Guide & SEO Strategies for Enhanced Website Authority</u></a></li>
 </ul></div>
 

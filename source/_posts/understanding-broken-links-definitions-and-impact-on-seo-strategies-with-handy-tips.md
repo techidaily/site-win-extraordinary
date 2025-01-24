@@ -1,7 +1,7 @@
 ---
 title: "Understanding Broken Links: Definitions and Impact on SEO Strategies with Handy Tips"
-date: 2025-01-16T21:31:45.633Z
-updated: 2025-01-18T00:02:55.604Z
+date: 2025-01-17T04:00:44.738Z
+updated: 2025-01-23T22:30:49.955Z
 tags:
   - wiki
 categories:
@@ -17,7 +17,7 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Broken link
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 
 A broken link is a link to a page that does not work. When a user or a search engine crawler follows such link, they see an error message or a 404 (not found) page. Another popular definition for broken links is dead links. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why broken links appear
 
 Broken links appear because of a variety of reasons:
@@ -52,7 +56,7 @@ Broken links appear because of a variety of reasons:
 * A page has restricted access (password protection, firewall, etc.).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Examples of broken links
@@ -72,25 +76,25 @@ When users follow a link that is broken, they may not necessarily see a **404 (n
 
 Broken links themselves do not directly affect your performance in search. Still, they negatively affect both the page they are placed on and the page they link to.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Outgoing broken links
 
 Broken links harm user experience and increase bounce rate, which will surely affect your site traffic. Besides, broken links result in incomplete content, as users cannot access the information they may need. What’s more, Google Quality Rater Guidelines say[\[2\]](https://tools.techidaily.com/link-assistant/products/) that Google watches the number of broken links to determine if the site is spammy or was abandoned. And if yes, Google may start deindexing the site.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Incoming broken links
 
 Broken links do not pass link juice, so the page where the link points to will not receive value and page strength. Plus, a page where a broken link points to may not be indexed at all if no other links point to it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixing broken links
 
 Broken links should be fixed anyway to prevent link juice drainage and poor user experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Broken links with 4xx status codes
 
@@ -103,10 +107,6 @@ If a link is broken because of server issues, then it is the server that needs f
 ### Setting up a custom 404 page
 
 Sometimes a page is moved without any alternative. In this case, you should not redirect users to your homepage but set up a custom 404 page. It should include some navigation links that may be interesting for users. Custom 404s are not indexed by Google and are needed to keep users on your site and decrease bounce rate.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Related links
 
@@ -133,18 +133,21 @@ Sometimes a page is moved without any alternative. In this case, you should not 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-find-your-perfect-match-gear-vr-compatible-phones-2023-for-2024/"><u>[New] Find Your Perfect Match Gear VR-Compatible Phones 2023 for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flipping-currencies-through-cosmetics-content/"><u>[New] In 2024, Flipping Currencies Through Cosmetics Content</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-composing-captivating-cinematic-synopses/"><u>[Updated] In 2024, Composing Captivating Cinematic Synopses</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728499333349-aomei/"><u>「AOMEI 微信恢復工具：真的能靠得住嗎？」</u></a></li>
-<li><a href="https://win-premium.techidaily.com/1728505941219-usb/"><u>簡單指南：如何透過電腦通過USB光碟來下載歌曲</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/5asw6yoo44oj44op44kk44ow44gu5yid5pyf5yyw5a6m5lqgic0g6yen6kab44oh44o844k5b6p5pen5oml6acg44ks44kk44oj/"><u>外部ドライブの初期化完了 - 重要データ復旧手順ガイド</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/efficient-installeer-windows-11-op-een-nieuw-ssd-2-methodes/"><u>Efficiënt Installeer Windows 11 Op Een Nieuw SSD - 2 Methodes</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/einfach-sicheres-sicherungsverfahren-fur-outlook-nachrichten-funf-einfache-methoden/"><u>Einfach Sicheres Sicherungsverfahren Für Outlook-Nachrichten: Fünf Einfache Methoden</u></a></li>
-<li><a href="https://fox-links.techidaily.com/mastering-movements-intova-xs-video-excellence-for-2024/"><u>Mastering Movements Intova X's Video Excellence for 2024</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/trouble-finding-your-samsung-tevo-solve-the-undetectable-ssd-puzzle-on-windows-10-systems/"><u>Trouble Finding Your Samsung tEVO? Solve the Undetectable SSD Puzzle on Windows 10 Systems</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitch-out-streaming-twitters-hd-visuals-seamlessly-for-2024/"><u>Twitch Out Streaming Twitter's HD Visuals Seamlessly for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/eling-the-selection-process-for-highlighted-youtube-comments/"><u>Unraveling the Selection Process for Highlighted YouTube Comments</u></a></li>
-<li><a href="https://win-answers.techidaily.com/windowsbdmv/"><u>WindowsのBDMVファイル無料再生ガイド</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-restore-noise-to-silent-twitter-video-posts/"><u>[New] Restore Noise to Silent Twitter Video Posts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-efficient-methods-to-master-your-phone-memos/"><u>[Updated] 2024 Approved Efficient Methods to Master Your Phone Memos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-jest-jamboree-utilizing-comic-tools-for-free/"><u>[Updated] Jest Jamboree Utilizing Comic Tools for Free</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-taking-control-youtube-visibility-personalization/"><u>2024 Approved Taking Control YouTube Visibility Personalization</u></a></li>
+<li><a href="https://win-superb.techidaily.com/4-easy-methods-for-moving-your-pdf-files-from-computer-to-ios-device/"><u>4 Easy Methods for Moving Your PDF Files From Computer to iOS Device</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/choisissez-entre-systeme-image-et-lecteur-recuperation-le-comparatif-ideal-pour-votre-decision/"><u>Choisissez Entre Système Image Et Lecteur Récupération - Le Comparatif Idéal Pour Votre Décision</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/fix-facebook-media-failure-on-devices/"><u>Fix Facebook Media Failure on Devices</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/how-to-fix-the-error-of-creating-a-system-restore-point-on-windows-10-and-11/"><u>How to Fix the Error of Creating a System Restore Point on Windows 10 and 11</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/how-to-seamlessly-resize-and-clone-ssds-in-windows-1011-for-expansion/"><u>How to Seamlessly Resize and Clone SSDs in Windows 10/11 for Expansion</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-premier-collection-of-popular-mobile-alert-melodies/"><u>In 2024, Premier Collection of Popular Mobile Alert Melodies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-manual-implementing-speech-to-text-with-google-docs/"><u>In 2024, Step-by-Step Manual Implementing Speech to Text with Google Docs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/refine-your-recordings-the-art-of-sound-reduction-for-2024/"><u>Refine Your Recordings The Art of Sound Reduction for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/seamless-file-sharing-understanding-how-pc-content-moves-to-the-cloud-with-onedrives-auto-sync-feature/"><u>Seamless File Sharing: Understanding How PC Content Moves to the Cloud with OneDrive's Auto-Sync Feature</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/simple-guide-effortless-music-transfer-to-your-iphone/"><u>Simple Guide: Effortless Music Transfer to Your iPhone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/unlocking-windows-11-secrets-the-ultimate-technique-for-boot-device-replication-success/"><u>Unlocking Windows 11 Secrets: The Ultimate Technique for Boot Device Replication Success</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/hdd-6/"><u>マウントされていない外部HDDへのファイル転送失敗: 解消するための6つのスピーディ簡単修正手順</u></a></li>
 </ul></div>
 
