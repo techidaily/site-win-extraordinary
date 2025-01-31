@@ -1,7 +1,7 @@
 ---
 title: Understanding User Agents - Comprehensive Guide with Top Browser Definitions
-date: 2025-01-19T00:01:32.793Z
-updated: 2025-01-24T02:53:42.957Z
+date: 2025-01-25T19:08:38.084Z
+updated: 2025-01-31T17:05:36.145Z
 tags:
   - wiki
 categories:
@@ -17,10 +17,14 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## User agent
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Contents
 
@@ -41,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
 A user agent is a string of text that is sent by a web browser to a web server to identify itself and provide information about the browser's capabilities. The User Agent string can include information such as the browser type and version, the operating system, and the device type.[\[1\]](https://tools.techidaily.com/link-assistant/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is User Agent used for?
 
 Web servers use the User Agent string to determine how to serve content to the browser. For example, a web server may use the information provided in the user agent string to serve a different version of a website to a mobile device than it would to a desktop computer.
@@ -55,10 +63,6 @@ with the free LinkAssistant tool
 
 ![](https://cdn1.link-assistant.com/news/images/product-download-banner/glow.svg) ![](https://cdn1.link-assistant.com/news/images/product-download-banner/glow-mobile.svg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 When a web browser makes a request to a web server (for example, to load a web page), it sends an HTTP request message to the server. This message includes an HTTP header, which contains a variety of information about the request. One of the pieces of information in the HTTP header is the user agent string.
 
 Here is an example of an HTTP request message with the user agent string in the HTTP header:
@@ -70,10 +74,6 @@ User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 In this example, the user agent string is _Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36_.
 
 The web server receives the HTTP request message and reads the HTTP header, including the user agent string. It can then use this information to determine how to serve content to the browser.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Types of User Agents
 
@@ -90,10 +90,6 @@ There are many different types of User Agents, including:
 ![user agent settings in Rank Tracker](https://cdn1.link-assistant.com/thumbs/w929-c1/upload/seowiki/posts/129/ua1.png)  
 [Download Rank Tracker](https://tools.techidaily.com/link-assistant/products/)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The image above shows how you can set up custom user agents to control rank tracking in the [Rank Tracker](https://tools.techidaily.com/link-assistant/products/) tool[\[3\]](https://tools.techidaily.com/link-assistant/products/).
 
 Set up custom user agents for rank tracking
@@ -105,7 +101,7 @@ with the free Rank Tracker tool
 ![](https://cdn1.link-assistant.com/news/images/product-download-banner/glow.svg) ![](https://cdn1.link-assistant.com/news/images/product-download-banner/glow-mobile.svg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to find my User Agent in any browser: Chrome, Firefox, Edge?
@@ -120,6 +116,10 @@ Remember, it’s generally not recommended to use user agent to detect the brows
 
 Please note that it’s possible to change or “fake” what your web browser sends as its User Agent. Some browsers let you change this setting, affecting what’s known as “Mobile Mode” or "Desktop Mode". However, changing your user agent should be done with caution as it can affect how websites are displayed and function.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to switch my User Agent in any browser: Chrome, Firefox, Edge, Safari?
 
 You can easily change and fake your browser’s user agent in a few steps. Here’s how you can do it for different browsers:
@@ -131,20 +131,12 @@ You can easily change and fake your browser’s user agent in a few steps. Here�
 3. Uncheck the _Select Automatically_ checkbox.
 4. Choose one from the built-in User-Agents list or enter any string you want in the field below the list.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **How to switch user agent in Mozilla Firefox**
 
 1. Type about:config into Firefox’s address bar and press Enter.
 2. Right-click on the about:config page, point to _New_, and select _String_.
 3. Name the preference general.useragent.override.
 4. Enter your desired user agent as the value of the preference.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **How to change user agent in Safari**
 
@@ -154,13 +146,13 @@ You can easily change and fake your browser’s user agent in a few steps. Here�
 
 Please note that changing your user agent should be done with caution as it can affect how websites are displayed and function. Also, these settings are temporary and only apply while you have the Developer Tools pane open, and it only applies to the current tab.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## List of User Agents for desktop browsers (Chrome, Mozilla Firefox, Edge, Safari) and mobile devices (Apple, Android)
 
 Here are some examples of user agents for different devices and browsers:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Desktop Browsers**
 
@@ -205,6 +197,10 @@ You can find more information on how different browsers deal with user agents on
 * List of [Mozilla Firefox](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/User-Agent/Firefox) user agent strings
 * List of [Microsoft Edge](https://learn.microsoft.com/en-us/microsoft-edge/web-platform/user-agent-guidance#user-agent-strings) user agent strings
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Importance
 
 User agents play a crucial role in the way the World Wide Web functions, as they enable users to access and interact with online content and services. Some of the key benefits and importance of user agents include:
@@ -220,6 +216,10 @@ Overall, user agents are an essential component of the web ecosystem, enabling u
 ## Related links about User Agent
 
 [How Google Crawler Works: SEO Starter-Pack Guide](https://tools.techidaily.com/link-assistant/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## References
 
@@ -240,15 +240,14 @@ Overall, user agents are an essential component of the web ecosystem, enabling u
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-unbeatable-upvotes-reddits-hottest-threads-from-history/"><u>[New] Unbeatable Upvotes Reddit's Hottest Threads From History</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-integrating-social-video-platforms-with-hdtv/"><u>[Updated] Integrating Social Video Platforms with HDTV</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-no-software-required-youtube-file-retrieval/"><u>[Updated] No Software Required YouTube File Retrieval</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/fototransfer-vom-iphone-14-zu-pc-unter-windows-schnell-und-einfach-erklart-fur-windows-1011-nutzer/"><u>Fototransfer Vom iPhone 14 Zu PC Unter Windows: Schnell Und Einfach Erklärt Für Windows 10/11 Nutzer</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-is-vn-video-editor-pro-worth-the-download-an-in-depth-look/"><u>In 2024, Is VN Video Editor Pro Worth the Download? An In-Depth Look</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-realme-narzo-60-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Realme Narzo 60 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-the-gobi-fatal-error-in-ubisofts-back-cu-blood-a-guide-for-unreal-engine-4-players/"><u>Resolving the Gobi Fatal Error in Ubisoft's Back Cu Blood: A Guide for Unreal Engine 4 Players</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/synchronisation-lokaler-dokumente-auf-nas-erfolgreich-mit-frei-verfugbaren-tools-und-schritten/"><u>Synchronisation Lokaler Dokumente Auf NAS - Erfolgreich Mit Frei Verfügbaren Tools Und Schritten</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/trouble-removing-mcafee-antivirus-software-learn-the-full-and-effective-way-to-disable-it/"><u>Trouble Removing McAfee Antivirus Software? Learn the Full and Effective Way to Disable It</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/1728480910872-windows-10-64/"><u>Windows 10 64ビット磁気ディスクのコピーに役立つ無料クローンツール使用法</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-streamline-your-browsing-eliminate-youtube-ads-in-chrome-firefox-ios/"><u>[New] 2024 Approved Streamline Your Browsing Eliminate YouTube Ads in Chrome, Firefox, iOS</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-essential-6-social-platforms-for-enterprises/"><u>[New] In 2024, Essential 6 Social Platforms for Enterprises</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/boost-your-business-effective-strategies-for-enhancing-conversions-with-email-marketing-via-massmail/"><u>Boost Your Business: Effective Strategies for Enhancing Conversions with Email Marketing via MassMail</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-the-power-of-the-new-imac-a-detailed-analysis-of-its-beautiful-upgrades-and-game-changing-m1-chip/"><u>Experience the Power of the New iMac: A Detailed Analysis of Its Beautiful Upgrades and Game-Changing M1 Chip</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/grundlegender-leitfaden-zum-formatieren-von-usb-als-bootfahiges-gerat-mit-rufus-unter-windows-11/"><u>Grundlegender Leitfaden Zum Formatieren Von USB Als Bootfähiges Gerät Mit Rufus Unter Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/mastering-your-sites-base-folder-a-guide-to-roots-meanings-and-top-seo-techniques-unlocking-seo-powersuite-secrets/"><u>Mastering Your Site's Base Folder - A Guide to Roots, Meanings & Top SEO Techniques | Unlocking SEO PowerSuite Secrets</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/maximizing-conversions-expert-advice-for-turning-email-sign-ups-into-profitable-sales-using-massmail-techniques/"><u>Maximizing Conversions: Expert Advice for Turning Email Sign-Ups Into Profitable Sales Using Massmail Techniques</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-to-address-rpc-server-connection-failures-in-windows/"><u>Step-by-Step Solutions to Address RPC Server Connection Failures in Windows</u></a></li>
 </ul></div>
 
