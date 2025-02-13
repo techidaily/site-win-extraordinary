@@ -1,7 +1,7 @@
 ---
 title: "Understanding Broken Links: Definitions and Impact on SEO Strategies with Handy Tips"
-date: 2025-01-29T16:24:32.754Z
-updated: 2025-01-31T19:51:17.396Z
+date: 2025-02-08T06:49:50.883Z
+updated: 2025-02-12T17:53:39.481Z
 tags:
   - wiki
 categories:
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 >
 
 ## Broken link
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Contents
 
@@ -51,6 +47,10 @@ Broken links appear because of a variety of reasons:
 * A link points to the content (a PDF, video, Google Docs file, etc.) that is no longer available;
 * A page has restricted access (password protection, firewall, etc.).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Examples of broken links
 
 When users follow a link that is broken, they may not necessarily see a **404 (not found)**[\[1\]](https://tools.techidaily.com/link-assistant/products/) response code. Here are a couple of other status codes that also signalize that a link is broken:
@@ -63,30 +63,30 @@ When users follow a link that is broken, they may not necessarily see a **404 (n
 * **502 (bad gateway)**. A server received an invalid response because it was crushed;
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * **Reset**. A server dropped connections because it was misconfigured or too busy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Broken links’ meaning for SEO
 
 Broken links themselves do not directly affect your performance in search. Still, they negatively affect both the page they are placed on and the page they link to.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Outgoing broken links
 
 Broken links harm user experience and increase bounce rate, which will surely affect your site traffic. Besides, broken links result in incomplete content, as users cannot access the information they may need. What’s more, Google Quality Rater Guidelines say[\[2\]](https://tools.techidaily.com/link-assistant/products/) that Google watches the number of broken links to determine if the site is spammy or was abandoned. And if yes, Google may start deindexing the site.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Incoming broken links
 
 Broken links do not pass link juice, so the page where the link points to will not receive value and page strength. Plus, a page where a broken link points to may not be indexed at all if no other links point to it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixing broken links
 
@@ -100,13 +100,13 @@ Most broken links that return 4xx status codes are fixed with the help of correc
 
 If a link is broken because of server issues, then it is the server that needs fixing. Make sure everything is implemented correctly on the server side and ask Google to recrawl pages.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Setting up a custom 404 page
 
 Sometimes a page is moved without any alternative. In this case, you should not redirect users to your homepage but set up a custom 404 page. It should include some navigation links that may be interesting for users. Custom 404s are not indexed by Google and are needed to keep users on your site and decrease bounce rate.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Related links
 
@@ -133,20 +133,18 @@ Sometimes a page is moved without any alternative. In this case, you should not 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fast-forward-features-unveiled-the-editors-guidebook/"><u>2024 Approved Fast-Forward Features Unveiled The Editor's Guidebook</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-streamlined-teaching-mastering-lecture-capture-on-mac-systems/"><u>2024 Approved Streamlined Teaching Mastering Lecture Capture on Mac Systems</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-art-of-selling-through-influence-5-key-strategies-on-instagram/"><u>2024 Approved The Art of Selling Through Influence 5 Key Strategies on Instagram</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-tecno-spark-10-4g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Tecno Spark 10 4G Phone When You Forget the Password</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/easy-access-to-team-coco-series-secure-your-favorite-shows-as-mp4-wmv-or-avi-files/"><u>Easy Access to Team Coco Series: Secure Your Favorite Shows as MP4, WMV or AVI Files</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/easy-methods-for-transforming-mirrens-avimov-videos-into-compatible-mp4-and-mp3-formats-across-windows-and-macos-systems/"><u>Easy Methods for Transforming Mirren's AVI/MOV Videos Into Compatible MP4 and MP3 Formats Across Windows & macOS Systems</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/how-to-download-and-convert-ovguide-films-in-various-formats-mp4-avi-mkv-for-pc-and-mac/"><u>How to Download & Convert OVGuide Films in Various Formats (MP4, AVI, MKV) for PC & MAC</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/how-to-extract-online-clips-from-breakcom-for-desktop-viewing/"><u>How to Extract Online Clips From Break.com for Desktop Viewing</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/iqiyi-video-downloader-guide-step-by-step-instructions-for-easy-iqiyi-content-retrieval/"><u>IQIYI Video Downloader Guide: Step-by-Step Instructions for Easy iQIYI Content Retrieval</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-pc-builds-and-upgrades-leading-resources-curated-by-toms-hq/"><u>Mastering PC Builds and Upgrades - Leading Resources Curated by Tom's HQ</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/mp3-downloader-for-purevolume-tracks-effortless-conversion-guide/"><u>MP3 Downloader For PureVolume Tracks: Effortless Conversion Guide</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/quick-guide-how-to-download-songs-and-videos-from-weibo-efficient-media-retrieval-tools/"><u>Quick Guide: How to Download Songs & Videos From Weibo - Efficient Media Retrieval Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-count-issue-on-apple-watch-causes-and-easy-fix-guide/"><u>Step Count Issue on Apple Watch: Causes & Easy Fix Guide</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-looking-for-efficient-ways-to-create-a-slow-motion-video-read-the-article-for-reliable-solutions-that-provide-excellent-results-for-2024/"><u>Updated Looking for Efficient Ways to Create a Slow-Motion Video? Read the Article for Reliable Solutions that Provide Excellent Results for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/winning-the-battle-against-no-record-solutions-for-shadowplay-on-pcs/"><u>Winning the Battle Against No-Record: Solutions for ShadowPlay on PCs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-achieve-peak-performance-with-win11-and-zoom-integration/"><u>[Updated] Achieve Peak Performance with Win11 & Zoom Integration</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-pathway-to-royalty-free-images/"><u>[Updated] Navigating the Pathway to Royalty-Free Images</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-realme-gt-3-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Realme GT 3 Phone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/defining-co-citation-in-seo-context-in-depth-analysis-and-strategic-tips-for-enhanced-ranking/"><u>Defining Co-Citation in SEO Context - In-Depth Analysis and Strategic Tips for Enhanced Ranking</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/defining-preloading-for-websites-in-depth-analysis-plus-proven-seo-techniques/"><u>Defining Preloading for Websites: In-Depth Analysis + Proven SEO Techniques</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-tecno-spark-10c-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Tecno Spark 10C by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-key-to-successful-drone-operation-optimal-lipo-selection/"><u>In 2024, Key to Successful Drone Operation Optimal LiPo Selection</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/navigating-webcam-features-on-apples-macbook/"><u>Navigating Webcam Features on Apple's MacBook</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/recovery-of-displays-setup-saves-on-windows-7-10-heres-how-resolved/"><u>Recovery of Displays Setup Saves on Windows 7-10, Here's How [Resolved]</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/tailored-file-recovery-restore-your-files-selectively/"><u>Tailored File Recovery: Restore Your Files Selectively</u></a></li>
+<li><a href="https://article-tips.techidaily.com/ultimate-film-previews-collection-for-2024/"><u>Ultimate Film Previews Collection for 2024</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/sovremennye-prilozheniya-dlya-effektivnogo-otslezhivaniya-seo-v-2024-rekomendacii-i-sravnenie-optimumseo-suite/"><u>Современные Приложения Для Эффективного Отслеживания Сео В 2024: Рекомендации И Сравнение | OptimumSEO Suite</u></a></li>
 </ul></div>
 

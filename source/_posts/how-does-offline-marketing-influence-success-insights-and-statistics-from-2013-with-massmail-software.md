@@ -1,7 +1,7 @@
 ---
 title: How Does Offline Marketing Influence Success? Insights & Statistics From 2013 with MassMail Software
-date: 2025-01-25T16:22:43.203Z
-updated: 2025-01-31T16:39:50.565Z
+date: 2025-02-07T08:32:40.475Z
+updated: 2025-02-12T23:21:34.312Z
 tags:
   - product
 categories:
@@ -19,16 +19,12 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -52,10 +48,6 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
@@ -63,7 +55,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -90,6 +82,10 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
@@ -99,24 +95,28 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -149,24 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-cutting-edge-5-online-video-capture-applications/"><u>[New] Cutting-Edge 5 Online Video Capture Applications</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-beginners-blueprint-for-viral-video-seo/"><u>[New] In 2024, Beginner's Blueprint for Viral Video SEO</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-11-pros-of-perfect-color-balancing-mastery/"><u>2024 Approved 11 Pros of Perfect Color Balancing Mastery</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-walkthrough-for-flushing-browser-cache-on-different-systems/"><u>Complete Walkthrough for Flushing Browser Cache on Different Systems</u></a></li>
-<li><a href="https://win-great.techidaily.com/enhanced-dj-experience-with-dex-25-and-music-video-integration-on-pc-dj-software/"><u>Enhanced DJ Experience with Dex 2.5 and Music Video Integration on PC-DJ Software</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/harness-canons-power-explore-10-basic-free-luts-and-more/"><u>Harness Canon's Power Explore 10 Basic Free LUTs and More</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/how-to-download-and-convert-ovguide-films-in-various-formats-mp4-avi-mkv-for-pc-and-mac/"><u>How to Download & Convert OVGuide Films in Various Formats (MP4, AVI, MKV) for PC & MAC</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/how-to-extract-online-clips-from-breakcom-for-desktop-viewing/"><u>How to Extract Online Clips From Break.com for Desktop Viewing</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-12-pro-max-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On Apple iPhone 12 Pro Max?</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/iqiyi-video-downloader-guide-step-by-step-instructions-for-easy-iqiyi-content-retrieval/"><u>IQIYI Video Downloader Guide: Step-by-Step Instructions for Easy iQIYI Content Retrieval</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/mp3-downloader-for-purevolume-tracks-effortless-conversion-guide/"><u>MP3 Downloader For PureVolume Tracks: Effortless Conversion Guide</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/quick-guide-how-to-download-songs-and-videos-from-weibo-efficient-media-retrieval-tools/"><u>Quick Guide: How to Download Songs & Videos From Weibo - Efficient Media Retrieval Tools</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/step-by-step-guide-to-downloading-mit-opencourseware-video-lectures-on-macos-and-windows/"><u>Step-by-Step Guide to Downloading MIT OpenCourseWare Video Lectures on macOS & Windows</u></a></li>
-<li><a href="https://facebook.techidaily.com/strategies-for-maximum-fb-exposure/"><u>Strategies for Maximum Fb Exposure</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/stream-to-save-securely-transferring-femcom-content-to-macoswindows/"><u>Stream-to-Save: Securely Transferring Fem.com Content to macOS/Windows</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/synchronizing-your-soundtracks-a-step-by-step-guide-to-embedding-spotify-playlists-on-instagram/"><u>Synchronizing Your Soundtracks: A Step-by-Step Guide to Embedding Spotify Playlists on Instagram</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/ten-download-app-access-free-episodes-from-channel-ten-online/"><u>Ten Download App: Access Free Episodes From Channel Ten Online!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-vivo-y36i-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Vivo Y36i Phone Pattern Lock</u></a></li>
-<li><a href="https://win-dash.techidaily.com/upgrade-to-a-superior-sound-system-now-stealseries-engine-download-for-windows-10/"><u>Upgrade to a Superior Sound System Now! [StealSeries Engine Download for Windows 10]</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-explore-the-premier-video-grabbing-tools-on-windows-10-for-2024/"><u>[New] Explore the Premier Video Grabbing Tools on Windows 10 for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ow-to-disableremove-youtube-shorts-permanently-in-2024/"><u>[New] How to Disable/Remove YouTube Shorts Permanently, In 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-quick-guide-converting-vimeo-footage-to-eye-catching-gifs-for-2024/"><u>[Updated] Quick Guide Converting Vimeo Footage to Eye-Catching GIFs for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-ultimate-windows-videography-toolkit-editors-and-software-review/"><u>2024 Approved Ultimate Windows Videography Toolkit Editors & Software Review</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-viral-jokes-whos-winning-on-the-meme-front/"><u>2024 Approved Viral Jokes Who's Winning on the Meme Front?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/culinary-delights-galore-the-best-of-the-viral-food-tiktok-recipes-you-cant-skip/"><u>Culinary Delights Galore The Best of the Viral Food TikTok Recipes You Can't Skip</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/defining-co-citation-in-seo-context-in-depth-analysis-and-strategic-tips-for-enhanced-ranking/"><u>Defining Co-Citation in SEO Context - In-Depth Analysis and Strategic Tips for Enhanced Ranking</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/effizientes-cloning-von-dell-hdds-auf-solid-state-drives-fur-windows-11-systeme-startreife/"><u>Effizientes Cloning Von Dell HDDs Auf Solid State Drives Für Windows 11 Systeme (Startreife)</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/essential-pre-submission-steps-optimizing-your-articles-for-directory-success-with-massmail/"><u>Essential Pre-Submission Steps: Optimizing Your Articles for Directory Success with MassMail</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/mastering-the-art-of-web-refresh-insights-on-site-rebrands-and-enhancing-seo-performance-with-expert-techniques/"><u>Mastering the Art of Web Refresh: Insights on Site Rebrands & Enhancing SEO Performance with Expert Techniques</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/recuperar-datos-con-aomei-rescue-advanced-pro-facil-restauracion-del-sistema/"><u>Recuperar Datos Con AOMEI Rescue Advanced Pro - Fácil Restauración Del Sistema</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smartphone-market-update-samsung-overcomes-apples-lead-while-rival-closes-the-gap-analyzed/"><u>Smartphone Market Update: Samsung Overcomes Apple's Lead While Rival Closes the Gap - Analyzed</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-restoring-default-sound-controls-on-your-pc-with-windows-tips-from-zdnet/"><u>Step-by-Step Guide: Restoring Default Sound Controls on Your PC with Windows - Tips From ZDNet</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/tailored-file-recovery-restore-your-files-selectively/"><u>Tailored File Recovery: Restore Your Files Selectively</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-speakers-resolve-your-windows-11-audio-glitches-here/"><u>Trouble with Speakers? Resolve Your Windows 11 Audio Glitches Here</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/understanding-www-redirection-a-comprehensive-guide-with-essential-seo-strategies/"><u>Understanding WWW Redirection: A Comprehensive Guide with Essential SEO Strategies</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/sovremennye-prilozheniya-dlya-effektivnogo-otslezhivaniya-seo-v-2024-rekomendacii-i-sravnenie-optimumseo-suite/"><u>Современные Приложения Для Эффективного Отслеживания Сео В 2024: Рекомендации И Сравнение | OptimumSEO Suite</u></a></li>
 </ul></div>
 
